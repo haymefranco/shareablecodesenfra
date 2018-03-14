@@ -1,4 +1,3 @@
-
 .staff-member__image {
     background-size: cover;
     height: 150px;
@@ -15,22 +14,31 @@
 
 
 
-
-
-
 @media (max-width: 555px){
     .logo__link {
         justify-content: unset;
     }
-}    
-@media(max-width:320px){
-    .wrap__container img{
+}
+@media(max-width:1024px){
+    .wrap__container img, logo__image, .wrap--inner img{
         height:auto!important;
         float:none!important;
         width:100%!important;
         margin:unset!important;
     }
-    .wrap__page-content img:not(.leaflet-tile), .wrap__editable img:not(.leaflet-tile), .wrap__editable-content img:not(.leaflet-tile), .staff-member img{
+    .wrap__page-content img:not(.leaflet-tile), .wrap__editable img:not(.leaflet-tile), .wrap__editable-content img:not(.leaflet-tile), .staff-member img, logo__image{
+        max-width:unset!important;
+        width:100%!important;
+    }
+}
+@media(max-width:320px){
+    .wrap__container img, logo__image, .wrap--inner img{
+        height:auto!important;
+        float:none!important;
+        width:100%!important;
+        margin:unset!important;
+    }
+    .wrap__page-content img:not(.leaflet-tile), .wrap__editable img:not(.leaflet-tile), .wrap__editable-content img:not(.leaflet-tile), .staff-member img, logo__image{
         max-width:unset!important;
         width:100%!important;
     }
