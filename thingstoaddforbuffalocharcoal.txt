@@ -1,0 +1,37 @@
+
+.staff-member__image {
+    background-size: cover;
+    height: 150px;
+}
+.wrap__page-content ul, .wrap__page-content ol, .wrap__editable ul, .wrap__editable ol, .wrap__editable-content ul, .wrap__editable-content ol, .staff-member ul, .staff-member ol, .editable ul, .editable ol, .form ul, .form ol {
+    clear: none;
+}
+.staff_home__container, .staff_home__container a, .staff_home__container p{
+    color:rgba(255, 255, 255, 0.9);
+}
+.staff_home__container a:hover{
+    color:#3CC8bc;
+}
+
+
+
+
+
+
+@media (max-width: 555px){
+    .logo__link {
+        justify-content: unset;
+    }
+}    
+@media(max-width:320px){
+    .wrap__container img{
+        height:auto!important;
+        float:none!important;
+        width:100%!important;
+        margin:unset!important;
+    }
+    .wrap__page-content img:not(.leaflet-tile), .wrap__editable img:not(.leaflet-tile), .wrap__editable-content img:not(.leaflet-tile), .staff-member img{
+        max-width:unset!important;
+        width:100%!important;
+    }
+}
