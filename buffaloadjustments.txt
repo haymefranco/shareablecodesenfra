@@ -1,0 +1,23 @@
+/* ADJUSTMENTS TO BUFFALO */
+.wrap__fullwidth--inner .staff{
+    background: unset;
+    box-shadow: unset;
+}
+/* css to buffalo*/
+.staff-member__image {
+    background-size: cover;
+    height: 150px;
+}
+.staff-member__description a{
+    color:inherit!important;
+}
+.staff-member__description a:hover{
+    color:#89e872!important;
+}
+
+/*Buffalo specific only*/
+@media (max-width: 555px){
+    .logo__link {
+        justify-content: unset;
+    }
+}
