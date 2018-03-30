@@ -1,0 +1,3695 @@
+
+ 	 		
+10-13-17
+10:00PM - 12:00AM
+
+ADS | 00386307 | lakelandveterinaryservices.com
+https://na43.salesforce.com/5000G00001I8Hd1
+
+
+
+ADS | 00387493 | downtownedmondschiro.com
+https://na43.salesforce.com/5000G00001I9nMo
+https://admin.imatrixbase.com/icontrol/clients/client_details.php?cid=3922
+
+
+change the skin from 24c to 18c 
+not yet done use stock image 3c instead of the second stock image on the demo
+
+
+================================================================
+10-13-17
+10:00PM - 12:00AM
+
+ADS | 00387512 | quietwatersanimalhospital.com
+https://na43.salesforce.com/5000G00001I9pz3
+https://portal.vetmatrixbase.com/site/dummydummy
+http://my.vetmatrix.com/0007535/site/editor/cms
+
+updated Pages that lacks information needed
+On Progress at New Patient health history form
+
+
+
+================================================================
+10-13-17
+10:00PM - 12:00AM
+
+ADS | 00386044 | 
+https://na43.salesforce.com/5000G00001I9pz3
+https://na43.salesforce.com/5000G00001I81Dl
+
+
+
+Prevous Skin: Skin_20d
+Skin Change: Skin_24A
+- Changed Skin-20d to Skin-24A | Eddited Webpage Module | Emailed to staff.bhc@charter.net
+
+
+================================================================
+10-13-17
+
+ADS | 00387091 | paulghayterod.com
+https://na43.salesforce.com/5000G00001I9pz3
+https://portal.imatrixbase.com/site/maskPortalClient/51939
+http://my.imatrix.com/0007284/site/editor/cms
+
+Case description: 
+We would like to change our website template to Carlsbad Blue. And the crops on the slideshow on the home page are a little off. Thank you for your help.
+
+- Changed Skin from Austin to Carlsbad Blue | Edited minor errors | Finished up and Published to live
+
+
+
+================================================================
+10-13-17
+
+ADS | 00389184 | neelychiropracticandsport.com
+https://na43.salesforce.com/5000G00001IWcv8
+http://my.chiromatrix.com/0008480/site/editor/cms
+http://my.imatrix.com/0007284/site/editor/cms
+
+Case description: 
+Skin change to Atlanta - Blue
+
+- Changed Skin To Atlanta Blue | Edited custom CSS and HTML Modules
+
+
+
+
+================================================================
+10-18-17
+ADS | 00385634 | yanceyeyecenter.com
+https://na43.salesforce.com/5000G00001I7XID
+
+We would like to change the skin of our website to Skin21a please
+~changed skin to 21a | added custom CSS | 
+~ADD MAP ->> 303 Harris Industrial Blvd. Suite 7 Vidalia, GA 30474
+
+
+
+================================================================
+10-19-17
+ADS | 00386194 | northwoodsanimal.com
+https://na43.salesforce.com/5000G00001I8Bft
+
+~ Changed theme from Skin18e to 15g | Backed Up the Original Modules | Reverted back to Skin15g Default modules | Customized modules | Added CSS Filter to Invert 'Northwoods' Logo > base Color from White to Black to compensate the white background of Skin15g | Edited the Original Modules to be applied on the new skin | Corrected Misspelled word "Collage Education" to "College Education" in Employment Opportunities Tab under Custom Content | Added styles to Custom Header CSS Script 
+
+
+
+
+
+================================================================
+2017-10-20
+
+ADS | 00386489 | thebackdoctors.com
+https://na43.salesforce.com/5000G00001I8Xa9
+
+~Changed skin from Skin_14c to Skin_22a | Edited the logo so that the doctor names would be seen | To edit the information on the banner itself, it must be done through Photoshop or other Photo Editor | Please do specify where to remove Dr. Lee Gunther as for he is not seen anymore in any of the pages.
+
+
+
+description:
+We would like to change to skin 22a. In addition some of the information in the banner is not correct, how can I edit that. We need to remove Dr. Lee Gunther as he is no longer with the practice.
+
+
+
+================================================================
+2017-10-24
+
+ADS | 00392264 | naturalhealingpetcare.com
+https://na43.salesforce.com/5000G00001IzFtG
+https://portal.imatrixbase.com/site/maskPortalClient/26809
+http://my.vetmatrix.com/0004924/site/editor/cms
+
+~ Changed the theme from Savannah-green to Irvine-Orange | Added Media Queries for certain Resolutions for the component "Featured Services" Label to be seen under the home page | Hid the navigation button in the home slider through custom CSS
+
+
+
+I spoke with a rep yesterday and we would like our existing site switched to the look of "Irvine" - orange. Please retain our information as it is - and send a preview link before going live. 
+
+
+
+
+
+
+
+================================================================
+2017-10-24
+
+ADS | 00387963 | lakeoptical.com
+https://na43.salesforce.com/5000G00001IVQI6
+https://portal.vetmatrixbase.com/site/maskPortalClient/20110
+http://my.imatrix.com/0009652/site/editor/cms
+
+
+- Migrated the site to Portal
+- Used the theme CARLSBAD/BLUE 
+- Inverted the Logo in the Header to compensate the contrast of the dark background
+- Editing the Pictures in the Slider
+- Hid "form_home" / 'Exclusive Offer' on home page
+- inverted the Logo Color at the Footer to compensate the contrast of the darker background
+- Hid the 'Gallery Photos' in 'Home' as it is not seen on the old website
+- Added the Fancy Box on Contact us email link
+- hid the 'Contact Us' Component and used 'Featured Links instead for 'Contact Us' module was not used on the previous website
+- Added Slider for the Virtual Office tour pictures
+- Added Custom CSS for the Float Right for some of the images
+- Edited the page names
+- Added some information needed under apppointment request form
+
+
+
+
+================================================================
+2017-10-26
+
+WEB ID: 8327
+
+ADS | 00376153 | chiropractorsummervillesc.com
+https://na43.salesforce.com/5000G00001HBsqY
+http://my.chiromatrix.com/0008327/site/editor/cms
+
+
+- Used Laguna Red as for my opinion it fits the colors of the website
+- Added some CSS Scripts for adjustments on the site
+- Migrated the site
+
+
+
+
+I would like to change my theme to one of the following depending on my 
+content and pictures. 
+1)Laguna (Red) 
+2)Savannah (Grey) 
+
+
+
+
+
+
+================================================================
+2017-10-30
+
+ADS | 00385740 | visioncareofmedia.com
+https://na43.salesforce.com/5000G00001I7dWM
+http://my.imatrix.com/0009689/site/editor/cms
+
+
+
+
+
+1. we would also like if we can remove the meet the staff box. Right now 
+we don't have that section, therefore we prefer not to add to that. 
+2. Also, we were wondering if we could make the four boxes right under 
+the feature links the following: Make an Appointment, Contact Us, Contact 
+Lens, and Frames. 
+3. One last thing, we were wondering if we can somehow add the address 
+under our logo and name in the top left corner? 
+
+
+If there is a problem with any of these suggestions please feel free to 
+email us. Thank you for taking the time to help us and have a great day! 
+
+
+- No edits: 1. we would also like if we can remove the meet the staff box. Right now 
+we don't have that section, therefore we prefer not to add to that. 
+- Please indicate on which part of the website that is "Meet the staff box" for it is not seen on the website.
+
+- DONE: 2. Also, we were wondering if we could make the four boxes right under 
+the feature links the following: Make an Appointment, Contact Us, Contact 
+Lens, and Frames.
+- Make the four boxes right under 
+the feature links the following: Make an Appointment, Contact Us =>(contact us form), Contact 
+Lens => (Linked to Contact Lens Exams), and Frames.
+- Fixed page "Eyeglass Frames": hid the categories links.
+- DONE: 3.
+ One last thing, we were wondering if we can somehow add the address 
+under our logo and name in the top left corner? 
+- Added the client address under the logo
+
+
+================================================================
+2017-10-30
+
+ADS | 00386451 | drjeffdc.com
+https://na43.salesforce.com/5000G00001I8UFS
+
+
+
+UNFINISHED
+
+================================================================
+2017-10-30
+
+DONALD | 00396721 | chiropracticalbilling.com
+https://na43.salesforce.com/5000G00001JPVWl
+http://my.chiromatrix.com/0003413/site/editor/cms
+
+
+- DONE: Changed the skin to Atlanta Blue
+- DONE: Locations removed from all pages (HIDDEN). 
+- DONE: Blog Links now added.
+
+NOTES:
+- Added some CSS scripts for the homepage design
+- Fixed the layout designs to match the old website (Hid the Stock components of the new theme)
+- Added header_features component for the "Coming soon webinars" and "request appointment"
+
+
+DESCRIPTION:
+Hello! 
+
+I'm working on completely redoing our website. 
+
+First, I'd like to change our "skin" to "Atlanta" in blue 
+http://gallery.chiromatrix.com/theme/chiromatrix-chiropractic-general-atlanta/?color=atlanta-blue&live-preview=1 
+
+I'd like to have the location removed from all pages. 
+
+I need our blog to have a link that actually takes you to the blog posts. 
+
+That's a great starting place so I can then go in and redo some of the 
+content. How easy are the widgets to turn on an off? Is that something I 
+need to ask you to do or can I do that from the dashboard? 
+Will all our content be carried over to the new skin just fine? 
+
+Also, on our dashboard when you click "Website Analytics" it says "Client 
+Error 500: You don't have active websites" 
+Can we get this fixed? 
+
+
+================================================================
+2017-10-31
+
+JUNIUS | 00376153 | chiropractorsummervillesc.com, chirovillesc.com
+https://na43.salesforce.com/5000G00001HBsqY
+http://my.chiromatrix.com/0008327/site/editor/cms
+
+-fixed Slider #4
+-fixed google rate us link
+-fixed grid gallery
+-fixed request appointment link
+-fixed Read more link on staff slides
+-fixed Exclusive offer label
+-fixed testimonial page to list view
+-fixed Maternity/Pregnancy Chiropractic on services link
+-fixed New Patient health history form
+-fixed what to expect links
+
+
+
+
+
+No
+
+Yes
+
+
+
+
+================================================================
+2017-11-2
+
+
+ADS | 00386451 | drjeffdc.com
+https://na43.salesforce.com/5000G00001I8UFS
+
+
+
+
+
+
+
+
+
+UNFINISHED 
+
+
+
+
+
+
+
+
+
+
+
+=================================================================
+2017-11-2
+
+ADS | 00396576 | mybeaconvet.com
+https://na43.salesforce.com/5000G00001JPCEC
+
+
+CHANGE SKIN
+Current SKIN: Skin_24c
+DONALD updated | Client says they want 18d
+
+Description:
+I would like to change our website skin to the Skin 21c selection under the "veterinary" category. Thanks!
+
+
+
+- Skin Changed from 24c to 21c
+- Edited the Logo Size
+- Skin Changed from 21c to 18d
+
+
+
+
+================================================================
+2017-11-3
+
+ADS | 00396576 | mybeaconvet.com
+https://na43.salesforce.com/5000G00001JPCEC
+
+
+CHANGE SKIN
+Current SKIN: Skin_24c
+DONALD updated | Client says they want 18d
+
+
+
+INCOMPLETE
+CLOSED CASE
+
+
+================================================================
+2017-11-3
+
+
+DONALD | 00398564  | nulifechiro.com
+https://na43.salesforce.com/5000G00001Jiljb
+
+
+DESCRIPTION
+Please change my office hours to 
+
+Monday	10am - 6pm
+Tuesday	10am - 6pm	
+Wednesday Closed 
+Thursday	10am - 6pm	
+Friday	10am - 6pm
+Saturday	By Appt.	
+Sunday	Closed	
+
+{{{{{{{{{{{{{{{{{{BACKUP OFFICE HOURS}}}}}}}}}}}}}}}}}
+		Morning           Afternoon
+Monday: 		9 am  - 12 pm | 3 pm - 7 pm
+Tuesday
+Wednesday 	9 am- 12 pm | 3 pm - 7 pm
+Thursday		9 am- 1 pm
+Friday		9 am- 12 pm | 3 pm - 7 pm
+Saturday		By Appt.
+Sunday		Closed	      | Closed
+
+
+
+================================================================
+2017-11-3
+https://na43.salesforce.com/5000G00001JivfF
+
+DONALD | 00398652 | vetstocatsva.com
+-Remove 2nd Image in the slider
+
+
+
+
+================================================================
+2017-11-3
+
+DONALD | 00398283 | upchiropractic.com
+https://na43.salesforce.com/5000G00001JRWtQ
+
+- DONE: Added the Photo to "Cleanse Events" Tab > DSCF0937(https://upchiropractic.com/clients/18473/images/DSCF0937.jpg)
+- DONE: Photo is Already on the Home Page
+
+
+
+1:
+I am attaching a picture that I would like you to add under our Cleanse
+tab. I would also like you to add it to our home page replacing the Donna
+Raedler testimonial.
+
+Thank you,
+Janna
+
+
+================================================================
+DONALD | 00399233 | sallresearch.com
+
+2017-11-3
+
+- Backed up the photo and information of Dr. Hailey Ho, M.D.
+- DONE: Removed the Photo of Dr. Hailey Ho, M.D.
+
+
+
+
+description:
+VERY IMPORTANT!!
+We need to delete the bio and photo of Dr. Hailey Ho,MD
+The info is located in"About Us" Meet the Physicians.
+Please let me know when this has been done. 
+Thanks,
+Bill Basler
+Sall Research Medical Center
+562-804-1974
+
+================================================================
+DONALD | 00399332 | yostfamilychiropractic.com
+https://na43.salesforce.com/5000G00001JjkcV
+
+
+2017-11-3
+
+- Backed up the Sept-Oct Calendar
+- DONE: Updated Calendar > About Us > Calendar
+
+
+
+
+Description:
+Please update our calendar to the file that is attached. Thank you!
+
+
+
+
+================================================================
+DONALD | 00400122 | anthraciteanimal.com
+https://na43.salesforce.com/5000G00001Jkov9
+
+2017-11-3
+
+- DONE: Backed up the photo: (3rd Slide > Reception)
+- DONE: Changed the 3rd photo(_DSC0952)
+
+
+
+
+
+
+description:
+Can you change slide #3 to this photo?
+================================================================
+DONALD | 00400379 | angelesoptometric.com
+https://na43.salesforce.com/5000G00001Jl1vb
+
+2017-11-3
+
+- DONE: Updated The Video Size
+- DONE: Photoshopped the image to fit exacttly
+
+
+	
+angelesoptometric.com A few things that I would like fixed on the website: 
+1. Make the video screen smaller 
+2. Staff photo is cut off, doesn't show everyone in the picture On Wed, Nov 1, 2017 at 3:39 PM,
+
+
+
+
+================================================================
+
+DONALD | 00400674 | hamanchiro.com
+https://na43.salesforce.com/5000G00001JlWZk
+
+
+
+Would you please add this photo along with the Best Chiropractor logo and link the logo to the site https://threebestrated.ca/chiropractors-in-grande-prairie-ab.
+
+Thank you so much
+
+2017 -11-3
+
+- DONE: Added the photo (Greg_smiling) and linked to the site:https://threebestrated.ca/chiropractors-in-grande-prairie-ab
+
+
+
+
+
+
+================================================================
+
+DONALD | 00400685 | countrysidevetgarnett.com
+https://na43.salesforce.com/5000G00001JlX0l
+
+2017 -11-3
+
+- DONE: Added the photo and Description of Faye Shannon
+
+
+description:
+Please add the attached picture along with the information below under “our Team”:
+
+FAYE SHANNON, KENNEL MANAGER
+Faye joined our team in May, 2017. She has an outgoing personality that brings joy and laughter to those around her. She manages our kennel and lavishes attention on each animal during its “stay-cation.”
+
+
+
+================================================================
+
+DONALD | 00400802 | phoenixvetinternalmedicine.com
+https://na43.salesforce.com/5000G00001JljMQ
+
+2017 -11-6
+
+- Changed the Testimonial Font-size to 26px
+- Removed the Bold font for a better view of the font(cookie).
+
+
+
+We recently added a testimonials page with a request for a certain font. The 
+changes were made, however, the font size is very small and difficult to 
+read. Can it be increased?
+
+
+
+
+
+================================================================
+DONALD | 00417285 | murphy-animal-hospital.com
+https://na43.salesforce.com/5000G00001JloTc
+
+2017 -11-6
+
+- Compressed the image for better file size for websites
+- Updated the Staff
+- Added Kristina Rumble Pic
+- Added Elizabeth Wiley 
+- Added the pics of the two cats, > Dodge and Kirby
+
+
+
+I would like to add some staff pics, please add the attached photos... Kristina Rumble Pic 
+
+Also, please add the Name, tile and photo for Elizabeth. Her title is as follows... Elizabeth Wiley, Doggie Daycare Attendant
+
+Also, please eliminate the backslash in... Richie Camden, Certified Dog Trainer \ Daycare Manager and change it to read... 
+Richie Camden, Certified Dog Trainer & Daycare Manager 
+
+Also, please add these two pics of our clinic cats, Dodge (blonde) and Kirby (grey).
+
+
+================================================================
+
+DONALD | 00386451 | drjeffdc.com
+https://na43.salesforce.com/5000G00001I8UFS
+https://portal.imatrixbase.com/Dashboard
+http://my.chiromatrix.com/0010347/site/editor/cms
+
+
+10347
+
+2017 -11-6
+
+- DONE: Migrated the website
+- DONE: Import all the content
+- EDITED: "Alpha Health Center: Image Text" logo to compensate the dark background of the header
+
+
+
+
+Hello, 
+I have 2 different sites with you so I will separate my requests.  I want new skins on each plus the changes listed below. 
+http://www.drjeffdc.com/new skin= Atlanta brownIlike the videos in the slideshow.Can you use the same text overlay on them that was on old skin?add to the Conditions page the stock image 1u 
+greensboroweightlossnow.comnew skin=Tulsa orangeon New Patient Center page delete pic of blonde lady and replace it with stock pic 3yThe current slide show includes 1i with runners.  Delete it.and replace it with these 3:  3j, 4k, 3t  IF you can not put all 3 in then just use 3j 
+Thank you 
+
+
+ Dr. Jeff W. Lissenden, DC 
+Alpha Health Center 
+3132-A Battleground Ave. 
+Greensboro, NC 27408 
+336-545-7970 
+
+
+The information contained in this e-mail message may be doctor/patient privileged and confidential information intended only for the use of the individual or entity named above. Any reader of this message who is not the intended recipient is hereby notified that any dissemination, distribution, or copy of this communication is strictly prohibited. If you have received this communication in error, you are asked not to read the content contained herein. Please notify us immediately at the above number and destroy this message. Thank you.
+
+
+================================================================
+
+ADS | 00389107 | newlifefamilychiro.org
+https://na43.salesforce.com/5000G00001IWTjh
+http://my.chiromatrix.com/0010512/site/editor/cms
+00389107
+
+10512
+
+2017-11-8
+
+- DONE: Migrated the website
+- DONE: Update theme to: Baltimore - Blue 
+- ADDED CSS Script for some Detail Adjustments
+- DONE: Uploaded the New Logo > Changed the background to black to compensate with the new Logo
+- DONE: 	2.) Update staff images (attached below) 
+	3.) Update staff bios 
+- DONE: 	4.) change the "Exclusive Offer" section to "make an appointment" button
+
+
+
+
+
+
+
+1.) Update theme to: Baltimore - Blue 
+2.) Update staff images (attached below) 
+3.) Update staff bios (below): 
+
+Jamie Rohr- Jamie joined our team in 2017 as the back-desk chiropractic 
+assistant. A Decatur, AL native with an athletic background, she 
+understands the benefits of regular chiropractic care. Jamie currently has 
+a B.S in business administration that she received from Point University in 
+West point, GA where she also played softball. When she’s not assisting Dr. 
+Browning or talking to patients she is updating our social media sites and 
+working on marketing events. 
+
+Chloe Chancelor- Chloe joined our team in September of 2016 as the 
+front-desk chiropractic assistant. A Mississippi native, she moved to 
+Hartselle, AL in 2013. When she’s not taking care of patients or working on 
+financials in the office she is spending time with her husband and their 2 
+sons. With an active lifestyle and a family that is always on the go, Chloe 
+knows the importance of regular adjustments and has experienced the 
+benefits first-hand. 
+
+4.) change the "Exclusive Offer" section to "make an appointment" button 
+5.) We specialize in family, pregnancy and pediatric chiropractic care and we would like the website pictures to reflect that, no stethoscopes or white coats. Our logo has been updated and I have attached a copy of the new one. 
+
+================================================================
+
+An iMatrix support ticket has been generated 
+name: Jamie Rohr 
+email: newlifefamilychiroal@gmail.com 
+subject: 201 
+company: newlifefamilychiro.org 
+
+description: 
+We are requesting some website edits. 
+We would like to change the theme to Baltimore in the the color blue. We want to change the "Exclusive Offer" section to "make an appointment" button. 
+We specialize in family, pregnancy and pediatric chiropractic care and we would like the website pictures to reflect that, no stethoscopes or white coats. Our logo has been updated and I have attached a copy of the new one. 
+Thank You!
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+
+
+<meta name="google-site-verification" content="rWOpvIoNt-hDv1frfYlMB8o0OWsSSOq407VD_O1Cuwo" />
+
+<meta name="google-site-verification" content="-VLs05cfmHp2c3iHosYtdl54ToxuVaUstpskkB492K0" />
+
+
+
+
+
+<!--HTML-->
+<span>
+<div class="addheader client_address">
+<div class="second-phone">
+<span style="color:#FFF;">CALL US TODAY!!</span><br/>
+<span href="tel:865.588.1755" style="color:#7FE872; text-align: right;">Lakewood: 562-630-2020</span><br />
+<span href="tel:865.588.1755" style="color:#7FE872; text-align: right;">Del Amo: 562-420-2055</span>
+</div>
+</div>
+
+<style>
+header {
+    padding: 20px !important;
+}
+
+header .header-connect .addheader {
+
+margin:auto;
+}
+
+header .header-connect .client_address a {
+
+display:none;
+
+
+}
+
+header .header-connect .client_address p {
+
+display:none;
+
+}
+
+header .header-connect {
+ 
+    top: 10px;
+
+}
+
+footer .social {
+
+ width: 38.33333%;
+ float: none;
+
+}
+
+
+.office_hours tr:nth-child(odd) {background-color:#eee; } 
+.office_hours tr:nth-child(even) { background-color:#fff; }
+
+.office_hours table tbody tr td {
+    padding: 10px 25px !important;
+}
+
+.custom_content_module_4 .cc_module_content .office_hours table {border: 1px solid #dedede;}
+
+h3 {
+   font-family: arial;
+}
+
+body {
+   font-family: arial !important;
+}
+</style>
+
+
+
+
+================================================================
+2017-11-13
+
+- DONE: Services Link fixed
+- DONE: upload the pdfs
+- DONE: Fixed the link of ONLINE Forms
+- DONE: Fixed Services and techniques
+- DONE: Imported Blog
+- DONE: Fixing all the broken and missing links
+- DONE: Fixing Yellowbot Link
+
+98.158.194.41
+
+https://na43.salesforce.com/5000G00001IWTjh
+
+
+
+
+
+
+
+Our program is called Alpha Weight Loss and we're not like the rest! Other weight loss plans are mostly about cutting calories and exercising more. If this were the best approach, would there still be 60% of us overweight? With our plan, there is minimal exercise required.  We are using some advanced techniques that get tremendous results.
+
+
+
+
+
+
+================================================================
+
+DONALD | 00386451 | drjeffdc.com > greensboroweightlossnow.com
+https://na43.salesforce.com/5000G00001I8UFS
+http://greensboroweightlossnow.com/
+
+2017-11-13
+
+-DONE: Changed to PORTAL
+-Added Custom CSS
+
+
+
+
+
+
+
+
+
+
+
+Tulsa orangeon New Patient Center page delete pic of blonde lady and replace it with stock pic 3yThe current slide show includes 1i with runners.  Delete it.and replace it with these 3:  3j, 4k, 3t  IF you can not put all 3 in then just use 3j
+
+
+
+
+greensboroweightlossnow.com >>>>>
+>>>>
+
+- DONE: ADDED PAGE: Store > istore/0_store.html
+- DONE: ADDED PAGE: "Email Us"
+
+- DONE: ADDED LAYOUT: Store
+
+
+
+
+================================================================
+
+ADS | 00391162 | fackrelleyecare.com
+https://na43.salesforce.com/5000G00001IZ2UM
+http://my.imatrix.com/0010781/site/editor/cms
+
+2017-11-15
+
+DONE: CHANGED THE THEME TO CARLSBAD GREEN
+DONE: INVERTED THE LOGO FROM BLACK TO WHITE
+DONE: ADDED CUSTOM CSS 
+HIDE: Virtual Office Tour replaced the slider
+ADDED: Email Us Page
+ADDED CUSTOM JS for the Video on Exclusive offer (used 
+
+
+
+Carlsbad Green
+
+
+
+
+================================================================
+10844
+
+ADS | 00392321 | theactivechiro.com
+https://na43.salesforce.com/5000G00001IzMsq
+http://my.chiromatrix.com/0010844
+
+Instrument Assisted Soft Tissue Mobilization - IASTM
+
+background-color: #008238;
+
+theactivechiro@gmail.com
+40.8416098
+-73.305199
+
+
+2017-11-17
+
+- DONE: Migrated to Redmond LightBlue (for Redmond Green)
+- ADDED: new page "Email Us" for the email us modal replacement
+- RESIZED: LOGO to 220x114
+- ADDED CSS: Body to background-color: white
+- 6:28 PM Messaged Brandon about Component Error with regards to the Breadcrumbs error: http://my.chiromatrix.com/0010844/testimonials Waited for Brandon's Response
+- REMOVED Free Membership Registration
+- ADDED Hyperlink (Customer Request) shorten it with bit.ly
+- DONE G+ Button link direct to the link provided
+- DONE Added Yelp and direct to the link provided
+
+
+
+description: 
+This is Will in Chiro putting in a skin change for Dr. Ackerman. 
+
+He would like to change to skin Redmond Green 
+
+He would also like his G+ button to link directly to his reviews, the hyperlink is below. 
+https://www.google.com/search?q=chiropractor%20in%20commack%20ny&rlz=1C1JPGB_enUS730US730&oq=chiropractor+in+commack+ny&aqs=chrome..69i57j69i61.17651j0j4&sourceid=chrome&ie=UTF-8&npsic=0&rflfq=1&rlha=0&rllag=40839871,-73295057,962&tbm=lcl&rldimm=6510079632744262682&ved=0ahUKEwjxl9a0-_zWAhUGp5QKHUypCX4QvS4IbDAC&rldoc=1&tbs=lrf:!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2#lrd=0x89e82f9232b532a5:0x5a5872ef213a2c1a,1,,&rlfi=hd:;si:6510079632744262682;mv:!1m3!1d27860.92797808775!2d-73.2810224!3d40.83254575!2m3!1f0!2f0!3f0!3m2!1i444!2i443!4f13.1;tbs:lrf:!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2 
+
+He would also like to add a Yelp button to the website and have it link directly to his reviews as well. The hyperlink is below. 
+https://www.yelp.com/writeareview/biz/Q_yLYXJQv8sUgsb6FWcxTQ?return_url=%2Fbiz%2FQ_yLYXJQv8sUgsb6FWcxTQ
+
+
+
+
+
+
+
+================================================================
+34.140442
+-118.026721
+appointments@mysmartspine.com
+Richard
+Sayegh
+
+
+10899
+
+ADS | 00406706 | mysmartspine.com
+http://mysmartspine.com
+https://na43.salesforce.com/5000G00001KSCa8
+
+Encinitas - Green 
+Message Michelle when completed.
+
+
+
+2017-11-17
+
+- DONE: 
+- ADDED: Email Us Page
+
+
+TO BE CONTINUED
+
+2017-21-17
+
+CANNOT IMPORT WEBSITE REPORTED TO MICHELLE 11:58PM
+
+
+
+
+
+
+
+
+
+
+
+================================================================
+
+http://my.vetmatrix.com/0010907/site/editor/cms
+36.0705338
+-115.0823372
+acathospitalpaw@gmail.com
+Trish
+Auge
+
+
+10907
+
+ADS | 00406837 | acathospital.com
+http://www.acathospital.com/
+https://na43.salesforce.com/5000G00001KST9N
+
+	
+Theme - Atlanta - Same Color Scheme they currently have 
+
+Have Michelle review before setting live
+
+
+
+
+2017-21-17
+
+- DONE: Migrated the website with Theme - Atlanta - Brown
+- HID: Component: "form_home" for it is not seen on the old website
+- HID: Components: "staff_home" for it is not seen on the old website
+- Used Gallery for About us > Pictures
+- Used max-width and max height CSS for Gallery 
+- ADDED 'Review Us' Page "share your experience"
+- ADDED 'Customer Feedback' Page for missing link in "share your experience"
+- HID Component > 'form_contact_body' for it is not seen on the old site
+
+
+DONE FOR QA 
+================================================================
+https://na43.salesforce.com/5000G00001J2LXv
+http://my.chiromatrix.com/0011027/site/editor/cms
+lakewoodlivewell.com
+ADS
+00394738
+
+2017-21-17
+
+
+11027
+
+dramyvermilyea@lakewoodlivewell.com
+
+Amy
+Vermilyea
+
+
+
+
+
+please switch to monterey - blue 
+
+and include this verbage with one of their rotating images: "Take care of 
+your well being with Acupunture" 
+
+
+
+
+
+
+
+
+
+
+2017-21-17
+
+- DONE: Migrated the site to portal with Monterey Blue Theme
+- ADDED Forms: Email Us(for email Form) && form__newpatienthist(for new patient history form)
+- ADDED Pages: Email Us page (for email form)
+
+================================================================
+
+appointments@mysmartspine.com
+Richard
+Sayegh
+
+
+10899
+
+ADS | 00406706 | mysmartspine.com
+http://mysmartspine.com
+https://na43.salesforce.com/5000G00001KSCa8
+http://my.chiromatrix.com/0010899/site/editor/cms
+
+Encinitas - Green 
+Message Michelle when completed.
+
+
+2017-11-17
+
+- DONE: 
+- ADDED: Email Us Page to replace email us modal
+- ADDED Custom CSS
+- ADDED Testimonials Component 
+- ADDED Our Doctors Component > 'staff component'
+	- ADDED Custom Css for our doctors page
+- EDITED the Doctor's pictures to match the resolution sizes of all the doctors
+- IMPORTED About Us tab codes left "As-is" no changes made through embed component.
+- ADDED Jquery script to override Slider errors on Tour our Office
+- ADDED component 'Forms' on request appointment
+- removed membership form
+- removed 'form_body' in full-width
+- UPDATED: Misspelled word under PRP Injections > bottom part of the page "Candiate" to > "Candidate"
+- STORE can't be migrated > Must update client
+
+
+================================================================
+00402368
+ADS
+40thstreetchiropractic.com
+http://my.chiromatrix.com/0011363
+
+
+11363
+
+Patrick
+Conlin, DC, DAAMLP
+
+patrickconlin@msn.com
+
+
+
+Please update me to the Encinitas – Blue.
+
+
+
+2017-12-1
+
+- DONE Migrated to Portal
+- Removed Component: Newsletter Component
+- Added Office hours component in Office hours page
+
+================================================================
+11516
+crossroadah.com
+https://crossroadah.com/
+https://na43.salesforce.com/5000G00001K7kpN
+http://my.vetmatrix.com/0011516/site/editor/cms
+00404132
+Ernest
+Compton
+crossroadah@crossroadah.com
+Hello, 
+
+Please change this client over to newport in blue. 
+
+Thank you! 
+
+2017-12-1
+
+- DONE: Migrated the Pages
+- DONE: Manually updated pages that cant be imported
+- DONE: Edited LOGO > removed white background changed with shadow
+- Edited Pictures for the slider 
+- ONLINE STORE NOT ADDED
+- Inverted the ePetHealth to compensate the white background
+- ADDED Jquery script for the image in ePetHealth
+- Did not add the staff component because the component will have design improportions
+================================================================
+https://na43.salesforce.com/5000G00001KRTNo
+http://my.chiromatrix.com/0011643/site/editor/cms
+00406245
+burnfatsaratoga.com
+11643
+
+Matt
+Smith
+gethealthy@burnfatsaratoga.com
+
+Baltimore 
+Light Green 
+
+
+
+2017-12-4
+- DONE: Migrated the pages
+- ADDED Editable component on home Layout to replace Form Home component for exclusive offer
+- shortened the social media link through bit.ly (https://www.google.com/search?q=Smith+Weight+Loss+and+Wellness&oq=Smith+Weight+Loss+and+Wellness&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8#lrd=0x89de390140d27f99:0x2012b3cbae94ed8e,1,) >>> (http://bit.ly/2BKMEjt)
+- Adjusted margin of custom home page
+- Added jquery for schedule online under phone number on home page
+- Copied the custom links and forms from Home page
+-ADDED Email Us Page for the redirect of Email tab under Contact us
+
+================================================================
+
+https://na43.salesforce.com/5000G00001KgR1H
+00407673
+insighteyecarehouston.com
+http://my.imatrix.com/0009074/
+s
+
+
+iControl to Portal - insighteyecarehouston.com
+Westchester - blue
+
+2017-12-5
+
+- Website is already migrated on portal
+
+
+
+================================================================
+https://na43.salesforce.com/5000G00001KicZq
+00408686 
+transformationchiropractic.com
+
+tcwcoffice@gmail.com
+Andrea
+Jordheim
+11757
+
+iControl to Portal - transformationchiropractic.com
+Description	
+Tulsa Blue - Don't set live until the client has a chance to review it
+
+2017-12-5
+
+- DONE: Migrated all the pages and custom pages
+- Edited all the Hero image Slides to fit in the new theme
+- ADDED Jquery on the home page for the pointer image
+- Compressed the Slider Images on Contact us
+- Home page links broken on old website:
+	1: email us link Redirected to Contact Us
+	2: Send To friend link redirected to Testimonials > Share Your Experience
+- ADDED Testimonials See More Button on Testimonials on the footer
+
+
+
+================================================================
+https://na43.salesforce.com/5000G00001KjaTJ
+00409145
+bikramnorthshore.com
+http://my.imatrix.com/0011870/site/editor/cms
+11870
+
+
+
+12-7-2017
+
+- DONE MIGRATED THE PAGES TO PORTAL
+- Changed SLIDER TO BACKGROUND COVER under Home
+HOME LAYOUT ADJUSTMENTS:
+	- HID the exclusive offer forms under Home
+	- Adjusted the Logo Size under Home
+	- HID Hours under Home
+	- HID Featured Articles under home
+	- HID Form_home2 under home
+
+FULLWIDTH LAYOUT ADJUSTMENTS:
+	- HID featuredblocks, form_body and hours_body under Partial > Body
+
+
+CUSTOM PAGES ADJUSTMENTS:
+	- ADDED  Component under About Page
+	- ADDED Custom CSS for Broken Component for Slider under Gallery
+	- ADDED Email form on Contact Us Page
+
+
+
+
+================================================================
+https://na43.salesforce.com/5000G00001L4Qh1
+00411564
+towandachiroandrehab.com
+http://my.chiromatrix.com/0011912/site/editor/cms
+11912
+
+switch to Irvine - Green 
+
+does NOT want to have the promotion module on the page 
+
+would like the request appt module to say call for an appt. 
+
+
+2017-12-8
+
+- DONE Migrated the site 
+- DONE: Added Call for an appointment button 
+- HID Form Home under homepage 
+- Did not include membership module on migration 
+
+
+================================================================
+https://na43.salesforce.com/5000G00001LDdma
+https://ellisvillevet.com/
+ellisvillevet.com
+11937
+receptionist@ellisvillevet.com
+http://my.vetmatrix.com/0011937/site/editor/cms
+
+2017-12-8
+
+- DONE Migrated the website pages
+- HID newsletter form
+- ADDED Request Appointment page
+- Added Prepend script on Home under Our Services
+
+
+
+
+================================================================
+https://www.eyesfirst.com/
+eyesfirst.com
+https://na43.salesforce.com/5000G00001LrLMJ
+http://my.imatrix.com/0011995
+00416746
+info@eyesfirst.com
+
+Todd
+Gershenow
+
+11995
+
+866-393-7347
+732-203-5427
+
+
+2017-12-11
+
+- DONE Migrated the pages
+- Changed "Form_home"(exclusive offer component) > Editable Button Links
+- Changed "map_body" and "hours_body" components under Partial > Body to editable
+- ADDED Testimonials to the footer from "Yelp.com" and "facebook.com"
+- ADDED Request Appointment Custom Page and Form
+- ADDED Patient Satisfaction Survey Page and Form
+
+
+
+
+================================================================
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!HOT CASE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+http://drdurante.com/
+https://na43.salesforce.com/5000G00001MMrk0
+drdurante.com
+00418036
+Daniel
+Durante
+
+12080
+http://my.imatrix.com/0012080/site/editor/cms
+cohensmanager@aol.com
+
+Please switch to redmond theme and keep his current home slider images, texts and buttons. Use custom colors which work in the colors from their current site: https://gyazo.com/4326355ee8a611d7a6394ffd6a7eaaa7 
+
+Please transfer over **everything** and keep the same urls. Please keep all custom elements like graphics, coupons and this slideshow: https://gyazo.com/08c2a3702b5556fc940ea2cba7afcc8a
+Retention Notes
+
+
+
+2017-12-12
+
+- DONE: Migrated the pages to portal
+- CHANGED: Component > Exclusive offer to Editable
+- ADDED Slider > Home "slider__specialoffer"
+- ADDED SLIDER > Virtual Office Tour
+- Images are too small for the slider
+- CUSTOMIZED Virtual Office tour. > Added CSS for Customization
+- CHANGED all exclusive offers to Editable component > All layouts
+
+================================================================
+https://hpchiro1.com/
+http://my.chiromatrix.com/0012143
+00414507
+https://na43.salesforce.com/5000G00001LGD58
+hpchiro1.com
+drimana@hpchiro1.com
+Rodrigo A.
+Imana
+
+
+
+I would like to go with: *Minneapolis* 
+Color: *Rain* 
+
+12143
+
+
+2017-12-13
+
+- DONE: Migrated the pages to portal
+- Did not include Website Membership
+- FIXED: Virtual Office Tour Page
+
+
+================================================================
+https://na43.salesforce.com/5000G00001MMpmE
+00418025
+true-health-chiropractic.com
+https://true-health-chiropractic.com/
+http://my.chiromatrix.com/0012159/site/editor/cms
+12159
+
+
+info@true-health-chiropractic.com
+Jaime
+Shaver Grainger
+
+
+switch to tulsa - blue 
+
+
+2017-12-13
+
+- DONE: Imported all the pages to portal
+- ADDED Script on featured block image
+- ADDED Request Appointment Page to replace request appointment link
+- NOT COPIED > Online Forms > Member Wellness registration form 
+
+
+================================================================
+http://allendaleanimalhc.com/
+allendaleanimalhc.com
+https://na43.salesforce.com/5000G00001MOIzT
+00419021
+Jose R
+Figueroa
+venturadowns@msn.com
+Laguna Blue
+12278
+http://my.vetmatrix.com/0012278/site/editor/cms
+
+
+2017-12-15
+
+- DONE: Migrated the pages to portal
+- Edited the logo to white instead of black/dark to compensate with the logo transparency to the background
+- Cropped the slider image and transferred it to theme sliders
+- Transferred "New Client Form" to Form component in portal
+- FIXED: New Client Form > "Pet Sex" > Dropdown list > "Male and Female"
+- FIXED: Check Boxes into Radio Buttons
+- FIXED: Form Design through CSS Script
+- FIXED: Reviews > Added Reviews from Facebook
+
+
+================================================================
+https://na43.salesforce.com/5000G00001Mpqi5
+00420394
+http://doublejanimalhospital.com/
+doublejanimalhospital.com
+
+info@doublejanimalhospital.com
+Mark
+Justice
+
+12386
+http://my.vetmatrix.com/0012386/site/editor/cms
+
+
+2017-12-21
+
+- DONE MIGRATED THE PAGES
+- CHANGED the Logo("DoubleJLogo-ssscopy.png") Color compensate the theme color
+- ADDED append script for Home > Exclusive offer 
+- Transferred Slides to Theme Slides
+
+
+================================================================
+https://na43.salesforce.com/5000G00001LrUNj
+00416845
+https://vision-therapy-pa.com/
+vision-therapy-pa.com
+admin@vision-therapy-pa.com
+Steve
+Gallop
+39.9817020
+-75.3634260
+	
+Client would like Lafayette in Teal 
+12479
+http://my.imatrix.com/0012479/site/editor/cms
+
+PLS INFORM MICHELLE
+2017-12-21
+
+- DONE Migrated the site to portal
+- Changed the sliders to theme component
+- Primary Purpose Of The Visual Process << ON THE PROCESS OF MIGRATING PAGES
+- Page Titles CANNOT EXCEED more than 50 characters, Decided to trim off titles for me to migrate the pages needed for the website
+- Client Must Come up with page titles Less than 50 characters for it to be added and not trimmed
+- ADDED EXCLUSIVE OFFER on both books.
+- FIXED > Misspelled Word "An Essay Reconcilitation of Opposites"
+- FIXED > Home Layout > Newsletter Form Not showing up
+- LINKS TO BE CONTINUED > DEVELOPMENTAL VISION CARE AND BEHAVIORAL OPTOMETRY
+
+================================================================
+
+
+doublejanimalhospital.com
+
+2017-12-27
+
+- Reverted to stock slider of portal site
+- transferred "Star Image" under Testimonials on HOME layout
+- Removed Dead space > "Payment Options"
+
+================================================================
+https://na43.salesforce.com/5000G00001Msklk
+00422564
+
+vitalityhealthwi.com
+vitalitywi.com
+
+
+Arthur
+Rapkin
+
+info@vitalityhealthwi.com
+
+
+http://my.imatrix.com/0011497/
+vitalityhealthwi.com
+2017-12-27
+
+
+
+12646
+http://my.imatrix.com/0012646/site/editor/cms
+vitalitywi.com
+
+2017-12-27
+
+- Migrated the website to portal
+- Installed AdWords
+- COPIED PORTAL SITE: http://my.imatrix.com/0011497/
+- ADDED Lipo Form > Lipo Milwaukee
+
+
+================================================================
+
+https://na43.salesforce.com/5000G00001MrOKr
+
+HOT iControl to Portal - jamesflitakerdc.com
+Description	
+-Irvine/Green 
+-Please create the pages using the same URLs as the existing site 
+-Please have Michelle review 
+-This is a **professional services** client, please send to account manager for review before setting live
+
+
+
+Icontrol
+jlitaker@ctc.net
+704-467-4808
+35.4757306
+-80.67537
+
+
+
+Portal
+12781
+http://my.chiromatrix.com/0012781/site/editor/cms
+
+
+2018-1-02
+
+- DONE Migrated the website
+- Adjusted the Partial Header Layout for the Locations Header to fit the two numbers
+- Adjusted the Partial Header for custom HTML on Home Layout
+- Removed Exclusive Offer (form_home) on Partial(home-top-content) for it is not seen on the old website
+- ADDED Testimonial Component on Testimonial Page (Suggest to use Editable component for Pictures cannot be added on Testimonials
+- ADDED Single page for Dr. Litaker's Request Appointment
+- URLs/Slugs stayed as is
+
+
+DONE
+================================================================
+REVISIONS
+vision-therapy-pa.com
+http://my.imatrix.com/0012479/site/editor/cms
+https://na43.salesforce.com/5000G00001LrUNj
+================================================================
+https://na43.salesforce.com/5000G00001NSh1y
+cichirowc.com
+00424871
+40.794046
+-73.8204723
+simochiro1@gmail.com
+
+
+Please change my theme to Stockton/ color brown ASAP 
+thanks 
+also I was unable to post the review below....please advise how I should do 
+that! 
+
+https://portal.imatrixbase.com/site/maskPortalClient/20061
+12898
+http://my.chiromatrix.com/0012898/site/editor/cms
+
+
+2018-1-3
+
+- Added Request appointment form
+- Shortened Google Plus Link to bit.ly
+
+DONE
+
+================================================================
+https://na43.salesforce.com/5000G00001NVdq7
+00427006
+counselmanwadechiro.com
+
+staff@counselmanwadechiro.com
+39.0411679
+-95.6827471
+
+12926
+https://portal.imatrixbase.com/site/maskPortalClient/21257
+http://my.chiromatrix.com/0012926/site/editor/cms
+
+
+Switch them to Atlanta in Green. Thanks!
+
+2018-1-03
+
+- Migrated the website pages
+- Removed Exclusive Offer as it is not seen on Old Site
+- REMOVED GALLERY AND TESTIMONIALS on HOME
+
+================================================================
+https://na43.salesforce.com/5000G00001Msklk
+00422564
+
+vitalityhealthwi.com
+vitalitywi.com
+
+
+Arthur
+Rapkin
+
+info@vitalityhealthwi.com
+
+
+http://my.imatrix.com/0011497/
+vitalityhealthwi.com
+2017-12-27
+
+
+
+12646
+http://my.imatrix.com/0012646/site/editor/cms
+https://portal.imatrixbase.com/site/maskPortalClient/18231
+vitalitywi.com
+
+2017-12-27
+
+- Migrated the website to portal
+- Installed AdWords
+- COPIED PORTAL SITE: http://my.imatrix.com/0011497/
+- ADDED Lipo Form > Lipo Milwaukee
+- 
+
+
+
+INFORM MICHELLE
+
+
+BROKEN BLOG LINKS
+- Dr. Steve Gallop > HOME > Posted on 08-05-2013
+
+
+
+
+================================================================
+
+
+
+https://na43.salesforce.com/5000G00001Msklk
+00422564
+
+vitalityhealthwi.com
+vitalitywi.com
+
+
+Arthur
+Rapkin
+
+info@vitalityhealthwi.com
+
+
+http://my.imatrix.com/0011497/
+vitalityhealthwi.com
+2017-12-27
+
+
+
+12646
+http://my.imatrix.com/0012646/site/editor/cms
+vitalitywi.com
+
+2017-12-27
+
+- Migrated the website to portal
+- Installed AdWords
+- COPIED PORTAL SITE: http://my.imatrix.com/0011497/
+- ADDED Lipo Form > Lipo Milwaukee
+- http://my.imatrix.com/0011497/wisn-radio-wellness-milwaukee broken Link Suggest to let client update the broken link
+
+
+
+================================================================
+00430235
+https://na43.salesforce.com/5000G00001NyfCQ
+momentumchc.com
+
+(408) 778-8700
+austinjonesdc@gmail.com
+37.1170972
+-121.6333037
+
+
+Venice in Grey. 
+
+
+13261
+https://portal.imatrixbase.com/site/maskPortalClient/17041
+http://my.chiromatrix.com/0013261/site/editor/cms
+
+2018-11-1
+
+- DONE: Migrated the pages to portal
+
+================================================================
+northwesthealthsolutions.com
+00430332
+https://na43.salesforce.com/5000G00001NyoIc
+
+Could you please replace the current content in the Personal Injury section
+of the website with the one I have attached.
+
+2018-11-1
+
+- DONE: replaced content on Personal Injury Section
+
+================================================================
+00430396
+https://na43.salesforce.com/5000G00001NytQC
+encinitasanimalhospital.com
+
+
+Could you please try the attached AAHA logo in place of the one I sent yesterday?  It's vertically oriented and I think might look better under the social media icons.
+Also, please don't forget to add "AAHA Accredited" in the ABOUT US tab.  The link should send a reader to the AAHA article.  Thank you
+
+
+
+2018-11-1
+
+- DONE: Replaced with the vertically oriented logo attatched.
+
+================================================================
+https://na43.salesforce.com/5000G00001OayPI
+00430744
+sharingsalonsecrets.com
+
+For the Featured Page photos please swap out the current photos for the following: 
+Services: 1a; Contact Us: 5w; Gallery: 3b 
+
+On the Gallery page please add the following photos: 3z, 6i, (2j), 5v, 5u, 5y, 5z, 6a and 5m
+
+2018-12-1
+
+- DONE Compressed Pictures requested
+- DONE Added Compressed Pictures
+
+================================================================
+https://na43.salesforce.com/5000G00001Oc5ik
+00431667
+theaterviewvetclinic.com
+
+
+
+2018-1-15 
+
+- Fixed: breadcrumbs Color from #E0DDD8 to #9e8f77 
+- DONE: copied Embed Code ( <iframe src='//players.brightcove.net/260825798001/41WmTbZaTl_default/index.html?videoId=5639647929001' allowfullscreen frameborder=0></iframe> ) 
+- Video cannot be Auto-played and Auto-Looped because of some Security Purpose, Tried to download but the video is secured, Suggest that the client should have the video converted to .mp4 file for it to be controlled. 
+- DONE: added the video to all pages including the home page through embedded code of the video. 
+
+
+================================================================
+
+https://na43.salesforce.com/5000G00001OcV7F
+00432308
+shreveporteyeclinic.com
+
+
+13460
+
+https://portaladmin.imatrixbase.com/clients/provision/imatrix/24493/containers#/main
+
+Spec@shreveporteyeclinic.com
+32.4142699
+-93.7297967
+318-861-4009
+
+
+2018-1-16
+
+- DONE: Migrated all the pages to portal
+- DONE: ADDED Jquery script for custom Exclusive offer module
+- DONE: added Meet the Doctors component
+- Suggest Client to add HD images on Meet the doctors component on home.
+- Suggest Client should add content on Refractive Surgery Evaluation
+- LINK Errors on The Human Eye > Eye Conditions Page
+
+================================================================
+https://na43.salesforce.com/5000G00001OcvMu
+00432736
+
+https://portaladmin.imatrixbase.com/clients/provision/chiromatrix/47694/containers#/main
+
+http://my.chiromatrix.com/0007031/site/editor/cms
+
+
+
+2018-1-16
+
+- DONE: silver to white
+- DONE: Phone Number Color: black
+- DONE: Social Media Icons: On scroll show icons when scrolling as well 
+- DONE: creating a new divided footer
+
+================================================================
+00433387
+https://na43.salesforce.com/5000G00001Odaj6
+vetbehaviormn.com
+
+2018-1-17
+
+- DONE: fixed glitchy transition for each slider smoother and slower as well.. 
+- DONE: Removed Staff/testimonials on the side bar and make page full width without sidebar.
+- DONE: Remove newsletter Sign up Section 
+- DONE: Vertical Testimonials 
+
+================================================================
+https://na43.salesforce.com/5000G00001OcvMu
+00432736
+
+
+2018-1-17
+
+- DONE:  - Meet the Doctor: spaces inbetween text wants no big spaces, Spacing on the meet the doctor page - want it like the paragraphs below. 
+- DONE: - Call To Action: 
+clients wants CTA Button on bottom of each page in between footer and the map with the following: ( Call us at 720-592-1843 or fill out our Contact Us Form) and link to the contact us page 
+- DONE:  - Navigation: For the health Solutions Tab in the navigation, the client would like the following specific order
+- DONE: FIXED Navigation: The dropdown tabs disappear behind the navigation 
+- Please Specify Which Blog image to use and where to add the image on this:  - 
+precisionempoweredhealth.com Recent Video Section: - blog image with Blog Title
+- DONE: Client wants the same exact footer: section 1: Logo/social media/address/ tel/ fax / clinic hours 
+DONALD IS CHECKING ON IT
+================================================================
+
+https://na43.salesforce.com/5000G00001OcV7F
+00432308
+shreveporteyeclinic.com
+
+
+13460
+
+https://portaladmin.imatrixbase.com/clients/provision/imatrix/24493/containers#/main
+
+Spec@shreveporteyeclinic.com
+32.4142699
+-93.7297967
+318-861-4009
+
+
+http://my.chiromatrix.com/0007031/site/editor/cms
+2018-1-16
+
+- DONE: Migrated all the pages to portal
+- DONE: ADDED Jquery script for custom Exclusive offer module
+- DONE: added Meet the Doctors component
+- Suggest Client to add HD images on Meet the doctors component on home.
+- Suggest Client should add content on Refractive Surgery Evaluation
+- LINK Errors on The Human Eye > Eye Conditions Page
+
+2018-1-18
+
+- DONE: matched the contents http://my.imatrix.com/0013460/physicians/mary-catherine-clemons--md.html , kindly match it to their old site ttp://shreveporteyeclinic.com/physicians/mary-catherine-clemons--m.d..html
+- DONE: Incorrect Links FIXED
+- DONE: Home Read More Links Fixed
+- FAX Number: Added
+
+================================================================
+https://na43.salesforce.com/5000G00001OcIgv
+00432189
+http://windercornersvet.com/
+
+
+2018-1-18
+
+- DONE: Updated Staff Information and Job Titles
+- DONE: Updates on New Staffs
+- DONE: Added Jessica Wilson 
+- DONE: Mindy Kidd
+- DONE: Added Olivia Fuller
+- DONE: Added Olivia Koerner
+
+================================================================
+00432676
+https://na43.salesforce.com/5000G00001OctQz
+midtownvetpa.com
+
+
+
+
+2018-1-18
+
+- DONE: Added new thank you page after submitting on forms.
+- For testing Purposes, created Testing emails and names for the submission of forms to be tested.
+
+================================================================
+https://na43.salesforce.com/5000G00001Od8ve
+00432915
+
+countrysideveterinary.com
+
+
+
+2018-1-17
+
+- DONE: Added a new page and Custom Layout for it 
+- DONE: Added the Content and Images and the links
+
+================================================================
+https://na43.salesforce.com/5000G00001Od5ON
+00432888
+
+
+2018-1-19
+
+- DONE: Updated Additional Information Under Home > ("At Mill Plain Veterinary Clinic, we treat ..")
+
+We invite you to browse our website to learn more about our staff, services, and facility. Then give us a call to schedule an appointment today, at (203)-790-8387!")
+- DONE: Updated Staff Names Under Meet Our Team tab
+- DONE: Added Staff informations, Nurses, and assistants
+
+================================================================
+https://na43.salesforce.com/5000G00001OdcCt
+00433431
+allcarechiropractic.com
+
+
+2018-1-19
+
+- DONE: Uploaded the PDF File to the website named (Initial HI Intake & More 3mos Lapse 1-18-18.pdf)
+================================================================
+
+https://na43.salesforce.com/5000G00001OdBQP
+00432951
+http://my.imatrix.com/0005900/site/editor/cms
+	
+indigo-spa.com
+
+2018-1-19
+
+- DONE: made Font Size on indigo Brides Bigger
+- DONE: Transfer prices to services pages 
+- DONE: Create page called "Salon Services" and transfer hair/nails prices
+- DONE: added positions on staff (meet our team)
+
+================================================================
+https://na43.salesforce.com/5000G00001P8qfC
+00435479
+mysenecaanimalhospital.com
+
+
+https://my.vetmatrix.com/0008089/site/editor/cms
+
+
+2018-1-22
+
+- DONE: changed the statement of exclusive offer
+- DONE: Resized one image for faster loading
+- DONE: relocated the Best of the Best Logos to be underneath the 
+phone number
+- DONE: relocated the "Visit our Online Pharmacy" Icon to underneath 
+the animals
+- DONE: removed the 'Pet Palooza' logo from the sidebar
+- DONE: 'Pet Palooza' replaced it with Jaymes & Daphne Fund Logo
+- DONE: linked Jaymes & Daphne Fund logo to page
+
+
+================================================================
+https://na43.salesforce.com/5000G00001ObOr8
+wagnerchiro.net
+00431040
+
+2018-1-22
+
+- DONE: compressed all the images to maximum compression
+- DONE: applied all compressed images to the website
+
+================================================================
+
+https://na43.salesforce.com/5000G00001Oe1G0
+00433953
+mountainmobilevet.com
+
+
+2018-1-22
+
+-DONE: Added Custom CSS to remove the Vetsource image
+
+================================================================
+https://na43.salesforce.com/5000G00001ObzFh
+00431610
+portlandvet.net
+
+40.4391658
+-84.9959614
+
+info@portlandvet.net
+
+13847
+http://my.vetmatrix.com/0013847/site/editor/cms
+
+2018-1-23
+
+- DONE: Added Custom Jquery for Custom Design
+- DONE: Migrated the Site
+
+================================================================
+
+https://na43.salesforce.com/5000G00001OdngY
+00433717
+gatoreyegainesville.com
+
+christianbader@portlandvet.net
+
+
+2018-1-23
+
+- DONE: Updated Time Schedule
+
+================================================================
+https://na43.salesforce.com/5000G00001NVLiB
+00426741
+eriksenchiropracticlaser.com
+
+
+
+2018-1-23
+
+- DONE: added the Vids
+- DONE: Added Custom Scripts to the Page
+- DONE: Copied Snip shot images of the videos to add on the links
+- Suggest to Have Sample Images for the Videos
+
+================================================================
+https://na43.salesforce.com/5000G00001ObzFh
+00431610
+portlandvet.net
+
+Minor Revisions > Set to Live > Pending
+================================================================
+https://na43.salesforce.com/5000G00001OepdL
+00434862
+chowananimalhospital.com
+
+
+================================================================
+
+00434862
+https://na43.salesforce.com/5000G00001OepdL
+chowananimalhospital.com
+
+http://my.vetmatrix.com/0013650/site/editor/cms
+
+2018-1-25
+
+- DONE: added scripts to the top-right of the page
+- DONE: Added vetsource Request appoitnment widget
+- DONE: added read our reviews widget
+- DONE: added Refer a friend widget
+- DONE: addded vetscene patient portal
+
+================================================================
+https://na43.salesforce.com/5000G00001P8uOF
+00435553
+windsofchangespa.com
+
+https://portal.imatrixbase.com/site/maskPortalClient/32636
+
+2018-1-25
+
+- DONE:  delete the 15% of exclusive offer on the Class page
+- DONE: Added email windsofchange91@gmail.com to form leads for them to receive notifications
+- DONE: Added Link to Newsletter http://conta.cc/2FGkkk2
+
+================================================================
+https://na43.salesforce.com/5000G00001P90Ja
+00435716
+specsappealga.com
+
+2018-1-25
+
+- DONE: Added Custom Bootstrap Slider because the Slider and Gallery Components are not working well.
+- DONE: Added Script to add the component under 'Official Dealers'
+
+================================================================
+https://na43.salesforce.com/5000G00001P90KE
+00435717
+
+2018-1-25
+
+- DONE: Added Folder to media manager "Pictureupdates"
+- DONE: Uploaded all 19 images
+- DONE: Added the images to the custom slider
+
+================================================================
+https://na43.salesforce.com/5000G00001P93wu
+00435915
+affordablepetdental.com
+
+2018-1-26
+
+-DONE: ADDED Script to put the link on top of the page
+
+================================================================
+https://na43.salesforce.com/5000G00001P9PLH
+00436175
+eriksenchiropracticlaser.com
+
+https://portal.imatrixbase.com/site/maskPortalClient/52266
+http://my.chiromatrix.com/0007676/site/editor/cms
+
+
+2018-1-26
+
+- DONE : added Bootstrap CDN link for font styling
+- DONE: Imported from fonts.googleapis.com font:Droid+Serif:400,700
+
+================================================================
+https://na43.salesforce.com/5000G00001P9Qx2
+00436200
+rivertonvet.com
+https://my.vetmatrix.com/0006053/site/editor/cms
+
+2018-1-26
+- DONE: Downloaded the PDF file
+- DONE: Uploaded PDF file to Media Manager
+- DONE: Linking the PDF on the ONLINE Forms Page
+
+================================================================
+https://na43.salesforce.com/5000G00001P9Ntl
+00436152
+newhopeveterinaryhospital.com
+https://my.vetmatrix.com/0013097/site/editor/cms
+
+2018-1-26
+
+- DONE: Added Widget on the Website
+
+================================================================
+https://na43.salesforce.com/5000G00001P8ok5
+00435455
+https://portal.imatrixbase.com/site/maskPortalClient/15654
+
+
+MAIN ERROR
+THE FLASH PLUGIN MUST BE UPDATED
+
+https://my.chiromatrix.com/0004235/site/editor/cms
+chiropractorspringfield.org
+- DONE: FIXED 3D spine simulator
+- DONE: FIXED Meet The Chiropractor Link
+- DONE: ADDED CSS TO FIX Z-INDEX on 3D Spine
+- DONE: Published chiropractorspringfield.org
+
+
+MAIN ERROR
+THE FLASH PLUGIN MUST BE UPDATED
+
+https://my.chiromatrix.com/0004227/site/editor/cms
+alignlifeftwayne.com
+- DONE: ADDED CSS TO FIX Z-INDEX on 3D Spine
+- DONE: ADDED Meet The Doctor Content
+- DONE: Added meet the Chiropractor Component on HOME page
+- DONE: Added /success-stories/page to the site
+- DONE: Added Success Stories Contents
+- DONE: Removed Z-index:9999 on .wrap__header
+- DONE: Fixed: Social Media image Hover: .socialmedia__link:hover 
+- DONE: Fixed Social Media Links
+- DONE: Fixed Services and Techniques Page
+- DONE: Added Schedule Your Consultation Today
+- DONE: Fixed Contact us Component > Added Twig Script
+- DONE: Added Email payables@alignlife.com on Forms
+- DONE: Fixed Success Stories Mobile View Responsive
+- DONE: Fixed Appointment Request Form remove Page-title
+- DONE And Published
+
+
+https://my.chiromatrix.com/0004235/site/editor/cms
+chiropractorspringfield.org
+- DONE: Removed Z-index:9999 on .wrap__header
+- DONE: Fixed Success Stories Mobile View Responsive
+- DONE: Copied the Formats on alignlifeftwayne.com
+- DONE: Adde
+- DONE: Added Missing Pages to services > Chiropractic, Nutrition enhancement, Detoxification, Homone Balance, Weight Management
+- DONE: Published chiropractorspringfield.org
+
+
+http://my.chiromatrix.com/0004218/site/editor/cms
+alignlife.com
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: added Testimonial Component
+- DONE: added Success Stories contents
+
+
+https://my.chiromatrix.com/0004228/site/editor/cms
+chiropractorsummerville.com
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: added Success Stories contents
+- DONE: Published
+
+
+http://my.chiromatrix.com/0004229/site/editor/cms
+alignlifewarsaw.com
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: added Success Stories contents
+- DONE: Published
+
+
+https://my.chiromatrix.com/0004230/site/editor/cms
+chiropractorgreenville.org
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+https://my.chiromatrix.com/0004231/site/editor/cms
+alignlifedowntowngreenville.com
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+https://my.chiromatrix.com/0004232/site/editor/cms
+alignlifespartanburgeast.com
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+https://my.chiromatrix.com/0004234/site/editor/cms
+alignlifewestunion.com
+- DONE: Fixed Background Color: wrap__header--bottom--inner
+- DONE: FIXED .flexcenter
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+https://my.chiromatrix.com/0004237/site/editor/cms
+alignlifecherrydale.com
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+http://my.chiromatrix.com/0004238/site/editor/cms
+alignlifebeechgrove.com
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+https://my.chiromatrix.com/0004226/site/editor/cms
+alignlifesimpsonville.com
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+http://my.chiromatrix.com/0004225/site/editor/cms
+chiropractorpeoria.org
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+http://my.chiromatrix.com/0004236/site/editor/cms
+alignlifechiropracticglasgow.com
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+https://my.chiromatrix.com/0004224/site/editor/cms
+chiropracticpeoria.net
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+
+https://my.chiromatrix.com/0004223/site/editor/cms
+eaststroudsburgchiropractor.com
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+http://my.chiromatrix.com/0004222/site/editor/cms
+alignlifewauwatosa.com
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+https://my.chiromatrix.com/0004221/site/editor/cms
+alignlifenortonshores.com
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+https://my.chiromatrix.com/0004220/site/editor/cms
+alignlifewescott.com
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+
+http://my.chiromatrix.com/0004219/site/editor/cms
+alignlifepelhamfalls.com
+- DONE: Copied the formats on alignlifeftwayne.com
+- DONE: Published
+
+
+
+
+
+
+alignlifeftwayne.com - DONE
+alignlife.com - DONE alignlifespartanburgwest.com alignlife.com
+alignlifespartanburgwest.com - DONE
+chiropractorsummerville.com - DONE
+alignlifewarsaw.com - DONE
+chiropractorgreenville.org - DONE
+alignlifedowntowngreenville.com - DONE
+alignlifespartanburgeast.com - DONE
+mauldinchiropractor.com - NO PORTAL LINK
+alignlifewestunion.com - DONE
+chiropractorspringfield.org - DONE
+alignlifecherrydale.com - DONE
+alignlifebeechgrove.com - DONE
+alignlifesimpsonville.com - DONE
+chiropractorpeoria.org - DONE
+alignlifechiropracticglasgow.com - DONE
+chiropracticpeoria.net - DONE
+eaststroudsburgchiropractor.com - DONE
+alignlifewauwatosa.com - DONE
+alignlifenortonshores.com - DONE
+alignlifewescott.com - DONE
+alignlifepelhamfalls.com - DONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================
+https://na43.salesforce.com/5000G00001NVLiB
+00426741
+https://portal.imatrixbase.com/site/maskPortalClient/52266
+eriksenchiropracticlaser.com
+http://my.chiromatrix.com/0007676/site/editor/cms
+
+
+2018-1-30
+
+- The Video Thumbnail that the client asked on the 2 youtube videos that he specified is a missing thumbnail from YOUTUBE.com which he uploaded those videos himself and we cannot provide that thumbnail for him.
+- DONE: Changed Page Title from Store to > Dr.Kirk Eriksen's Seminar Lectures
+- DONE: Made Caption on Video images smaller
+- DONE: Made the anchor images to a new tab
+- DONE: Made all the images on the Store larger (but not the youtube videos)
+- DONE: Added CSS Style to the Buttons to make it look like the same with his other website drkirkeriksen.com
+- DONE And Published
+
+
+================================================================
+https://na43.salesforce.com/5000G00001P9PcI
+00436183
+drdaniellerice.com
+
+2018-1-30
+
+- DONE: Uploaded the Logo to the page
+- DONE: Added Logo
+- DONE: and Published
+
+================================================================
+https://na43.salesforce.com/5000G00001PBEke
+00438198
+7essentialhealth.com
+
+2018-1-30
+
+- DONE: Added Facebook, twitter, google plus, and linked in share buttons
+
+================================================================
+https://na43.salesforce.com/5000G00001PBIwF
+00438325
+myatlaschiro.com
+http://my.chiromatrix.com/0003922/site/editor/cms
+
+2018-1-30
+
+- DONE: Added Writing Hand Image on Online Forms
+- DONE: Removed Health Resources Tab
+- DONE: Added Nucca Logo under it's Description
+
+================================================================
+https://na43.salesforce.com/5000G00001PC8uh
+00439588
+mullinsvision.com
+
+2018-1-30
+
+- DONE: UPDATED and Added Staff Information
+
+================================================================
+https://na43.salesforce.com/5000G00001PC6l4
+00439552
+https://na43.salesforce.com/5000G00001NVLiB
+00426741
+
+eriksenchiropracticlaser.com
+http://my.chiromatrix.com/0007676/site/editor/cms
+
+2018-2-1
+
+- DONE: Added Attatched Image (January 2018 no date.jpg)
+- DONE AND PUBLISHED
+
+
+
+2018-1-31
+
+- DONE: Fixed Mispelled Word > "ProOega" to "ProOmega"
+- DONE: Added ProOmega 2000-D and ProOmegaR CoQ10
+- DONE: Fixed Journals page
+- DONE: Added "blue box" on Compilation of References for Upper Cervical Research Papers & Presentations
+- DONE: Glucosamine + Chondroitin with MSM to $28
+- DONE: Supplements Available at Eriksen Chiropractic and Laser Center 
+- DONE: Added Laser_diagram.jpg on Laser Therapy Page under the title "Laser Therapy"
+- DONE: Added shadow on every-other-testimonial
+- DONE: Removed text Orthospinology
+- Note to client send all the images for the Office Tour in a sequential Number Pattern for us to avoid confusion of pattern. (e.g. : slider-1.jpg, slider-2.jpg)
+• Waiting room 
+• Front office 
+• Sauna room 
+• Room 1 
+• Room 2 
+• My office
+• Valerie office 
+• Zerona room 
+• Exam room 
+• Neuropathy bay 
+• Therapy bays 
+• MLS laser room 
+• X-ray room 
+• Massage room 
+• Aquamed room 
+• Traction room 
+• Kids room 
+• Outside pic 
+
+================================================================
+https://na43.salesforce.com/5000G00001P8ok5
+00435455
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018-1-31
+
+- DONE: "read more" on each service Links > Services Tab 
+
+2018-2-1
+
+- DONE: "read more" on each service Links > Services Tab
+
+
+
+https://my.chiromatrix.com/0004235/site/editor/cms
+chiropractorspringfield.org
+DONE
+
+https://my.chiromatrix.com/0004227/site/editor/cms
+alignlifeftwayne.com
+DONE
+
+http://my.chiromatrix.com/0004218/site/editor/cms
+alignlife.com
+DONE
+
+https://my.chiromatrix.com/0004228/site/editor/cms
+chiropractorsummerville.com
+DONE
+
+http://my.chiromatrix.com/0004229/site/editor/cms
+alignlifewarsaw.com
+DONE
+
+https://my.chiromatrix.com/0004230/site/editor/cms
+chiropractorgreenville.org
+DONE
+
+https://my.chiromatrix.com/0004231/site/editor/cms
+alignlifedowntowngreenville.com
+DONE
+
+https://my.chiromatrix.com/0004232/site/editor/cms
+alignlifespartanburgeast.com
+DONE
+
+https://my.chiromatrix.com/0004234/site/editor/cms
+alignlifewestunion.com
+DONE
+
+https://my.chiromatrix.com/0004237/site/editor/cms
+alignlifecherrydale.com
+DONE
+
+http://my.chiromatrix.com/0004238/site/editor/cms
+alignlifebeechgrove.com
+DONE
+
+https://my.chiromatrix.com/0004226/site/editor/cms
+alignlifesimpsonville.com
+DONE
+
+http://my.chiromatrix.com/0004225/site/editor/cms
+chiropractorpeoria.org
+DONE
+
+http://my.chiromatrix.com/0004236/site/editor/cms
+alignlifechiropracticglasgow.com
+DONE
+
+https://my.chiromatrix.com/0004224/site/editor/cms
+chiropracticpeoria.net
+DONE
+
+https://my.chiromatrix.com/0004223/site/editor/cms
+eaststroudsburgchiropractor.com
+DONE
+
+http://my.chiromatrix.com/0004222/site/editor/cms
+alignlifewauwatosa.com
+DONE
+
+https://my.chiromatrix.com/0004221/site/editor/cms
+alignlifenortonshores.com
+DONE
+
+https://my.chiromatrix.com/0004220/site/editor/cms
+alignlifewescott.com
+DONE
+
+http://my.chiromatrix.com/0004219/site/editor/cms
+alignlifepelhamfalls.com
+DONE
+
+
+
+
+Chiropractic
+Detoxification
+Nutrition
+Hormone
+Weight
+
+
+
+================================================================
+https://na43.salesforce.com/5000G00001PqTqT
+00442605
+petsfriendsunnyvale.com
+
+
+
+2018-2-1
+
+- DONE: EDITED The Last Paragraph for Dog Requirement: "For dogs we require up to date vaccines for rabies, DHPP, Canine Influenza Virus (CIV) and Bordetella." 
+- DONE: Uploaded the PDF File (Boarding Agreement and Information.pdf)
+- DONE: Added the Link: http://petsfriendsunnyvale.com/clients/18794/Boarding-Agreement-and-Information.pdf to the Boarding Page
+
+
+================================================================
+https://na43.salesforce.com/5000G00001PpoFW
+00441738
+holisticvetcare.com
+
+
+2018-2-1
+
+- NOTE: to Client the submissions went to clientservice@holisticvetcare.com
+- DONE: Added richtervet@sbcglobal.net to the forwarded email
+- DONE: "Thank you" message to "Thank you for submitting your testimonial!"
+- DONE: "Testimonial Form" on the page to "Submit Your Testimonial!
+
+================================================================
+https://na43.salesforce.com/5000G00001PqHrt
+00442356
+ccacpetvet.com
+ccacpetvet.net
+compassionatecareanimalclinic.com
+
+2018-2-1
+
+- DONE: Please remove CVT Heather Doughty and replace with CVT Sara Parker. 
+- DONE And Published
+
+================================================================
+https://na43.salesforce.com/5000G00001P8ok5
+00435455
+chiropractorpeoria.org
+
+2018-2-1
+
+- Portal Bugs
+- Delayed Publish
+
+================================================================
+https://na43.salesforce.com/5000G00001PrEzk
+00443473
+clevelandchiroandmassage.com
+
+https://my.chiromatrix.com/0006790/site/editor/cms
+
+2018-2-2
+
+- DONE: Added Photo of Jamie
+
+================================================================
+https://na43.salesforce.com/5000G00001PrF7K
+00443474
+	
+exoticarevet.com
+
+2018-2-2
+
+- DONE: Removed Newsletter Signup Using CSS Styles
+
+================================================================
+https://na43.salesforce.com/5000G00001PqjLj
+00442916
+rebarberchiro.com
+
+================================================================
+https://na43.salesforce.com/5000G00001PqyyR
+00443171
+ricechiropracticclinic.com
+
+http://my.chiromatrix.com/0006285/site/editor/cms
+
+2018-2-5
+
+- DONE: Removed Exclusive Offer
+- DONE: Added Hours
+- DONE: Added Media Queries for the Added Components on Contact Us page for Mobile Responsiveness
+- DONE: Added FAX Numbers
+- DONE: Added contact billing Informations
+
+================================================================
+https://na43.salesforce.com/5000G00001Pr4XW
+00443243
+
+pensacolachiro.com
+
+2018-2-5
+
+- DONE: Removed Banner on Website
+- DONE: Edited Pictures
+- DONE: Uploaded the compressed images
+
+================================================================
+https://na43.salesforce.com/5000G00001PrE9P
+00443468
+indigo-spa.com
+https://my.imatrix.com/0005900/site/editor/cms
+
+2018-2-5
+
+- DONE: Added Script to append Logo before Services title
+- DONE: Spaces Reduced on About Our Spa Page
+- DONE: Added Salon Products pictures to the bottom of the page under salon products
+- DONE: Changed Salon to Spa of Sharifa Brassfield
+- DONE: Removed Alexandra from the List
+- DONE: Title below the name
+- Please provide image for me to change the image on Shirodhara Treatments No Images attatched that links to Shirodhara Treatments.
+- DONE: Removed The Picture on Full Salon 
+NOTE- Please provide the Image to update on FULL SALON from the previous email which the client specified. Attatchments not found.
+
+
+================================================================
+https://na43.salesforce.com/5000G00001PsUD0/
+00444568
+Cypress Creek Chiropractic & Wellness
+cypresscreekchiro.com
+================================================================
+https://na43.salesforce.com/5000G00001PsUgR
+00444574
+Cypress Creek Chiropractic & Wellness
+cypresscreekchiro.com
+================================================================
+https://na43.salesforce.com/5000G00001PsAAd
+00444328
+chiropracticbellinghamwa.com
+================================================================
+https://na43.salesforce.com/5000G00001PsVvX
+00444598
+aspenfamilychiropractic.com
+================================================================
+https://na43.salesforce.com/5000G00001P9RJI
+00436207
+adrianvet.com
+rlhdvm@hotmail.com
+https://my.vetmatrix.com/0014643/site/editor/cms
+
+
+2018-2-6
+
+- DONE: Tulsa in Blue.
+LIVE
+================================================================
+https://na43.salesforce.com/5000G00001PoOy1
+00440170
+crispvision.com
+14450
+https://my.imatrix.com/0014450/site/editor/cms
+
+2018-2-6
+
+- DONE: Encinitas - Blue
+LIVE
+================================================================
+https://na43.salesforce.com/5000G00001PAs77
+00437850
+stegenvision.com
+14701
+http://my.imatrix.com/0014701/site/editor/cms
+sarah@stegenvision.com
+
+
+
+2018-2-7
+
+- DONE: Detroit in brown
+: QA MODE
+
+================================================================
+
+https://na43.salesforce.com/5000G00001QQtjr
+00445320
+
+completecare-kc.com
+drmorton@completecare-kc.com
+http://my.chiromatrix.com/0014727/site/editor/cms
+14727
+
+2018-2-7
+
+- DONE: iControl To Portal >  San Diego Theme
+
+================================================================
+https://na43.salesforce.com/5000G00001PqPY6
+00442502
+twinlakeschiro.com
+14755
+https://my.chiromatrix.com/0014755/site/editor/cms
+
+2018-2-8
+
+================================================================
+https://na43.salesforce.com/5000G00001PopOU
+00440630
+bauerchirofdl.com
+
+14813
+http://my.chiromatrix.com/0014813/site/editor/cms
+
+2018-2-9
+
+- DONE: Redmond same colors with old site (Charcoal)
+
+================================================================
+https://na43.salesforce.com/5000G00001PpZ6a
+00441496
+tendertouchvets.com
+14887
+http://my.vetmatrix.com/0014887/site/editor/cms
+
+2018-2-12
+
+- DONE: Colton - Sky 
+
+================================================================
+https://na43.salesforce.com/5000G00001Ppklw
+00441663
+advancedspineandwellness.com
+14937
+https://my.chiromatrix.com/0014937/site/editor/cms
+** Theme:San Diego 
+** Color: Blue 
+
+
+2018-2-12
+
+- DONE: Theme:San Diego Blue
+
+================================================================
+https://na43.salesforce.com/5000G00001PqlCe
+00442946
+chiropracticnw.com
+info@chiropracticnw.com
+
+
+https://my.chiromatrix.com/0014973/site/editor/cms
+
+14973
+
+2018-2-13
+
+- DONE: Theme: Baltimore 
+color: Use current color scheme 
+
+================================================================
+https://na43.salesforce.com/5000G00001QR1bC
+00445464
+richterfamilychiro.com
+
+15022
+http://my.chiromatrix.com/0015022/site/editor/cms
+
+Oceanside Ocean 
+
+2018-2-14
+
+- DONE: Oceanside Ocean 
+
+================================================================
+00448420
+https://na43.salesforce.com/5000G00001QTf4i
+broadwayanimal.com
+
+Lafayette / green
+15056
+http://my.vetmatrix.com/0015056/site/editor/cms
+info@broadwayanimal.com
+
+2018-2-14
+
+- DONE: Lafayette / green
+
+================================================================
+https://na43.salesforce.com/5000G00001QSu2i
+00447653
+alternativehealingworks.com
+
+Minneapolis/Taupe color 
+15091
+http://my.imatrix.com/0015091/site/editor/cms
+
+2018-2-14
+
+- DONE: Minneapolis/Taupe color
+
+================================================================
+https://na43.salesforce.com/5000G00001R1vaQ
+00449165
+drkoppari.net
+
+Theme: Providence
+Color: purple
+
+2018-2-14
+
+- DONE: Providence purple
+INPROGRESS
+================================================================
+https://na43.salesforce.com/5000G00001QU2hB
+00448844
+allpawsandclawsvc.com
+15113
+
+
+2018-2-14
+
+- DONE: Baltimore green 
+We would like Baltimore green 
+
+================================================================
+https://na43.salesforce.com/5000G00001R23nX
+00449359
+downtownbroadwaychiro.com
+
+
+================================================================
+https://na43.salesforce.com/5000G00001R1zA2
+00449252
+
+wardywellnesschiro.com
+15134
+http://my.chiromatrix.com/0015134/site/editor/cms
+ATLANTA with green as our color
+
+2018-2-15
+
+- DONE: ATLANTA with green
+
+================================================================
+https://na43.salesforce.com/5000G00001R2RqH
+00449658
+
+
+styleyesiowa.com
+http://my.imatrix.com/0008261/site/editor/cms
+
+2018-2-15
+
+- NOTE: The "Bios from the Archives" Cannot be located on both Old iControl Site and Portal Site, Please Specify where to get the data. (Extract the bios from the archives and place them into "Meet the Optometrists" along with the appropriate photos.)
+- DONE: Added the photos to Eyewear Collections
+
+================================================================
+https://na43.salesforce.com/5000G00001R1vaQ
+00449165
+drkoppari.net
+
+https://my.chiromatrix.com/0015287/site/editor/cms
+15287
+
+2018-2-19
+
+- DONE: Providence Purple
+
+================================================================
+https://na43.salesforce.com/5000G00001R2oco
+00450042
+thebalancedatlas.com
+
+Clayton theme with the Orange 
+INPROGRESS
+
+================================================================
+https://na43.salesforce.com/5000G00001QQUoE
+00444898
+perkinschiro.net
+'Carlsbad' and use the orange
+15334
+http://my.chiromatrix.com/0015334/site/editor/cms
+
+
+2018-2-20
+
+- DONE: 'Carlsbad' and use the orange
+
+================================================================
+
+https://na43.salesforce.com/5000G00001PqlCe
+00442946
+14973
+chiropracticnw.com
+DONE REVISIONS
+================================================================
+https://na43.salesforce.com/5000G00001QRu9I
+00446347
+springmeadowvetclinic.com
+http://my.vetmatrix.com/0015388/site/editor/cms
+15388
+"Venice" theme.
+
+2018-2-21
+
+- DONE:
+- NOTE: Pls Add Pics
+for Terea, Catie, Sami, Kaitlin
+Customer Service Representative on Meet our team
+- NOTE: Component cannot be added on Staff. The staff information is being cut and limited to a maximum number of words, therefore i have to use the editable component.
+
+================================================================
+https://na43.salesforce.com/5000G00001R2Ua7
+00449699
+orlandospine.com
+================================================================
+https://na43.salesforce.com/5000G00001R2TRi
+00449677
+familyvisioncarelagrange.com
+================================================================
+https://na43.salesforce.com/5000G00001R4q4a
+00451769
+skyechiropractic.net
+================================================================
+https://na43.salesforce.com/5000G00001R2oco
+thebalancedatlas.com
+Client has chosen the Clayton theme with the Orange
+================================================================
+https://na43.salesforce.com/5000G00001R23nX
+00449359
+downtownbroadwaychiro.com
+15486
+http://my.chiromatrix.com/0015486/site/editor/cms
+
+HOT iControl to Portal - downtownbroadwaychiro.com
+Description	
+Baltimore
+
+2018-2-22
+
+- DONE: Baltimore Blue
+================================================================
+https://na43.salesforce.com/5000G00001R2oco
+00450042
+thebalancedatlas.com
+15498
+
+https://my.chiromatrix.com/0015498/site/editor/cms
+
+
+
+class="d-inline"
+
+
+2018-2-27
+
+- DONE: Clayton to Orange
+- DONE: Migrated the Site.
+- DONE: Inverted the Logo from black Font to White to be able to be seen on dark background
+- DONE: ALL Pages are customized with Bootstrap Grid
+
+================================================================
+
+https://na43.salesforce.com/5000G00001R1zA2
+http://www.wardywellnesschiro.com/
+https://my.chiromatrix.com/0015134
+
+00449252
+
+
+
+================================================================
+00455224 Stringer Animal Clinic ENFRA - stringeranimalclinic.com
+
+2018-2-28
+
+- DONE: Added Chris Amtower, Kennel Tech to Staff
+
+================================================================
+00455150 Stringer Animal Clinic ENFRA - stringeranimalclinic.com
+
+2018-2-28
+
+- DONE: Uploaded the Image Attached from the email
+
+================================================================
+00455144 Stringer Animal Clinic ENFRA - stringeranimalclinic.com
+
+2018-2-28
+
+- DONE: Snipped the 2nd Logo PDF file 
+- DONE: Made Higher Definition on Adobe Illustrator
+- DONE: Uploaded the HD Logo to Site
+
+================================================================
+00450628 Washington Crossing Animal Hospital ENFRA - WashCrossAH.com
+
+2018-2-28
+
+- DONE: 4. change petstamonials to Testimonials
+- DONE: 5. change out the photo of the parrot on the scrolling topics
+- DONE: 7. Facebook and Twitter link to the top of the page. 
+- Unable To locate "CLIENT SURVEY" Please Specify. (9. The client survey is hidden under articles. Can you move it up to the 
+home page under the promotions box. )
+- DONE 11. Pet memorials page > pet memorial form is already added
+
+================================================================
+00455101 Gentle Care Veterinarian ENFRA - gentlecareveterinary.com
+
+2018-3-1
+
+- DONE: Added Google Analytics Script on website
+
+================================================================
+00444729 Strain Equine Services LLC ENFRA - strainequineservices.com
+
+2018-3-1
+
+- DONE: 1. Internal Medicine. Should just say wellness. 
+- DONE: 2. Under Client Education remove the heading "Video" 
+- DONE: 3. Under 'When you have an emergency' tab and the Kansas city mounted patrol tab 
+NOTE: What to Expect > provide Image link of "Image of puppy." alternate text Image to fix the broken image link
+NOTE: Client Education > Links are not accurate. Please verify.
+NOTE: Provide Update to better Logo Image
+
+================================================================
+00450072 Look & See Eyecare ENFRA - lookandsee.ca
+
+
+	
+2018-3-1
+
+- DONE: 1. Short Bio is already added
+- DONE: Added Snip shot of Review from > (https://www.ratemds.com/doctor-ratings/948484/Dr-Camy-Grewal-Toronto-ON.html)
+NOTE: This cannot be embedded and iframed to the site because the site is set to x-Frame-options value="sameorigin" and thus refuses to display on an iframe.
+- DONE: Fixed Slider Image
+- DONE: Fixed Mobile view > slider
+- DONE: 2. some of the recent reviews from ratemd
+- DONE: 3. social media links rateMD 
+- DONE: 4. Education Centre - added the img from https://www.lookandsee.ca/blank-4
+- DONE: 5. presbyopia added image from https://www.lookandsee.ca/presbyopia 
+- DONE: 6. delete the "Hard to Fit CL" page under Services 
+PREVIEW SITE: https://my.imatrix.com/0013399
+
+================================================================
+00454952 Dr. Sue C Simpson OD ENFRA - youreyesoftexas.com
+
+2018-3-2
+
+- DONE: Added white transparent background on logo to better see the logo
+- DONE: Fixed Staff component error on home
+- EMAILS ADDED:
+Added: drsue@youreyesoftexas, 
+Added: linda@youreyesoftexas, 
+Already Added: appointments@youreyesoftexas, 
+Added: insurance@youreyesoftexas 
+
+- NOTE: Please specify (- To the application:)
+- NOTE: Please specify/send the image icon (- add the Rio Ora icon)
+- DONE: make the phone number (979)77-TEXAS (83927) 
+
+- NOTE: (I will be going live very soon) your site is currently live: youreyesoftexas.com 
+- NOTE: i will not publish the edits. heres the preview link: https://my.imatrix.com/0013550/
+
+================================================================
+00455490 Dr. Sue C Simpson OD ENFRA - youreyesoftexas.com
+
+2018-3-2
+
+- NOTE: This is a duplicate case with: https://na43.salesforce.com/5000G00001RnWGI 
+
+================================================================
+00455544 ELITE EQUINE VETERINARY SVC ENFRA - eliteequinedrcarr.com
+https://my.vetmatrix.com/0015143
+http://eliteequinedrcarr.com/
+
+2018-3-2
+
+- DONE: Added Dr Nancy on Bio.
+- Published
+
+================================================================
+00456777 Long Lake Animal Hospital ENFRA - longlakevets.com
+https://na43.salesforce.com/5000G00001RovBg
+
+2018-3-2
+
+- DONE: 1. Update the Our Team page
+- DONE: 2. Add these services to the Services page:  
+- acupuncture 
+- laser therapy 
+- integrated medicine 
+- holistic medicine 
+- DONE: 3. Make sure form notifications get sent to info@longlakevets.com instead of awcwc@verizon.net
+PREVIEW: https://my.vetmatrix.com/0015536
+
+================================================================
+https://na43.salesforce.com/5000G00001OdwQZ        - 00433872
+https://na43.salesforce.com/5000G00001QTnye          - 00448563
+
+00433872
+amshpetvet.com
+
+icontrol to portal - amshpetvet.com
+https://my.vetmatrix.com/0014266/site/editor/cms
+
+2018-3-5
+
+- DONE: Changed Theme from Colton sky to San Diego in blue for the new case was specified.
+- DONE: HOME Page Done Added the Embed code but some script is missing for it to work
+- DONE: 
+
+
+================================================================
+https://na43.salesforce.com/5000G00001R2TRi
+00449677
+familyvisioncarelagrange.com
+http://my.imatrix.com/0015218/site/editor/cms
+
+
+2018-3-6
+
+- DONE: Atlanta - Green
+
+================================================================
+https://na43.salesforce.com/5000G00001R2Ua7
+00449699
+orlandospine.com
+
+http://my.chiromatrix.com/0015217/site/editor/cms
+================================================================
+https://na43.salesforce.com/5000G00001R4q4a
+00451769
+skyechiropractic.net
+https://my.chiromatrix.com/0016076/site/cms
+
+Theme: Baltimore 
+Color: orange 
+
+
+2018-3-7
+
+- DONE: Theme: Baltimore Color: orange 
+
+================================================================
+https://na43.salesforce.com/5000G00001Rmih5
+00454058
+mypedeyedr.com
+16196
+https://my.imatrix.com/0016196/site/editor/cms
+
+Austin in gold 
+
+2018-3-8
+
+- DONE: Austin in gold
+
+================================================================
+https://na43.salesforce.com/5000G00001R2CsM
+00449465
+allsupchiropractic.com
+15220
+
+my.chiromatrix.com/0015220/site/editor/cms
+switch to montauk - blue
+
+2018-3-8
+
+- DONE: montauk - blue
+
+================================================================
+https://na43.salesforce.com/5000G00001R4qhD
+00451781
+uvhberkeley.com
+https://my.vetmatrix.com/0015627/site/editor/cms
+0015627
+
+
+2018-3-12
+
+- DONE: Montauk in blue
+
+================================================================
+https://na43.salesforce.com/5000G00001SSnmy
+00459599
+tulsa
+info@straightaheadchiropractic.com
+DrTimStein@straightaheadchiropractic.com
+16434
+straightaheadchiropractic.com
+https://my.chiromatrix.com/0016434/site/cms
+
+
+
+2018-3-12
+
+- DONE: Tulsa Custom Color with old theme
+
+================================================================
+https://na43.salesforce.com/5000G00001SUYZX
+00462108
+
+cutittachiro.com
+
+16476
+Theme: Detroit
+Color: Turquoise
+
+https://my.chiromatrix.com/0016476/site/editor/cms
+================================================================
+https://na43.salesforce.com/5000G00001Rq10w
+00458549
+advantagevision.net
+16001
+
+2018-3-13
+
+- DONE: Tulsa Blue
+
+================================================================
+https://na43.salesforce.com/5000G00001Rq10x
+00458550
+advancedvisionoflouisville.com
+16002
+https://my.imatrix.com/0016002/site/editor/cms
+
+2018-3-13
+
+- DONE: Tulsa in Orange
+
+================================================================
+https://na43.salesforce.com/5000G00001Rq10y
+00458551
+advancedfamilyeyecare.net
+
+my.imatrix.com/0016003/site/editor/cms
+
+2018-3-14
+
+- DONE: Buffalo Charcoal
+
+================================================================
+
+https://na43.salesforce.com/5000G00001Rq10w
+advantagevision.net
+https://my.imatrix.com/0016001/
+
+
+REVISIONS DONE SETTING LIVE
+================================================================
+https://na43.salesforce.com/5000G00001Rq10z
+00458552
+advanced2020.com
+
+
+https://my.imatrix.com/0016004/site/editor/cms
+
+2018-3-14
+
+- DONE: Buffalo Blue
+
+================================================================
+http://advancedvisionoflouisville.com/
+
+
+================================================================
+https://na43.salesforce.com/5000G00001Rq10y
+00458551
+advancedfamilyeyecare.net
+
+my.imatrix.com/0016003/site/editor/cms
+
+2018-3-14
+
+revising
+================================================================
+https://na43.salesforce.com/5000G00001Rq110
+00458553
+advanced-vision.org
+
+
+https://my.imatrix.com/0016006/site/editor/cms
+
+2018-3-15
+
+- DONE: Detroit Blue
+
+================================================================
+https://na43.salesforce.com/5000G00001STK01
+00460148
+stinevet.com
+info@stinevet.com
+
+Please switch them to fulton in beach
+35.3148929
+-119.05611699999997
+my.vetmatrix.com/0016709/site/editor/cms
+16709
+2018-3-15
+
+- DONE: fulton in beach
+
+================================================================
+https://na43.salesforce.com/5000G00001Rn4bQ
+00454432
+stegenvision.com
+http://stegenvision.com/
+https://my.imatrix.com/0014701
+
+
+
+
+2018-3-15
+
+- DONE: Memphis Orange
+- NOTE: Client says Memphis Brown but the current theme they picked has no Brown Theme but rather Orange that which is brownlike. Please see preview 
+PREVIEW: https://my.imatrix.com/0014701/
+
+================================================================
+https://na43.salesforce.com/5000G00001SS64W
+00458843
+align-me.com
+https://align-me.com/
+COLTON in SKY BLUE
+gmdc93@aol.com
+https://my.chiromatrix.com/0016717/site/editor/cms
+16717
+40.6710235
+-73.5105097
+
+2018-3-15
+
+-DONE: COLTON in SKY BLUE
+
+================================================================
+https://na43.salesforce.com/5000G00001SUYZX
+00462108
+cutittachiro.com
+mailto:info@cutittachiro.com?subject=Question%20for%20Dr.%20Cutitta
+
+https://my.chiromatrix.com/0016476/site/cms
+
+2018-3-19
+
+- NOTE: Please update "CarAccident.pdf" file. File cannot be found.
+- DONE: Theme: Detroit Color: Turquoise
+Payment OptionsPayment OptionsPayment Options
+================================================================
+https://na43.salesforce.com/5000G00001Rq0jO
+00457867
+
+westcountyvision.com
+http://my.imatrix.com/0016414/site/editor/cms
+
+
+2018-3-19
+
+- DONE: Detroit - Turquoise
+NOTE: Featured button > Make Appointment Link is not reachable, Added the Request appointment link in slider instead
+
+================================================================
+https://na43.salesforce.com/5000G00001Rq0jP
+00457868
+webbfamilyeyecare.com
+
+https://my.imatrix.com/0016415/
+
+2018-3-19
+
+- DONE: Redmond - Blue
+
+================================================================
+https://na43.salesforce.com/5000G00001Rq0zH
+00458485
+http://my.imatrix.com/0016139/site/editor/cms
+brattlesquareoptical.com
+
+2018-3-19
+
+-DONE: Westchester GREY
+
+================================================================
+https://na43.salesforce.com/5000G00001Rq0jP
+00457868
+webbfamilyeyecare.com
+https://my.imatrix.com/0016415/
+
+
+================================================================
+https://na43.salesforce.com/5000G00001Rq0jS
+00457871
+
+warreneyecareok.com
+http://my.imatrix.com/0016416/site/editor/cms
+
+2018-3-21
+
+-DONE: Buffalo in Charcoal
+
+================================================================
+https://na43.salesforce.com/5000G00001Rq0jT
+00457872
+vvisioncare.com
+
+
+https://my.imatrix.com/0016418
+2018-3-21
+
+- DONE: Detroid - RED
+- NOTE: PLEASE DO UPDATE PAGE: "NEW PAGE" Instead replaced it with "One of the Top Optometrists and Optometry Offices" as page title.
+- NOTE: On the content said above, I added the Code at HTML side of the page
+
+================================================================
+https://na43.salesforce.com/5000G00001SUsnQ
+00462436
+animalcareclinichhi.com
+
+
+Please rush the skin redesign to oceanside 
+
+Told him it will be done before next week because of how mad he was. Also need social to reach out to get that part of the service started
+
+https://my.vetmatrix.com/0017109/site/editor/cms
+
+2018-3-22
+
+- DONE: Oceanside - Ocean as it is the default theme and no specific color on the description
+
+================================================================
+https://na43.salesforce.com/5000G00001SjfqE
+00463691
+
+wellnessonthepoint.com | eastottermanchiropractic.com
+
+VENICE* theme. 
+https://my.chiromatrix.com/0017136/site/editor/cms
+
+2018-3-22
+
+- NOTE: Sent to Tier 2 for iStore Confirmation
+- DONE: Website Migration Venice - Green
+
+================================================================
+https://na43.salesforce.com/5000G00001Rq0lx?srPos=0&srKp=500
+00457977
+songweeyecare.com
+
+2018-3-23
+
+-DONE: Buffalo Brown
+
+================================================================
+https://na43.salesforce.com/5000G00001Rq0lz?srPos=0&srKp=500
+00457979
+socoeyecare.com
+================================================================
+https://na43.salesforce.com/0010G00002BFmCx?srPos=0&srKp=500
+383444
+salampc.com
+https://my.chiromatrix.com/0016238/site/editor/cms
+
+- 21. OIL FIELD AND DRILLING INJURIES
+	- (Salam & Associates,) PC,
+	- manufacturer was negligent
+
+
+
+
+mailto:fatima@salampc.com
+<a href="mailto:fatima@salampc.com"><u>send us an email</u></a>.
+
+
+
+
+================================================================
+
+https://na43.salesforce.com/5000G00001SjABx
+00462946
+bennettrdvet.com
+
+https://my.vetmatrix.com/0008760/site/editor/cms
+
+
+
+2018-3-29
+
+- DONE Editing all the images to 750px-orientation
+
+================================================================
+
+https://na43.salesforce.com/5000G00001RowDE
+00456811
+cedarparkeyecare.com
+centraltexas-eyecare.com
+http://my.imatrix.com/0017518/site/editor/cms
+
+2018-3-29
+
+- DONE: Venice in the grey 
+
+================================================================
+
+https://na43.salesforce.com/5000G00001Rp6oE
+00456946
+healthcarecomplete.com
+https://my.chiromatrix.com/0017520/
+
+17520
+
+2018-3-29
+
+- DONE: NEWPORT version in PURPLE. 
+
+================================================================
+
+https://na43.salesforce.com/5000G00001STDvn
+00460072
+
+
+hopeanimalhospital.org
+
+17522
+https://my.vetmatrix.com/0017522/site/editor/cms
+
+2018-3-29
+
+- DONE: Laguna Green
+
+================================================================
+https://na43.salesforce.com/5000G00001Rq0tu?srPos=0&srKp=500
+00458267
+
+
+2018-3-30
+
+- DONE: MIGRATION: Tulsa Blue
+
+================================================================
+https://na43.salesforce.com/5000G00001Rq0tt
+00458266
+fifthavenueopticalgalleria.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="display:none;">Lorem Ipsum</p>
+
+
+
+2018-3-21
+
+-SITE IS NOW LIVE
+
+================================================================
+
+
+
+
+Your First Visit
+Phase 1: Relief Care
+Phase 2: Corrective Care
+Phase 3: Wellness Care
+
+franclin.cr54rep@gmail.com
+Enfra2018!
+main
+page_left
+page_content
+================================================================
+SETTING LIVE CASES: 
+================================================================
+franclin.cr54rep@gmail.com
+Password1!
+fr@ncL1n!!
+================================================================
+whois.domaintools.com/
+98.158.194.41
+
+
+Final steps for setting a portal website live:
+
+1.	Go to who.is and check to see if the clients name servers are pointing to us, example:  https://who.is/whois/roederwellnesscenter.com . You are looking for them to be pointing to NS1.IMATRIX.COM and NS2.IMATRIX.COM
+     a. 	If you run into a client who's name servers are not pointing to us, just move the case over to   support letting them know that they need to reach out to the client to have them update their IP address. Unfortunately if it's not pointing to us we can't control it.
+
+2.	Log into iControl, look up the client and on the left 'I Want To' menu go to 'Manage DNS' and edit their www and non www IP addresses to 98.158.194.41 (note that the last 3 digits are different from iControl) to point to portal. It'll look like this: https://www.screencast.com/t/NDGfBAxNjWzW
+
+3.	Go back to the ‘Manage Domains’ tab in portal, there will be a ‘Launch Website’ button available: https://www.screencast.com/t/2tqUfnnhJcS
+
+Clicking this button will process the switch quickly, once completed go through all apps, users and permissions to make sure everything has been switched correctly. While this shouldn’t affect email check it just to be sure. 
+
+Most of the apps should have 2 domains listed and look like this https://www.screencast.com/t/RxUOJRq56tp
+
+If you get stuck let me know, I'm stepping out for lunch but I'll take a look as soon as I get back
+
+
+
+
+
+
+
+10:00PM - 12:00AM
+
+https://portal.imatrixbase.com/Dashboard
+ADS | 01234567 | dummydummy.com
+https://na43.salesforce.com/dummydummy
+https://portal.vetmatrixbase.com/site/dummydummy
+http://my.chiromatrix.com/01234567/site/editor/cms
+
+updated Pages that lacks information needed
+On Progress at New Patient health history form
