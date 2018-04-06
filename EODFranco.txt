@@ -3604,6 +3604,160 @@ https://my.imatrix.com/0017426/site/editor/cms
 - DONE: MIGRATION: Baltimore Orange
 
 ================================================================
+https://na43.salesforce.com/5000G00001Rp5hR
+santabarbarawellnessforlife.com
+00456922
+https://my.chiromatrix.com/0017519/site/editor/cms
+
+2018-4-2
+
+- DONE: Newport-BLUE
+================================================================
+https://na43.salesforce.com/5000G00001ST3fH?srPos=0&srKp=500
+00459887
+middletownvet.net	In Progress
+https://my.vetmatrix.com/0017521/
+
+
+2018-4-2
+
+- DONE: Monterey Blue
+
+================================================================
+https://na43.salesforce.com/5000G00001Rq0tE?srPos=1&srKp=500
+00458235
+greenbriarvisioncenter.com
+
+https://my.imatrix.com/0017461/site/editor/cms
+
+2018-4-3
+
+- DONE: Tulsa Teal
+
+================================================================
+https://na43.salesforce.com/5000G00001Rq0x6
+00458390
+
+drhelenk.com
+https://my.imatrix.com/0017740/site/editor/cms
+
+
+2018-4-3 
+
+- DONE: Tulsa Blue 
+
+================================================================ 
+https://na43.salesforce.com/5000G00001Rq0x3
+00458387
+
+drjays2020.com
+https://my.imatrix.com/0017738/site/editor/cms
+
+2018-4-3
+
+- DONE: Baltimore-red
+
+================================================================ 
+https://na43.salesforce.com/5000G00001Rq0x1
+00458385
+drjohnkauffman.com
+
+https://my.imatrix.com/0017737/site/editor/cms
+
+2018-4-4
+
+- DONE: Tulsa-Blue
+
+================================================================ 
+
+https://na43.salesforce.com/5000G00001SiztZ
+00462755
+
+nfmcjax.com
+http://nfmcjax.com/employment.html
+
+https://my.chiromatrix.com/0016729/site/editor/cms
+
+2018-4-4
+
+- DONE: Tulsa - Blue
+
+================================================================ 
+https://na43.salesforce.com/5000G00001Rq0y9
+00458425
+
+deborahmcdonaldoptometry.com
+
+http://my.imatrix.com/0017703/site/editor/cms
+
+
+2018-4-4
+
+- DONE: Tulsa - Blue
+
+================================================================ 
+https://na43.salesforce.com/5000G00001SlXuQ
+00465835
+
+unionspinenj.com
+https://my.chiromatrix.com/0017787/site/editor/cms
+
+
+	
+switch to colton - sky 
+
+2018-4-4
+
+- DONE: colton - sky 
+
+================================================================ 
+00462933
+https://na43.salesforce.com/5000G00001Sj9ZZ
+sagamorehillsanimalhospital.com
+https://my.vetmatrix.com/0017780/site/editor/cms
+
+
+2018-4-4
+
+- DONE: TULSA in ORANGE
+
+================================================================ 
+00458253
+https://na43.salesforce.com/5000G00001Rq0tb
+fvcoptometry.net
+https://my.imatrix.com/0017405/site/editor/cms
+
+2018-4-5
+
+- DONE: TULSA in Custom Brown Color to match old Site
+
+================================================================ 
+00458420
+https://na43.salesforce.com/5000G00001Rq0xp
+denniseyecare.com
+https://my.imatrix.com/0017696/site/editor/cms
+
+2018-4-6
+
+- DONE: Clayton - Cherry
+
+================================================================ 
+00458253
+https://na43.salesforce.com/5000G00001Rq0tb
+fvcoptometry.net
+
+
+================================================================ 
+00458426
+https://na43.salesforce.com/5000G00001Rq0yA
+dayneseyecare.com
+https://my.imatrix.com/0017712/site/editor/cms
+
+2018-4-6
+
+- DONE: BUFFALO-Blue
+
+================================================================ 
 
 
 
@@ -3636,20 +3790,53 @@ https://my.imatrix.com/0017426/site/editor/cms
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>ul{list-style-type:none!important;}</style>
 
 
 <p style="display:none;">Lorem Ipsum</p>
 
 
+<p style="clear:both;"></p>
 
-2018-3-21
+2018-4-5
 
 -SITE IS NOW LIVE
 
+
+OUT OF OFFICE UNTIL 4/9
 ================================================================
-
-
-
 
 Your First Visit
 Phase 1: Relief Care
