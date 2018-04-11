@@ -85,3 +85,29 @@
     margin:0 auto;
     width:100%;
 }
+
+/* CLEARS */
+.f-clear-b{
+    clear:both;
+}
+.f-clear-n{
+    clear:none;
+}
+
+
+/* DISPLAYS */
+.f-display-n{
+    display: none;
+}
+.f-display-ib{
+    display: inline-block;
+}
+.f-display-b{
+    display: block;
+}
+.f-display-if{
+    display:inline-flex;
+}
+.f-display-f{
+    display: flex;
+}
