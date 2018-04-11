@@ -3753,11 +3753,51 @@ https://na43.salesforce.com/5000G00001Rq0yA
 dayneseyecare.com
 https://my.imatrix.com/0017712/site/editor/cms
 
-2018-4-6
+2018-4-09
 
 - DONE: BUFFALO-Blue
 
 ================================================================ 
+00475617
+https://na43.salesforce.com/5000G00001U7FiK
+lookoutmountainvet.com
+https://my.vetmatrix.com/0018141/site/editor/cms
+https://admin.imatrixbase.com/icontrol/clients/edit_client.php?cid=17297
+
+
+
+2018-4-09
+
+- DONE: SANTAANA-Yellow
+
+================================================================ 
+00474211
+https://na43.salesforce.com/5000G00001U64S8
+robbinsroadanimalclinic.com
+http://my.vetmatrix.com/0000737/site/editor/cms
+
+Irvin/orange
+
+2018-4-10
+
+- DONE: From Westchester to Irvin/orange
+
+================================================================ 
+00477241
+https://na43.salesforce.com/5000G00001UQXF0
+bovh.com
+https://my.vetmatrix.com/0018197/site/editor/cms
+18197
+
+Atlanta - Green
+
+2018-4-10
+
+- DONE: Atlanta - Green
+
+================================================================ 
+
+
 
 
 
@@ -3849,11 +3889,12 @@ main
 page_left
 page_content
 ================================================================
-SETTING LIVE CASES: 
+SETTING LIVE CASES: middletownvet.net
 ================================================================
 franclin.cr54rep@gmail.com
 Password1!
 fr@ncL1n!!
+959zz
 ================================================================
 whois.domaintools.com/
 98.158.194.41
