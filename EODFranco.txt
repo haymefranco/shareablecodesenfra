@@ -3826,10 +3826,7 @@ Atlanta - Green
 
 
 
-
-
-
-
+White bg on exclusive offer
 
 
 
@@ -3868,7 +3865,7 @@ Atlanta - Green
 <p style="display:none;">Lorem Ipsum</p>
 
 
-<p style="clear:both;"></p>
+<span style="clear:both;"></span>
 
 2018-4-5
 
