@@ -3814,7 +3814,7 @@ https://my.imatrix.com/0003173/site/editor/cms
 18stillwater.com
 https://my.chiromatrix.com/0018296/site/editor/cms
 
-2018-4-12
+2018-4-13
 
 - DONE: Migrated to TULSA: Custom Brown
 
@@ -3823,11 +3823,32 @@ https://my.chiromatrix.com/0018296/site/editor/cms
 athanschiro.com
 https://my.chiromatrix.com/0018390/site/editor/cms
 
-2018-4-12
+2018-4-13
 
 - DONE: Migrated to TULSA: Custom Brown
 
 ================================================================ 
+
+adamchiro.com
+https://my.chiromatrix.com/0018499/site/editor/cms
+
+
+2018-4-13
+
+- DONE: Migrated to Monterey - Red
+
+================================================================ 
+https://na43.salesforce.com/0010G00002BFmCx?srPos=0&srKp=500
+383444
+salampc.com
+https://my.chiromatrix.com/0016238/site/editor/cms
+
+================================================================ 
+
+
+
+
+
 
 
 
