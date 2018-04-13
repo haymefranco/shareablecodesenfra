@@ -3791,9 +3791,41 @@ https://my.vetmatrix.com/0018197/site/editor/cms
 
 Atlanta - Green
 
+
+
+White bg on exclusive offer
+
 2018-4-10
 
 - DONE: Atlanta - Green
+
+================================================================ 
+00459913
+https://na43.salesforce.com/5000G00001ST40a
+newvisioneyes.com
+https://my.imatrix.com/0003173/site/editor/cms
+
+2018-4-12
+
+- DONE: Laguna design in blue.
+
+================================================================ 
+
+18stillwater.com
+https://my.chiromatrix.com/0018296/site/editor/cms
+
+2018-4-12
+
+- DONE: Migrated to TULSA: Custom Brown
+
+================================================================ 
+
+athanschiro.com
+https://my.chiromatrix.com/0018390/site/editor/cms
+
+2018-4-12
+
+- DONE: Migrated to TULSA: Custom Brown
 
 ================================================================ 
 
@@ -3817,16 +3849,6 @@ Atlanta - Green
 
 
 
-
-
-
-
-
-
-
-
-
-White bg on exclusive offer
 
 
 
