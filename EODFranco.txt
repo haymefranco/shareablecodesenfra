@@ -3845,6 +3845,457 @@ https://my.chiromatrix.com/0016238/site/editor/cms
 
 ================================================================ 
 
+americanchiropracticonline.com
+https://my.chiromatrix.com/0018369/site/editor/cms
+
+2018-4-16
+
+- DONE: Migrated to Clayton - ORANGE
+
+================================================================ 
+https://na43.salesforce.com/5000G00001UT8ax
+
+absolutebalancechiropractic.com
+https://my.chiromatrix.com/0018473/site/editor/cms
+
+2018-4-16
+
+ERROR ON MIGRATION
+https://drive.google.com/file/d/12UQnoa04mxQI4RbClUrnho_SHKbDhwFO/view
+
+- DONE: Migrated to Buffalo Blue
+TIER 2
+================================================================ 
+
+advancedchiroandnutrition.com
+https://my.chiromatrix.com/0018335/site/editor/cms
+
+
+2018-4-16
+
+- DONE: Migrated to Detroit
+
+================================================================ 
+
+atlasfirstchiropractic.com
+https://my.chiromatrix.com/0018418/site/editor/cms
+
+
+2018-4-16
+
+- DONE: Migrated to Detroit
+
+================================================================ 
+
+absolutewellnesscenters.com
+https://my.chiromatrix.com/0018479/site/editor/cms
+
+2018-4-17
+
+- DONE: Migrated to Baltimore Beige Custom Brown
+
+================================================================ 
+
+advancedchirocenterinc.com
+https://my.chiromatrix.com/0018337/site/editor/cms
+
+2018-4-17
+
+- DONE: Migrated to Tulsa Custom Color
+
+================================================================ 
+
+americanchirowellness.com
+https://my.chiromatrix.com/0018374/site/editor/cms
+
+2018-4-17
+
+- DONE: Migrated to Detroit Custom Color
+
+================================================================ 
+
+adamschiroclinic.com
+https://my.chiromatrix.com/0018500/site/editor/cms
+
+2018-4-17
+
+- DONE: Migrated to Baltimore Blue
+
+================================================================ 
+
+abundantlifechirosunnyvale.com
+https://my.chiromatrix.com/0018482/site/editor/cms
+
+2018-4-17
+
+- DONE: Migrated to Baltimore Purple
+
+================================================================ 
+
+ambrosechiro.com
+https://my.chiromatrix.com/0018366/site/editor/cms
+
+2018-4-17
+
+- DONE: Migrated to Baltimore Purple
+
+================================================================ 
+
+advcarechiro.com
+https://my.chiromatrix.com/0018416/site/editor/cms
+
+2018-4-18
+
+- DONE: Migrated to Buffalo Blue
+
+================================================================ 
+
+adiochiro.com
+https://my.chiromatrix.com/0018304/site/editor/cms
+
+2018-4-18
+
+- DONE: Migrated to Monterey Blue
+
+================================================================ 
+
+aventurachiropractic.com
+https://my.chiromatrix.com/0018450/site/editor/cms
+
+2018-4-18
+
+- DONE: Migrated to Buffalo Brown
+
+================================================================ 
+
+arnelchiropractic.com
+https://my.chiromatrix.com/0018318/site/editor/cms
+
+2018-4-18
+
+- DONE: Migrated to Redmond Blue
+
+================================================================ 
+
+abundantjoychiropractic.com
+https://my.chiromatrix.com/0018481/site/editor/cms
+
+2018-4-18
+
+- DONE: Migrated to Clayton Lime
+
+================================================================ 
+
+activefamilychiro.net
+https://my.chiromatrix.com/0018495/site/editor/cms
+
+2018-4-19
+
+- DONE: Migrated to Buffalo Blue
+
+================================================================ 
+
+brevarddisc.com
+https://my.chiromatrix.com/0018596/site/editor/cms
+
+
+2018-4-19
+
+- DONE: Migrated to Buffalo Blue
+
+================================================================ 
+
+aspineatatime.com
+https://my.chiromatrix.com/0018370/site/editor/cms
+
+2018-4-20
+
+- DONE: Migrated to Tulsa Blue
+
+================================================================ 
+
+brickellchiro.com
+https://my.chiromatrix.com/0018597/site/editor/cms
+
+2018-4-20
+
+- DONE: Migrated to Tulsa Custom Green
+
+================================================================ 
+
+backandbrain.com
+https://my.chiromatrix.com/0018760/
+
+
+2018-4-23
+
+- DONE: Migrated to Tulsa Blue
+
+================================================================ 
+
+https://boothechiro.com/
+https://my.chiromatrix.com/0018663/
+
+2018-4-24
+
+- DONE: Migrated to Redmond light-blue fixed
+
+================================================================ 
+
+brookhavenchiro.net
+https://my.chiromatrix.com/0018622/site/editor/cms
+
+2018-4-24
+
+- DONE: Migrated to Buffalo BROWN
+
+================================================================ 
+18775
+backdoctor4u.com
+https://my.chiromatrix.com/0018775/site/editor/cms
+
+2018-4-24
+
+- DONE: Migrated to Tulsa Custom Green
+
+================================================================ 
+18629
+baychiropracticcenter.com
+https://my.chiromatrix.com/0018629/site/editor/cms
+
+2018-4-24
+
+- DONE: Migrated to Tulsa Custom Teal
+
+================================================================ 
+
+18675
+bondchiropracticcanonsburg.com
+https://my.chiromatrix.com/0018675/site/editor/cms
+
+2018-4-24
+
+- DONE: Migrated to Tulsa Custom Teal
+
+================================================================ 
+
+18822
+bairchiro.com
+https://my.chiromatrix.com/0018822/site/editor/cms
+
+2018-4-25
+
+- DONE: Migrated to Baltimore Blue
+
+================================================================ 
+
+bowlingchiropractic.com
+https://my.chiromatrix.com/0018644/site/editor/cms
+
+2018-4-25
+
+- DONE: Migrated to Redmond LightBlue
+
+================================================================ 
+18876
+cascadechiropractic.com
+https://my.chiromatrix.com/0018876/site/editor/cms
+
+2018-4-25
+
+- DONE: Migrated to Tulsa Custom Teal Brown
+
+================================================================ 
+18879
+castlerockspinaldecompression.com
+https://my.chiromatrix.com/0018879/site/editor/cms
+
+2018-4-25
+
+- DONE: Migrated to Buffalo White
+
+================================================================ 
+
+18880
+catalystchiropractic.net
+https://my.chiromatrix.com/0018880/site/editor/cms
+
+
+2018-4-25
+
+- DONE: Migrated to Westchester Blue
+
+================================================================ 
+18882
+cateschiropractic.com
+https://my.chiromatrix.com/0018882
+
+2018-4-25
+
+- DONE: Migrated to Westchester Green
+
+================================================================ 
+18885
+cccwaukesha.com
+https://my.chiromatrix.com/0018885/site/editor/cms
+
+
+2018-4-26
+
+- DONE: Migrated to Westchester Green
+
+================================================================ 
+18887
+cedarspringschiropractor.com
+https://my.chiromatrix.com/0018887/site/editor/cms
+
+2018-4-26
+
+- DONE: Migrated to Baltimore Blue
+
+================================================================ 
+18889
+celebrationheadachechiro.com
+https://my.chiromatrix.com/0018889/site/editor/cms
+
+2018-4-26
+
+- DONE: Migrated to 
+
+================================================================ 
+18938
+cellularhealinghc.com
+https://my.chiromatrix.com/0018938/site/editor/cms
+
+2018-4-26
+
+- DONE: Migrated to 
+
+================================================================ 
+18940
+centercitychiropractor.com
+https://my.chiromatrix.com/0018940/site/editor/cms
+
+2018-4-26
+
+- DONE: Migrated to 
+
+================================================================ 
+18941
+centerforhealthri.com
+https://my.chiromatrix.com/0018941/site/editor/cms
+ 2018-4-26
+
+- DONE: Migrated to 
+
+================================================================ 
+https://na43.salesforce.com/5000G00001V2pZj
+ccptr.org
+https://my.chiromatrix.com/0008331
+
+
+
+- DONE: Migrated to Tulsa - Grey change all the orange tone to red
+
+================================================================ 
+
+https://na43.salesforce.com/5000G00001VZAF7
+barneveldfamilychiropractic.com
+http://my.chiromatrix.com/0018611/site/editor/cms
+
+2018-4-30
+
+- DONE: Added Missing Content Under Payment Options
+- DONE: Fixed About Us Content. (removed the Bullets on components)
+- DONE: Added Office Hours under Contact Page
+
+================================================================ 
+
+centerforhealthri.com
+https://my.chiromatrix.com/0018941/site/editor/cms
+
+2018-4-30
+- DONE:
+
+================================================================ 
+
+chiropracticworksvt.com
+https://my.chiromatrix.com/0019230/site/editor/cms
+
+2018-4-30
+- DONE:
+
+================================================================ 
+
+chiropractoramesiowa.com
+https://my.chiromatrix.com/0019233/site/editor/cms
+
+
+2018-4-30
+- DONE:
+
+================================================================ 
+
+chiropractorblackdiamond.com
+https://my.chiromatrix.com/0019235/site/editor/cms
+
+2018-4-30
+- DONE:
+
+================================================================ 
+
+chiropractorgreatfalls.com
+https://my.chiromatrix.com/0019237/site/editor/cms/
+
+2018-4-30
+- DONE:
+
+================================================================ 
+
+chiropractorincommack.com
+https://my.chiromatrix.com/0019239/site/editor/cms
+
+2018-4-30
+- DONE:
+
+================================================================ 
+
+chiropractorinemerson.com
+https://my.chiromatrix.com/0019243/site/editor/cms
+
+2018-4-30
+- DONE:
+
+================================================================ 
+
+
+================================================================ 
+https://na43.salesforce.com/5000G00001Rq0yI
+crystalviewoptometry.com
+================================================================ 
+https://na43.salesforce.com/5000G00001USJtG
+visionassociatesofprospect.com
+================================================================ 
+https://na43.salesforce.com/5000G00001USgGR
+libertypethospital.com
+================================================================ 
+https://na43.salesforce.com/5000G00001UTHlT
+carmonachiropractic.com
+
+2018-4-31
+- DONE: Redmond - Light Blue
+
+================================================================ 
+
+00480806
+https://na43.salesforce.com/5000G00001V1YZn
+drbrentcoons.com
+https://my.chiromatrix.com/0019587/site/editor/cms
+
+2018-4-31
+- DONE: Pheonix - Blue
+
+================================================================ 
 
 
 
@@ -3877,6 +4328,37 @@ https://my.chiromatrix.com/0016238/site/editor/cms
 
 
 
+URGENT OPENINGS:
+Account Executives for:
+CSR  - Health/Dental Care 
+Auditor  - Health/Dental Care 
+Purchasing Assistant - E-commerce
+
+
+
+
+
+
+
+
+
+Services & Techniques
+
+Phase 1: Relief Care
+Phase 2: Corrective Care
+Phase 3: Wellness Care
+
+
+
+Services
+We strive to provide complete care for our patients. Learn more about all the services we provide.
+
+Make An Appointment
+We will do our best to accommodate your busy schedule. Schedule an appointment today!
+
+
+Online Forms
+Our patient forms are available online so they can be completed in the convenience of your own home or office.
 
 
 
@@ -3888,18 +4370,7 @@ https://my.chiromatrix.com/0016238/site/editor/cms
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<p><a href="">Read More</a></p>
 
 
 <style>ul{list-style-type:none!important;}</style>
@@ -3915,14 +4386,9 @@ https://my.chiromatrix.com/0016238/site/editor/cms
 -SITE IS NOW LIVE
 
 
-OUT OF OFFICE UNTIL 4/9
 ================================================================
-
-Your First Visit
-Phase 1: Relief Care
-Phase 2: Corrective Care
-Phase 3: Wellness Care
-
+MEDICARD# 33457082
+bh
 franclin.cr54rep@gmail.com
 Enfra2018!
 main
@@ -3940,34 +4406,9 @@ whois.domaintools.com/
 98.158.194.41
 
 
-Final steps for setting a portal website live:
 
-1.	Go to who.is and check to see if the clients name servers are pointing to us, example:  https://who.is/whois/roederwellnesscenter.com . You are looking for them to be pointing to NS1.IMATRIX.COM and NS2.IMATRIX.COM
-     a. 	If you run into a client who's name servers are not pointing to us, just move the case over to   support letting them know that they need to reach out to the client to have them update their IP address. Unfortunately if it's not pointing to us we can't control it.
-
-2.	Log into iControl, look up the client and on the left 'I Want To' menu go to 'Manage DNS' and edit their www and non www IP addresses to 98.158.194.41 (note that the last 3 digits are different from iControl) to point to portal. It'll look like this: https://www.screencast.com/t/NDGfBAxNjWzW
-
-3.	Go back to the ‘Manage Domains’ tab in portal, there will be a ‘Launch Website’ button available: https://www.screencast.com/t/2tqUfnnhJcS
-
-Clicking this button will process the switch quickly, once completed go through all apps, users and permissions to make sure everything has been switched correctly. While this shouldn’t affect email check it just to be sure. 
-
-Most of the apps should have 2 domains listed and look like this https://www.screencast.com/t/RxUOJRq56tp
-
-If you get stuck let me know, I'm stepping out for lunch but I'll take a look as soon as I get back
+We also welcome referrals, so we invite you to share our chiropractic and wellness information with your friends and loved ones.
 
 
 
 
-
-
-
-10:00PM - 12:00AM
-
-https://portal.imatrixbase.com/Dashboard
-ADS | 01234567 | dummydummy.com
-https://na43.salesforce.com/dummydummy
-https://portal.vetmatrixbase.com/site/dummydummy
-http://my.chiromatrix.com/01234567/site/editor/cms
-
-updated Pages that lacks information needed
-On Progress at New Patient health history form
