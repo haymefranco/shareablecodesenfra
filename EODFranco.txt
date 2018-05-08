@@ -4320,6 +4320,7 @@ https://my.vetmatrix.com/0010907/site/editor/cms
 
 https://na43.salesforce.com/00T0G00004Wvaf6
 alternativehealingworks.com
+https://my.imatrix.com/0015091/site/editor/cms
 
 
 2018-5-1
@@ -4336,6 +4337,128 @@ https://na43.salesforce.com/00T0G00004Wvknk
 - DONE: 
 
 ================================================================ 
+2018-5-2
+https://na43.salesforce.com/00T0G00004WvSoF
+johnsenanimalhospital.com
+
+================================================================ 
+2018-5-2
+https://na43.salesforce.com/00T0G00004WvldR
+reevewoods.com
+
+================================================================ 
+2018-5-2
+https://na43.salesforce.com/00T0G00004WvIic
+thewellnesscenter.com
+http://my.chiromatrix.com/0012017/site/editor/cms
+================================================================ 
+2018-5-2
+https://na43.salesforce.com/00T0G00004WvIGt
+lockportchiropractic.com
+https://my.chiromatrix.com/0007544/site/editor/cms
+================================================================ 
+2018-5-2
+https://na43.salesforce.com/00T0G00004WuE1y
+bluegrasschiro.com
+https://my.chiromatrix.com/0015983/site/editor/cms
+================================================================ 
+2018-5-2
+https://na43.salesforce.com/00T0G00004WvaMd
+visionaryeyecaretampa.com
+https://my.imatrix.com/0017878/site/editor/cms
+================================================================ 
+2018-5-3
+https://na43.salesforce.com/00T0G00004Wuh46
+cornerstoneah.com
+https://my.vetmatrix.com/0005858/site/editor/cms
+================================================================ 
+2018-5-3
+https://na43.salesforce.com/00T0G00004WuFaA
+fishersvet.com
+
+
+================================================================ 
+2018-5-3
+https://na43.salesforce.com/00T0G00004WuzqH
+eyesonburnet.com
+https://my.imatrix.com/0019845/
+================================================================ 
+2018-5-3
+https://na43.salesforce.com/00T0G00004WvaUw
+armstrongchiropractic.com
+https://my.chiromatrix.com/0008961/
+================================================================ 
+2018-5-3
+https://na43.salesforce.com/00T0G00004WvyhR
+andersonchiropractic.us
+
+================================================================ 
+2018-5-3
+https://na43.salesforce.com/00T0G00004Wvaf6
+alternativehealingworks.com
+================================================================ 
+2018-5-3
+https://na43.salesforce.com/00T0G00004WwgPF
+yardleyeyecare.com
+https://my.imatrix.com/0012141/site/editor/cms
+================================================================ 
+================================================================ 
+================================================================ 
+REVISIONS
+centerforhealthri.com
+
+================================================================ 
+================================================================ 
+================================================================ 
+================================================================ 
+2018-5-3
+https://na43.salesforce.com/00T0G00004WuFaA
+fishersvet.com
+https://my.vetmatrix.com/0019963/site/editor/cms
+-DONE: Louisville/Orange Custom - Red
+================================================================ 
+2018-5-7
+https://na43.salesforce.com/00T0G00004WwUfZ
+primekinetix.com
+https://my.chiromatrix.com/0010716/site/editor/cms
+================================================================ 
+2018-5-7
+https://na43.salesforce.com/00T0G00004WwTwi
+https://lockfamilyeyecare.com/meet-the-staff.html
+================================================================ 
+2018-5-7
+https://na43.salesforce.com/00T0G00004WwDH5
+omniwellnessnyc.com
+https://my.chiromatrix.com/0017868/site/editor/cms
+================================================================ 
+2018-5-7
+https://na43.salesforce.com/00T0G00004WwTRU
+firestoneanimalhospital.com
+https://local.demandforce.com/b/firestoneanimalhospital/schedule?widget=1&d3cp_exid=firestoneanimalhospital&d3cp_source=My%2520Website
+================================================================ 
+2018-5-8
+https://na43.salesforce.com/00T0G00004Wwv3M
+fairwayknolls.com
+================================================================ 
+2018-5-8
+https://na43.salesforce.com/00T0G00004WwnAD
+anzaanimalclinic.com
+https://my.vetmatrix.com/0018993/site/editor/cms
+================================================================ 
+2018-5-8
+https://na43.salesforce.com/00T0G00004WwdJC
+quailhollowvet.com
+
+================================================================ 
+2018-5-8
+https://na43.salesforce.com/00T0G00004Wwn3r
+anzaanimalclinic.com
+https://my.vetmatrix.com/0018993/site/editor/cms
+================================================================ 
+2018-5-8
+https://na43.salesforce.com/00T0G00004WwnAw
+anzaanimalclinic.com
+https://my.vetmatrix.com/0018993/site/editor/cms
 
 
 
@@ -4359,35 +4482,6 @@ https://na43.salesforce.com/00T0G00004Wvknk
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-URGENT OPENINGS:
-Account Executives for:
-CSR  - Health/Dental Care 
-Auditor  - Health/Dental Care 
-Purchasing Assistant - E-commerce
 
 
 
@@ -4443,14 +4537,16 @@ Our patient forms are available online so they can be completed in the convenien
 
 ================================================================
 MEDICARD# 33457082
-bh
+http://anzaanimalclinic.com/employment-application-form.html
+
+
 franclin.cr54rep@gmail.com
 Enfra2018!
 main
 page_left
 page_content
 ================================================================
-SETTING LIVE CASES: middletownvet.net
+SETTING LIVE CASES: drbrentcoons.com
 ================================================================
 franclin.cr54rep@gmail.com
 Password1!
