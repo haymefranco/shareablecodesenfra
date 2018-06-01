@@ -1,4 +1,5 @@
 
+
  	 		
 10-13-17
 10:00PM - 12:00AM
@@ -4459,6 +4460,348 @@ https://my.vetmatrix.com/0018993/site/editor/cms
 https://na43.salesforce.com/00T0G00004WwnAw
 anzaanimalclinic.com
 https://my.vetmatrix.com/0018993/site/editor/cms
+================================================================ 
+================================================================ 
+================================================================ 
+================================================================ 
+================================================================ 
+================================================================ 
+================================================================ 
+================================================================ 
+================================================================ ================================================================ ================================================================ ================================================================ ================================================================ ================================================================ ================================================================ ================================================================ ================================================================ ================================================================ 
+================================================================ ================================================================ ================================================================ ================================================================ ================================================================ ================================================================ ================================================================ ================================================================ ================================================================ 
+================================================================ ================================================================ ================================================================ 
+2018-5-9
+chiropractoringreatfalls.com
+https://my.chiromatrix.com/0019246/site/editor/cms
+================================================================ 
+2018-5-9
+https://my.chiromatrix.com/0019248/site/editor/cms
+chiropractorinjamaicany.com
+================================================================ 
+2018-5-9
+https://my.chiromatrix.com/0019249/site/editor/cms
+chiropractorinmilford.com
+================================================================ 
+2018-5-9
+https://my.chiromatrix.com/0019250/site/editor/cms
+chiropractorinparker.com
+================================================================ 
+2018-5-10
+https://my.chiromatrix.com/0019754/site/editor/cms
+dramirchiropractic.com
+================================================================ 
+2018-5-10
+https://my.chiromatrix.com/0019755/site/editor/cms
+dramoruso.com
+================================================================ 
+2018-5-10
+https://my.chiromatrix.com/0019760/site/editor/cms
+drangely.com
+================================================================ 
+2018-5-10
+https://my.chiromatrix.com/0019763/site/editor/cms
+dranthonybiz.com
+================================================================ 
+2018-5-14
+http://my.chiromatrix.com/0019766/site/editor/cms
+draragon.com
+================================================================ 
+2018-5-14
+https://my.chiromatrix.com/0019766/site/editor/cms
+drartrossi.com
+================================================================ 
+2018-5-14
+https://my.chiromatrix.com/0019769/site/editor/cms
+drashleychiro.com | pfaffchiro.com
+================================================================ 
+2018-5-14
+http://my.chiromatrix.com/0019771/site/editor/cms
+drbakalis.com
+
+================================================================ 
+2018-5-14
+http://my.chiromatrix.com/0019772/site/editor/cms
+drbarkalow.com
+
+================================================================ 
+2018-5-15
+https://my.vetmatrix.com/0020324/site/editor/cms
+santafepetclinicolathe.com
+https://na43.salesforce.com/5000G00001V2aWD
+================================================================ 
+2018-5-15
+https://na43.salesforce.com/5000G00001WBKoH
+healthcentered.net
+http://my.chiromatrix.com/0020569/site/editor/cms
+-NOTE: Staff pages needs not to be on Staff Components. 
+================================================================ 
+2018-5-15
+https://na43.salesforce.com/5000G00001WB33Q
+northrockvet.com
+https://my.vetmatrix.com/0020575/site/editor/cms
+Theme: Winchester
+Color: Blue
+================================================================ 
+2018-5-16
+drlaronhardy.com
+https://my.chiromatrix.com/0019931/site/editor/cms
+================================================================ 
+2018-5-16
+drlawrenceopisso.com
+http://my.chiromatrix.com/0020096/site/editor/cms
+================================================================ 
+2018-5-16
+drleebazz.com
+http://my.chiromatrix.com/0020098/site/editor/cms
+================================================================ 
+2018-5-16
+drleekdc.com
+http://my.chiromatrix.com/0020099/site/editor/cms
+================================================================ 
+2018-5-16
+drleilani.com
+http://my.chiromatrix.com/0020100/site/editor/cms
+SOCIALMEDIA INCOMPLETE
+================================================================ 
+2018-5-16
+drlensgraf.com
+http://my.chiromatrix.com/0020101/site/editor/cms
+ff7627bf
+================================================================ 
+2018-5-17
+drlfriedman.com
+http://my.chiromatrix.com/0020102/site/editor/cms
+================================================================ 
+2018-5-17
+drlillianschiropractic.com
+http://my.chiromatrix.com/0020104/site/editor/cms
+================================================================ 
+2018-5-17
+drlisah.com
+http://my.chiromatrix.com/0020105/site/editor/cms
+================================================================ 
+2018-5-17
+drlittle.net
+http://my.chiromatrix.com/0020106/site/editor/cms
+================================================================ 
+2018-5-17
+drdennisharris.com
+http://my.chiromatrix.com/0020192/site/editor/cms
+================================================================ 
+2018-5-17
+drtimblanton.com
+http://my.chiromatrix.com/0020263/site/editor/cms
+================================================================ 
+2018-5-17 CS CASE
+https://na43.salesforce.com/5000G00001WC4wL
+dupontcrc.com
+================================================================ 
+2018-5-21
+http://my.chiromatrix.com/0020265/site/editor/cms
+drtonyrea.com
+================================================================ 
+2018-5-21
+http://my.chiromatrix.com/0020266/site/editor/cms
+drverdugo.com
+================================================================ 
+2018-5-21
+http://my.chiromatrix.com/0020268/site/editor/cms
+drvernmiller.com
+================================================================ 
+2018-5-21
+https://my.chiromatrix.com/0020274/site/editor/cms
+drvertebra.com
+================================================================ 
+2018-5-21
+http://my.chiromatrix.com/0020307/site/editor/cms
+drvirag.com
+================================================================ 
+2018-5-21
+http://my.chiromatrix.com/0020308/site/editor/cms
+drwardchiro.com
+================================================================ 
+2018-5-22
+https://na43.salesforce.com/5000G00001WEOyO
+gelmanchiropractic.com
+20688
+https://my.chiromatrix.com/0020688/site/editor/cms
+================================================================ 
+2018-5-22
+https://na43.salesforce.com/5000G00001WC1CD
+crawfordsvillevet.com
+http://my.vetmatrix.com/0020899/site/editor/cms
+================================================================ 
+2018-5-23
+http://my.chiromatrix.com/0020309/site/editor/cms
+drwaskevich.com
+================================================================ 
+2018-5-23
+http://my.chiromatrix.com/0020311/site/editor/cms
+https://na43.salesforce.com/5000G00001Wbd5K
+drwaynerossi.com
+================================================================ 
+2018-5-23
+https://my.chiromatrix.com/0020456/site/editor/cms
+familychiropracticsussex.com
+================================================================ 
+2018-5-23
+https://my.chiromatrix.com/0020457/site/editor/cms
+familyfriendlychiro.com
+================================================================ 
+2018-5-23
+https://my.chiromatrix.com/0020459/site/editor/cms
+family-wellness.org
+================================================================ 
+2018-5-23
+https://my.chiromatrix.com/0020460/site/editor/cms
+familywellnesscenter.org
+================================================================ 
+2018-5-24
+https://my.chiromatrix.com/0020462/site/editor/cms
+fanellichiro.com
+================================================================ 
+2018-5-24
+https://my.chiromatrix.com/0020464/site/editor/cms
+farechiropractic.com
+================================================================ 
+2018-5-24
+https://my.chiromatrix.com/0020467/site/editor/cms
+faucettwellness.com
+================================================================ 
+2018-5-24
+https://my.chiromatrix.com/0020471/site/editor/cms
+fayettevillechiropractic.net
+================================================================ 
+2018-5-24
+https://my.chiromatrix.com/0020473/site/editor/cms
+faywestchiro.com
+================================================================ 
+2018-5-24
+https://my.chiromatrix.com/0020474/site/editor/cms
+fccenters.com
+================================================================ 
+2018-5-25
+https://na43.salesforce.com/5000G00001WBuQG
+http://my.vetmatrix.com/0020898/site/editor/cms
+barburvet.com
+================================================================ 
+2018-5-25
+https://na43.salesforce.com/5000G00001WcSwh
+https://my.chiromatrix.com/0014664/site/editor/cms
+wardchiroandrehab.com
+================================================================ 
+2018-5-28
+https://my.chiromatrix.com/0020602/site/editor/cms
+executiveparkca.com
+================================================================ 
+2018-5-28
+https://my.chiromatrix.com/0020603/site/editor/cms
+experiencenewlife.com
+================================================================ 
+2018-5-28
+https://my.chiromatrix.com/0020609/site/editor/cms
+fabianchiro.com
+================================================================ 
+2018-5-28
+https://my.chiromatrix.com/0020611/site/editor/cms
+fairfax-chiropractic.com
+================================================================ 
+2018-5-28
+https://my.chiromatrix.com/0020614/site/editor/cms
+fairfieldfamilychiropractic.com
+================================================================ 
+2018-5-28
+https://my.chiromatrix.com/0020758/site/editor/cms
+grasslakechiropractic.com
+================================================================ 
+2018-5-29
+https://na43.salesforce.com/5000G00001Wbing
+http://my.vetmatrix.com/0021217/site/editor/cms
+murphy-animal-hospital.com
+================================================================ 
+2018-5-30
+http://my.chiromatrix.com/0020759/site/editor/cms
+graychiropracticclinic.com
+================================================================ 
+2018-5-30
+http://my.chiromatrix.com/0020760/site/editor/cms
+graychiropracticpalestine.com
+================================================================ 
+2018-5-30
+http://my.chiromatrix.com/0020762/site/editor/cms
+grayhawkchiro.com
+================================================================ 
+2018-5-30
+http://my.chiromatrix.com/0020764/site/editor/cms
+grclifecenter.com
+================================================================ 
+2018-5-31
+http://my.chiromatrix.com/0020795/site/editor/cms
+healthcarecomplete.info
+================================================================ 
+2018-5-31
+https://my.chiromatrix.com/0020794/site/editor/cms
+healthcentersozarks.com
+================================================================ 
+2018-5-31
+in
+healthchiro.com
+================================================================ 
+2018-5-31
+in
+healthclubchiropractic.com
+================================================================ 
+2018-5-31
+in
+healthcoachdoctor.com
+================================================================ 
+2018-6-1 HOT CASE CS CASE
+https://na43.salesforce.com/5000G00001WDvb6
+http://my.vetmatrix.com/0012370/site/editor/cms
+ruckersvillevet.com
+
+-DONE: THEME CHANGED TO ENCINITAS GREEN
+-PREVIEW: https://my.vetmatrix.com/0012370/
+================================================================ 
+2018-6-1 HOT CASE CS CASE
+https://na43.salesforce.com/5000G00001WEKb1
+https://my.chiromatrix.com/0019237/site/editor/cms/
+chiropractorgreatfalls.com
+
+-DONE: THEME background to be a gradient of #3333ff
+-NOTE: Background Color is set to the #3333ff added Opacity on the 2nd color to match the Featured Block color contrast. CSS STYLE: background: linear-gradient(180deg, #eaf2ff 4%, #eaf2ff 0%, #3333ff2a 100%);
+
+================================================================ 
+2018-6-1 HOT CASE CS CASE
+https://na43.salesforce.com/5000G00001WaxC6
+https://my.chiromatrix.com/0017787/site/editor/cms
+unionspinenj.com
+
+-DONE: Detroit in Current Theme Color
+-EDITED LOGO Name to Black
+
+================================================================ 
+2018-6-1
+https://na43.salesforce.com/5000G00001RnOtr
+https://my.vetmatrix.com/0021087/site/editor/cms
+randalloaksanimalhospital.com
+
+-DONE: Westchester - purple.
+INC
+================================================================ 
+
+
+
+
+
+
+
+
+
+
+MICHELLES
+https://na43.salesforce.com/5000G00001VcN4R 5/7 - https://na43.salesforce.com/5000G00001VcpDq 5/10 - https://na43.salesforce.com/5000G00001WBtZv 5/15 - https://na43.salesforce.com/5000G00001WDGTo 5/17 - https://na43.salesforce.com/5000G00001WEKLD 5/18 - https://na43.salesforce.com/5000G00001WEeon 5/22 - https://na43.salesforce.com/5000G00001WEemS
 
 
 
@@ -4489,6 +4832,26 @@ https://my.vetmatrix.com/0018993/site/editor/cms
 
 
 
+
+
+
+
+SETLIVES FOR JUNIUS AND FAITH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Community Content
 
 
 Services & Techniques
@@ -4502,7 +4865,7 @@ Phase 3: Wellness Care
 Services
 We strive to provide complete care for our patients. Learn more about all the services we provide.
 
-Make An Appointment
+Make an Appointment
 We will do our best to accommodate your busy schedule. Schedule an appointment today!
 
 
@@ -4516,16 +4879,18 @@ Our patient forms are available online so they can be completed in the convenien
 
 
 
+<style>ul#staff__list{list-style-type:none!important;}</style>
+<style>img{height:auto!important;width:auto!important;}</style>
+<style>ul{list-style-type:none!important;}.staff{background:white;}</style>
+<style>
+img{width:auto!important;}
+</style>
 
 
-
+<div style="clear:both;"></div>
 <p><a href="">Read More</a></p>
+<p style="display:none;">.</p>
 
-
-<style>ul{list-style-type:none!important;}</style>
-
-
-<p style="display:none;">Lorem Ipsum</p>
 
 
 <span style="clear:both;"></span>
@@ -4546,7 +4911,11 @@ main
 page_left
 page_content
 ================================================================
-SETTING LIVE CASES: drbrentcoons.com
+SETTING LIVE CASES: 
+https://na43.salesforce.com/5000G00001WEOyO
+https://gelmanchiropractic.com/
+
+l
 ================================================================
 franclin.cr54rep@gmail.com
 Password1!
@@ -4561,5 +4930,31 @@ whois.domaintools.com/
 We also welcome referrals, so we invite you to share our chiropractic and wellness information with your friends and loved ones.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+i hope pag may vacancy, sa imatrix kasi nakakuha na ako kanina. now ko lng nkita tong bro mo. I recommend ko sya sa ibang account 
+ 
+Franclin James Lim
+3:41 AM
+salamat ng marami bro ha!
+ malaki tulong na yun bro.. salamat talaga
+ 
+Junius Diamond Reyes
+3:42 AM
+alam ko may new account eh need gd na email support
+ 
+Junius Diamond Reyes
+3:42 AM
+try ko chat si madam gelai
 
 
