@@ -4745,15 +4745,16 @@ https://my.chiromatrix.com/0020794/site/editor/cms
 healthcentersozarks.com
 ================================================================ 
 2018-5-31
-in
+http://my.chiromatrix.com/0020792/site/editor/cms
 healthchiro.com
 ================================================================ 
 2018-5-31
-in
+http://my.chiromatrix.com/0020791/site/editor/cms
+20791
 healthclubchiropractic.com
 ================================================================ 
 2018-5-31
-in
+http://my.chiromatrix.com/0020789/site/editor/cms
 healthcoachdoctor.com
 ================================================================ 
 2018-6-1 HOT CASE CS CASE
@@ -4780,15 +4781,291 @@ unionspinenj.com
 
 -DONE: Detroit in Current Theme Color
 -EDITED LOGO Name to Black
-
 ================================================================ 
 2018-6-1
 https://na43.salesforce.com/5000G00001RnOtr
 https://my.vetmatrix.com/0021087/site/editor/cms
 randalloaksanimalhospital.com
-
 -DONE: Westchester - purple.
-INC
+================================================================ 
+2018-6-4
+https://na43.salesforce.com/5000G00001VcN4R
+https://my.vetmatrix.com/0020900/site/editor/cms
+safeharborvet.com
+
+-DONE: Change Design to Atlanta in Gold
+================================================================ 
+2018-6-4
+https://na43.salesforce.com/5000G00001X51ak
+http://my.vetmatrix.com/0021767/site/editor/cms
+arendellanimalhospital.com
+21767
+
+-DONE: Change Design to “austin” in the color red.
+================================================================ 
+2018-6-5
+https://my.chiromatrix.com/0021116/site/editor/cms
+highlandfamilychiro.com
+================================================================ 
+2018-6-5
+https://my.chiromatrix.com/0021123/site/editor/cms
+highpointhealthllc.com
+================================================================ 
+2018-6-5
+https://my.chiromatrix.com/0021128/site/editor/cms
+hikaichiropractic.com
+================================================================ 
+2018-6-5
+https://my.chiromatrix.com/0021129/site/editor/cms
+hillgrovefamilychiropractic.com
+inc
+================================================================ 
+2018-6-5
+https://my.chiromatrix.com/0021134/site/editor/cms
+hilliardchiropracticcenter.com
+INC gallery virtual office
+================================================================ 
+2018-6-6
+https://my.chiromatrix.com/0021273/site/editor/cms
+jerrychiro.com
+================================================================ 
+2018-6-6
+https://my.chiromatrix.com/0021272/site/editor/cms
+jerryhowardchiro.com
+================================================================ 
+2018-6-6
+https://my.chiromatrix.com/0021271/site/editor/cms
+jeterchironc.com
+================================================================ 
+2018-6-6
+https://my.chiromatrix.com/0021270/site/editor/cms
+jlipkachiro.com
+================================================================ 
+2018-6-7
+https://my.chiromatrix.com/0020467/site/editor/cms
+Savannah in Blue
+================================================================ 
+2018-6-11
+https://na43.salesforce.com/5000G00001X6syd - MICHELLES ASAP
+allpetsanimal.com
+https://my.vetmatrix.com/0022006/site/editor/cms
+================================================================ 
+2018-6-12
+elsacastrodds.com
+https://my.imatrix.com/0021941/site/editor/cms
+https://na43.salesforce.com/5000G00001X6DKN
+================================================================ 
+2018-6-4
+https://na43.salesforce.com/5000G00001X51ak
+http://my.vetmatrix.com/0021767/site/editor/cms
+arendellanimalhospital.com
+================================================================ 
+2018-6-13
+https://my.chiromatrix.com/0021269/site/editor/cms
+joelsperlingdc.com
+================================================================ 
+2018-6-13
+http://my.chiromatrix.com/0021268/site/editor/cms
+johnpetersen.net
+================================================================ 
+CLIENT SUPPORT CASES
+================================================================ 
+2018-6-14
+https://na43.salesforce.com/5000G00001XcA2A
+drwallman.com
+================================================================ 
+2018-6-14
+https://na43.salesforce.com/5000G00001XcKA5
+hilltownsvetclinic.com
+wolfguy03@aol.com
+===========
+===================================================== 
+2018-6-14
+https://na43.salesforce.com/5000G00001XcpiZ
+rabieichiropractic.com
+chiro4all.com
+
+- DONE adding the attached logo and make it centered as requested.
+
+================================================================ 
+2018-6-14
+https://na43.salesforce.com/5000G00001XcmJi
+achlawrenceville.com
+- Client was able to find it and wants to disregard his earlier request.
+Link: https://na43.salesforce.com/5000G00001XcmN6
+
+================================================================ 
+2018-6-14
+https://na43.salesforce.com/5000G00001XcmN6
+achlawrenceville.com
+================================================================ 
+2018-6-14
+https://na43.salesforce.com/5000G00001XcpvF
+DrGarchaChiropractic.com
+ add google, bing, yelp, yahoo and other search engines .
+================================================================ 
+2018-6-14
+https://na43.salesforce.com/5000G00001XcqaO
+youreyesoftexas.com
+================================================================ 
+2018-6-14
+https://na43.salesforce.com/5000G00001Xcqg8
+tegacvet.com
+================================================================ 
+================================================================ 
+2018-6-15
+https://na43.salesforce.com/5000G00001XcvNN
+sevillevet.com
+================================================================ 
+2018-6-15
+https://na43.salesforce.com/5000G00001XcvMy
+sevillevet.com
+================================================================ 
+2018-6-15
+https://na43.salesforce.com/5000G00001XcvN3
+sevillevet.com
+================================================================ 
+2018-6-15
+https://na43.salesforce.com/5000G00001XcvND
+sevillevet.com
+- DONE Adding and editing some of the requests. 
+
+NOTE: Some Photos Attached were not found on these specific requests: 
+8.	Add Staff photo for Elizabeth and Job Tile Client Care Specialist 
+9.	Add Madison photo and job title Veterinary Nurse 
+11.	Add Erica photo and Job tile Veterinary Nurse 
+Please do add further details on the photos.  
+================================================================ 
+2018-6-15
+https://na43.salesforce.com/5000G00001Xd36L
+animaldentalcarespecialists.com
+================================================================ 
+2018-6-15
+https://na43.salesforce.com/5000G00001XdF06
+chchiro.com
+================================================================ 
+2018-6-15
+https://na43.salesforce.com/5000G00001Xcve5
+dakotapethospital.com
+================================================================ 
+2018-6-15
+https://na43.salesforce.com/5000G00001XcKA5
+hilltownsvetclinic.com
+================================================================ 
+2018-6-15
+https://na43.salesforce.com/5000G00001X6DKN
+elsacastrodds.com REVISION
+================================================================ 
+2018-6-15
+https://my.chiromatrix.com/0020791/site/editor/cms
+healthclubchiropractic.com
+DONE
+================================================================ 
+2018-6-18
+http://my.chiromatrix.com/0021267/site/editor/cms
+johnsonchiromemphis.com
+================================================================ 
+2018-6-18
+http://my.chiromatrix.com/0021390/site/editor/cms
+johnstonchiropracticclinic.com
+================================================================ 
+2018-6-18
+http://my.chiromatrix.com/0021391/site/editor/cms
+jolietchiropracticcare.com
+================================================================ 
+2018-6-18
+http://my.chiromatrix.com/0021392/site/editor/cms
+jonescantonchiropractic.com
+================================================================ 
+2018-6-18
+http://my.chiromatrix.com/0022075/site/editor/cms
+middlefieldchiropractic.com
+================================================================ 
+2018-6-18
+http://my.chiromatrix.com/0022087/site/editor/cms
+midiowachiro.com
+================================================================ 
+2018-6
+https://my.vetmatrix.com/0021087/site/editor/cms
+randalloaksanimalhospital.com
+BRANDON RETURN
+================================================================ 
+2018-6-19
+https://na43.salesforce.com/5000G00001XcIZW
+http://my.imatrix.com/0022200/site/editor/cms
+glendoravisioncenter.net
+================================================================ 
+2018-6-20
+https://na43.salesforce.com/5000G00001XbtmI
+http://my.vetmatrix.com/0022194/site/editor/cms
+springparkanimalhospital.com
+Malibu Blue
+================================================================ 
+2018-6-20
+http://my.chiromatrix.com/0022085/site/editor/cms
+midlothianspineandsport.com
+================================================================ 
+2018-6-20
+http://my.chiromatrix.com/0022081/site/editor/cms
+midwestchiroandwellness.com
+================================================================ 
+2018-6-20
+http://my.chiromatrix.com/0022079/site/editor/cms
+midwestmedicine.com
+================================================================ 
+2018-6-20
+http://my.chiromatrix.com/0022076/site/editor/cms
+millerchirocenter.com
+================================================================ 
+2018-6-20
+http://my.chiromatrix.com/0022074/site/editor/cms
+millerchiropracticgl.com
+================================================================ 
+2018-6-21
+http://my.chiromatrix.com/0022073/site/editor/cms
+millschiropractic.com
+================================================================ 
+2018-6-21
+http://my.chiromatrix.com/0022072/site/editor/cms
+millschiropracticoffice.com
+================================================================ 
+2018-6-21
+http://my.chiromatrix.com/0022071/site/editor/cms
+minardchiropracticclinic.com
+================================================================ 
+2018-6-21
+http://my.chiromatrix.com/0019871/site/editor/cms
+drhandy.com
+================================================================ 
+2018-6-21
+http://my.chiromatrix.com/0022427/site/editor/cms
+mygermantownchiro.com
+================================================================ 
+2018-6-21
+http://my.chiromatrix.com/0022429/site/editor/cms
+myhealinghandschiropractic.com
+================================================================ 
+2018-6-22
+https://na43.salesforce.com/5000G00001Y5Lqn
+igotyourbackatl.com
+buckheadspinespecialists.com
+http://my.chiromatrix.com/0002683/site/editor/cms
+================================================================ 
+2018-6-22
+https://na43.salesforce.com/5000G00001Y5Lqn
+https://my.chiromatrix.com/0021176/site/editor/cms
+================================================================ 
+2018-6-25
+https://my.chiromatrix.com/0022426/site/editor/cms
+myhealingcorner.com
+================================================================ 
+2018-6-25
+https://my.chiromatrix.com/0022428/site/editor/cms
+mygallatinchiropractor.com
+================================================================ 
+2018-6-25
+https://my.chiromatrix.com/0020780/site/editor/cms
+hackensackwellnesscenter.com
 ================================================================ 
 
 
@@ -4800,8 +5077,6 @@ INC
 
 
 
-MICHELLES
-https://na43.salesforce.com/5000G00001VcN4R 5/7 - https://na43.salesforce.com/5000G00001VcpDq 5/10 - https://na43.salesforce.com/5000G00001WBtZv 5/15 - https://na43.salesforce.com/5000G00001WDGTo 5/17 - https://na43.salesforce.com/5000G00001WEKLD 5/18 - https://na43.salesforce.com/5000G00001WEeon 5/22 - https://na43.salesforce.com/5000G00001WEemS
 
 
 
@@ -4829,6 +5104,60 @@ https://na43.salesforce.com/5000G00001VcN4R 5/7 - https://na43.salesforce.com/50
 
 
 
+================================================================ 
+
+HOME
+
+
+<div class="wrap__page-content">
+    <div class="wrap__page-content--inner">
+        {% component 'editable' file='homehtml.htm' %}
+    </div>
+</div>
+
+================================================================ 
+
+ADD DOCTOR COMPONENT
+
+
+<div class="wrap__page-content">
+    <div class="wrap__page-content--inner">
+        {% component 'staffdoc1' %}
+    </div>
+</div>
+
+================================================================ 
+
+ADD STAFF COMPONENT
+
+<div class="wrap__page-content">
+    <div class="wrap__page-content--inner">
+        {% component 'staffaboutus' %}
+    </div>
+</div>
+
+================================================================ 
+
+ADD GALLERY COMPONENT
+
+
+<div class="wrap__page-content">
+    <div class="wrap__page-content--inner">
+        <center>{% component 'galleryvof' %}</center>
+    </div>
+</div>
+
+
+================================================================ 
+
+ADD TESTIMONIAL COMPONENT
+
+
+<div class="wrap__page-content">
+    <div class="wrap__page-content--inner">
+        {% component 'testimonialscustom' %}
+    </div>
+</div>
 
 
 
@@ -4836,7 +5165,6 @@ https://na43.salesforce.com/5000G00001VcN4R 5/7 - https://na43.salesforce.com/50
 
 
 
-SETLIVES FOR JUNIUS AND FAITH AND PAPA AYI
 
 
 
@@ -4851,7 +5179,30 @@ SETLIVES FOR JUNIUS AND FAITH AND PAPA AYI
 
 
 
-Community Content
+
+
+Hello,
+Your website edits have been completed. If you have any additional questions or concerns, as always, please feel free to contact our Support Team at 1-800-462-8749 and press Option 3. We are available, Monday - Friday from 7:30am - 4:00pm PST.
+Additionally, you may also submit a ticket here:
+https://help.imatrix.com/request for any additional requests.
+What happens when life throws us a conflict or what happens when life doesn't give us what we worked for
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Services & Techniques
@@ -4873,11 +5224,20 @@ Online Forms
 Our patient forms are available online so they can be completed in the convenience of your own home or office.
 
 
+Contact Us
+Call or send us an email today! Our staff will respond as soon as possible.
 
 
 
 
 
+
+<style>
+    .wrap__page-content img{
+        height:unset!important;
+        padding:unset!important;
+    }
+</style>
 
 <style>ul#staff__list{list-style-type:none!important;}</style>
 <style>img{height:auto!important;width:auto!important;}</style>
@@ -4900,6 +5260,58 @@ img{width:auto!important;}
 -SITE IS NOW LIVE
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================
+QUEUES:
+
+healthcoachdoctor.com
+
+
+healthcoachdoctor.com - ARIELS CASE
+
+
+
+https://na43.salesforce.com/5000G00001X5dce?srPos=0&srKp=00a - JESSE ERROR ON LIVE
+
+
+
+
+https://na43.salesforce.com/5000G00001X6DKN
+
+
+
+
+
+SETLIVES FOR JUNIUS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ================================================================
 MEDICARD# 33457082
 http://anzaanimalclinic.com/employment-application-form.html
@@ -4912,10 +5324,8 @@ page_left
 page_content
 ================================================================
 SETTING LIVE CASES: 
-https://na43.salesforce.com/5000G00001WEOyO
-https://gelmanchiropractic.com/
 
-l
+
 ================================================================
 franclin.cr54rep@gmail.com
 Password1!
@@ -4937,24 +5347,7 @@ We also welcome referrals, so we invite you to share our chiropractic and wellne
 
 
 
+franclin.cr54rep@bond.ib
 
-
-
-
-
-i hope pag may vacancy, sa imatrix kasi nakakuha na ako kanina. now ko lng nkita tong bro mo. I recommend ko sya sa ibang account 
- 
-Franclin James Lim
-3:41 AM
-salamat ng marami bro ha!
- malaki tulong na yun bro.. salamat talaga
- 
-Junius Diamond Reyes
-3:42 AM
-alam ko may new account eh need gd na email support
- 
-Junius Diamond Reyes
-3:42 AM
-try ko chat si madam gelai
-
-
+https://places.factual.com/update_add_business
+http://factual.com/data/t/places#filters={"$and":[{"country":{"$eq":"US"}}]}
