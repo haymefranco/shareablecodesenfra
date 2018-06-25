@@ -5088,6 +5088,40 @@ hackensackwellnesscenter.com
 
 
 
+================================================================
+QUEUES:
+
+healthcoachdoctor.com
+
+
+healthcoachdoctor.com - ARIELS CASE
+
+
+
+https://na43.salesforce.com/5000G00001X5dce?srPos=0&srKp=00a - JESSE ERROR ON LIVE
+
+
+
+
+https://na43.salesforce.com/5000G00001X6DKN
+================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5200,11 +5234,6 @@ What happens when life throws us a conflict or what happens when life doesn't gi
 
 
 
-
-
-
-
-
 Services & Techniques
 
 Phase 1: Relief Care
@@ -5258,59 +5287,6 @@ img{width:auto!important;}
 2018-4-5
 
 -SITE IS NOW LIVE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-================================================================
-QUEUES:
-
-healthcoachdoctor.com
-
-
-healthcoachdoctor.com - ARIELS CASE
-
-
-
-https://na43.salesforce.com/5000G00001X5dce?srPos=0&srKp=00a - JESSE ERROR ON LIVE
-
-
-
-
-https://na43.salesforce.com/5000G00001X6DKN
-
-
-
-
-
-SETLIVES FOR JUNIUS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ================================================================
 MEDICARD# 33457082
