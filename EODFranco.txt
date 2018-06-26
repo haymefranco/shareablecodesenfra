@@ -1,4 +1,4 @@
-
+	
 
  	 		
 10-13-17
@@ -5070,18 +5070,38 @@ hackensackwellnesscenter.com
 2018-6-25
 https://my.chiromatrix.com/0020776/site/editor/cms
 guzzardochiropractic.com
-INC - about us Testimonial
 ================================================================ 
 2018-6-25
 https://my.chiromatrix.com/0020767/site/editor/cms
 GreenawaltchiroLV.com
-INC all
 ================================================================ 
 2018-6-25
 http://my.chiromatrix.com/0020066/site/editor/cms
 drrayclintontownshipchiropractor.com
-INC all
+INC TOO MANY
 ================================================================ 
+2018-6-26
+
+================================================================ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ / Facebook
 
 
 
@@ -5139,7 +5159,58 @@ https://na43.salesforce.com/5000G00001X6DKN
 
 
 
+================================================================ 
 
+
+
+Services & Techniques
+
+Phase 1: Relief Care
+Phase 2: Corrective Care
+Phase 3: Wellness Care
+
+
+
+Services
+We strive to provide complete care for our patients. Learn more about all the services we provide.
+
+Make an Appointment
+We will do our best to accommodate your busy schedule. Schedule an appointment today!
+
+
+Online Forms
+Our patient forms are available online so they can be completed in the convenience of your own home or office.
+
+
+Contact Us
+Call or send us an email today! Our staff will respond as soon as possible.
+
+
+
+
+
+
+<style>
+    .wrap__page-content img{
+        height:unset!important;
+        padding:unset!important;
+    }
+</style>
+
+<style>ul#staff__list{list-style-type:none!important;}</style>
+<style>img{height:auto!important;width:auto!important;}</style>
+<style>ul{list-style-type:none!important;}.staff{background:white;}</style>
+<style>
+img{width:auto!important;}
+</style>
+
+
+<div style="clear:both;"></div>
+<p><a href="">Read More</a></p>
+<p style="display:none;">.</p>
+
+
+<span style="clear:both;"></span>
 
 
 
@@ -5267,59 +5338,6 @@ What happens when life throws us a conflict or what happens when life doesn't gi
 
 
 
-Services & Techniques
-
-Phase 1: Relief Care
-Phase 2: Corrective Care
-Phase 3: Wellness Care
-
-
-
-Services
-We strive to provide complete care for our patients. Learn more about all the services we provide.
-
-Make an Appointment
-We will do our best to accommodate your busy schedule. Schedule an appointment today!
-
-
-Online Forms
-Our patient forms are available online so they can be completed in the convenience of your own home or office.
-
-
-Contact Us
-Call or send us an email today! Our staff will respond as soon as possible.
-
-
-
-
-
-
-<style>
-    .wrap__page-content img{
-        height:unset!important;
-        padding:unset!important;
-    }
-</style>
-
-<style>ul#staff__list{list-style-type:none!important;}</style>
-<style>img{height:auto!important;width:auto!important;}</style>
-<style>ul{list-style-type:none!important;}.staff{background:white;}</style>
-<style>
-img{width:auto!important;}
-</style>
-
-
-<div style="clear:both;"></div>
-<p><a href="">Read More</a></p>
-<p style="display:none;">.</p>
-
-
-
-<span style="clear:both;"></span>
-
-2018-4-5
-
--SITE IS NOW LIVE
 
 ================================================================
 MEDICARD# 33457082
