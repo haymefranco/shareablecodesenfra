@@ -4985,10 +4985,9 @@ middlefieldchiropractic.com
 http://my.chiromatrix.com/0022087/site/editor/cms
 midiowachiro.com
 ================================================================ 
-2018-6
+2018-6-19
 https://my.vetmatrix.com/0021087/site/editor/cms
 randalloaksanimalhospital.com
-BRANDON RETURN
 ================================================================ 
 2018-6-19
 https://na43.salesforce.com/5000G00001XcIZW
@@ -5082,16 +5081,24 @@ drrayclintontownshipchiropractor.com
 2018-6-25
 https://my.chiromatrix.com/0019900/site/editor/cms
 drjudychiro.com
-INCOMPLETE TOO LONG FORMS
 ================================================================ 
 2018-6-27
 springparkanimalhospital.com
 http://my.vetmatrix.com/0022194/site/editor/cms
 JUNIUS REVISION DONE
 ================================================================ 
-
-
-
+2018-6-27
+healthcoachdoctor.com
+https://my.chiromatrix.com/0020789/site/editor/cms
+INCOMPLETEEEEEEEEE
+================================================================ 
+2018-6-27
+https://na43.salesforce.com/5000G00001Y6IdF
+lasvegaseyedocs.com
+http://my.imatrix.com/0022788/site/editor/cms
+22788
+INFORM MICHELLE
+================================================================ 
 
 
 
@@ -5123,15 +5130,11 @@ JUNIUS REVISION DONE
 
 ================================================================
 QUEUES:
-https://millschiropracticoffice.com/
-healthcoachdoctor.com
+
+
 
 
 healthcoachdoctor.com - ARIELS CASE
-
-
-
-https://na43.salesforce.com/5000G00001X5dce?srPos=0&srKp=00a - JESSE ERROR ON LIVE
 
 
 
@@ -5346,8 +5349,7 @@ MEDICARD# 33457082
 http://anzaanimalclinic.com/employment-application-form.html
 
 
-franclin.cr54rep@gmail.com
-Enfra2018!
+
 main
 page_left
 page_content
