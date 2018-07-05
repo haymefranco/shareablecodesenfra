@@ -5143,11 +5143,53 @@ http://my.vetmatrix.com/0017204/site/editor/cms
 2018-7-3
 https://na43.salesforce.com/5000G00001YZBAn
 stroheckervision.com
+http://my.imatrix.com/0020756/site/editor/cms
 2018-7-3
 
--DONE:
+-DONE: Added script for single pop up of the homepage image
 
 ================================================================ 
+2018-7-5
+hackensackwellnesscenter.com
+https://my.chiromatrix.com/0020780/site/editor/cms
+2018-7-5
+
+-DONE: Theme Change from stockton to Detroit..
+
+================================================================ 
+2018-7-5
+optimumhealthchiropracticcenter.com
+http://my.chiromatrix.com/0022735/site/editor/cms
+2018-7-5
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-5
+optimumperformancecentre.com
+https://my.chiromatrix.com/0022734/site/editor/cms#
+2018-7-5
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-5
+orangeparkchiropractic.com
+https://my.chiromatrix.com/0022733/site/editor/cms
+2018-7-5
+
+-DONE: Forced Migration
+
+================================================================ 
+
+
+
+
+
+
+
+
+
 
 
 
