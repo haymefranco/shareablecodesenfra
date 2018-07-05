@@ -1,0 +1,6 @@
+valstoreitem = sessionStorage.getItem("isitclosed");
+
+if(valstoreitem == 1){
+    $('#tpopup').attr('style','display:none!important;');
+}
+sessionStorage.setItem("isitclosed","1");
