@@ -5091,6 +5091,7 @@ JUNIUS REVISION DONE
 healthcoachdoctor.com
 https://my.chiromatrix.com/0020789/site/editor/cms
 INCOMPLETEEEEEEEEE
+
 ================================================================ 
 2018-6-27
 https://na43.salesforce.com/5000G00001Y6IdF
@@ -5181,6 +5182,82 @@ https://my.chiromatrix.com/0022733/site/editor/cms
 -DONE: Forced Migration
 
 ================================================================ 
+2018-7-6
+https://na43.salesforce.com/5000G00001YXvuG
+https://my.vetmatrix.com/0022198/site/editor/cms
+nodavethosp.com
+2018-7-6
+
+5) Can there be created a rotating picture gallery of clients' pets, etc.?
+     - Page Added (only 2 images are found)
+
+6) At the bottom of the page (where the picture of the boxer with the
+stethoscope is located), can the brand logos I support be added. I am
+currently collecting them in one file to be sent to you next week. 
+     - LOGOS ARE NOT LOCATED IN THE MEDIA LIBRARY
+
+7) Blogs are still old from 2017. I thought I was told that these
+blogs were routinely updated. What is iMatrix's definition of routinely?
+      - I have no clue on how to update their blogs.
+
+9) Can a search option button for the website be added underneath the
+Hospital's phone number for those who do not want to go through all the
+headings? 
+      - there are no Search buttons for Portal
+
+10) What is the password to access admin log in. To send a message, it
+goes to info@nodavethosp.com <info@nodavethosp.com> . When you click
+on pet portal, it asks for a password! How are we supposed to access that?
+Can the question just open straight into the email address? 
+      - Unable to answer this.
+
+12) What is the Browser compatibility? Under Internet Explorer, the site
+is not found. Under Chrome it does not work.
+      - I have tried it on both IE and Chrome. It works just fine.
+
+13) Under the Services We Offer, it is blank. Under About Us it listed.
+      - Completed but Confusing.
+
+16) Can client feedback be linked to info@nodavethosp.com
+      - Added a Link to the Navigation Bar for Client Feedback to mailto: info@nodavethosp.com
+
+17) The icons that Jai sent to you for social media.Can those be placed
+where "exclusive offer" is currently located? She should have also sent a
+link to Doc's Corner as part of the social media.
+      - No Icons were found in the Media Library
+
+================================================================ 
+2018-7-6
+https://na43.salesforce.com/5000G00001Ya98W
+brixtonpet.com
+http://my.chiromatrix.com/0020777/site/editor/cms
+2018-7-6
+
+-DONE 1. Add tab between New Patients & Services labeled "Our Team"
+-DONE 2. Add back in photo of Dr. Chen
+-DONE 3. Add in updated bio for Dr. Chen
+-DONE 4. Add in photo of Dr. Coatney
+-Third Party Site not under Control 5. Boarding Reservations
+-Third Party Site not under Control 6. On the https://reservenow.bestfriendspetcare.com/boarding/Grooming page
+-Third Party Site not under Control 7. Also on the https://reservenow.bestfriendspetcare.com/boarding/payment page
+-DONE 8. Also on the http://brixtonpet.com/employment-opportunities.html page, please replace
+
+================================================================ 
+2018-7-9
+ordsportschiro.com
+https://my.chiromatrix.com/0022732/site/editor/cms
+2018-7-9
+
+-DONE: Forced Migration
+================================================================ 
+2018-7-9
+orlandinichiro.com
+https://my.chiromatrix.com/0022731/site/editor/cms
+2018-7-9
+
+-DONE: Forced Migration
+inc
+================================================================ 
 
 
 
@@ -5196,17 +5273,6 @@ https://my.chiromatrix.com/0022733/site/editor/cms
 
 
 
-
-
-
-
-
-
-
-
-
-
-25mins left
 
 
 
@@ -5232,15 +5298,8 @@ https://my.chiromatrix.com/0022733/site/editor/cms
 ================================================================
 QUEUES:
 
-
-
-
 healthcoachdoctor.com - ARIELS CASE
 
-
-
-
-https://na43.salesforce.com/5000G00001X6DKN
 ================================================================
 
 
