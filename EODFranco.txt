@@ -5256,8 +5256,346 @@ https://my.chiromatrix.com/0022731/site/editor/cms
 2018-7-9
 
 -DONE: Forced Migration
-inc
+
 ================================================================ 
+2018-7-9
+https://my.chiromatrix.com/0022730/site/editor/cms
+orleansgardenschiro.com
+2018-7-9
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-9
+https://my.chiromatrix.com/0022725/site/editor/cms
+osseochiropractor.com
+2018-7-9
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-9
+https://my.chiromatrix.com/0022805/site/editor/cms
+overlakechiropractic.com
+2018-7-9
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-9
+https://my.chiromatrix.com/0022828/site/editor/cms
+overlandpark-chiro.com
+2018-7-9
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-10
+owassochiropractic.com
+https://my.chiromatrix.com/0022826/site/editor/cms
+2018-7-10
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-10
+riveroakswellness.com
+https://my.chiromatrix.com/0023276/site/editor/cms
+2018-7-10
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-10
+rizzochirocenter.com
+https://my.chiromatrix.com/0023332/site/editor/cms
+2018-7-10
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-10
+rnrchiropractic.com
+https://my.chiromatrix.com/0023333/site/editor/cms
+2018-7-10
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-10
+roballeyhealth.com
+https://my.chiromatrix.com/0023334/site/editor/cms
+2018-7-10
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-10
+rockenmacherchiropractic.com
+https://my.chiromatrix.com/0023335/site/editor/cms
+2018-7-10
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-11
+rockville-chiropractic.com
+https://my.chiromatrix.com/0023336/site/editor/cms
+2018-7-11
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-11
+rodriguezwellness.com
+https://my.chiromatrix.com/0023262/site/editor/cms
+2018-7-11
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-11
+roehlfamilychiropractic.com
+https://my.chiromatrix.com/0023261/site/editor/cms
+2018-7-11
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-11
+rollingvalleychiropractic.com
+https://my.chiromatrix.com/0023260/site/editor/cms
+2018-7-11
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-11
+shattuckrosechiropractic.com
+https://my.chiromatrix.com/0023394/site/editor/cms
+2018-7-11
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-11
+sheachiropracticclinic.com
+https://my.chiromatrix.com/0023391/site/editor/cms
+2018-7-11
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-12
+sherbondychiropractic.com
+https://my.chiromatrix.com/0023388/site/editor/cms
+2018-7-12
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-12
+healthcorechiropractic.com
+https://my.chiromatrix.com/0020975/site/editor/cms
+2018-7-12
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-12
+healthespine.com
+https://my.chiromatrix.com/0020977/site/editor/cms
+2018-7-12
+
+-DONE: Forced Migratio
+
+================================================================ 
+2018-7-12
+health-horizons.com
+https://my.chiromatrix.com/0020982/site/editor/cms
+2018-7-12
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-12
+healthlinechiropractic.com
+https://my.chiromatrix.com/0020983/site/editor/cms
+2018-7-12
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-12
+riverparksouthchiro.com
+https://my.chiromatrix.com/0023331/site/editor/cms
+2018-7-12
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-13
+drjessicaseaton.com
+https://na43.salesforce.com/5000G00001YbbI2
+2018-7-13
+
+-DONE: HOT Theme Change
+
+================================================================ 
+2018-7-13
+https://na43.salesforce.com/5000G00001Yxm2Z
+niuhealthchiropractic.com
+http://my.chiromatrix.com/0023743/site/editor/cms
+2018-7-13
+
+HOT Migration
+INCOMPLETE
+================================================================ 
+2018-7-16
+https://na43.salesforce.com/5000G00001Yy8F4 - CLOSED
+healthexcellencechiro.com
+https://my.chiromatrix.com/0020979/site/editor/cms
+2018-7-16
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-16
+https://my.chiromatrix.com/0023396/site/editor/cms
+sharylandchiropractic.com
+2018-7-16
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-16
+https://my.chiromatrix.com/0023601/site/editor/cms
+spectorchiropractic.com
+2018-7-16
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-16
+https://my.chiromatrix.com/0023604/site/editor/cms
+speedwellchiro.com
+2018-7-16
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-16
+https://my.chiromatrix.com/0023606/site/editor/cms
+spencermedandchiro.com
+2018-7-16
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-16
+https://my.chiromatrix.com/0023608/site/editor/cms
+spierschiropractic.com
+2018-7-16
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-17
+https://my.chiromatrix.com/0023610/site/editor/cms
+spinalandhealthcenter.com
+2018-7-17
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-17
+https://my.chiromatrix.com/0023612/site/editor/cms
+spinalandsportscarecenter.com
+2018-7-17	
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-17
+https://my.chiromatrix.com/0023614/site/editor/cms
+spinalhealthcenterrc.com
+2018-7-17
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-17
+https://my.chiromatrix.com/0023618/site/editor/cms
+spinalhealthcenterwm.com
+2018-7-17
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-17
+https://my.chiromatrix.com/0023619/site/editor/cms
+spinalinstituteutah.com
+2018-7-17
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-18
+https://my.chiromatrix.com/0023620/site/editor/cms
+spinalrehabcenters.com
+2018-7-18
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-18
+https://my.chiromatrix.com/0023669/site/editor/cms
+sharpchiroassociates.com
+2018-7-18
+
+-DONE: Forced Migration
+
+================================================================ 
+sheachiropracticclinic.com
+REVISION DONE DONE
+================================================================ 
+sherbondychiropractic.com
+REVISION DONE
+================================================================ 
+healthcorechiropractic.com
+REVISION DONE
+================================================================ 
+2018-7-18
+https://my.chiromatrix.com/0023874/site/editor/cms
+taylorchiropractic.biz
+2018-7-18
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-18
+https://my.chiromatrix.com/0023875/site/editor/cms
+taylorchiropracticclinic.com
+2018-7-18
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-18
+https://my.chiromatrix.com/0023887/site/editor/cms
+tbarmwellness.com
+2018-7-18
+
+-DONE: Forced Migration
+
+================================================================ 
+
+
+
+
+
+
+
 
 
 
@@ -5280,6 +5618,9 @@ inc
 
  / Facebook
 
+<p>If you have not been to a chiropractor before and want to find out more, please <a title="Email the Doctor" data-source-type="my-pages" data-index="5" href="contact">contact us</a> or call {PHONE} to receive the answers to your questions from our experienced team. We also welcome referrals, so we invite you to share our chiropractic and wellness information with your friends and loved ones.
+</p>
+
 
 
 
@@ -5297,35 +5638,22 @@ inc
 
 ================================================================
 QUEUES:
+https://na43.salesforce.com/5000G00001XefgA
+https://na43.salesforce.com/5000G00001YzmSY
+niuhealthchiropractic.com
 
-healthcoachdoctor.com - ARIELS CASE
+
+
+Faith:
+riverparksouthchiro.com https://my.chiromatrix.com/0023331/site/editor/cms
+
+TIER 2 CASES:
+
+
+SETLIVE CASES:
+
 
 ================================================================
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-================================================================ 
-
 
 
 Services & Techniques
@@ -5513,10 +5841,6 @@ http://anzaanimalclinic.com/employment-application-form.html
 main
 page_left
 page_content
-================================================================
-SETTING LIVE CASES: 
-
-
 ================================================================
 franclin.cr54rep@gmail.com
 Password1!

@@ -20,3 +20,40 @@
     background-color: #4CAF50;
     color: white;
 }
+
+
+    //================OFFICEHOURS====================
+
+<div class="customdiv"></div>
+
+<div class="wrap__page-content">
+    <div class="wrap__page-content--inner">
+        
+        {#{% component "editable" file="office-hourshtml.htm" %}#}
+        
+    </div>
+</div>
+
+<script>
+    //================OFFICEHOURS====================
+
+    var x = 0;
+    setInterval(function(){
+        if (x === 0){
+        $('.wrap__page-content, .wrap__hours .component__title-caption-wrap').attr('style','display:none;');
+        $('.wrap__hours').prependTo('.customdiv');
+        x++;
+        }
+        else{
+            return;
+        }
+    },500);
+</script>
+<style>
+    #hours{
+        float:none!important;
+    }
+    #map{
+        width:100%;
+    }
+</style>
