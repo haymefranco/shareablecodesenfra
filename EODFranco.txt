@@ -5589,6 +5589,75 @@ tbarmwellness.com
 -DONE: Forced Migration
 
 ================================================================ 
+2018-7-19
+https://my.chiromatrix.com/0023889/site/editor/cms
+teamcliftonchiro.com
+2018-7-19
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-19
+https://my.chiromatrix.com/0023891/site/editor/cms
+tenpennychiropractic.com
+2018-7-19
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-19
+https://my.chiromatrix.com/0023892/site/editor/cms
+tepperchiro.com
+2018-7-19
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-19
+https://my.chiromatrix.com/0023895/site/editor/cms
+terrapincarecenter.net
+2018-7-19
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-19
+https://my.chiromatrix.com/0023901/site/editor/cms
+thackerchiropractic.com
+2018-7-19
+
+-DONE: Forced Migration
+
+================================================================ 
+2018-7-20
+https://na43.salesforce.com/5000G00001XefgA
+https://my.chiromatrix.com/0020982/site/editor/cms
+health-horizons.com
+2018-7-20
+
+-DONE: Theme Change SITE IS LIVE
+
+================================================================ 
+2018-7-20
+https://na43.salesforce.com/5000G00001YzmSY
+https://my.chiromatrix.com/0023875/site/editor/cms
+taylorchiropracticclinic.com
+2018-7-20
+
+-DONE: Theme Change
+INC
+================================================================ 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5638,8 +5707,7 @@ tbarmwellness.com
 
 ================================================================
 QUEUES:
-https://na43.salesforce.com/5000G00001XefgA
-https://na43.salesforce.com/5000G00001YzmSY
+
 niuhealthchiropractic.com
 
 
@@ -5651,7 +5719,25 @@ TIER 2 CASES:
 
 
 SETLIVE CASES:
-
+drleekdc.com
+overlakechiropractic.com
+overlandpark-chiro.com
+owassochiropractic.com
+rizzochirocenter.com
+rnrchiropractic.com	
+roballeyhealth.com
+rockenmacherchiropractic.com
+rockville-chiropractic.com
+rodriguezwellness.com
+roehlfamilychiropractic.com
+rollingvalleychiropractic.com
+shattuckrosechiropractic.com
+sheachiropracticclinic.com
+sherbondychiropractic.com
+healthcorechiropractic.com
+healthespine.com
+health-horizons.com
+healthlinechiropractic.com
 
 ================================================================
 
