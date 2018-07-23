@@ -5656,7 +5656,9 @@ nycpupil.com
 -DONE: Our Services Page. I want to consolidate the page into a layout similar to the picture above. Not the exact color of the image but something that fits the theme of the website and the page. Center the image in the page. The image on the right is a sample of what I envision. Use any image and font but keep with the theme of the website. 
 -DONE: Additionally, on the meet the doctors tab. Can you please left-center the image of each to the doctors. For example, Dr. Gelfond's image should remain on the left but be centered with the paragraph.
 ================================================================ 
-
+2018-7-20
+https://na43.salesforce.com/5000G00001Yxm2Z
+niuhealthchiropractic.com
 
 
 
@@ -5708,8 +5710,8 @@ nycpupil.com
 
 ================================================================
 QUEUES:
-https://na43.salesforce.com/5000G00001Z0XHc
-niuhealthchiropractic.com
+
+
 
 
 
@@ -5724,24 +5726,6 @@ whois.domaintools.com/
 98.158.194.41
 
 
-drleekdc.com
-overlakechiropractic.com
-overlandpark-chiro.com
-owassochiropractic.com
-rizzochirocenter.com
-rnrchiropractic.com
-roballeyhealth.com
-rockenmacherchiropractic.com
-rockville-chiropractic.com
-rodriguezwellness.com
-roehlfamilychiropractic.com
-rollingvalleychiropractic.com
-shattuckrosechiropractic.com
-sheachiropracticclinic.com
-sherbondychiropractic.com
-healthcorechiropractic.com
-healthespine.com
-healthlinechiropractic.com
 
 
 ================================================================
