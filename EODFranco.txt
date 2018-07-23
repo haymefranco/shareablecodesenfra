@@ -5645,16 +5645,17 @@ taylorchiropracticclinic.com
 2018-7-20
 
 -DONE: Theme Change
-INC
+
 ================================================================ 
+2018-7-20
+https://na43.salesforce.com/5000G00001Z0XHc
+http://my.imatrix.com/0004808/site/editor/cms
+nycpupil.com
+2018-7-20
 
-
-
-
-
-
-
-
+-DONE: Our Services Page. I want to consolidate the page into a layout similar to the picture above. Not the exact color of the image but something that fits the theme of the website and the page. Center the image in the page. The image on the right is a sample of what I envision. Use any image and font but keep with the theme of the website. 
+-DONE: Additionally, on the meet the doctors tab. Can you please left-center the image of each to the doctors. For example, Dr. Gelfond's image should remain on the left but be centered with the paragraph.
+================================================================ 
 
 
 
@@ -5707,7 +5708,7 @@ INC
 
 ================================================================
 QUEUES:
-
+https://na43.salesforce.com/5000G00001Z0XHc
 niuhealthchiropractic.com
 
 
@@ -5719,12 +5720,16 @@ TIER 2 CASES:
 
 
 SETLIVE CASES:
+whois.domaintools.com/
+98.158.194.41
+
+
 drleekdc.com
 overlakechiropractic.com
 overlandpark-chiro.com
 owassochiropractic.com
 rizzochirocenter.com
-rnrchiropractic.com	
+rnrchiropractic.com
 roballeyhealth.com
 rockenmacherchiropractic.com
 rockville-chiropractic.com
@@ -5736,8 +5741,8 @@ sheachiropracticclinic.com
 sherbondychiropractic.com
 healthcorechiropractic.com
 healthespine.com
-health-horizons.com
 healthlinechiropractic.com
+
 
 ================================================================
 
@@ -5943,8 +5948,7 @@ FREE TEXT TOOL
 geocities.ws
 
 ================================================================
-whois.domaintools.com/
-98.158.194.41
+
 
 
 
