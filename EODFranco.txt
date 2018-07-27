@@ -5696,17 +5696,35 @@ http://niuhealthchiropractic.us2.list-manage.com/subscribe/post?u=b777e6702c1e79
 
 ================================================================ 
 2018-7-28
+https://na43.salesforce.com/5000G00001ZQmdB
 http://my.chiromatrix.com/0020265/site/editor/cms
 drtonyrea.com
+2018-7-28
 
+- DONE: THEME CHANGE TO BOSTON BLUE
 ================================================================ 
+2018-7-28
+https://na43.salesforce.com/5000G00001Y8A9s
+2018-7-28
+
+1) Can you please change the phone number to 604 531 4990 
+ - DONE
+
+2) On the contact page, address should be: 
+15850 24th Ave Suite 201 
+South Surrey, BC V3Z 0G1 
+Phone: (604) 531-4990 
+- DONE
 
 
+3) Can you also hide HOME on main menu 
+- DONE
 
-
-
-
-
+4) The URLs are different on the new template. I realize that the code ( 
+0021650 ) will be removed, but the path is still different for most. Please 
+see attached Word Doc for a side-by-side comparison. 
+- DONE
+================================================================ 
 
 
 
