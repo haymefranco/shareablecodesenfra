@@ -5656,9 +5656,55 @@ nycpupil.com
 -DONE: Our Services Page. I want to consolidate the page into a layout similar to the picture above. Not the exact color of the image but something that fits the theme of the website and the page. Center the image in the page. The image on the right is a sample of what I envision. Use any image and font but keep with the theme of the website. 
 -DONE: Additionally, on the meet the doctors tab. Can you please left-center the image of each to the doctors. For example, Dr. Gelfond's image should remain on the left but be centered with the paragraph.
 ================================================================ 
-2018-7-20
+2018-7-23
 https://na43.salesforce.com/5000G00001Yxm2Z
+https://my.chiromatrix.com/0023743/site/editor/cms
 niuhealthchiropractic.com
+2018-7-23
+
+-DONE: ADS Migration
+-NOTE: First custom Slider Image cannot be inserted.
+-NOTE: Pages must be manually migrated to portal due to old Table Layouts
+-NOTE: pages has links that may take a while to edit.
+-NOTE: Images are linked to old Website. Must be uploaded Manually.
+	-http://niuhealthchiropractic.com/enlightenandevolve-.html
+	-http://niuhealthchiropractic.com/home/vagal-tone--at-the-intersection-of-chiropractic--nutrition-and-emotions.html
+
+	-http://niuhealthchiropractic.com/new-patient-center/online-forms/niu-patient-information-addendum.html
+	-Page cannot be edited due to minimum page titles
+	-Must add Custom Gallery
+	-Added Bootstrap4 Carousel for Gallery images
+	-FIXED all Links under Our Approach
+	-FIXED all Links under Special Topics
+	-FIXED EMBED CODE on Appointment Booking
+	-FIXED Embed Component Height to display all contents of the iframe
+
+	-Fixed Patient Data FORM on Nui Patient Information Addendum
+	-Added all data on the form
+	-FIXED LAYOUT to look like full width with the designs of Contact layout with form inside
+================================================================ 
+-MANUAL MIGRATE[] ADDITIONAL PAGES THAT ARENT MIGRATED BY TOOL
+
+
+
+TO BE CONTINUED
+https://niuhealthchiropracticcom.chiromatrixbase.com/learn-reiki.html
+MUST EMBED IFRAME CODE FROM 
+http://niuhealthchiropractic.us2.list-manage.com/subscribe/post?u=b777e6702c1e79f68eea56642&id=cd27a10cbc
+
+
+
+================================================================ 
+2018-7-28
+http://my.chiromatrix.com/0020265/site/editor/cms
+drtonyrea.com
+
+================================================================ 
+
+
+
+
+
 
 
 
