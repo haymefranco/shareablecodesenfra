@@ -5683,17 +5683,12 @@ niuhealthchiropractic.com
 	-Added all data on the form
 	-FIXED LAYOUT to look like full width with the designs of Contact layout with form inside
 ================================================================ 
--MANUAL MIGRATE[] ADDITIONAL PAGES THAT ARENT MIGRATED BY TOOL
+2018-7-28
 
-
-
-TO BE CONTINUED
+FIXED SOME ERRORS ON MOBILE VIEW
 https://niuhealthchiropracticcom.chiromatrixbase.com/learn-reiki.html
 MUST EMBED IFRAME CODE FROM 
 http://niuhealthchiropractic.us2.list-manage.com/subscribe/post?u=b777e6702c1e79f68eea56642&id=cd27a10cbc
-
-
-
 ================================================================ 
 2018-7-28
 https://na43.salesforce.com/5000G00001ZQmdB
@@ -5725,11 +5720,231 @@ Phone: (604) 531-4990
 see attached Word Doc for a side-by-side comparison. 
 - DONE
 ================================================================ 
+2018-7-30
+taylorwellnesschiropractic.com
+http://my.chiromatrix.com/0023876/site/editor/cms
+2018-7-30
 
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-7-30
+the-arcc.com
+http://my.chiromatrix.com/0023902/site/editor/cms
+2018-7-30
 
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-7-30
+yourforestcitychiropractor.com
+http://my.chiromatrix.com/0024383/site/editor/cms
+2018-7-30
 
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-7-30
+yorkchiropractors.com
+http://my.chiromatrix.com/0024415/site/editor/cms
+2018-7-30
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-7-30
+yorbalindachiro.com
+http://my.chiromatrix.com/0024414/site/editor/cms
+2018-7-30
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-7-31
+yoakumchiropractor.com
+http://my.chiromatrix.com/0024412/site/editor/cms
+2018-7-31
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-7-31
+youngchiropractic.org
+http://my.chiromatrix.com/0024416/site/editor/cms
+2018-7-31
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-7-31
+yoonchiro.com
+http://my.chiromatrix.com/0024413/site/editor/cms
+2018-7-31
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-7-31
+yourannarborchiropractor.com
+http://my.chiromatrix.com/0024418/site/editor/cms
+2018-7-31
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-7-31
+yourchiropracticsolutions.com
+http://my.chiromatrix.com/0024419/site/editor/cms
+2018-7-31
+
+- DONE FORCE MIGRATION
+INCOMPLETE
+================================================================ 
+2018-7-31
+yourcornerstonechiro.com
+http://my.chiromatrix.com/0024421/site/editor/cms
+2018-7-31
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-1
+yourchiropractor.org
+http://my.chiromatrix.com/0024420/site/editor/cms
+2018-8-1
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-2
+phph.net
+https://na43.salesforce.com/5000G00001ZQQFK
+https://my.vetmatrix.com/0024270/site/editor/cms
+2018-8-2
+
+- DONE Memphis in Light Teal.
+Please send preview link to bholladay@bestfriends.net
+
+================================================================ 
+2018-8-2
+yamamotochiro.com
+http://my.chiromatrix.com/0024388/site/editor/cms
+2018-8-2
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-2
+yateswellness.com
+http://my.chiromatrix.com/0024409/site/editor/cms
+2018-8-2
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-2
+yelmchiro.com
+http://my.chiromatrix.com/0024410/site/editor/cms
+2018-8-2
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-2
+zalinchiropractic.com
+https://na43.salesforce.com/5000G00001ZyCHC
+http://my.chiromatrix.com/0024372/site/editor/cms
+2018-8-2
+
+- DONE FORCE MIGRATION
+TIER 2 ISTORE
+================================================================ 
+2018-8-3
+yourchiropracticsolutions.com
+http://my.chiromatrix.com/0024419/site/editor/cms
+2018-8-3
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+REVISION CASE
+https://my.chiromatrix.com/0020789/site/editor/cms
+INCOMPLETE
+================================================================ 
+2018-8-6
+yelmchiro.com
+http://my.chiromatrix.com/00/site/editor/cms
+2018-8-6
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-6
+yelmchiro.com
+http://my.chiromatrix.com/00/site/editor/cms
+2018-8-6
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-6
+yelmchiro.com
+http://my.chiromatrix.com/00/site/editor/cms
+2018-8-6
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-6
+yelmchiro.com
+http://my.chiromatrix.com/00/site/editor/cms
+2018-8-6
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-6
+yelmchiro.com
+http://my.chiromatrix.com/00/site/editor/cms
+2018-8-6
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-6
+yelmchiro.com
+http://my.chiromatrix.com/00/site/editor/cms
+2018-8-6
+
+- DONE FORCE MIGRATION
+
+================================================================ 
+
+makefieldchiro.com
+familychirowellnesscenter.com
+houcochiro.com
+prorehabwellness.com
+calgaryfamilychiro.com
+doczs.com
+myadvancedspine.com
+kurtspurgindc.com
+spinefixer.com
+fbgwellness.com
+completecare.org
+jeskechiro.com
+daychiropractic.com
+resultschiropractic.com
+chirocovington.com
+nwchirolifecenter.com
+insideoutchiro.org
+missionsquarechiropractic.com
+delafieldchiropractic.com
+specificfamilychiro.com
+saranacchiropractic.com
+lichiropracticwellness.com
+thebodychiropractic.com
+wardscornerdc.com
+fedorkohealth.com
 
 
 
@@ -5767,20 +5982,15 @@ see attached Word Doc for a side-by-side comparison.
 
 
 
-
-
-
-
-
 ================================================================
 QUEUES:
-
-
-
+https://na43.salesforce.com/5000G00001ZyCHC
+https://my.chiromatrix.com/0024372
+zalinchiropractic.com
 
 
 Faith:
-riverparksouthchiro.com https://my.chiromatrix.com/0023331/site/editor/cms
+
 
 TIER 2 CASES:
 
@@ -5788,6 +5998,39 @@ TIER 2 CASES:
 SETLIVE CASES:
 whois.domaintools.com/
 98.158.194.41
+
+LIVES
+8/2/2018
+drtonyrea.com
+sharylandchiropractic.com
+sharpchiroassociates.com
+healthexcellencechiro.com
+spectorchiropractic.com
+riverparksouthchiro.com
+healthclubchiropractic.com
+8/3/2018
+speedwellchiro.com
+spencermedandchiro.com
+spierschiropractic.com
+spinalandhealthcenter.com
+spinalandsportscarecenter.com
+spinalhealthcenterrc.com
+spinalhealthcenterwm.com
+spinalinstituteutah.com
+spinalrehabcenters.com
+taylorchiropractic.biz
+tbarmwellness.com
+tenpennychiropractic.com
+tepperchiro.com
+terrapincarecenter.net
+thackerchiropractic.com
+
+NOTLIVES
+
+
+
+
+TO BE LIVES
 
 
 

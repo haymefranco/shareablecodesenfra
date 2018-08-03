@@ -4,3 +4,5 @@ setInterval(function(){
         $(location).attr('href', 'https://my.vetmatrix.com/0003022/thankyou');
     }
 },500);
+
+
