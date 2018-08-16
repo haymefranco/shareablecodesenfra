@@ -5867,184 +5867,420 @@ http://my.chiromatrix.com/0024419/site/editor/cms
 - DONE FORCE MIGRATION
 
 ================================================================ 
-REVISION CASE
-https://my.chiromatrix.com/0020789/site/editor/cms
-INCOMPLETE
-================================================================ 
 2018-8-6
-yelmchiro.com
-http://my.chiromatrix.com/00/site/editor/cms
-2018-8-6
-
-- DONE FORCE MIGRATION
-
-================================================================ 
-2018-8-6
-yelmchiro.com
-http://my.chiromatrix.com/00/site/editor/cms
-2018-8-6
-
-- DONE FORCE MIGRATION
-
-================================================================ 
-2018-8-6
-yelmchiro.com
-http://my.chiromatrix.com/00/site/editor/cms
-2018-8-6
-
-- DONE FORCE MIGRATION
-
-================================================================ 
-2018-8-6
-yelmchiro.com
-http://my.chiromatrix.com/00/site/editor/cms
-2018-8-6
-
-- DONE FORCE MIGRATION
-
-================================================================ 
-2018-8-6
-yelmchiro.com
-http://my.chiromatrix.com/00/site/editor/cms
-2018-8-6
-
-- DONE FORCE MIGRATION
-
-================================================================ 
-2018-8-6
-yelmchiro.com
-http://my.chiromatrix.com/00/site/editor/cms
-2018-8-6
-
-- DONE FORCE MIGRATION
-
-================================================================ 
-
 makefieldchiro.com
+https://na43.salesforce.com/5000G00001Zxkmv
+2018-8-6
+
+http://my.chiromatrix.com/0024891/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-6
 familychirowellnesscenter.com
+https://na43.salesforce.com/5000G00001Zxkmx
+2018-8-6
+
+https://my.chiromatrix.com/0024894/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-6
 houcochiro.com
+https://na43.salesforce.com/5000G00001Zxkmy
+2018-8-6
+
+http://my.chiromatrix.com/0024897/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-6
 prorehabwellness.com
+https://na43.salesforce.com/5000G00001Zxkmz
+2018-8-6
+
+http://my.chiromatrix.com/0024899/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-6
 calgaryfamilychiro.com
+https://na43.salesforce.com/5000G00001Zxkn0
+2018-8-6
+
+http://my.chiromatrix.com/0024901/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-7
 doczs.com
+https://na43.salesforce.com/5000G00001Zxkn1
+2018-8-7
+
+http://my.chiromatrix.com/0024902/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-7
 myadvancedspine.com
+https://na43.salesforce.com/5000G00001Zxkn2
+2018-8-7
+
+http://my.chiromatrix.com/0024906/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-7
 kurtspurgindc.com
+https://na43.salesforce.com/5000G00001Zxkn3
+2018-8-7
+
+http://my.chiromatrix.com/0024909/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-7
 spinefixer.com
+https://na43.salesforce.com/5000G00001Zxkn4
+2018-8-7
+
+http://my.chiromatrix.com/0024912/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-7
 fbgwellness.com
-completecare.org
+https://na43.salesforce.com/5000G00001Zxkn6
+2018-8-7
+
+http://my.chiromatrix.com/0024916/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-8
 jeskechiro.com
+https://na43.salesforce.com/5000G00001Zxkn8
+2018-8-8
+
+https://my.chiromatrix.com/0024922/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-8
 daychiropractic.com
+https://na43.salesforce.com/5000G00001Zxkn9
+2018-8-8
+
+http://my.chiromatrix.com/0024933/site/editor/cms
+- DONE FORCE MIGRATION
+INC FORMS
+================================================================ 
+2018-8-8
 resultschiropractic.com
+https://na43.salesforce.com/5000G00001ZxknA
+2018-8-8
+
+http://my.chiromatrix.com/0024935/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-8
 chirocovington.com
+https://na43.salesforce.com/5000G00001ZxknB
+2018-8-8
+
+http://my.chiromatrix.com/0024937/site/editor/cms
+- DONE FORCE MIGRATION
+INC FORMS
+================================================================ 
+2018-8-8
 nwchirolifecenter.com
+https://na43.salesforce.com/5000G00001ZxknC
+2018-8-8
+
+http://my.chiromatrix.com/0024939/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-8
 insideoutchiro.org
+https://na43.salesforce.com/5000G00001ZxknD
+2018-8-8
+
+http://my.chiromatrix.com/0024941/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-9
 missionsquarechiropractic.com
+https://na43.salesforce.com/5000G00001ZxknE
+2018-8-9
+
+http://my.chiromatrix.com/0024943/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-9
 delafieldchiropractic.com
+https://na43.salesforce.com/5000G00001ZxknF
+2018-8-9
+
+http://my.chiromatrix.com/0024945/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-9
 specificfamilychiro.com
+https://na43.salesforce.com/5000G00001ZxknG
+2018-8-9
+
+http://my.chiromatrix.com/0024947/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-9
 saranacchiropractic.com
+https://na43.salesforce.com/5000G00001ZxknH
+2018-8-9
+
+http://my.chiromatrix.com/0024949/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-9
 lichiropracticwellness.com
+https://na43.salesforce.com/5000G00001ZxknI
+2018-8-9
+
+http://my.chiromatrix.com/0024950/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-9
 thebodychiropractic.com
+https://na43.salesforce.com/5000G00001ZxknJ
+2018-8-9
+
+http://my.chiromatrix.com/0024951/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-10
+https://na43.salesforce.com/5000G00001ZzpxM
+2018-8-10
+
+- DONE: Added images resized to the original size for slider
+- DONE: added Bootstrap for custom Slider with FADE class
+- DONE: added Blur keyframes on blur
+- DONE: Resized logo image to 100px
+- DONE: removed request_appointment icon
+- DONE: Added Number before icons 727-463-2579 G+Y
+- DONE: added AAA icons on top next to two convenient locations
+- DONE: Added Search bar next to Dunedin and Sun City
+- DONE: Added Links to both Dunedin and Sun City
+- DONE: added custom radius 50% on Nav Bar to look like the shape of an eye
+
+IN PROGRESS
+================================================================ 
+2018-8-10
+https://na43.salesforce.com/5000G00001ZR8re
+2018-8-10
+IN PROGRESS
+================================================================ 
+2018-8-10
 wardscornerdc.com
+https://na43.salesforce.com/5000G00001ZxknK
+2018-8-10
+
+http://my.chiromatrix.com/0024952/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-13
 fedorkohealth.com
+https://na43.salesforce.com/5000G00001ZxknL
+2018-8-13
 
+http://my.chiromatrix.com/0024953/site/editor/cms
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-8-13
+duluthchiro.com
+https://na43.salesforce.com/5000G00001ZxknL
+2018-8-13
 
+http://my.chiromatrix.com/0025010/site/editor/cms
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-8-13
+lfchiro.net
+https://na43.salesforce.com/5000G00001ZxkpU
+2018-8-13
 
+http://my.chiromatrix.com/0025014/site/editor/cms
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-8-13
+chiropracticcentergranbury.com
+https://na43.salesforce.com/5000G00001ZxkpW
+2018-8-13
 
+http://my.chiromatrix.com/0025017/site/editor/cms
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-8-13
+barneswellness.com
+https://na43.salesforce.com/5000G00001ZxkpX
+2018-8-13
 
+http://my.chiromatrix.com/0025020/site/editor/cms
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-8-14
+calliopechiropractic.com.au
+https://na43.salesforce.com/5000G00001ZxkpY
+2018-8-14
 
+http://my.chiromatrix.com/0025021/site/editor/cms
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-8-14
+calchiroconvention.org
+https://na43.salesforce.com/5000G00001Zxks9
+2018-8-14
 
+https://my.chiromatrix.com/0025114/site/editor/cms
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-8-14
+familychiroandinjury.com
+https://na43.salesforce.com/5000G00001Zxkpd
+2018-8-14
 
+http://my.chiromatrix.com/0025026/site/editor/cms
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-8-14
+kloofchiro.co.za
+https://na43.salesforce.com/5000G00001Zxkpf
+2018-8-14
 
+http://my.chiromatrix.com/0025028/site/editor/cms
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-8-14
+swayzechiropractic.com
+https://na43.salesforce.com/5000G00001Zxkpi
+2018-8-14
 
+http://my.chiromatrix.com/0025033/site/editor/cms
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-8-15
+mobilechiropractic.com
+https://na43.salesforce.com/5000G00001Zxkpj
+2018-8-15
 
+http://my.chiromatrix.com/0025036/site/editor/cms
+- DONE FORCE MIGRATION
 
- / Facebook
+================================================================ 
+2018-8-15
+gallochiropractic.com
+https://na43.salesforce.com/5000G00001Zxkpm
+2018-8-15
 
-<p>If you have not been to a chiropractor before and want to find out more, please <a title="Email the Doctor" data-source-type="my-pages" data-index="5" href="contact">contact us</a> or call {PHONE} to receive the answers to your questions from our experienced team. We also welcome referrals, so we invite you to share our chiropractic and wellness information with your friends and loved ones.
-</p>
+http://my.chiromatrix.com/0025043/site/editor/cms
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-8-15
+chirolakeland.com
+https://na43.salesforce.com/5000G00001Zxkpo
+2018-8-15
 
+http://my.chiromatrix.com/0025046/site/editor/cms
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-8-15
+intermountainwellnesscenter.com
+https://na43.salesforce.com/5000G00001Zxkpr
+2018-8-15
 
+http://my.chiromatrix.com/0024994/site/editor/cms
+- DONE FORCE MIGRATION
 
+================================================================ 
+2018-8-16
+nordquistchiropractic.com
+https://na43.salesforce.com/5000G00001Zxkps
+2018-8-16
 
-
-
-
-
+http://my.chiromatrix.com/0025084/site/editor/cms
+- DONE FORCE MIGRATION
 
 ================================================================
-QUEUES:
-https://na43.salesforce.com/5000G00001ZyCHC
-https://my.chiromatrix.com/0024372
-zalinchiropractic.com
+2018-8-16
+austinliveoakchiropractic.com
+https://na43.salesforce.com/5000G00001Zxkpt
+2018-8-16
 
+http://my.chiromatrix.com/0024997/site/editor/cms
+- DONE FORCE MIGRATION
 
-Faith:
+================================================================ 
+2018-8-16
+chirototalwellness.com
+https://na43.salesforce.com/5000G00001Zxkpu
+2018-8-16
 
+http://my.chiromatrix.com/0024999/site/editor/cms
+- DONE FORCE MIGRATION
 
-TIER 2 CASES:
-
-
-SETLIVE CASES:
-whois.domaintools.com/
-98.158.194.41
-
-LIVES
-8/2/2018
-drtonyrea.com
-sharylandchiropractic.com
-sharpchiroassociates.com
-healthexcellencechiro.com
-spectorchiropractic.com
-riverparksouthchiro.com
-healthclubchiropractic.com
-8/3/2018
-speedwellchiro.com
-spencermedandchiro.com
-spierschiropractic.com
-spinalandhealthcenter.com
-spinalandsportscarecenter.com
-spinalhealthcenterrc.com
-spinalhealthcenterwm.com
-spinalinstituteutah.com
-spinalrehabcenters.com
-taylorchiropractic.biz
-tbarmwellness.com
-tenpennychiropractic.com
-tepperchiro.com
-terrapincarecenter.net
-thackerchiropractic.com
-
-NOTLIVES
+================================================================ 
 
 
 
 
-TO BE LIVES
 
 
 
 
-================================================================
 
 
-Services & Techniques
-
-Phase 1: Relief Care
-Phase 2: Corrective Care
-Phase 3: Wellness Care
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================ 
 
 Services
 We strive to provide complete care for our patients. Learn more about all the services we provide.
@@ -6060,6 +6296,101 @@ Our patient forms are available online so they can be completed in the convenien
 Contact Us
 Call or send us an email today! Our staff will respond as soon as possible.
 
+
+================================================================ 
+
+ / Facebook
+
+	
+
+
+
+<p>If you have not been to a chiropractor before and want to find out more, please <a href="">contact us</a> or call {PHONE} to receive the answers to your questions from our experienced team. We also welcome referrals, so we invite you to share our chiropractic and wellness information with your friends and loved ones.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================ 
+
+================================================================ 
+REVISION CASE
+https://my.chiromatrix.com/0020789/site/editor/cms
+INCOMPLETE
+================================================================ 
+
+================================================================ 
+
+
+
+
+
+
+
+================================================================
+QUEUES:
+
+
+
+Faith:
+
+
+TIER 2 CASES:
+
+
+SETLIVE CASES:
+whois.domaintools.com/
+98.158.194.41
+
+8/15/2018
+
+LIVES
+SITE HAS ERROR ON SLIDER taylorwellnesschiropractic.com
+teamcliftonchiro.com
+healthcoachdoctor.com
+the-arcc.com
+yamamotochiro.com
+yateswellness.com
+yelmchiro.com
+yoakumchiropractor.com
+yoonchiro.com
+yorbalindachiro.com
+yorkchiropractors.com
+yourannarborchiropractor.com
+yourchiropracticsolutions.com
+yourchiropractor.org
+yourcornerstonechiro.com
+yourforestcitychiropractor.com
+
+youngchiropractic.org
+makefieldchiro.com
+
+spinefixer.com
+familychirowellnesscenter.com
+myadvancedspine.com
+kurtspurgindc.com
+fbgwellness.com
+
+NOTLIVES
+doczs.com
+calgaryfamilychiro.com
+
+
+
+TO BE LIVES
+
+
+================================================================
 
 
 
@@ -6237,7 +6568,8 @@ FREE TEXT TOOL
 <iframe src="http://astigtxt.com/free-sms/" frameborder="0" scrolling="no" width="320px" height="900px"></iframe>
 
 geocities.ws
-
+Files: https://drive.google.com/drive/folders/1crCxnNLJpxqRt95OnnBz2MZw3xbIuKxM?usp=sharing
+urlshortened: https://goo.gl/p5u2LX
 ================================================================
 
 
@@ -6251,7 +6583,7 @@ We also welcome referrals, so we invite you to share our chiropractic and wellne
 
 
 
-
+Guadalupe Ruiz
 
 franclin.cr54rep@bond.ib
 
