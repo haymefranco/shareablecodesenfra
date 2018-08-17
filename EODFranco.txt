@@ -6066,6 +6066,7 @@ http://my.chiromatrix.com/0024951/site/editor/cms
 
 ================================================================ 
 2018-8-10
+lowvisionsupport.org
 https://na43.salesforce.com/5000G00001ZzpxM
 2018-8-10
 
@@ -6079,6 +6080,16 @@ https://na43.salesforce.com/5000G00001ZzpxM
 - DONE: Added Search bar next to Dunedin and Sun City
 - DONE: Added Links to both Dunedin and Sun City
 - DONE: added custom radius 50% on Nav Bar to look like the shape of an eye
+
+- DONE: Fixed Navbar to center
+- DONE: removed gray module complimentary consultation
+- DONE: Community content on Resources page
+- DONE: Mission Statement on > About Us
+- DONE: Position ‘What is Low Vision’ centered on page as a headline.
+- DONE: Removed A Little about us Video moved to About Us
+- DONE: Removed Meet the Optometrist
+- DONE: Updated Staff
+- DONE: Removed Drop downs on Eye Diseases
 
 IN PROGRESS
 ================================================================ 
@@ -6249,6 +6260,26 @@ http://my.chiromatrix.com/0024999/site/editor/cms
 - DONE FORCE MIGRATION
 
 ================================================================ 
+2018-8-16
+gotpaingetrelief.com
+https://na43.salesforce.com/5000G00001Zxkpv
+2018-8-16
+
+http://my.chiromatrix.com/0025000/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-16
+milwaukeemetrochiropractic.com
+https://na43.salesforce.com/5000G00001Zxkpn
+2018-8-16
+
+http://my.chiromatrix.com/0025045/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+
+
 
 
 
@@ -6355,7 +6386,7 @@ whois.domaintools.com/
 8/15/2018
 
 LIVES
-SITE HAS ERROR ON SLIDER taylorwellnesschiropractic.com
+taylorwellnesschiropractic.com
 teamcliftonchiro.com
 healthcoachdoctor.com
 the-arcc.com
@@ -6371,19 +6402,19 @@ yourchiropracticsolutions.com
 yourchiropractor.org
 yourcornerstonechiro.com
 yourforestcitychiropractor.com
-
 youngchiropractic.org
-makefieldchiro.com
-
-spinefixer.com
 familychirowellnesscenter.com
+makefieldchiro.com
 myadvancedspine.com
+spinefixer.com
 kurtspurgindc.com
-fbgwellness.com
-
-NOTLIVES
 doczs.com
 calgaryfamilychiro.com
+fbgwellness.com
+
+
+
+NOTLIVES
 
 
 
