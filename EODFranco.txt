@@ -6076,7 +6076,6 @@ https://na43.salesforce.com/5000G00001ZzpxM
 - DONE: Resized logo image to 100px
 - DONE: removed request_appointment icon
 - DONE: Added Number before icons 727-463-2579 G+Y
-- DONE: added AAA icons on top next to two convenient locations
 - DONE: Added Search bar next to Dunedin and Sun City
 - DONE: Added Links to both Dunedin and Sun City
 - DONE: added custom radius 50% on Nav Bar to look like the shape of an eye
@@ -6090,6 +6089,27 @@ https://na43.salesforce.com/5000G00001ZzpxM
 - DONE: Removed Meet the Optometrist
 - DONE: Updated Staff
 - DONE: Removed Drop downs on Eye Diseases
+- DONE: Fixed the links
+- DONE: Added Page for Amsler Grid
+- DONE: Services > removed drop boxes
+
+
+
+
+
+
+
+
+
+
+
+
+#controls
+
+
+
+
+
 
 IN PROGRESS
 ================================================================ 
@@ -6278,6 +6298,516 @@ http://my.chiromatrix.com/0025045/site/editor/cms
 - DONE FORCE MIGRATION
 
 ================================================================ 
+2018-8-20
+oregontrailchiro.com
+https://na43.salesforce.com/5000G00001Zxkpk
+2018-8-20
+
+https://my.chiromatrix.com/0025040/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-21
+wisechiropractor.com
+https://na43.salesforce.com/5000G00001Zxkpa
+2018-8-21
+
+http://my.chiromatrix.com/0025024/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-21
+mkchiropractic.com
+https://na43.salesforce.com/5000G00001Zxkpc
+2018-8-21
+
+http://my.chiromatrix.com/0025025/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-21
+preferredchirocenter.com
+https://na43.salesforce.com/5000G00001Zxkph
+2018-8-21
+
+http://my.chiromatrix.com/0025030/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-21
+allthewayhealth.com
+https://na43.salesforce.com/5000G00001Zxkpl
+2018-8-21
+
+http://my.chiromatrix.com/0025041/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-21
+vitality-healthcenter.com
+https://na43.salesforce.com/5000G00001Zxkpp
+2018-8-21
+
+http://my.chiromatrix.com/0025048/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-22
+mckinneychiropractic.com
+https://na43.salesforce.com/5000G00001ZxktU
+2018-8-22
+
+http://my.chiromatrix.com/0025278/site/editor/cms
+- DONE FORCE MIGRATION
+
+================================================================ 
+2018-8-22
+carrierchiropractic.com
+https://na43.salesforce.com/5000G00001ZxktV
+2018-8-22
+
+http://my.chiromatrix.com/0025279/site/editor/cms
+- DONE FORCE MIGRATION
+INPROGRESS
+================================================================ 
+2018-8-22
+dr-cc.com
+https://na43.salesforce.com/5000G00001aTede
+2018-8-22
+
+
+- DONE: Scanned through all pages. No more Demo Content.
+
+================================================================ 
+2018-8-22
+bovh.com
+bonanimalclinic.com
+https://na43.salesforce.com/5000G00001aTiiJ
+2018-8-22
+
+http://my.vetmatrix.com/0016786/site/editor/cms
+- List of Employees' information could not be found. Rather I have located the Names but without the detailed information 
+Please see this link: https://na43.salesforce.com/5000G00001aTLoE?srPos=0&srKp=500 
+
+================================================================ 
+2018-8-22
+libertylakeeyecarecenter.com
+https://na43.salesforce.com/5000G00001aThAL
+https://my.imatrix.com/0005266/site/editor/cms
+2018-8-22
+
+- DONE: Renamed the other New Patient Center Tab to Financial Sheet
+
+================================================================ 
+2018-8-22
+fvcmo.com
+https://na43.salesforce.com/5000G00001aUSqw
+
+2018-8-22
+
+- DONE: added link https://u3380355.ct.sendgrid.net/wf/click?upn=iCrq9jLHtgqsLbf0tqF3oL7hZLFG7urw-2BxVWLJdrN0g-2BXULX-2BHX6IfEAogJLeB7mRSU8yhZbl8BRplRnoQFueoMfHO-2B2p4WvZq1U9NU8iJA-3D_0io2Yc7Bcx1b2Y79QcPIzL3YrLE65tOe3701CFyL4pG68akjL25scUvznBX2Vy-2B-2BVGaIi3yADlziY-2Bh1q4sr2K3xsaXx9-2FVgt6vcaCn0olZL5J-2BllbxKmY1L4r-2BpUDjhpvMGp-2BpT3H3MKrPOPLHCxLbuqKR6jOgdSuyHegPn7sNq-2BO99BOQlmB7W5dq0IKcS12YOJAt1a84lYdCTiOJ-2F8elp82qNhxBNXyz5ZQgWIaP1sbj8ClDBmdr8sXrLcyXiJCemJJHvQfsyL-2BsUqSoW7NUZQxubJHxGyA346eBEoh3wwyTkCyXXBPg0j9vSlw0cSK6BY5c2NrCJJZDqEEBQMeo29EoCqPd1RiexU3aEvfdt2ZCaoKYAz9d9eAqNPHNingKCfQ9LdXdB25w7stYEF-2FwxC1h0SONtsXEHkDSA2QwbgWa79F8FjJH3ozdc5GO3nufLU39E8Y4Za4CWBXzyqA-3D-3D
+
+================================================================ 
+2018-8-22
+martenschiropractic.com
+https://na43.salesforce.com/5000G00001aUS9Y
+2018-8-22
+
+- UPDATED ADDRESS ON PORTAL: 555 Plainfield Road, Suite B. Willowbrook, IL 60527
+
+================================================================ 
+2018-8-22
+knoxvillespineandsports.com
+https://na43.salesforce.com/5000G00001aUS6y
+2018-8-22
+
+- DONE: Remove the “Meet the Chiropractor. Learn who we are” section 
+
+- DONE: Remove “Featured Articles” section 
+
+- DONE: Remove "Schedule Your Consultation" now section 
+
+- DONE: Remove the gallery section at the bottom. Move the slideshow to this page> http://www.knoxvillespineandsports.com/virtual-office-tourhtml 
+
+- DONE: Add this video to the top of the page 
+https://www.youtube.com/watch?v=bqbY_YCKgyY&t=43s 
+
+
+================================================================ 
+2018-8-25
+araneye.com
+https://na43.salesforce.com/5000G00001aSrwN
+https://my.imatrix.com/0007572/site/editor/cms#!
+2018-8-25
+
+- DONE: Added Li items
+- DONE: Responsive Li Items
+- NOTE: Did not delete all the pages and links, it is just commented for backup
+
+================================================================ 
+8/27/2018
+carrierchiropractic.com
+https://na43.salesforce.com/5000G00001ZxktV
+http://my.chiromatrix.com/0025279/site/editor/cms
+8/27/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+8/27/2018
+chiropracticusaorovalley.com
+https://na43.salesforce.com/5000G00001ZxktW
+http://my.chiromatrix.com/0025281/site/editor/cms
+8/27/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+8/27/2018
+wellnesswithapurpose.com
+https://na43.salesforce.com/5000G00001ZxktZ
+http://my.chiromatrix.com/0025282/site/editor/cms
+8/27/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+8/27/2018
+rsiphysmed.com
+https://na43.salesforce.com/5000G00001Zxkta
+http://my.chiromatrix.com/0025283/site/editor/cms
+8/27/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+8/28/2018
+degreenefamilychiropractic.com
+https://na43.salesforce.com/5000G00001Zxktb
+http://my.chiromatrix.com/0025284/site/editor/cms
+8/27/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+8/28/2018
+drmikevt.com
+https://na43.salesforce.com/5000G00001Zxktc
+https://my.chiromatrix.com/0025293/site/editor/cms
+8/27/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+8/28/2018
+tokarfamilychiropractic.com
+https://na43.salesforce.com/5000G00001Zxktd
+https://my.chiromatrix.com/0025294/site/editor/cms
+8/27/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+8/28/2018
+drconnies.com
+https://na43.salesforce.com/5000G00001Zxkte
+https://my.chiromatrix.com/0025295/site/editor/cms
+8/27/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+8/29/2018
+dukanechiro.com
+https://na43.salesforce.com/5000G00001Zxktf
+https://my.chiromatrix.com/0025296/site/editor/cms
+8/29/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+8/29/2018
+carolinafamilyspinecenter.com
+https://na43.salesforce.com/5000G00001Zxktg
+https://my.chiromatrix.com/0025298/site/editor/cms
+8/29/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+8/29/2018
+ocinjurydoctors.com
+https://na43.salesforce.com/5000G00001Zxkth
+https://my.chiromatrix.com/0025299/site/editor/cms
+8/29/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+8/30/2018
+alchirocare.com
+https://na43.salesforce.com/5000G00001Zxkxr
+http://my.chiromatrix.com/0025637/site/editor/cms
+8/30/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+8/30/2018
+tacomachiro.com
+https://my.chiromatrix.com/0023866/site/cms
+https://na43.salesforce.com/5000G00001aqkE6
+
+8/30/2018
+
+- DONE: REMOVED BACKGROUND BOX on staffs, Changed Fonts
+- DONE: List items
+- DONE: Staff Image size set back to large
+- DONE: Remove the community content tab
+
+================================================================ 
+8/30/2018
+sierraah.com
+https://na43.salesforce.com/5000G00001aqmOc
+8/30/2018
+
+- VIDEO CANNOT BE OPENED
+- Theme change case here: https://na43.salesforce.com/5000G00001ZR8re?srPos=0&srKp=500
+
+================================================================ 
+8/30/2018
+sierraah.com
+http://my.vetmatrix.com/0022017/site/editor/cms
+https://na43.salesforce.com/5000G00001aqmOc
+8/30/2018
+
+- Theme Change To Oceanside - Ocean
+- Edited Logo to stroke white to have contrast
+
+================================================================ 
+8/30/2018
+dr-cc.com
+https://na43.salesforce.com/5000G00001aTede
+
+- DONE: SCANNED THROUGH PAGES
+
+================================================================ 
+8/31/2018
+yourvalleychiro.com
+https://na43.salesforce.com/5000G00001arqBq
+8/31/2018
+
+- DONE: Task completed
+
+================================================================ 
+9/04/2018
+alchirocare.com
+https://na43.salesforce.com/5000G00001Zxkxr
+http://my.chiromatrix.com/0025637/site/editor/cms
+9/04/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/04/2018
+centerforlifechiropractic.com
+https://na43.salesforce.com/5000G00001Zxkxs
+http://my.chiromatrix.com/0025638/site/editor/cms
+9/04/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/04/2018
+stcroixchiropracticnr.com
+https://na43.salesforce.com/5000G00001Zxkxt
+http://my.chiromatrix.com/0025639/site/editor/cms
+9/04/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/04/2018
+https://na43.salesforce.com/5000G00001asxKF
+
+9/04/2018
+
+- DONE: OOS
+
+================================================================ 
+9/04/2018
+https://na43.salesforce.com/5000G00001at3af
+
+9/04/2018
+
+- DONE: Form leads email updated.
+
+================================================================ 
+9/05/2018
+sportslaserdoctor.com
+https://na43.salesforce.com/5000G00001Zxkxu
+http://my.chiromatrix.com/0025640/site/editor/cms
+9/05/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/05/2018
+hoglundchiro.com
+https://na43.salesforce.com/5000G00001Zxkxw
+http://my.chiromatrix.com/0025641/site/editor/cms
+9/05/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/05/2018
+purebalancehouston.com
+https://na43.salesforce.com/5000G00001Zxkxy
+ERROR
+9/05/2018
+
+- DONE: Forced Migration
+HELD NEED HELP
+INPROGRESS
+================================================================ 
+9/05/2018
+purebalancehouston.com
+https://na43.salesforce.com/5000G00001Zxky0
+ERROR
+9/05/2018
+
+- DONE: Forced Migration
+HELD NEED HELP
+INPROGRESS
+================================================================ 
+9/06/2018
+thememphisspine.com
+https://na43.salesforce.com/5000G00001Zxky1
+http://my.chiromatrix.com/0025644/site/editor/cms
+9/06/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/06/2018
+storliefamilychiropractic.com
+https://na43.salesforce.com/5000G00001Zxl32
+https://my.chiromatrix.com/0026022/site/editor/cms
+9/06/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/06/2018
+drdougbright.com
+https://na43.salesforce.com/5000G00001Zxl33
+https://my.chiromatrix.com/0026023/site/editor/cms
+9/06/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/06/2018
+flcclearwater.com
+https://na43.salesforce.com/5000G00001Zxl35
+https://my.chiromatrix.com/0026024/site/editor/cms
+9/06/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/07/2018
+drthompsonaz.com
+https://na43.salesforce.com/5000G00001Zxl36
+https://my.chiromatrix.com/0026025/site/editor/cms
+9/07/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/07/2018
+chirofitinc.com
+https://na43.salesforce.com/5000G00001aSCQJ
+https://my.chiromatrix.com/0019146/site/editor/cms
+9/07/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://calliopechiropractic.com.au/new-patient-center/online-forms/new-patient-health-history-form.html
+
+INPROGRESS
+https://my.chiromatrix.com/0025021/site/editor/cms#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6312,7 +6842,6 @@ http://my.chiromatrix.com/0025045/site/editor/cms
 
 
 ================================================================ 
-
 Services
 We strive to provide complete care for our patients. Learn more about all the services we provide.
 
@@ -6332,16 +6861,17 @@ Call or send us an email today! Our staff will respond as soon as possible.
 
  / Facebook
 
-	
+
 
 
 
 <p>If you have not been to a chiropractor before and want to find out more, please <a href="">contact us</a> or call {PHONE} to receive the answers to your questions from our experienced team. We also welcome referrals, so we invite you to share our chiropractic and wellness information with your friends and loved ones.</p>
 
 
-
-
-
+TULSA GREEN
+7CBA3D
+43A140
+008238
 
 
 
@@ -6383,34 +6913,30 @@ SETLIVE CASES:
 whois.domaintools.com/
 98.158.194.41
 
-8/15/2018
-
 LIVES
-taylorwellnesschiropractic.com
-teamcliftonchiro.com
-healthcoachdoctor.com
-the-arcc.com
-yamamotochiro.com
-yateswellness.com
-yelmchiro.com
-yoakumchiropractor.com
-yoonchiro.com
-yorbalindachiro.com
-yorkchiropractors.com
-yourannarborchiropractor.com
-yourchiropracticsolutions.com
-yourchiropractor.org
-yourcornerstonechiro.com
-yourforestcitychiropractor.com
-youngchiropractic.org
-familychirowellnesscenter.com
-makefieldchiro.com
-myadvancedspine.com
-spinefixer.com
-kurtspurgindc.com
-doczs.com
-calgaryfamilychiro.com
-fbgwellness.com
+8/27/2018
+chirocovington.com
+resultschiropractic.com
+nwchirolifecenter.com
+missionsquarechiropractic.com
+TODAY
+nordquistchiropractic.com
+specificfamilychiro.com
+thebodychiropractic.com
+lfchiro.net
+chiropracticcentergranbury.com
+barneswellness.com
+swayzechiropractic.com
+mkchiropractic.com
+familychiroandinjury.com
+mobilechiropractic.com
+oregontrailchiro.com
+allthewayhealth.com
+gallochiropractic.com
+intermountainwellnesscenter.com
+austinliveoakchiropractic.com
+duluthchiro.com
+gotpaingetrelief.com
 
 
 
@@ -6418,7 +6944,47 @@ NOTLIVES
 
 
 
+
 TO BE LIVES
+
+delafieldchiropractic.com	not NEEDS A RECORD
+specificfamilychiro.com	LIVE
+saranacchiropractic.com	LIVE
+lichiropracticwellness.com	DONT SET
+thebodychiropractic.com	LIVE
+wardscornerdc.com		not
+fedorkohealth.com		not NEEDS A RECORD
+duluthchiro.com		LIVE
+lfchiro.net		LIVE
+chiropracticcentergranbury.com	LIVE
+barneswellness.com	LIVE
+mkchiropractic.com	LIVE
+familychiroandinjury.com	LIVE
+kloofchiro.co.za		not  NEEDS A RECORD
+swayzechiropractic.com	LIVE
+mobilechiropractic.com	LIVE
+oregontrailchiro.com	LIVE
+allthewayhealth.com	LIVE
+gallochiropractic.com	LIVE
+chirolakeland.com		LIVE
+intermountainwellnesscenter.com	LIVE
+nordquistchiropractic.com	LIVE
+austinliveoakchiropractic.com	LIVE
+chirototalwellness.com	not NEEDS A RECORD
+gotpaingetrelief.com	LIVE
+mckinneychiropractic.com	LIVE
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ================================================================
@@ -6602,7 +7168,8 @@ geocities.ws
 Files: https://drive.google.com/drive/folders/1crCxnNLJpxqRt95OnnBz2MZw3xbIuKxM?usp=sharing
 urlshortened: https://goo.gl/p5u2LX
 ================================================================
-
+franclin.cr54rep@gmail.com
+Gma1l!p@ss#4682
 
 
 

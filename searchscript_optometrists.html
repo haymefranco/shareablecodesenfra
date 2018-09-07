@@ -1,0 +1,899 @@
+<p><meta name="viewport" content="width=device-width, initial-scale=1"></p>
+<style>
+* {
+  box-sizing: border-box;
+}
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+#myUL {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+#myUL li a {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  display: flow-root;
+}
+#myUL li a:hover:not(.header) {
+  background-color: #eee;
+}
+.fspan, .fspan b{
+    font-size: x-small;
+    vertical-align:top;
+}
+</style>
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+
+<ul id="myUL">
+    <li>
+        <a href="#">
+            Adam Stelzer
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 877-2026 1330 West Ave CU101 Miami Beach FL 33139
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Adriana Carcamo
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 385-6885 13852 SW 88 Street Miami FL 33186</span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Adriana Carcamo
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 262-8309 7795 West Flagler Miami FL 33144</span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Alan Grossman
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 4660777 18557 West Dixie Highway North Miami FL 33180</span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Alan Levitt
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 651-8832 1031 Ives Dairy Road #133 Bld. 4 North Miami Beach FL 33179</span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Albert Lagomarsini
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 662-7774 Dadeland Mall 7247 SW 88 th. Street Miami FL 33156</span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Alberto Rente
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 512-9194 1297 w 49th st Hialeah FL 33012</span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Alex Berenthal
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 661-2732 5753 C Bird Road Miami FL 33165</span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Amalfi Blanco
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305-264-6991 920 SW 67 Ave Miami Lakes FL 33144</span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Amarella Dalmazzo
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 829-3937 18600 NW 87th. Avenue suite 124 Miami FL 33015
+                    </span>
+            </div>
+        </a>
+    </li>
+        <li>
+        <a href="#">
+            Ana Victoria Hernandez
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 884-0147 1780 W 32nd. Place Hialeah FL 33012
+                    </span>
+            </div>
+        </a>
+    </li>
+        <li>
+        <a href="#">
+            Angela Coates
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 828-9426 620 W. 49th Street Hialeah FL 33012
+                    </span>
+            </div>
+        </a>
+    </li>
+        <li>
+        <a href="#">
+            Angela Nimroozi
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 603-7882 8245 W Flagler St Miami FL 33144
+                    </span>
+            </div>
+        </a>
+    </li>
+        <li>
+        <a href="#">
+            Anieka Williams
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (786) 563-7019 1203 NE 163rd Street Ste 102 North Miami Bch FL 33162
+                    </span>
+            </div>
+        </a>
+    </li>
+        <li>
+        <a href="#">
+            Annivette Riviera
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (954) 248-5010 11005 Pines Blvd Suite 510 Pembroke Pines FL 33026
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Antoine Copty
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 448-0110 (305) 448-3468 3655 Coral Way Coral Gables FL 33145
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Arsenio Arabitg
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 661-1567 6702 Bird Road Miami FL 33155
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Barry Eichenbaum
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 444-8331 58 Miracle Mile Coral Gables FL 33134
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Betty Borsky
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 821-3832 7535 West 4TH. Ave. Hialeah FL 33014
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Bruce Fleischer
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 821-7591 17250 NW 57 Ave Hialeah FL 33015
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Charmaine Thomas
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 383-3399 14784 SW 88street Miami FL 33196
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Christopher Holcomb
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 2207555 8410 W. Flagler Street # 201 Miami FL 33144
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Crystal Mizell
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 913-0070 18506 NW 67th Ave Hialeah FL 33015
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Damian Lue
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 558-4326 5851 NW 177 Street Hialeah FL 33015
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Darren Oppenheimer
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 294-5503 1708 N. Rosevelt Blvd. key West FL 33040
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            David Rouse
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (954) 3846200 15908 West State Road 84 Sunrise FL 33326
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Don Shapiro
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 531-2262 1519 Alton Road Miami Beach FL 33139
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Ericka Herrera
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 279-2212 10521 N kendall Drive Suite E 103 Miami FL 33176
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Farin Boyle
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (954) 433-1234 18263 Pines Blvd. Pembroke Pines FL 33029
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Farwah Haq
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 552-9100 11865 SW 26Street Miami FL 33175
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Fazeela Karim
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (954) 443-4602 305 442 1230 246 South Flamingo Road Pembroke Pines FL 33029
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Felix Alonso
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 8542388 1353 Coral Way Miami FL 33145
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Gary Berman
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 621-3830 4815 NW 183rd. Street Miami Gardens FL 33055v
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Giannie Castellanos
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 397-9802 8060 NW 155 Street, Suite 201 Miami Lakes FL 33016
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Giannie Castellanos
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 825-7228 Macy's 1777 West 49th. Street Hialeah FL 33014
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Gregory Chin
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 551-6200 11423 SW 40th Street Miami FL 33165
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Iliana Toral
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (954) 430-7338 1951 NW 150 Avenue #b102 Pembroke Pines FL 33028
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Isabelle Ruszczyk
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (954) 438-2021 15915 Pines Blvd Pembroke Pines FL 33027
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Ivana V. Obradovic
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (954) 431-3060 1900 S University Dr. Miramar FL 33025
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Jaime Balaguer
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 888-5166 380 East 9St Suite#2 Hialeah FL 33010
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Jeevanpre Jowhal
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 7924303 19129 Biscayne Boulevard Aventura FL 33180
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Jeff Gleiberman
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 883-1664 / 883-1105 56 Curtis Parkway Miami Springs FL 33101
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Jeffrey Giurato
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 279-6264 11662 N Kendall Drive Miami FL 33176
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Jennifer Lage
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (954) 384-1127 1608 Town Center Blvd. Suite C Weston FL 33326
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Jerry Beauchamp
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 559-3942 10404 W Flagler Street# 14 Miami FL 33174
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Jesus Cuevas
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 558-8630 7480 Fairway Drive Suite 105 Miami Lakes FL 33014
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Jill Turner
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 932-5602 1833 N.E. 185th Street North Miami FL 33179
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Joanne Kundi
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 2472334 28 North Homestead Blvd Homestead FL 33030
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Jon Jacobs
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (954) 581-5400 1085 Sunset Strip Sunrise FL 33313
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Jose Macedo
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 643-1010 1846 Sw 8 street Miami FL 33135
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Laura Clune
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (954) 3846200 15908 West State Road 84 Sunrise FL 33326
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Leoncio Gonzalez
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 220-8333 11760 Bird Road # 101 Miami FL 33175
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Lianette laria
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 225-1145 8220 West Flagler Street Miami FL 33144
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Luz Tamayo
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 824-9890 1655 West 49th Street Hialeah FL 33012
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Marc Tescher
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 9457113 1825 NE 164th Street North Miami Beach FL 33162
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Maria Casas
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 594-6339 1455 N.W . 107th Ave Miami FL 33173
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Maria Cordova
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (954) 432-1532 2605 N. Hiatus Rd. Cooper City FL 33026
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Maria M. Casas
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (786) 224-8866 1455 N.W . 107th Ave. #790B Miami FL 33172
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Mario Carcamo
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 592-2270 1455 NW 107 Ave. Suite # 654 Miami FL 33172
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Martha Alfonso
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 888-9910 366 E 4th AVE Hialeah FL 33010
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Massimo Gramanzini
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (954) 423-8444 12220 W. Sunrise Blvd Plantation FL 33323
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Mayden Borregos
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 223-6142 8485 SW 40th Street Suite 103 Miami FL 33155
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Nathan Etten
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (786) 242-7755 9000 SW 152 St. Suite 206 Miami FL 33157
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Norma Barajas
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 269-8620 8300 Park blvd. Miami FL 33126
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Ofelia Sanchez
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 827-0038 8051 West 24 Ave Suite 13 Hialeah FL 33016
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Patrick DelVecchio
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305-2472334 28 N. Homestead Blvd. Homestead FL 33030
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Pavel Gazdovich
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 854-2388 1353 Coral Way Miami FL 33145
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Peter Gomez
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (954) 442-6703 1673 North Hiatus Road Pembroke Pines FL 33026
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Richard Padron
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 793-6058 2200 SW 16 Street Suite #204 Miami FL 33145
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Richard Thomas
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (954) 888-6466 1396-2 SW 160th. Avenue Sunrise FL 33326
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Rick Myers
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 2207555 8410 W. Flagler Street # 201 Miami FL 33144
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Roberto Ponce
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 649-0555 2903 NW 7th Street Miami FL 33125
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Saba Millares
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 858-1308 2256 Coral Way Miami FL 33145
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Senia Bustillo
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (786) 212-1270 8765 SW 165th. Ave #107 Miami FL 33186
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Shari Neufeld
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 821-3937 1540 W 49th. Street Hialeah FL 33012
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Smith Blanc
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 474-0463 18610 NW 67th Avenue Miami FL 33015
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Stephen Morris
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 668-7700 1555 Sunset Drive Coral Gables FL 33143
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Stephen Oppenheimer
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 294-5503 1708 North Roosevelt Boulevard Key West FL 33040
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Steve Newman
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 591-6566 9549 NW 41 Street Doral Fl 33178
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Yolanda Bogarin
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 594-9336 8651 NW 13th Terr. Miami FL 33126
+                </span>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="#">
+            Zelinda Manning
+            <div style="display:flex;">
+                <span class="fspan">
+                    <b>Contact/Address:</b> (305) 669-1501 7299 Dadeland Mall #3360 Miami FL 33156
+                </span>
+            </div>
+        </a>
+    </li>
+    
+</ul>
+<!--<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." title="Type in a name">
+<ul id="myxUL">
+    <li><a href="http://www.araneye.com/our-doctors/dr-alberto-aran-m-d">Dr. Alberto Aran, M.D.</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/dr-analisa-arosemena-m-d">Dr. Analisa Arosemena, M.D.</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/dr-kenneth-t-wals-m-d">Dr. Kenneth Wals M.D.</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/dr-renata-picciani-m-d">Dr. Renata Picciani, M.D.</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/dr-raul-masvidal-m-d">Dr. Raul Masvidal, M.D.</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/dr-marco-a-fabrega-jr-m-d">Dr. Marco Fabrega, M.D.</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/dr-arnulfo-mansur-md">Dr. Arnulfo Mansur, M.D.</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/dr-claudia-arroyave-m-d">Dr. Claudia P. Arroyave O’ Brien, M.D.</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/dr-max-corndorf-m-d">Dr. Max Corndorf, M.D.</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/dr-alan-lane-m-d">Dr. Alan Lane, M.D.</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/dr-joel-david-aronowicz-gallego-m-d">Dr. Joel David Aronowicz Gallego, M.D.</a></li>
+  <li><a href="http://www.araneye.com/carolina-victoria-md-">Dr. Ana Carolina Victoria, M.D.</a></li>
+  <li><a href="http://www.araneye.com/andreina-hurtado-md-">Dr. Andreina F Hurtado, M.D.</a></li>
+  <li><a href="http://www.araneye.com/gary-shienbaum-md-">Dr. Gary Shienbaum, M.D.</a></li>
+  <li><a href="http://www.araneye.com/joseph-selem-md">Dr. Joseph Selem, M.D.</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/fernando-f-lopez-md">Dr. Fernando F. Lopez, M.D.</a></li>
+  <li><a href="http://www.araneye.com/jay-harris-levy-m-d">Dr. Jay Harris Levy, M.D.</a></li>
+  <li><a href="http://www.araneye.com/drew-philips-bawcombe-md">Dr. Drew Philips Bawcombe, M.D.</a></li>
+  <li><a href="http://www.araneye.com/heather-b.-seith-m.d.">Dr. Heather B. Seith, M.D.</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/dr-emilio-balius-o-d">Dr. Emilio Balius, O.D.</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/dr-aura-zambrano-o-d">Dr. Aura Zambrano</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/dr-jessica-rodriguez-o-d">Dr. Jessica E. Rodriguez</a></li>
+  <li><a href="http://www.araneye.com/our-doctors/dr-steven-m-newman-o-d">Dr. Steven M Newman O.D.</a></li>
+  <li><a href="http://www.araneye.com/lisbet-abrante-od-">Dr. Lisbet Abrante, O.D.</a></li>
+  <li><a href="http://www.araneye.com/anieka-williams-od-">Dr. Anieka Williams, O.D.</a></li>
+  <li><a href="http://www.araneye.com/arturo-ramos-od">Dr. Arturo Ramos, O.D.</a></li>
+  <li><a href="http://www.araneye.com/cynthia-hardy-od-">Dr. Cynthia Hardy, O. D.</a></li>
+  <li><a href="http://www.araneye.com/teresita-bollar-od-">Dr. Teresita Bollar, O. D.</a></li>
+  <li><a href="http://www.araneye.com/noemi-zubizarreta-od">Dr. Noemi Zubizarreta, O. D.</a></li>
+  <li><a href="http://www.araneye.com/jessica-c.-hayward-o.d.">Dr. Jessica C. Hayward O.D.</a></li>
+  <li><a href="http://www.araneye.com/laura-espinosa-o.d.">Dr. Laura Espinosa, O.D.</a></li>
+  <li><a href="http://www.araneye.com/candice-n.-mansito-o.d.">Dr. Candice N. Mansito, O.D.</a></li>
+  <li><a href="http://www.araneye.com/patrisa-tare-o.d.">Dr. Patrisa Tare, O.D.</a></li>
+ 
+</ul>-->
+<script>
+function myFunction() {
+    var input, filter, ul, li, a, i;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("myUL");
+    li = ul.getElementsByTagName("li");
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}
+</script>
