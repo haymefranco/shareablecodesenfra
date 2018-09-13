@@ -6735,6 +6735,105 @@ https://my.chiromatrix.com/0019146/site/editor/cms
 - DONE: Forced Migration
 
 ================================================================ 
+9/10/2018
+drdanchiropractic.com
+https://na43.salesforce.com/5000G00001Zxl37
+https://my.chiromatrix.com/0026026/site/editor/cms
+9/10/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/10/2018
+chiroinfo4u.com
+https://na43.salesforce.com/5000G00001Zxl38
+https://my.chiromatrix.com/0026027/site/editor/cms
+9/10/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/10/2018
+rasmussenchiropractic.com
+https://na43.salesforce.com/5000G00001Zxl39
+https://my.chiromatrix.com/0026028/site/editor/cms
+9/10/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/10/2018
+completechiroofunion.com
+https://na43.salesforce.com/5000G00001Zxl3A
+https://my.chiromatrix.com/0026029/site/editor/cms
+9/10/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/10/2018
+bewelltotalhealth.com
+https://na43.salesforce.com/5000G00001Zxl3C
+http://my.chiromatrix.com/0025987/site/editor/cms
+9/10/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/11/2018
+drnoeldc.com
+https://na43.salesforce.com/5000G00001Zxl3D
+http://my.chiromatrix.com/0025988/site/editor/cms
+9/11/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/11/2018
+drbakercares.com
+https://na43.salesforce.com/5000G00001Zxl3E
+http://my.chiromatrix.com/0025989/site/editor/cms
+9/11/2018
+
+- DONE: Forced Migration
+ INPROGRESS
+================================================================ 
+9/11/2018
+smithchiropracticruston.com
+https://na43.salesforce.com/5000G00001Zxl3H
+http://my.chiromatrix.com/0025990/site/editor/cms
+9/11/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/13/2018
+puntagordachiropractor.com
+https://na43.salesforce.com/5000G00001Zxl3J
+http://my.chiromatrix.com/0025991/site/editor/cms
+9/13/2018	
+
+- DONE: Forced Migration
+
+================================================================ 
+9/13/2018
+alliedspineandsports.com
+https://na43.salesforce.com/5000G00001Zxl3K
+http://my.chiromatrix.com/0025993/site/editor/cms
+9/13/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/13/2018
+siouxspineandsport.com
+https://na43.salesforce.com/5000G00001Zxl3L
+http://my.chiromatrix.com/0025994/site/editor/cms
+9/13/2018
+
+- DONE: Forced Migration
+
+================================================================ 
 
 
 
@@ -6745,53 +6844,8 @@ https://my.chiromatrix.com/0019146/site/editor/cms
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-http://calliopechiropractic.com.au/new-patient-center/online-forms/new-patient-health-history-form.html
-
-INPROGRESS
-https://my.chiromatrix.com/0025021/site/editor/cms#
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+pic
+https://bit.ly/2Nfy8cU
 
 
 
@@ -6910,34 +6964,10 @@ TIER 2 CASES:
 
 
 SETLIVE CASES:
-whois.domaintools.com/
+whois.domaintools.com
 98.158.194.41
 
 LIVES
-8/27/2018
-chirocovington.com
-resultschiropractic.com
-nwchirolifecenter.com
-missionsquarechiropractic.com
-TODAY
-nordquistchiropractic.com
-specificfamilychiro.com
-thebodychiropractic.com
-lfchiro.net
-chiropracticcentergranbury.com
-barneswellness.com
-swayzechiropractic.com
-mkchiropractic.com
-familychiroandinjury.com
-mobilechiropractic.com
-oregontrailchiro.com
-allthewayhealth.com
-gallochiropractic.com
-intermountainwellnesscenter.com
-austinliveoakchiropractic.com
-duluthchiro.com
-gotpaingetrelief.com
-
 
 
 NOTLIVES
@@ -6947,32 +6977,36 @@ NOTLIVES
 
 TO BE LIVES
 
-delafieldchiropractic.com	not NEEDS A RECORD
-specificfamilychiro.com	LIVE
-saranacchiropractic.com	LIVE
-lichiropracticwellness.com	DONT SET
-thebodychiropractic.com	LIVE
-wardscornerdc.com		not
-fedorkohealth.com		not NEEDS A RECORD
-duluthchiro.com		LIVE
-lfchiro.net		LIVE
-chiropracticcentergranbury.com	LIVE
-barneswellness.com	LIVE
-mkchiropractic.com	LIVE
-familychiroandinjury.com	LIVE
-kloofchiro.co.za		not  NEEDS A RECORD
-swayzechiropractic.com	LIVE
-mobilechiropractic.com	LIVE
-oregontrailchiro.com	LIVE
-allthewayhealth.com	LIVE
-gallochiropractic.com	LIVE
-chirolakeland.com		LIVE
-intermountainwellnesscenter.com	LIVE
-nordquistchiropractic.com	LIVE
-austinliveoakchiropractic.com	LIVE
-chirototalwellness.com	not NEEDS A RECORD
-gotpaingetrelief.com	LIVE
-mckinneychiropractic.com	LIVE
+houcochiro.com
+prorehabwellness.com
+lichiropracticwellness.com
+wardscornerdc.com
+calliopechiropractic.com.au
+calchiroconvention.org
+carrierchiropractic.com
+chiropracticusaorovalley.com
+wellnesswithapurpose.com
+rsiphysmed.com
+degreenefamilychiropractic.com
+drmikevt.com
+tokarfamilychiropractic.com
+drconnies.com
+dukanechiro.com
+
+
+carolinafamilyspinecenter.com
+
+
+ocinjurydoctors.com
+alchirocare.com
+centerforlifechiropractic.com
+stcroixchiropracticnr.com
+sportslaserdoctor.com
+hoglundchiro.com
+thememphisspine.com
+storliefamilychiropractic.com
+drdougbright.com
+drthompsonaz.com
 
 
 
