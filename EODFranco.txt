@@ -6834,6 +6834,134 @@ http://my.chiromatrix.com/0025994/site/editor/cms
 - DONE: Forced Migration
 
 ================================================================ 
+9/14/2018
+gregoryvetclinic.com
+https://na43.salesforce.com/5000G00001aSXCO
+https://my.vetmatrix.com/0026322/site/editor/cms
+9/14/2018
+
+- DONE: ADS Migration
+
+================================================================ 
+9/14/2018
+alwfamilychiro.com
+https://na43.salesforce.com/5000G00001Zxl3O
+http://my.chiromatrix.com/0025993/site/editor/cms
+9/14/2018
+
+- DONE: ADS Migration
+
+================================================================ 
+9/17/2018
+alwfamilychiro.com
+https://na43.salesforce.com/5000G00001Zxl3O
+http://my.chiromatrix.com/0025993/site/editor/cms
+9/17/2018
+
+- DONE: ADS Migration
+
+================================================================ 
+9/17/2018
+abbotsfordchiropractic.ca
+https://na43.salesforce.com/5000G00001Zxl3Q
+http://my.chiromatrix.com/0025997/site/editor/cms
+9/17/2018
+
+- DONE: Migration
+
+================================================================ 
+9/18/2018
+korchirostudio.com
+https://na43.salesforce.com/5000G00001Zxl3R
+http://my.chiromatrix.com/0025998/site/editor/cms
+9/18/2018
+
+- DONE: Migration
+
+================================================================ 
+9/18/2018
+chirofitinc.com
+https://na43.salesforce.com/5000G00001c0BVr
+
+9/18/2018
+
+COMPLETED 
+Added Slider as per https://na43.salesforce.com/5000G00001bW8Mu 
+PREVIEW: https://my.chiromatrix.com/0019146/ 
+
+
+================================================================ 
+9/18/2018
+drkevinjholton.com
+https://na43.salesforce.com/5000G00001Zxl4f
+http://my.chiromatrix.com/0025999/site/editor/cms
+9/18/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/19/2018
+besttoledochiropractor.com
+https://na43.salesforce.com/5000G00001Zxl4g
+https://my.chiromatrix.com/0026092/site/editor/cms
+9/19/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/19/2018
+backontrackclinic.co.uk
+https://na43.salesforce.com/5000G00001Zxl4h
+https://my.chiromatrix.com/0026093/site/editor/cms
+9/19/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/19/2018
+
+
+
+9/19/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6846,8 +6974,10 @@ http://my.chiromatrix.com/0025994/site/editor/cms
 
 pic
 https://bit.ly/2Nfy8cU
-
-
+https://drive.google.com/file/d/1rITZ-gFk5ROhRZU5Z0SxfzMPUs8nyayH/view?usp=sharing
+https://drive.google.com/file/d/1OZmFfCDzynzYHmi5HqhjYif4H7QgM-5D/view?usp=sharing
+https://drive.google.com/file/d/1pBSebkXg7wT7k_kgGpXGTxTbth3kYRPC/view?usp=sharing
+<p style="display:none;">.</p>
 
 
 
@@ -6936,19 +7066,6 @@ TULSA GREEN
 
 
 
-================================================================ 
-
-================================================================ 
-REVISION CASE
-https://my.chiromatrix.com/0020789/site/editor/cms
-INCOMPLETE
-================================================================ 
-
-================================================================ 
-
-
-
-
 
 
 
@@ -6964,10 +7081,20 @@ TIER 2 CASES:
 
 
 SETLIVE CASES:
+COMPLETED
 whois.domaintools.com
 98.158.194.41
 
 LIVES
+
+rsiphysmed.com  - NEEDS A RECORD
+
+degreenefamilychiropractic.com  - NEEDS A RECORD
+
+alwfamilychiro.com - NEEDS A RECORD
+
+
+
 
 
 NOTLIVES
@@ -6977,36 +7104,8 @@ NOTLIVES
 
 TO BE LIVES
 
-houcochiro.com
-prorehabwellness.com
-lichiropracticwellness.com
-wardscornerdc.com
-calliopechiropractic.com.au
-calchiroconvention.org
-carrierchiropractic.com
-chiropracticusaorovalley.com
-wellnesswithapurpose.com
-rsiphysmed.com
-degreenefamilychiropractic.com
-drmikevt.com
-tokarfamilychiropractic.com
-drconnies.com
-dukanechiro.com
 
 
-carolinafamilyspinecenter.com
-
-
-ocinjurydoctors.com
-alchirocare.com
-centerforlifechiropractic.com
-stcroixchiropracticnr.com
-sportslaserdoctor.com
-hoglundchiro.com
-thememphisspine.com
-storliefamilychiropractic.com
-drdougbright.com
-drthompsonaz.com
 
 
 
