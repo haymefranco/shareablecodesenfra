@@ -6918,19 +6918,126 @@ https://my.chiromatrix.com/0026093/site/editor/cms
 - DONE: Forced Migration
 
 ================================================================ 
-9/19/2018
-
-
-
-9/19/2018
+9/20/2018
+seatacchiropractic.com
+https://na43.salesforce.com/5000G00001Zxl4i
+https://my.chiromatrix.com/0026094/site/editor/cms
+9/20/2018
 
 - DONE: Forced Migration
 
+================================================================ 
+9/20/2018
+laserdermmedspa.com
+https://na43.salesforce.com/5000G00001Zxl4k
+https://my.chiromatrix.com/0026095/site/editor/cms
+9/20/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/20/2018
+tfamilychiropractic.com
+https://na43.salesforce.com/5000G00001Zxl4n
+https://my.chiromatrix.com/0026096/site/editor/cms
+9/20/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/20/2018
+poweredbychiropractic.com
+https://na43.salesforce.com/5000G00001Zxl4p
+https://my.chiromatrix.com/0026097/site/editor/cms
+9/20/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/20/2018
+nasachiropractic.com
+https://na43.salesforce.com/5000G00001Zxl4r
+https://my.chiromatrix.com/0026098/site/editor/cms
+9/20/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/20/2018
+drcraig-chiropractor.com
+https://na43.salesforce.com/5000G00001Zxl4s
+https://my.chiromatrix.com/0026099/site/editor/cms
+9/20/2018
+
+- DONE: Forced Migration
+
+================================================================ 
+9/20/2018
+bostonscoliosis.com
+https://na43.salesforce.com/5000G00001Zxl4t
+https://my.chiromatrix.com/0026100/site/editor/cms
+9/20/2018
+
+- DONE: Forced Migration
+INPROGRESS
 ================================================================ 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================ 
+9/20/2018
+bwchiro.com
+https://na43.salesforce.com/5000G00001ZxlKQ
+
+9/20/2018
+
+- DONE: Forced Migration
+INPROGRESS
+================================================================ 
 
 
 
