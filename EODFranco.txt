@@ -6811,7 +6811,7 @@ http://my.chiromatrix.com/0025990/site/editor/cms
 puntagordachiropractor.com
 https://na43.salesforce.com/5000G00001Zxl3J
 http://my.chiromatrix.com/0025991/site/editor/cms
-9/13/2018	
+9/13/2018
 
 - DONE: Forced Migration
 
@@ -6885,7 +6885,7 @@ https://na43.salesforce.com/5000G00001c0BVr
 
 9/18/2018
 
-COMPLETED 
+COMPLETED
 Added Slider as per https://na43.salesforce.com/5000G00001bW8Mu 
 PREVIEW: https://my.chiromatrix.com/0019146/ 
 
@@ -6979,7 +6979,333 @@ https://my.chiromatrix.com/0026100/site/editor/cms
 9/20/2018
 
 - DONE: Forced Migration
-INPROGRESS
+
+================================================================ 
+9/21/2018
+gallatinvalleychiropractic.com
+https://na43.salesforce.com/5000G00001bTBhz
+https://my.chiromatrix.com/0025689/site/editor/cms
+9/21/2018
+
+- DONE: Website Edits
+
+================================================================ 
+
+
+
+98.158.194.41
+
+rsiphysmed.com
+degreenefamilychiropractic.com
+korchirostudio.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================ 
+================================================================ 
+================================================================ 
+OB SUPPORT
+================================================================ 
+================================================================ 
+================================================================ 
+9/24/2018
+pccompanionvets.com
+https://na43.salesforce.com/5000G00001c1bDT
+https://my.vetmatrix.com/0006713/site/editor/cms
+9/24/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/24/2018
+romanoffvision.com
+https://na43.salesforce.com/5000G00001c1c4A
+http://my.imatrix.com/0027673/site/editor/cms
+9/24/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/24/2018
+hoopestonchiropractor.com
+https://na43.salesforce.com/5000G00001c0BdM
+https://my.chiromatrix.com/0027164/site/editor/cms
+9/24/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/24/2018
+drleap.com
+https://na43.salesforce.com/5000G00001c1zEp
+https://my.chiromatrix.com/0024806/site/editor/cms
+9/24/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/24/2018
+yourvisionaryeyecare.com
+https://na43.salesforce.com/5000G00001c21QZ
+https://my.imatrix.com/0027668/site/editor/cms
+9/24/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/24/2018
+drchristyosborne.com
+https://na43.salesforce.com/5000G00001c1xmk
+https://my.imatrix.com/0026658/site/editor/cms
+9/24/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/24/2018
+courthousechiro.com
+https://na43.salesforce.com/5000G00001c1xsE
+http://my.chiromatrix.com/0027391/site/editor/cms
+9/24/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/24/2018
+newshackleislandvet.com
+https://na43.salesforce.com/5000G00001bUKKs
+https://my.vetmatrix.com/0027579/site/editor/cms
+9/24/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/25/2018
+hoopestonchiropractor.com
+https://na43.salesforce.com/5000G00001as7UD
+https://my.chiromatrix.com/0027164/site/editor/cms
+9/25/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/25/2018
+pearsallvetlaser.com
+https://na43.salesforce.com/5000G00001c2QnR
+https://my.vetmatrix.com/0027539/site/editor/cms
+9/25/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/25/2018
+shorewoodhealthcare.com
+https://na43.salesforce.com/5000G00001c2SME
+https://my.chiromatrix.com/0024271/site/editor/cms
+9/25/2018
+
+- Unable to complete:
+- We do not offer trigger points (services tab) 
+- Can we move the testimonials up to the top of the page? 
+- The youtube link is VERY old and shows the old office info :) 
+- In "what to expect" section, we do not have any nurse practitioners so 
+that needs to be re-worded. 
+
+================================================================ 
+9/25/2018
+friendlyah.com
+https://na43.salesforce.com/5000G00001c30od
+https://my.vetmatrix.com/0027102/site/editor/cms
+9/25/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/25/2018
+valleyequine.net
+https://na43.salesforce.com/5000G00001c2Ye8
+https://my.vetmatrix.com/0027355/site/editor/cms
+9/25/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/25/2018
+doctorsparkeye.com
+https://na43.salesforce.com/5000G00001bUmNY
+https://my.imatrix.com/0027626/site/editor/cms
+9/25/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/25/2018
+familyfirstchiropractor.com
+https://na43.salesforce.com/5000G00001c2cSG
+https://my.chiromatrix.com/0027453/site/editor/cms
+9/25/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/25/2018
+gordonspetgrooming.com
+https://na43.salesforce.com/5000G00001c2DhG
+https://my.vetmatrix.com/0027534/site/editor/cms#
+9/25/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/25/2018
+westernhillsah.com
+https://na43.salesforce.com/5000G00001c2kwr
+
+9/25/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/25/2018
+Americanfamilywellness.com
+https://na43.salesforce.com/5000G00001c2r6c
+http://my.chiromatrix.com/0026280/site/editor/cms
+9/25/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/25/2018
+newshackleislandvet.com
+https://na43.salesforce.com/5000G00001bUKKs
+
+9/25/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/26/2018
+crystalchiropracticpc.com
+https://na43.salesforce.com/5000G00001bS6n9
+https://my.chiromatrix.com/0027354/site/editor/cms
+9/25/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/26/2018
+advancedmobilevet.com
+https://na43.salesforce.com/5000G00001c3D41
+https://my.vetmatrix.com/0024226/site/editor/cms
+9/25/2018
+
+- Unable to complete
+
+================================================================ 
+9/26/2018
+9204966000.com
+procarechiropractic.com
+https://na43.salesforce.com/5000G00001c2tZW
+https://my.chiromatrix.com/0022679/site/editor/cms
+9/26/2018
+
+- Unable to complete
+
+================================================================ 
+9/26/2018
+bahamaroadvet.com
+https://na43.salesforce.com/5000G00001c2wLq
+http://my.vetmatrix.com/0024125/site/editor/cms
+9/26/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/26/2018
+northwoodveterinary.com
+https://na43.salesforce.com/5000G00001c3KuT
+https://my.vetmatrix.com/0024475/site/editor/cms
+9/26/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/26/2018
+happytailsvet2pet.com
+6783603002.com
+https://na43.salesforce.com/5000G00001c3Ekx
+https://my.vetmatrix.com/0027536/site/editor/cms
+9/26/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/26/2018
+rockfallsveterinarycare.com
+https://na43.salesforce.com/5000G00001bUaHM
+https://my.vetmatrix.com/0027135/site/editor/cms
+9/26/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/26/2018
+crystalchiropracticpc.com
+https://na43.salesforce.com/5000G00001bS6n9
+https://my.chiromatrix.com/0027354/site/editor/cms
+9/26/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/26/2018
+valleyequineassociates.com
+https://na43.salesforce.com/5000G00001c2Ye8
+https://my.vetmatrix.com/0027355/site/editor/cms
+9/26/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/26/2018
+drfoxworth.com
+foxworthchiro.com
+https://na43.salesforce.com/5000G00001c3T5S
+
+9/26/2018
+
+- DONE: Website Edits
+
 ================================================================ 
 
 
@@ -6991,53 +7317,6 @@ INPROGRESS
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-================================================================ 
-9/20/2018
-bwchiro.com
-https://na43.salesforce.com/5000G00001ZxlKQ
-
-9/20/2018
-
-- DONE: Forced Migration
-INPROGRESS
-================================================================ 
 
 
 
@@ -7417,7 +7696,10 @@ We also welcome referrals, so we invite you to share our chiropractic and wellne
 
 
 
-
+www.happytailsvet2pet.com/
+The godaddy login for the site is: 
+Customer #74629585 
+Password: Bettyboop2018## 
 
 
 
