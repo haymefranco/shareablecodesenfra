@@ -7307,6 +7307,60 @@ https://na43.salesforce.com/5000G00001c3T5S
 - DONE: Website Edits
 
 ================================================================ 
+9/27/2018
+somerseyecenter.com
+https://na43.salesforce.com/5000G00001bTklW
+https://my.imatrix.com/0027503/site/editor/cms
+9/27/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/27/2018
+axelixhc.com
+https://na43.salesforce.com/5000G00001bU5By
+https://my.chiromatrix.com/0027554/site/editor/cms
+9/27/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/28/2018
+newshackleislandvet.com
+https://na43.salesforce.com/5000G00001bUKKs
+https://my.vetmatrix.com/0027579/site/editor/cms
+9/28/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/28/2018
+michianawellness.com
+https://na43.salesforce.com/5000G00001cTRJW
+https://my.chiromatrix.com/0027759/site/editor/cms
+9/28/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/28/2018
+drbackman.com
+https://na43.salesforce.com/5000G00001cTMvT
+https://my.chiromatrix.com/0027690/site/editor/cms
+9/28/2018
+
+- DONE: Website Edits
+
+================================================================ 
+9/28/2018
+chiropractorinheights.com
+https://na43.salesforce.com/5000G00001cU4S1
+https://my.chiromatrix.com/0027855/site/editor/cms
+9/28/2018
+
+- DONE: Website Edits
+
+================================================================ 
 
 
 
@@ -7315,6 +7369,36 @@ https://na43.salesforce.com/5000G00001c3T5S
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+98.158.194.41
+
+
+milwaukeemetrochiropractic.com
+rsiphysmed.com
+degreenefamilychiropractic.com
+drdanchiropractic.com
+puntagordachiropractor.com
+korchirostudio.com
+drkevinjholton.com
+
+besttoledochiropractor.com
+backontrackclinic.co.uk
+seatacchiropractic.com
+laserdermmedspa.com
+tfamilychiropractic.com
+poweredbychiropractic.com
+bostonscoliosis.com
 
 
 
