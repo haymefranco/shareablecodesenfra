@@ -8390,15 +8390,107 @@ https://my.chiromatrix.com/0027880/site/editor/cms
 - DONE: updated location and office hours
 
 ================================================================ 
-10/17/2018
+================================================================ 
+10/18/2018
 claycentercrittercare.com
 https://na43.salesforce.com/5000G00001dMaDy
-
-10/17/2018
+https://my.vetmatrix.com/0028256/site/editor/cms
+10/18/2018
 
 - DONE: Website Edits
 
 ================================================================ 
+10/18/2018
+courthousechiro.com
+https://na43.salesforce.com/5000G00001dMw28
+https://my.chiromatrix.com/0027391/site/editor/cms
+10/18/2018
+
+- DONE: Website Edits
+
+================================================================ 
+10/18/2018
+drdavidrudnick.com
+https://na43.salesforce.com/5000G00001dMzGH
+https://my.chiromatrix.com/0028895/site/editor/cms#
+10/18/2018
+
+- DONE: Website Edits
+
+================================================================ 
+10/18/2018
+freeportvethospital.net,freeportveterinaryhospital.com
+https://na43.salesforce.com/5000G00001dMQvR
+https://my.vetmatrix.com/0028562/site/editor/cms
+10/18/2018
+
+- DONE: Website Edits
+
+================================================================ 
+10/18/2018
+dopps.com
+https://na43.salesforce.com/5000G00001dMjZL
+http://my.chiromatrix.com/0028781/site/editor/cms
+10/18/2018
+
+- DONE: Website Edits
+
+================================================================ 
+================================================================ 
+10/19/2018
+drchriscsi.com,usasportsmed.com
+https://na43.salesforce.com/5000G00001dNLzA
+http://my.chiromatrix.com/0019823/site/editor/cms
+10/19/2018
+
+- DONE: Website Edits
+- PREVIEW: https://my.chiromatrix.com/0019823/
+
+================================================================ 
+10/19/2018
+tokencreekvet.com
+https://na43.salesforce.com/5000G00001dNNbE
+http://my.vetmatrix.com/0027460/site/editor/cms
+10/19/2018
+
+- DONE: Website Edits
+
+================================================================ 
+10/19/2018
+lakeconroevet.com
+https://na43.salesforce.com/5000G00001c2UUK
+https://my.vetmatrix.com/0028653/site/editor/cms
+10/19/2018
+
+- DONE: Website Edits
+
+================================================================ 
+10/19/2018
+etowneye.com, etowneye.com
+https://na43.salesforce.com/5000G00001dNt84
+https://my.imatrix.com/0027928/site/editor/cms
+10/19/2018
+
+- DONE: Website Edits
+
+================================================================ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
