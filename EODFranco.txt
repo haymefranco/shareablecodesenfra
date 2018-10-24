@@ -8465,11 +8465,158 @@ https://my.vetmatrix.com/0028653/site/editor/cms
 - DONE: Website Edits
 
 ================================================================ 
-10/19/2018
+================================================================ 
+10/22/2018
 etowneye.com, etowneye.com
 https://na43.salesforce.com/5000G00001dNt84
 https://my.imatrix.com/0027928/site/editor/cms
-10/19/2018
+10/22/2018
+
+- DONE: Website Edits
+- NOTE: Suggest to Remove one featured link for the new tab > "Patient Portal" wont fit in.
+
+================================================================ 
+10/22/2018
+drdeyecare.com, samoeyecare.com
+https://na43.salesforce.com/5000G00001cUGGu
+https://my.imatrix.com/0028343/site/editor/cms
+10/22/2018
+
+- DONE: Website Edits
+
+================================================================ 
+10/22/2018
+ohiosportschiropractic.com,
+ohiosportsrehab.com,
+ohiosportschiropracticandrehab.com
+https://na43.salesforce.com/5000G00001dNxAh
+https://my.chiromatrix.com/0028721/site/editor/cms
+10/22/2018
+
+- DONE: Website Edits
+
+================================================================ 
+10/22/2018
+tokencreekvet.com
+6088349700.com
+https://na43.salesforce.com/5000G00001dNwY9
+http://my.vetmatrix.com/0027460/site/editor/cms
+10/22/2018
+
+- DONE: Website Edits
+- PREVIEW: https://my.vetmatrix.com/0027460/veterinary-resources
+
+================================================================ 
+10/22/2018
+tokencreekvet.com
+6088349700.com
+https://na43.salesforce.com/5000G00001bTFI7
+http://my.vetmatrix.com/0027460/site/editor/cms
+10/22/2018
+
+- DONE: Website Edits
+
+================================================================ 
+================================================================ 
+10/23/2018
+vetsanfrancisco.com
+oceanavevethosp.com
+thecitypethospital.com
+https://na43.salesforce.com/5000G00001dOHkW
+
+10/23/2018
+
+- DONE: Website Edits
+
+================================================================ 
+10/23/2018
+thomasrogersdc.com
+https://na43.salesforce.com/5000G00001dPJMO
+http://my.chiromatrix.com/0028110/site/editor/cms
+10/23/2018
+
+- DONE: Website Edits
+
+================================================================ 
+10/23/2018
+thomasrogersdc.com
+https://na43.salesforce.com/5000G00001dPGkm
+http://my.chiromatrix.com/0028110/site/editor/cms
+10/23/2018
+
+- DONE: Website Edits
+
+================================================================ 
+10/23/2018
+seattlelabradoodles.com
+https://na43.salesforce.com/5000G00001dPCiw
+http://my.vetmatrix.com/0029051/site/editor/cms
+10/23/2018
+
+- DONE: Website Edits
+
+================================================================ 
+10/23/2018
+elkgroveoptical.com
+https://na43.salesforce.com/5000G00001dPK2f
+https://my.imatrix.com/0028386/site/editor/cms
+10/23/2018
+
+- DONE: Website Edits
+
+================================================================ 
+================================================================ 
+10/24/2018
+cedarparkchiropractic.com
+https://na43.salesforce.com/5000G00001dovgV
+https://my.chiromatrix.com/0024463/site/editor/cms
+10/24/2018
+
+- DONE: Website Edits
+
+================================================================ 
+10/24/2018
+southcountryvet.ca
+https://na43.salesforce.com/5000G00001dpT4F
+https://my.vetmatrix.com/0028398/site/editor/cms
+10/24/2018
+
+- DONE: Website Edits
+
+================================================================ 
+10/24/2018
+cochraneanimalhospital.com
+https://na43.salesforce.com/5000G00001dMPIO
+https://my.vetmatrix.com/0029021/site/editor/cms
+10/24/2018
+
+- DONE: Website Edits
+
+================================================================ 
+10/24/2018
+miamihomevet.com
+https://na43.salesforce.com/5000G00001dpZhY
+http://my.vetmatrix.com/0027920/site/editor/cms
+10/24/2018
+
+- Unable to complete: Replace photo of Dr Roman (No photos attatched for replacement)
+- Place a photo of each of the two team member (No photos attatched for replacement)
+
+================================================================ 
+10/24/2018
+miamihomevet.com
+https://na43.salesforce.com/5000G00001dpZhY
+http://my.vetmatrix.com/0027920/site/editor/cms
+10/24/201836
+
+- DONE: Website Edits
+
+================================================================ 
+10/24/2018
+dopps.com
+https://na43.salesforce.com/5000G00001dPGMG
+http://my.chiromatrix.com/0028781/site/editor/cms
+10/24/201836
 
 - DONE: Website Edits
 
@@ -8509,13 +8656,7 @@ https://my.imatrix.com/0027928/site/editor/cms
 
 
 
-
-
-
-
-
-
-
+POTTY TRAINING:
 
 hahahahaha :laughing:
 three studios: https://goo.gl/wdvTdo
@@ -8848,8 +8989,21 @@ Customer #74629585
 Password: Bettyboop2018## 
 
 Registrar URL: http://www.godaddy.com 
-5. Username: dcbeggs 
-6. Password: 7718Practice 
+5. Username: dcbeggs
+6. Password: 7718Practice
+
+
+Registrar: godaddy.com 
+UN:arminjoon@hotmail.com 
+PW: Modo1298!
+
+
+
+
+
+
+
+
 
 Guadalupe Ruiz
 
