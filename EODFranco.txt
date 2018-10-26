@@ -8607,7 +8607,7 @@ http://my.vetmatrix.com/0027920/site/editor/cms
 miamihomevet.com
 https://na43.salesforce.com/5000G00001dpZhY
 http://my.vetmatrix.com/0027920/site/editor/cms
-10/24/201836
+10/24/2018
 
 - DONE: Website Edits
 
@@ -8616,9 +8616,106 @@ http://my.vetmatrix.com/0027920/site/editor/cms
 dopps.com
 https://na43.salesforce.com/5000G00001dPGMG
 http://my.chiromatrix.com/0028781/site/editor/cms
-10/24/201836
+10/24/2018
 
-- DONE: Website Edits
+- NOTE: Anderson Names are not located on the site anymore.
+- NOTE: Please provide screenshots the stock anderson names located.
+
+================================================================ 
+10/24/2018
+miamihomevet.com
+https://na43.salesforce.com/5000G00001dpLG7
+http://my.vetmatrix.com/0027920/site/editor/cms
+10/24/2018
+
+- DONE: Website Edits.
+- PREVIEW: https://my.vetmatrix.com/0027920/
+
+================================================================ 
+================================================================ 
+10/25/2018
+conchesteranimalhospital.com
+https://na43.salesforce.com/5000G00001dpn6V
+http://my.vetmatrix.com/0019644/site/editor/cms
+10/25/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/25/2018
+conchesteranimalhospital.com
+https://na43.salesforce.com/5000G00001dpnMF
+http://my.vetmatrix.com/0019644/site/editor/cms
+10/25/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/25/2018
+brookswoodanimalclinic.com
+https://na43.salesforce.com/5000G00001Xceie
+https://my.vetmatrix.com/0022212/site/editor/cms
+10/25/2018
+
+- DONE: Website Edits.
+- PREVIEW: https://my.vetmatrix.com/0022212/
+
+================================================================ 
+10/25/2018
+doctorsparkeye.com
+https://na43.salesforce.com/5000G00001dpktK
+https://my.imatrix.com/0027626/site/editor/cms
+10/25/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/25/2018
+mybathandbiscuits.com
+https://na43.salesforce.com/5000G00001cpJCN
+https://my.vetmatrix.com/0028720/site/editor/cms
+10/25/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/25/2018
+
+10/25/2018
+mybathandbiscuits.com
+https://na43.salesforce.com/5000G00001cpJCN
+https://my.vetmatrix.com/0028720/site/editor/cms
+10/25/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/25/2018
+avianexoticpetclinic.com
+https://na43.salesforce.com/5000G00001dq6BR
+http://my.vetmatrix.com/0028994/site/editor/cms
+10/25/2018.
+
+- DONE: Website Edits.
+
+================================================================ 
+10/25/2018
+nahpetvet.com
+https://na43.salesforce.com/5000G00001dqBWG
+http://my.vetmatrix.com/0020928/site/editor/cms
+10/25/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+================================================================ 
+10/26/2018
+nahpetvet.com
+https://na43.salesforce.com/5000G00001dqBWG
+http://my.vetmatrix.com/0020928/site/editor/cms
+10/26/2018
+
+- DONE: Website Edits.
 
 ================================================================ 
 
@@ -8630,6 +8727,7 @@ http://my.chiromatrix.com/0028781/site/editor/cms
 
 
 
+- PREVIEW: 
 
 
 
@@ -8645,6 +8743,33 @@ http://my.chiromatrix.com/0028781/site/editor/cms
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HEAD
+<style>
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
+</style>
+
+CSS
+font-family: 'Noto Sans JP', sans-serif;
+
+
+
+<link href="https://fonts.googleapis.com/earlyaccess/nicomoji.css" rel="stylesheet" />
+.wf-nicomoji { font-family: "Nico Moji"; }
 
 
 
