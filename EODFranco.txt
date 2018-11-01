@@ -8710,10 +8710,343 @@ http://my.vetmatrix.com/0020928/site/editor/cms
 ================================================================ 
 ================================================================ 
 10/26/2018
-nahpetvet.com
-https://na43.salesforce.com/5000G00001dqBWG
-http://my.vetmatrix.com/0020928/site/editor/cms
+conchesteranimalhospital.com
+https://na43.salesforce.com/5000G00001dpnMF
+http://my.vetmatrix.com/0019644/site/editor/cms
 10/26/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/26/2018
+drtabick.com
+brooklynspecificchiro.com
+https://na43.salesforce.com/5000G00001dqmYv
+
+10/26/2018
+
+- DONE: Website Edits.
+- http://www.brooklynspecificchiro.com/blog
+
+================================================================ 
+10/26/2018
+bridgewaytohealing.com
+https://na43.salesforce.com/5000G00001dPOXC
+https://my.chiromatrix.com/0008594/site/editor/cms/
+10/26/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/26/2018
+bettfamilychiropractic.com
+https://na43.salesforce.com/5000G00001dq8Tx
+https://my.chiromatrix.com/0018733/site/editor/cms
+10/26/2018
+
+- DONE: Website Edits.
+- THEME CHANGE
+================================================================ 
+10/26/2018
+chvh.net
+https://na43.salesforce.com/5000G00001dpHOH
+https://my.vetmatrix.com/0024452/site/editor/cms
+10/26/2018
+
+- DONE: Website Edits.
+- THEME CHANGE
+================================================================ 
+10/26/2018
+middletownvet.net
+https://na43.salesforce.com/5000G00001dMXIg
+https://my.vetmatrix.com/0017521/site/editor/cms
+10/26/2018
+
+- DONE: Website Edits.
+- THEME CHANGE
+================================================================ 
+================================================================ 
+10/29/2018
+lakeconroevet.com
+https://na43.salesforce.com/5000G00001c2UUK
+https://my.vetmatrix.com/0028653/site/editor/cms
+10/29/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/29/2018
+luvncareac.com
+https://na43.salesforce.com/5000G00001dqmH0
+https://my.vetmatrix.com/0028259/site/editor/cms
+10/29/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/29/2018
+avianexoticpetclinic.com
+https://na43.salesforce.com/5000G00001dqwww
+http://my.vetmatrix.com/0028994/site/editor/cms
+10/29/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/29/2018
+avianexoticpetclinic.com
+https://na43.salesforce.com/5000G00001drtnl
+http://my.vetmatrix.com/0028994/site/editor/cms
+10/29/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/29/2018
+avianexoticpetclinic.com
+https://na43.salesforce.com/5000G00001dM5oI
+http://my.vetmatrix.com/0028994/site/editor/cms
+10/29/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/29/2018
+drfoxworth.com
+foxworthchiro.com
+https://na43.salesforce.com/5000G00001dqnxX
+MADISON https://my.chiromatrix.com/0025286/site/editor/cms
+FLOWOOD https://my.chiromatrix.com/0024593/site/editor/cms
+10/29/2018
+
+- DONE: Website Edits.
+- PREVIEW: https://my.chiromatrix.com/0024593
+
+================================================================ 
+================================================================ 
+10/30/2018
+mybathandbiscuits.com
+https://na43.salesforce.com/5000G00001cpJCN
+https://my.vetmatrix.com/0028720/site/editor/cms
+10/30/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/30/2018
+etowneye.com
+https://na43.salesforce.com/5000G00001dqvie
+https://my.imatrix.com/0027928/site/editor/cms
+10/30/2018
+
+- DONE: Website Edits.
+- PREVIEW: https://my.imatrix.com/0027928
+
+================================================================ 
+10/30/2018
+williamschiropractic.com
+https://na43.salesforce.com/5000G00001drPcY
+https://my.chiromatrix.com/0028672/site/editor/cms#!
+10/30/2018
+
+- DONE: Website Edits.
+- PREVIEW: https://my.chiromatrix.com/0028672
+================================================================ 
+10/30/2018
+miamihomevet.com
+https://na43.salesforce.com/5000G00001drM3W
+http://my.vetmatrix.com/0027920/site/editor/cms
+10/30/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/30/2018
+redrockpetresort.com
+https://na43.salesforce.com/5000G00001drRdT
+https://my.vetmatrix.com/0029260/site/editor/cms
+10/30/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/30/2018
+murrietaoptometry.com
+https://na43.salesforce.com/5000G00001dsLPh
+http://myimx.demandforced3.com/0028218/
+10/30/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+================================================================ 
+10/31/2018
+painandlasercentersofnc.com
+williamschiropractic.com
+https://na43.salesforce.com/5000G00001drhWU
+http://my.chiromatrix.com/0028672/site/editor/cms
+10/31/2018
+
+- DONE: Website Edits.
+- UNABLE TO COMPLETE: Logo cannot be added on top for it will cover the slider information
+- NOTE: Posture before and after page is seen here please have a look (https://my.chiromatrix.com/0028672/before-and-after-cases)
+- This is the whole PREVIEW: https://my.chiromatrix.com/0028672
+
+================================================================ 
+10/31/2018
+williamschiropractic.com
+https://na43.salesforce.com/5000G00001dsPsY
+http://my.chiromatrix.com/0028672/site/editor/cms
+10/31/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/31/2018
+williamschiropractic.com
+https://na43.salesforce.com/5000G00001drPcY
+http://my.chiromatrix.com/0028672/site/editor/cms
+10/31/2018
+
+- DONE: Website Edits.
+- NOTE: Unspecified videos(7. Maybe put on the top left corner? all the videos please put under testimonials)
+- NOTE: Unspecified instructions(9. Scrolling picture of office building is to fuzzy)
+
+================================================================ 
+10/31/2018
+williamschiropractic.com
+https://na43.salesforce.com/5000G00001dsPt2
+http://my.chiromatrix.com/0028672/site/editor/cms
+10/31/2018
+
+- DONE: Unable To complete
+
+================================================================ 
+10/31/2018
+williamschiropractic.com
+https://na43.salesforce.com/5000G00001dsPvS
+http://my.chiromatrix.com/0028672/site/editor/cms
+10/31/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+10/31/2018
+tamispetgrooming.com
+https://na43.salesforce.com/5000G00001dsQ6O
+https://my.vetmatrix.com/0027533/site/editor/cms
+10/31/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+================================================================ 
+11/1/2018
+arrowheadchiropractors.com
+https://na43.salesforce.com/5000G00001dsQFL
+http://my.chiromatrix.com/0028420/site/editor/cms
+11/1/2018
+
+- DONE: Website Edits.
+- PREVIEW: https://my.chiromatrix.com/0028420
+
+================================================================ 
+11/1/2018
+cruisechiro.com
+https://na43.salesforce.com/5000G00001dt318
+https://my.chiromatrix.com/0029300/site/editor/cms
+11/1/2018
+
+- DONE: Website Edits.
+- PREVIEW: https://my.chiromatrix.com/0029300
+
+================================================================ 
+11/1/2018
+thomasrogersdc.com
+https://na43.salesforce.com/5000G00001dPJMO
+http://my.chiromatrix.com/0028110/site/editor/cms
+11/1/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+11/1/2018
+ohiosportschiropractic.com
+https://na43.salesforce.com/5000G00001cpJpw
+https://my.chiromatrix.com/0028721/site/editor/cms
+11/1/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+11/1/2018
+ohiosportschiropractic.com
+https://na43.salesforce.com/5000G00001eAlUM
+https://my.chiromatrix.com/0028721/site/editor/cms
+11/1/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+11/1/2018
+miamihomevet.com
+https://na43.salesforce.com/5000G00001eAQ4Z
+https://my.vetmatrix.com/0027920/site/editor/cms
+11/1/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+11/1/2018
+miamihomevet.com
+https://na43.salesforce.com/5000G00001eB0lO
+https://my.vetmatrix.com/0027920/site/editor/cms
+11/1/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+11/1/2018
+miamihomevet.com
+https://na43.salesforce.com/5000G00001eB0Ic
+https://my.vetmatrix.com/0027920/site/editor/cms
+11/1/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+11/1/2018
+miamihomevet.com
+https://na43.salesforce.com/5000G00001eB0fr
+https://my.vetmatrix.com/0027920/site/editor/cms
+11/1/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+11/1/2018
+miamihomevet.com
+https://na43.salesforce.com/5000G00001eB0n5
+https://my.vetmatrix.com/0027920/site/editor/cms
+11/1/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+11/1/2018
+miamihomevet.com
+https://na43.salesforce.com/5000G00001eB0pB
+https://my.vetmatrix.com/0027920/site/editor/cms
+11/1/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+11/1/2018
+sunvalleyvet.com
+https://na43.salesforce.com/5000G00001eARhn
+https://my.vetmatrix.com/0024786/site/editor/cms
+11/1/2018
 
 - DONE: Website Edits.
 
@@ -8727,8 +9060,12 @@ http://my.vetmatrix.com/0020928/site/editor/cms
 
 
 
-- PREVIEW: 
 
+
+
+
+
+- PREVIEW: 
 
 
 
@@ -8839,7 +9176,7 @@ Call or send us an email today! Our staff will respond as soon as possible.
 
 ================================================================ 
 
- / Facebook
+
 
 
 
