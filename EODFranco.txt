@@ -9544,98 +9544,447 @@ https://my.vetmatrix.com/0028361/site/editor/cms
 11/12/2018
 hilliardchiro.com
 https://na43.salesforce.com/5000G00001eZzv9
-
+http://my.chiromatrix.com/0029703/site/editor/cms
 11/12/2018
 
-
 - DONE: Website Edits.
+
 ================================================================ 
 2
 11/12/2018
 hilliardchiro.com
 https://na43.salesforce.com/5000G00001ea0gj
-
+http://my.chiromatrix.com/0029703/site/editor/cms
 11/12/2018
 
-
 - DONE: Website Edits.
+
 ================================================================ 
 3
 11/12/2018
 hilliardchiro.com
 https://na43.salesforce.com/5000G00001ea1mJ
-
+http://my.chiromatrix.com/0029703/site/editor/cms
 11/12/2018
 
-
 - DONE: Website Edits.
+
 ================================================================ 
 4
 11/12/2018
 hilliardchiro.com
 https://na43.salesforce.com/5000G00001ea58D
-
+http://my.chiromatrix.com/0029703/site/editor/cms
 11/12/2018
 
-
 - DONE: Website Edits.
+
 ================================================================ 
 5
 11/12/2018
 hilliardchiro.com
 https://na43.salesforce.com/5000G00001ea7Oh
-
+https://my.chiromatrix.com/0029703/site/editor/cms
 11/12/2018
 
-
 - DONE: Website Edits.
+
 ================================================================ 
-5
+6
 11/12/2018
 hilliardchiro.com
 https://na43.salesforce.com/5000G00001eaDTd
-
+https://my.chiromatrix.com/0029703/site/editor/cms
 11/12/2018
 
+- DONE: Website Edits.
+
+================================================================ 
+7
+11/12/2018
+wellingtoneye.com
+https://na43.salesforce.com/5000G00001eaK5y
+http://myimx.demandforced3.com/0028853/site/editor/cms
+11/12/2018
 
 - DONE: Website Edits.
+
 ================================================================ 
+================================================================ 
+1
+11/13/2018
+ellavisionoptical.com
+https://na43.salesforce.com/5000G00001eC7dz
+http://my.imatrix.com/0028821/site/editor/cms
+11/13/2018
 
+- NOTE: This is already Done. (1. If you can have these images appear first at the top of the "Our Work" section, in this order, it will be very appreciated. )
+- NOTE: The "go to link" is no longer clickable.
+- NOTE: To Rotate images simply Add it to photoshop and then save it as Web.
+- DONE: Website Edits.
 
+================================================================ 
+2
+11/13/2018
+minicassiachiropractic.com
+https://na43.salesforce.com/5000G00001eaocH
+https://my.chiromatrix.com/0027606/site/editor/cms
+11/13/2018
 
+- DONE: Website Edits.
 
+================================================================ 
+3
+11/13/2018
+llamc.com
+https://na43.salesforce.com/5000G00001eZtyy
+https://my.vetmatrix.com/0029690/site/editor/cms
+11/13/2018
 
+- DONE: Website Edits.
 
+================================================================ 
+4
+11/13/2018
+brechbillchiropractic.com
+https://na43.salesforce.com/5000G00001eaz5J
+https://my.chiromatrix.com/0029699/site/editor/cms
+11/13/2018
 
+- DONE: Website Edits.
 
+================================================================ 
+5
+11/13/2018
+oakridgevet.com
+https://na43.salesforce.com/5000G00001ebJG6
+http://my.vetmatrix.com/0027704/site/editor/cms
+11/13/2018
 
+- DONE: Website Edits.
 
+================================================================ 
+6
+11/13/2018
+tokencreekvet.com
+https://na43.salesforce.com/5000G00001ebJKt
+http://my.vetmatrix.com/0027460/site/editor/cms
+11/13/2018
 
+- DONE: Website Edits.
+- PREVIEW: https://my.vetmatrix.com/0027460
 
+================================================================ 
+7
+11/13/2018
+fvcfarmington.com
+https://na43.salesforce.com/5000G00001ebu2f
+http://myimx.demandforced3.com/0029451/site/editor/cms
+11/13/2018
 
+- DONE: Website Edits.
+- NOTE: Disabled Contact Us on Featured Links, instead added contact us form beside newsletter signup
 
+================================================================ 
+================================================================ 
+1
+11/14/2018
+lakeconroevet.com
+https://na43.salesforce.com/5000G00001eaV84
 
+lakeconroevet.com
+	https://my.vetmatrix.com/0028653/site/editor/cms
 
+bridgewayanimalclinic.com
+	http://my.vetmatrix.com/0028654/site/editor/cms
+lakewayveterinary.com
+	http://my.vetmatrix.com/0028655/site/editor/cms
+westernhillsveterinary.com
+	http://my.vetmatrix.com/0028100/site/editor/cms
 
+11/14/2018
 
+- NOTE: Renamed 'Suzie Q' as to 'the Patient' on Surgical forms
+- NOTE: westernhillsveterinary.com Surgical forms and all succeeding forms cannot be added, due to wrong links or rather no links found.
+- DONE: Website Edits.
 
+================================================================ 
+2
+11/14/2018
+micheyecare.com
+https://na43.salesforce.com/5000G00001ea3bh
+http://my.imatrix.com/0029796/site/editor/cms
+11/14/2018
 
+- DONE: Website Edits.
 
+================================================================ 
+3
+11/14/2018
+naturalhealthclifton.com
+https://na43.salesforce.com/5000G00001ebEqN
+https://my.chiromatrix.com/0029022/site/editor/cms#!
+11/14/2018
 
+- DONE: Website Edits.
 
+================================================================ 
+4
+11/14/2018
+vetsanfrancisco.com
+thecitypethospital.com
+https://na43.salesforce.com/5000G00001ebLrd
+https://my.vetmatrix.com/0028952/site/editor/cms
+11/14/2018
 
+- DONE: Website Edits.
 
+================================================================ 
+5
+11/14/2018
+vetsanfrancisco.com
+thecitypethospital.com
+https://na43.salesforce.com/5000G00001ebKvZ
+https://my.vetmatrix.com/0028952/site/editor/cms
+11/14/2018
 
+- DONE: Website Edits.
 
+================================================================ 
+6
+11/14/2018
+accedx.org
+https://na43.salesforce.com/5000G00001eah0H
+https://my.chiromatrix.com/0029869/site/editor/cms
+11/14/2018
 
+- DONE: Website Edits.
 
+================================================================ 
+================================================================ 
+1
+11/15/2018
+curtisranderson.com
+https://na43.salesforce.com/5000G00001ebhJY
+https://my.imatrix.com/0027972/site/editor/cms
+11/15/2018
 
+- DONE: Website Edits.
+- PREVIEW: https://my.imatrix.com/0027972/
 
+================================================================ 
+2
+11/15/2018
+oakridgevet.com
+https://na43.salesforce.com/5000G00001ec38D
+http://my.vetmatrix.com/0027704/site/editor/cms
+11/15/2018
 
+- DONE: Website Edits.
 
+================================================================ 
+3
+11/15/2018
+neighborhoodvets.com
+https://na43.salesforce.com/5000G00001ecbMb
+https://my.vetmatrix.com/0030306/site/editor/cms
+11/15/2018
 
+- DONE: Website Edits.
 
+================================================================ 
+4
+11/15/2018
+neighborhoodvets.com
+https://na43.salesforce.com/5000G00001ecvpq
+https://my.vetmatrix.com/0030306/site/editor/cms
+11/15/2018
 
+- DONE: Website Edits.
+- NOTE: Just only Adjusted when it comes to Tablet view and mobile view for the height of the background is not so big to compensate for the whole view of the page.
+- NOTE: Renamed Pet Wellness Program to Pet Wellness Care
+
+================================================================ 
+5
+11/15/2018
+reinfamchiro.com
+https://na43.salesforce.com/5000G00001eccuP
+http://my.chiromatrix.com/0028800/site/editor/cms
+11/15/2018
+
+- DONE: Website Edits.
+- NOTE: Removed Contact Us on featured blocks to compensate with the theme layout
+- NOTE: (Take out any photos of female chiropractor Replace with an auto accident photo instead)
+
+================================================================ 
+6
+11/15/2018
+hamburgvisioncenter.com
+https://na43.salesforce.com/5000G00001cUGMH
+http://myimx.demandforced3.com/0029542/site/editor/cms
+11/15/2018
+
+- DONE: Website Edits.
+- NOTE: Disabled one Featured Link "services" to compensate in the layout
+- PREVIEW: http://myimx.demandforced3.com/0029542/
+
+================================================================ 
+7
+11/15/2018
+accedx.org
+https://na43.salesforce.com/5000G00001ecl8R
+https://my.chiromatrix.com/0029869/site/editor/cms
+11/15/2018
+
+- DONE: Website Edits.
+- NOTE: All the Staff Bios are using the images that were sent before therefore no changes were made.
+- NOTE: The Document were already added and updated the staff bios.
+- NOTE: Uploaded the doc on to media manager(https://my.chiromatrix.com/0029869/storage/app/media/accedx.org/acce-website-content-document-1.docx)
+
+================================================================ 
+8
+11/15/2018
+accedx.org
+https://na43.salesforce.com/5000G00001eCY5V
+https://my.chiromatrix.com/0029869/site/editor/cms
+11/15/2018
+
+- DONE: Website Edits.
+- Unable to complete: No instructions(Can we change the top where it says American College of Clinical Electrodiagnosis, I do not like how that looks with all the white space to the right of the wording.)
+- NOTE: Image Added may be incorrect. Instruction is vague (Please put the picture that is currently in the slider of the large group next to this statement)
+
+================================================================ 
+================================================================ 
+1
+11/16/2018
+mvmomentumoptometry.com
+https://na43.salesforce.com/5000G00001ecreo
+https://my.imatrix.com/0029135/site/editor/cms
+11/16/2018
+
+- DONE: Website Edits.
+- NOTE: (Added to Slider in home page as to which there were no specific target on where to add these images)
+
+================================================================ 
+2
+11/16/2018
+lakeconroevet.com
+https://na43.salesforce.com/5000G00001eaV84
+
+lakeconroevet.com
+	https://my.vetmatrix.com/0028653/site/editor/cms
+bridgewayanimalclinic.com
+	http://my.vetmatrix.com/0028654/site/editor/cms
+lakewayveterinary.com
+	http://my.vetmatrix.com/0028655/site/editor/cms
+westernhillsveterinary.com
+	http://my.vetmatrix.com/0028100/site/editor/cms
+
+11/16/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+3
+11/16/2018
+aztecanimalhospital.net
+	http://my.vetmatrix.com/0029462/site/editor/cms
+quartzmountainanimalhospital.com
+	http://my.vetmatrix.com/0029315/site/editor/cms
+101spay.com
+	http://my.vetmatrix.com/0029460/site/editor/cms
+11/16/2018
+
+- DONE: Aztec to the Carlsbad Orange
+- DONE: Quartz to the Brentwood Brown template.
+- UNABLE TO COMPLETE: Instruction is Vague (Add a tab in services for acupuncture with the following information:)
+
+================================================================ 
+================================================================ 
+1
+11/20/2018
+mvmomentumoptometry
+https://na93.salesforce.com/5000G00001ecreo
+https://my.imatrix.com/0029135/site/editor/cms
+11/20/2018
+
+- DONE: Website Edits.
+- PREVIEW: https://my.imatrix.com/0029135
+
+================================================================ 
+2
+11/20/2018
+claycentercrittercare.com
+https://na93.salesforce.com/5000G00001cTKPY
+https://my.vetmatrix.com/0028256/site/editor/cms
+11/20/2018
+
+- DONE: Updated Phone: (402) 762-3776 -> 402-834-1815
+- DONE: line left to right social media logos
+- DONE: Added page (can we add a page for community outreach)
+- NOTE: Removed Phone number (why is a phone number required for the newsletter?)
+- DONE: Added Icons to Featured Blocks on Home Page
+- NOTE: Did not change the featured block links as to which what the fullwidth featured blocks are.
+- DONE: Text-aligned centered (featured links boxes be center justified instead of left justified?)
+.- UNABLE TO COMPLETE: No Link provided. (what do you need from me to add our instagram account?)
+- UNABLE TO COMPLETE: There is no provided content (community outreach)
+
+================================================================ 
+3
+11/20/2018
+tokencreekvet.com
+https://na93.salesforce.com/5000G00001ebJKt
+http://my.vetmatrix.com/0027460/site/editor/cms
+11/20/2018
+
+- DONE: Added PDF Link to why license my dog(https://my.vetmatrix.com/0027460/storage/app/media/_tokencreekvet/why-license-my-dog.pdf)
+
+================================================================ 
+4
+11/20/2018
+Safari Veterinary Care Centers
+Safarivet.com
+StemCellSafari.com
+https://na93.salesforce.com/5000G00001eBWfy
+http://my.vetmatrix.com/0029776/site/editor/cms
+11/20/2018
+
+- DONE: Website Edits. (Home/Featured Links:)
+- DONE: Website Edits. (Menu/Services:)
+- DONE: Website Edits. (Menu/More)
+- UNABLE TO COMPLETE: we cannot add Conditions Treated to Regenerative Stem Cell Therapy Due to maximum Subpage links.("Conditions Treated" can be setup as a Subpage of "Regenerative Stem Cell Therapy".)
+- NOTE: Removed Services Links (Previous Subpages were put under More navigation name)
+- DONE: Website Edits. ("Dogs and Cats" Page.)
+- DONE: Website Edits. (About Us)
+- DONE: Website Edits. (Remove from "The Safari Difference" sub menu.)
+- NOTE: Please provide exact link on which to remove. These links(category links) are all under the navigation links (Please double check all pages for category accuracy as you go along. Ensure that pages are not double listed.)
+
+================================================================ 
+5
+11/20/2018
+aztecanimalhospital.net
+	http://my.vetmatrix.com/0029462/site/editor/cms
+quartzmountainanimalhospital.com
+	http://my.vetmatrix.com/0029315/site/editor/cms
+101spay.com
+	http://my.vetmatrix.com/0029460/site/editor/cms
+11/20/2018
+
+- PLEASE NOTE: Word Document(Website Changes.docx): ALL Edits was already Added to all the specific Websites. Except for the last sentence ("Add a tab in services for acupuncture with the following information:")
+- NOTE: Also "FREE VACCINES FOR LIFE PROGRAM" was already added but unable to add content for there were no instructions in
+
+- DONE: QMAH BLURB WEBSITE.docx
+
+Please see all the changes on preview Links:
+
+aztecanimalhospital.net
+	(http://my.vetmatrix.com/0029462/)
+quartzmountainanimalhospital.com
+	(http://my.vetmatrix.com/0029315/)
+101spay.com
+	(http://my.vetmatrix.com/0029460/)
+
+================================================================ 
 
 
 
