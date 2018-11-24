@@ -9942,26 +9942,6 @@ http://my.vetmatrix.com/0027460/site/editor/cms
 ================================================================ 
 4
 11/20/2018
-Safari Veterinary Care Centers
-Safarivet.com
-StemCellSafari.com
-https://na93.salesforce.com/5000G00001eBWfy
-http://my.vetmatrix.com/0029776/site/editor/cms
-11/20/2018
-
-- DONE: Website Edits. (Home/Featured Links:)
-- DONE: Website Edits. (Menu/Services:)
-- DONE: Website Edits. (Menu/More)
-- UNABLE TO COMPLETE: we cannot add Conditions Treated to Regenerative Stem Cell Therapy Due to maximum Subpage links.("Conditions Treated" can be setup as a Subpage of "Regenerative Stem Cell Therapy".)
-- NOTE: Removed Services Links (Previous Subpages were put under More navigation name)
-- DONE: Website Edits. ("Dogs and Cats" Page.)
-- DONE: Website Edits. (About Us)
-- DONE: Website Edits. (Remove from "The Safari Difference" sub menu.)
-- NOTE: Please provide exact link on which to remove. These links(category links) are all under the navigation links (Please double check all pages for category accuracy as you go along. Ensure that pages are not double listed.)
-
-================================================================ 
-5
-11/20/2018
 aztecanimalhospital.net
 	http://my.vetmatrix.com/0029462/site/editor/cms
 quartzmountainanimalhospital.com
@@ -9985,19 +9965,277 @@ quartzmountainanimalhospital.com
 	(http://my.vetmatrix.com/0029460/)
 
 ================================================================ 
+================================================================ 
+1
+11/20/2018
+fvcfarmington.com
+https://na93.salesforce.com/5000G00001dNk3R
+http://myimx.demandforced3.com/0029451/site/editor/cms
+11/20/2018
 
+- DONE:  Adjusted the colors (can we please see our colors on the Newport )
+- DONE: Photos to use are; 3u, 3f, 1f and 3r
+- DONE: Adjusted Featured Links(in the order of; "Make an Appointment", "Contact Us" and "Online Forms")
+- DONE: Made it to check boxes for selecting more days (is it possible for people to select more than 1 day? )
+- DONE: Added Preferred Time (options for "Morning" and "Afternoon"?)
+- NOTE: The V is now Visible( the V in our logo gets lost, can we change it to be the same color as all the other pages)
+- DONE: Updated Menu bar( Also, on the top menu bar can we change the font color of the tabs to be Burgundy vs white?)
+- UNABLE TO COMPLETE: Mineapolis Theme does not have Slider Texts on(photos do not have to be in this order, whichever looks better based on the text on the scroll, please try and keep text off the faces as much as possible.)
 
+================================================================ 
+2
+11/20/2018
+Safari Veterinary Care Centers
+Safarivet.com
+StemCellSafari.com
+https://na93.salesforce.com/5000G00001eBWfy
+http://my.vetmatrix.com/0029776/site/editor/cms
+11/20/2018
 
+- DONE: Website Edits. (Home/Featured Links:)
+- DONE: Website Edits. (Menu/Services:)
+- DONE: Website Edits. (Menu/More)
+- UNABLE TO COMPLETE: we cannot add Conditions Treated to Regenerative Stem Cell Therapy Due to maximum Subpage links.("Conditions Treated" can be setup as a Subpage of "Regenerative Stem Cell Therapy".)
+- NOTE: Removed Services Links (Previous Subpages were put under More navigation name)
+- DONE: Website Edits. ("Dogs and Cats" Page.)
+- DONE: Website Edits. (About Us)
+- DONE: Website Edits. (Remove from "The Safari Difference" sub menu.)
+- NOTE: Please provide exact link on which to remove. These links(category links) are all under the navigation links (Please double check all pages for category accuracy as you go along. Ensure that pages are not double listed.)
+- NOTE: Breadcrumb Menu is already added on mobile (Please Add Breadcrumb Menu)
+- DONE: (Please implement Menu Highlighting of Active Page)
+- DONE: (Remove the following paragraph from "What to Expect":)
+- DONE: (If "Featured Articles" section is to remain on the Front Page, it needs to link properly; ie ("article" should read "blog"):)
+- UNABLE TO COMPLETE: We are unable to change the URL for this (https://my.vetmatrix.com/0029776/articles/general/540474-from-dalmations-to-siberian-huskies-how-the-big-and-little-screen-influences-pet-fads)
+- UNABLE TO COMPLETE: We cannot add further Sub Links on Regenerative Stem Cell Therapy due to maximum sub links(Due to the combination of our 2 sites into 1; "Success Stories" needs to be a Subpage of "Regenerative Stem Cell Therapy" Under 'Services'.)
+- NOTE: Added Success Stories Beneath Regenerative Stem Cell Therapy Under Services instead.
+- DONE: (Can you setup the "READ MORE" link to show the remaining content on the)
 
+================================================================ 
+3
+11/20/2018
+drdavidrudnick.com
+https://na93.salesforce.com/5000G00001crW4o
+https://my.chiromatrix.com/0028895/site/editor/cms
+11/20/2018
 
+- DONE: Website Edits.
+- PREVIEW: https://my.chiromatrix.com/0028895
 
+================================================================ 
+4
+11/20/2018
+accedx.org
+https://na93.salesforce.com/5002I00001f8UcG
+https://my.chiromatrix.com/0029869/site/editor/cms
+11/20/2018
 
+- DONE: Website Edits.
 
+================================================================ 
+5
+11/20/2018
+accedx.org
+https://na93.salesforce.com/5002I00001f8VHJ
+https://my.chiromatrix.com/0029869/site/editor/cms
+11/20/2018
 
+- DONE: Website Edits.
 
+================================================================ 
+6
+11/20/2018
+accedx.org
+https://na93.salesforce.com/5002I00001f8dP5
+https://my.chiromatrix.com/0029869/site/editor/cms
+11/20/2018
 
+- DONE: Website Edits.
 
+================================================================ 
+7
+11/20/2018
+visionconsultantsofstamford.com
+https://na93.salesforce.com/5002I00001f9ApL
+https://my.imatrix.com/0030147/site/editor/cms
+11/20/2018
 
+- DONE: Website Edits.
+
+================================================================ 
+================================================================ 
+1
+11/21/2018
+llamc.com
+https://na93.salesforce.com/5000G00001eASZ6
+https://my.vetmatrix.com/0029690/site/editor/cms
+11/21/2018
+
+- DONE: Website Edits. (added the photos)
+- NOTE: Since there were no exact File on which to put on, please update me if these were the wrong photos that you wanted.
+- NOTE: There were no (2:5 Candace Rhea - tech supervisor) image. Instead Grabbed from website.
+- UNABLE TO COMPLETE: There are no photos that relates to this instruction (4:4 Candace doing a dental - any sort of candid shot)
+
+- NOTE: This is the instruction for the staff photos provided; 7 is the maximum in X axis and 11 is the maximum in the Y axis in the column. And I arranged it with this way :
+|  1:1  |  2:1  |  3:1  |  4:1  |  5:1  |  6:1  |  7:1  |
+|  1:2  |  2:2  |  3:2  |  4:2  |  5:2  |  6:2  |  7:2  |
+|  1:3  |  2:3  |  3:3  |  4:3  |  5:3  |  6:3  |  7:3  |
+|  1:4  |  2:4  |  3:4  |  4:4  |  5:4  |  6:4  |  7:4  |
+|  1:5  |  2:5  |  3:5  |  4:5  |  5:5  |  6:5  |  7:5  |
+|  1:6  |  2:6  |  3:6  |  4:6  |  5:6  |  6:6  |  7:6  |
+|  1:7  |  2:7  |  3:7  |  4:7  |  5:7  |  6:7  |  7:7  |
+|  1:8  |  2:8  |  3:8  |  4:8  |  5:8  |  6:8  |  7:8  |
+|  1:9  |  2:9  |  3:9  |  4:9  |  5:9  |  6:9  |  7:9  |
+| 1:10 | 2:10 | 3:10 | 4:10 | 5:10 | 6:10 | 7:10 |
+| 1:11 | 2:11 | 3:11 | 4:11 | 5:11 | 6:11 | 7:11 |
+- NOTE: Added Default Coming soon photo for the other column
+- NOTE: Added a page for the second Folder ("Robin's iPhone Pics") and named the page into Gallery
+- DONE: "the" needs to be removed after the word "for". 
+- PREVIEW: https://my.vetmatrix.com/0029690/
+
+================================================================ 
+2
+11/21/2018
+lakekatrineanimalhospital.com
+https://na93.salesforce.com/5002I00001f8i6J
+https://my.vetmatrix.com/0029522/site/editor/cms
+11/21/2018
+
+- DONE: Website Edits. Added to Slider (The photos are 4n, 4v, 3w,1k,4p,4t. )
+- DONE: Added Doctor Image
+
+================================================================ 
+3
+11/21/2018
+mveyecarear.com
+https://na93.salesforce.com/5000G00001f6mf0
+https://my.imatrix.com/0030212/site/editor/cms
+11/21/2018
+
+- DONE: Website Edits.(adjusted Logo Width on mobile)
+
+================================================================ 
+4
+11/21/2018
+therapidsvet.ca
+https://na93.salesforce.com/5000G00001f6lfT
+http://my.vetmatrix.com/0030284/site/editor/cms
+11/21/2018
+
+- DONE: Website Edits.(added links on payment options)
+
+================================================================ 
+5
+11/21/2018
+foundationchiropracticpa.com
+https://na93.salesforce.com/5002I00001f9bzX
+https://my.chiromatrix.com/0029778/site/editor/cms
+11/21/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+================================================================ 
+1
+11/23/2018
+miamihomevet.com
+https://na93.salesforce.com/5002I00001f9nBV
+https://my.vetmatrix.com/0027920/site/editor/cms
+11/23/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+2
+11/23/2018
+cruisechiro.com
+https://na93.salesforce.com/5000G00001dpKi6
+https://my.chiromatrix.com/0029300/site/editor/cms
+11/23/2018
+
+- DONE: Added two buttons on Chiropractors page.
+
+================================================================ 
+3
+11/23/2018
+accedx.org
+https://na93.salesforce.com/5002I00001f9j0I
+https://my.chiromatrix.com/0029869/site/editor/cms
+11/23/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+================================================================ 
+1
+11/24/2018
+greenoaksnorthvets.com
+https://na93.salesforce.com/5002I00001f9ERA
+https://my.vetmatrix.com/0030821/site/editor/cms
+11/24/2018
+
+- DONE: FORCED MIGRATION VET.
+
+================================================================ 
+2
+11/24/2018
+ribbonwoodanimalhospital.com
+https://na93.salesforce.com/5002I00001f9ERG
+https://my.vetmatrix.com/0030827/site/editor/cms
+11/24/2018
+
+- DONE: FORCED MIGRATION VET.
+
+================================================================ 
+3
+11/24/2018
+animalurgentcarecenter.net
+https://na93.salesforce.com/5002I00001f9ERH
+http://my.vetmatrix.com/0030828/site/editor/cms
+11/24/2018
+
+- DONE: FORCED MIGRATION VET.
+
+================================================================ 
+4
+11/24/2018
+krumvet.com
+https://na93.salesforce.com/5002I00001f9ERL
+http://my.vetmatrix.com/0030833/site/editor/cms
+11/24/2018
+
+- DONE: FORCED MIGRATION VET.
+
+================================================================ 
+5
+11/24/2018
+monroeanimalhospital.net
+https://na93.salesforce.com/5002I00001f9ERd
+https://my.vetmatrix.com/0030841/site/editor/cms
+11/24/2018
+
+- DONE: FORCED MIGRATION VET.
+
+================================================================ 
+6
+11/24/2018
+westplainsah.com
+https://na93.salesforce.com/5002I00001f9ERf
+https://my.vetmatrix.com/0030843/site/editor/cms
+11/24/2018
+
+- DONE: FORCED MIGRATION VET.
+
+================================================================ 
+7
+11/24/2018
+ironstone.net
+https://na93.salesforce.com/5002I00001f9ERg
+https://my.vetmatrix.com/0030844/site/editor/cms
+11/24/2018
+
+- DONE: FORCED MIGRATION VET.
+
+================================================================ 
 
 
 

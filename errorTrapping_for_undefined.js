@@ -1,7 +1,7 @@
     setInterval(function(){
         var x = $('.classinit').attr('class');
         if (x === undefined){
-        	//$(script here)
+        	//$( append script here)
         	console.log(x);
         }
         else {

@@ -1,3 +1,15 @@
+
+
+
+
+
+
+/*westchester only*/
+.navigation:not(.mm-menu) .navigation__list > .navigation__item > a{
+    font-size:14px;
+}
+
+
 /*==================CUSTOM CSS======================*/
 
 .logo__link {
