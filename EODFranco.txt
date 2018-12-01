@@ -1,4 +1,4 @@
-	
+Gma1l!p@ss#4682
 
  	 		
 10-13-17
@@ -10236,6 +10236,510 @@ https://my.vetmatrix.com/0030844/site/editor/cms
 - DONE: FORCED MIGRATION VET.
 
 ================================================================ 
+================================================================ 
+1
+11/26/2018
+backinmotionchiropractic.ca
+https://na93.salesforce.com/5002I00001f9xy3
+https://my.chiromatrix.com/0030463/site/editor/cms
+11/26/2018
+
+- DONE: Website Edits.
+- Unable to complete: New Added Pages (There were no content for us to add on these new pages)
+
+================================================================ 
+2
+11/26/2018
+thecitypethospital.com
+https://na93.salesforce.com/5002I00001fA6fG
+https://my.vetmatrix.com/0028952/site/editor/cms
+11/26/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+3
+11/26/2018
+hilliardchiro.com
+https://na93.salesforce.com/5002I00001fAR9u
+https://my.chiromatrix.com/0029703/site/editor/cms
+11/26/2018
+
+- DONE: Website Edits.
+- PREVIEW: https://my.chiromatrix.com/0029703/
+
+================================================================ 
+4
+11/26/2018
+catcareclinicofthenyacks.com
+https://na93.salesforce.com/5002I00001fAPLz
+https://my.vetmatrix.com/0030652/site/editor/cms
+11/26/2018
+
+- DONE: Website Edits.
+- UNABLE TO COMPLETE: Veterenarian names are already CAPITALIZED. Instruction is Vague(I also wanted to let you know that Vets and Veterinarians should always be capitalized. I know I shouldn't have to tell a company that is doing websites for Veterinarians but figured I should let you know!!)
+
+================================================================ 
+5
+11/26/2018
+mvmomentumoptometry.com
+https://na93.salesforce.com/5000G00001dNsoc
+https://my.imatrix.com/0029135/site/editor/cms
+11/26/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+6
+11/26/2018
+centervilleanimalhospital.com
+https://na93.salesforce.com/5002I00001f8RPJ
+http://my.vetmatrix.com/0022287/site/editor/cms
+11/26/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+7
+11/26/2018
+Accedx.org
+https://na93.salesforce.com/5002I00001fRj9l
+https://my.chiromatrix.com/0029869/site/editor/cms
+11/26/2018
+
+- DONE: Website Edits.
+
+================================================================ 
+================================================================ 
+1
+11/27/2018
+accedx.org
+https://na93.salesforce.com/5002I00001fRsmI
+https://my.chiromatrix.com/0029869/site/editor/cms
+11/27/2018
+
+- DONE: Removed Form (1) Please remove the payment form table on the symposium page, see attached word document of what I'm speaking of)
+- DONE: Added Schedule (2) On the symposium page under the pictures of the speakers please list the entire schedule on the page, see attached schedule)
+- DONE: Added Hyperlink to registration Page
+- DONE: Added Form (3) On the bottom of the symposium page under the schedule please put Register Now (hyperlink to a registration page), see attached registration page.)
+- DONE: Added Paypal Button
+- DONE: Removed the buttons (4) Remove the Registration and Schedule Button that is currently on the bottom of the Symposium page, as the schedule will now be right on the page.)
+- DONE: Added New Page and Linked Travel and Hotel Information to the new page(5) Please link the Hotel and Travel Button on the bottom of the Symposium Page Link to a new page, see attached. Hotel and Travel Document.)
+- DONE: Added Form to website and Linked to the button(6) Please link the Exhibition & Sponsor button the bottom of the Symposium page to a page with the following content:)
+- DONE: Added Document and Linked on to Apply For Board Certification(7) On the Why Be Certified Page, please put a link at the bottom of the page that reads APPLY FOR BOARD CERTIFICATION and link to document attached called ACCE Diplomate Application.)
+- DONE: Added Logo (8) On the Why Be Certified Page, please add the exam board logo somewhere that it looks good, see attached for logo)
+
+================================================================ 
+2
+11/27/2018
+noblesvillevetclinic.com
+https://na93.salesforce.com/5000G00001ed6iZ
+https://my.vetmatrix.com/0029672/site/editor/cms
+11/27/2018
+
+- DONE: Added Our History Page Under About Us Navigation
+- DONE: Added Clinical Financial Policy Page Under New Patient Center Navigation
+- DONE: Updated Emergency & After Hours Page
+- DONE: Added Vaccination/Titers Page 
+- DONE: Added Wellness/Preventive Care page
+- DONE: Added Dental Health Page
+- DONE: Added Educational Resources
+- NOTE: Dental Health is the name under the Document but the instructions for the drop-down.docx says Dental Care. Used Dental Health Instead.
+- DONE: Added all additional Pages from (drop-down.docx)
+
+================================================================ 
+3
+11/27/2018
+Riverrunpets.com
+https://na93.salesforce.com/5002I00001fSGGr
+http://my.vetmatrix.com/0030361/site/editor/cms
+11/27/2018
+
+- Unable to complete: Files are not extracted from .pages file
+
+================================================================ 
+4
+11/27/2018
+thepetdentist.com
+https://na93.salesforce.com/5002I00001fSJdQ
+https://my.vetmatrix.com/0030721/site/editor/cms
+11/27/2018
+
+- DONE: Added Featured Blocks and Removed the others (1. On Featured Links boxes on home page remove "online forms" and "make an appointment" and add "For Pet Owners" and "For Veterinarians". Make sure they are linked to the internal pages already created.)
+- DONE: Hid the form and added text to it. (2. Replace the Exclusive Offer form on the home page with the location information on the Contact Us page)
+- DONE: Removed Featured Articles (3. Remove the Featured Articles section from the footer of the site)
+- NOTE: Renamed the bar into Newsletter Signup and hid the form name due to title redundancy. Made the form full 100% to encompass the whole bar.
+
+================================================================ 
+5
+11/27/2018
+centervilleanimalhospital.com
+https://na93.salesforce.com/5002I00001f8RPJ
+http://my.vetmatrix.com/0022287/site/editor/cms
+11/27/2018
+
+- DONE: Added all the forms attatched.
+
+================================================================ 
+================================================================ 
+1
+11/28/2018
+accedx.org
+https://na93.salesforce.com/5002I00001fRsmI
+https://my.chiromatrix.com/0029869/site/editor/cms
+11/28/2018
+
+- DONE: Added all the links (NOTE: Also added the logo of standupmrioforlando.com and linked to https://www.standupmrioforlando.com/)
+- NOTE: On these logos added, I removed the Lightbox functionality for link to go directly to the specific site.
+- DONE: Added the link to register now on next-annual page slider and hyperlink below (https://my.chiromatrix.com/0029869/registration-page) (supposed to go to a form he sent in form and code for pay pal)
+- NOTE: Please be advised that the "PAYPAL Code" is already added below the Form. (Register now button supposed to go to a form he sent in form and code for pay pal)
+- DONE: Added ACC Bylaws to website and linked. (Acc bylaws should connect to pdf form that was sent in)
+- UNABLE TO COMPLETE: this button cannot be linked to another button. Instruction is vague. (Register now button needs to be linked on next annual symposium button.)
+- NOTE: Instead changed the link on "Next Annual Page" (Register Now Button) to Registration Page.
+- UNABLE TO COMPLETE: "Vendor Packet Hyperlink" could not be found.
+- NOTE: Instead Registration Link(register here!) on Preferred Vendors Page is linked to PDF on file.
+- DONE: Logo is now displayed well on Internet Explorer.
+
+================================================================ 
+2
+11/28/2018
+accedx.org
+https://na93.salesforce.com/5002I00001fSKr4
+https://my.chiromatrix.com/0029869/site/editor/cms
+11/28/2018
+
+- DONE: Added the link to PDF (ACCE Bylaws which is in the drop down menu "About Us" direct the ACCE Bylaws document which I have attached to this email. Remove the link to the other website.)
+- UNABLE TO COMPLETE: Unable to edit. This will only be changed when the site goes live and on other browsers or in incognito mode. (page just says {practice name} not our organization)
+- DONE: Chiropractor is removed from the Site Title.
+- DONE: Logo is now displayed well on Internet Explorer. (Also the logo looks strange when opened up in internet explorer. )
+
+================================================================ 
+3
+11/28/2018
+accedx.org
+https://na93.salesforce.com/5002I00001fS5ay
+https://my.chiromatrix.com/0029869/site/editor/cms
+11/28/2018
+
+- DONE: Adjusted the transition speed (+300ms) and pause duration (+2sec)
+
+================================================================ 
+4
+11/28/2018
+riverrunpets.com
+https://na93.salesforce.com/5002I00001fSUux
+http://my.vetmatrix.com/0030361/site/editor/cms
+11/28/2018
+
+- DONE:  Adjusted 4th image on home
+
+================================================================ 
+5
+11/28/2018
+riverrunpets.com
+https://na93.salesforce.com/5002I00001fSUtB
+http://my.vetmatrix.com/0030361/site/editor/cms
+11/28/2018
+
+- DONE:  Adjusted 2nd image on home
+- PREVIEW: https://my.vetmatrix.com/0030361
+
+================================================================ 
+6
+11/28/2018
+riverrunpets.com
+https://na93.salesforce.com/5002I00001fSWNq
+http://my.vetmatrix.com/0030361/site/editor/cms
+11/28/2018
+
+- DONE: Added Image on About Us
+- PREVIEW: https://my.vetmatrix.com/0030361
+
+================================================================ 
+7
+11/28/2018
+riverrunpets.com
+https://na93.salesforce.com/5002I00001fSVeC
+http://my.vetmatrix.com/0030361/site/editor/cms
+11/28/2018
+
+- DONE: Added to What to expect.
+- PREVIEW: https://my.vetmatrix.com/0030361
+
+================================================================ 
+8
+11/28/2018
+riverrunpets.com
+https://na93.salesforce.com/5002I00001fSUnm
+http://my.vetmatrix.com/0030361/site/editor/cms
+11/28/2018
+
+- DONE: Added to Images for home page 3 of 4
+- PREVIEW: https://my.vetmatrix.com/0030361
+
+================================================================ 
+9
+11/28/2018
+riverrunpets.com
+https://na93.salesforce.com/5002I00001fSVuj
+http://my.vetmatrix.com/0030361/site/editor/cms
+11/28/2018
+
+- DONE: Added to Image for veterinary resources page
+- PREVIEW: https://my.vetmatrix.com/0030361
+
+================================================================ 
+================================================================ 
+1
+11/29/2018
+riverrunpets.com
+https://na93.salesforce.com/5002I00001fSeyV
+http://my.vetmatrix.com/0030361/site/editor/cms
+11/29/2018
+
+- DONE: Added the image on Welcome page changed to River Run Animal Hospital
+- PREVIEW: https://my.vetmatrix.com/0030361
+
+================================================================ 
+2
+11/29/2018
+riverrunpets.com
+https://na93.salesforce.com/5002I00001fSf44
+http://my.vetmatrix.com/0030361/site/editor/cms
+11/29/2018
+
+- DONE: Added thumbnail to contact us on home page
+- PREVIEW: https://my.vetmatrix.com/0030361
+
+================================================================ 
+3
+11/29/2018
+riverrunpets.com
+https://na93.salesforce.com/5002I00001fSf4n
+http://my.vetmatrix.com/0030361/site/editor/cms
+11/29/2018
+
+- DONE: Added thumbnail to services on home page
+- PREVIEW: https://my.vetmatrix.com/0030361
+
+================================================================ 
+4
+11/29/2018
+riverrunpets.com
+https://na93.salesforce.com/5002I00001fSf6j
+http://my.vetmatrix.com/0030361/site/editor/cms
+11/29/2018
+
+- DONE: Added thumbnail to Online Forms on home page
+- PREVIEW: https://my.vetmatrix.com/0030361
+
+================================================================ 
+5
+11/29/2018
+riverrunpets.com
+https://na93.salesforce.com/5002I00001fSf6j
+http://my.vetmatrix.com/0030361/site/editor/cms
+11/29/2018
+
+- DONE: Added thumbnail to New Patient Center on home page
+- PREVIEW: https://my.vetmatrix.com/0030361
+
+================================================================ 
+6
+11/29/2018
+reproconsult.org
+https://na93.salesforce.com/5002I00001fTI0r
+https://my.vetmatrix.com/0030573/site/editor/cms
+11/29/2018
+
+- UNABLE TO COMPLETE: Unable to view file. Please extract files from .pages file (Added reproconsult widget code for paypal)
+
+================================================================ 
+7
+11/29/2018
+reproconsult.org
+https://na93.salesforce.com/5002I00001fTI0r
+https://my.vetmatrix.com/0030573/site/editor/cms
+11/29/2018
+
+- UNABLE TO COMPLETE: Unable to view file. Please extract files from .pages file (Added reproconsult widget code for paypal)
+
+================================================================ 
+8
+11/29/2018
+fvcfarmington.com
+https://na93.salesforce.com/5002I00001fT1OG
+http://myimx.demandforced3.com/0029451/site/editor/cms
+11/29/2018
+
+- DONE: Updated Home Staff Component (Wants the staff on the home page to be listed in the same order as meet the staff page )
+- DONE: Moved Logo on Top (Wants logo moved up on mobile version of the website)
+- DONE: Updated to align center on mobile ( wants the pictures centered on mobile version )
+- UNABLE TO COMPLETE: There is no overlapping visible on website please indicate the location of overlapping icons(wants to fix icons on mobile version from overlapping)
+
+================================================================ 
+9
+11/29/2018
+eyecareofgreenville.com
+https://na93.salesforce.com/5002I00001fTkDg
+https://my.imatrix.com/0030354/site/editor/cms
+11/29/2018
+
+- DONE: Video is slowed down to 65%
+- NOTE: Also cut the part of which the video feels sometimes dizzy
+
+================================================================ 
+10
+11/29/2018
+riverrunpets.com
+https://na93.salesforce.com/5002I00001fTnlH
+http://my.vetmatrix.com/0030361/site/editor/cms
+11/29/2018
+
+- DONE: Updated Types of pets Seen and discounts
+- DONE: Added Online Booking iframe on services page
+- NOTE: Also Adjusted Home Page Button for Request Appointment on to the Appointment link on the services page
+- DONE: Updated What to expect content
+- UNABLE TO COMPLETE: Content cannot be added. Please provide where to add.(Also, Grand opening day is December 17th!)
+- DONE: updated Home Introduction
+- DONE: Added Form "Web-Client Register.docx" to New Patient Registration Link
+- PREVIEW: https://my.vetmatrix.com/0030361
+
+================================================================ 
+================================================================ 
+1
+11/30/2018
+llamc.com
+https://na93.salesforce.com/5000G00001eASZ6
+https://my.vetmatrix.com/0029690/site/editor/cms
+11/30/2018
+
+- NOTE: HOME PAGE is too slow due to the images that are not resized. So I decided to lower it down so that the website will be fast enough to load.
+- DONE: Added Petsimonials on About Us tab but nav bars is at maximum and moved "Submit your pet memorial" tab next to "Memorials" tab
+- DONE: Added "Employment Opportunities" to main menu
+- UNABLE TO COMPLETE: No content for Employment Opportunities
+- DONE: Removed the "Blog" from the main menu
+- DONE: Updated Gallery to Photo Gallery
+- DONE: "Contact Us" and "Request an Appointment" is now on one page Contact Us
+- DONE: changed "Baths & Shaves" menu title to "Spa" (under "Services")
+- DONE: moved "Pet Portal" to main menu vs. "Services" menu
+- DONE: added "Our Online Store" to main menu
+- DONE: changed "Make an Appointment" on homepage to "Request an Appointment"
+- UNABLE TO COMPLETE: there is no auto response messages located. Instruction is vague (add the same "Call or Text" info (to include the auto response messages) to the "Contact Us" page)
+- DONE: updated "Cat and Dog Boarding" just say "Boarding" (under "Services")
+- DONE: Fixed ("Veterinary Care" Page, the spacing looks odd with the photos on 
+there )
+- DONE: Added "Helpful Resources" to the main menu and move "Veterinary Topics" and "Veterinary Resources" as submenus 
+- DONE: changed "Veterinary Topics" to "Popular Discussion Topics" 
+- DONE: changed "Veterinary Resources" to "Important Links" 
+- DONE: added TVMA to "Important Links" page https://tvma.azurewebsites.net/ 
+- DONE: changed "Veterinary Care" menu title to "Medical Care" (under "Services") 
+- NOTE: Menu Names are updated as well as Page Titles of these specific menu names.
+
+================================================================ 
+2
+11/30/2018
+fvcfarmington.com
+https://na93.salesforce.com/5002I00001fT1OG
+http://myimx.demandforced3.com/0029451/site/editor/cms
+11/30/2018
+
+- DONE: ADJUSTED OVERLAPPING ICON - PREVIEW: http://myimx.demandforced3.com/0029451/
+
+================================================================ 
+3
+11/30/2018
+fvcfarmington.com
+https://na93.salesforce.com/5002I00001fTyUX
+http://myimx.demandforced3.com/0029451/site/editor/cms
+11/30/2018
+
+- UNABLE TO COMPLETE: Image is already centered on mobile view (1. Would like these images to all be centered on the mobile view, currently it looks like they are to the right. )
+- DONE: 2. The family photo on the slider: would like the full family to show and not cut out the two family members on the outside 
+- DONE: 3. Would like the logo to align right and reduce in size on the mobile view to sit under the phone number like it sits on the desktop view. 
+- DONE: 4. Make an Appointment Button on featured services needs more padding between the icon and "make an appointment" text.
+- PREVIEW: http://myimx.demandforced3.com/0029451/
+
+================================================================ 
+4
+11/30/2018
+quartzmountainanimalhospital.com
+https://na93.salesforce.com/5002I00001fTxRi
+https://my.vetmatrix.com/0029315/site/editor/cms
+11/30/2018
+
+- DONE: 1. Please remove the What to Expect section
+- DONE: 2. please remove the paragraph regarding Acrobat Reader from above 
+- DONE: 3. Please change the services section
+- DONE: 4. please change the banner from Accurate Valley Fever Diagnosis to Diagnostics.
+- DONE: 5. change the first slide, On the second, On the third, & On the fourth
+- DONE: 6. Still on the front page change the current intro line
+- DONE: 7. Remove the word pet from the below. Please remove the Google+ link.
+- UNABLE TO COMPLETE: Please provide Link (Please link Instagram and Twitter instead)
+- DONE: 8. There are two veterinarians here.  Please be sure to list Dr. Richardson in the general sections. 
+- DONE: 9. Is there a reason Dr. Richardson’s bio is not in the slideshow at the bottom of the home page?
+- DONE: 10. The writing on the home page should be replaced with the following.
+- UNABLE TO COMPLETE: Please provide Link on Home page's "Learn More" hyperlink.
+- DONE: 11. On Testimonials, the formatting is showing <p> before and after the paragraphs. Please resolve.
+- DONE: 12. Payment options, for insurance please include links to Trupanion, Nationwide, and Pet First
+- DONE: 13. Please add a section to the Services Tab for “Hospice Care”
+- UNABLE TO COMPLETE: 14. Is there a way to incorporate Google Analytics to the website?
+- DONE: 15. Under More please add a section for Grief Resources.
+
+================================================================ 
+5
+11/30/2018
+quartzmountainanimalhospital.com
+https://na93.salesforce.com/5002I00001fTxzt
+https://my.vetmatrix.com/0029315/site/editor/cms
+11/30/2018
+
+- DONE: 1. Please remove the What to Expect section
+- DONE: 2. please remove the paragraph regarding Acrobat Reader from above 
+- DONE: 3. Please change the services section
+- DONE: 4. please change the banner from Accurate Valley Fever Diagnosis to Diagnostics.
+- DONE: 5. change the first slide, On the second, On the third, & On the fourth
+- DONE: 6. Still on the front page change the current intro line
+- DONE: 7. Remove the word pet from the below. Please remove the Google+ link.
+- UNABLE TO COMPLETE: Please provide Link (Please link Instagram and Twitter instead)
+- DONE: 8. There are two veterinarians here.  Please be sure to list Dr. Richardson in the general sections. 
+- DONE: 9. Is there a reason Dr. Richardson’s bio is not in the slideshow at the bottom of the home page?
+- DONE: 10. The writing on the home page should be replaced with the following.
+- UNABLE TO COMPLETE: Please provide Link on Home page's "Learn More" hyperlink.
+- DONE: 11. On Testimonials, the formatting is showing <p> before and after the paragraphs. Please resolve.
+- DONE: 12. Payment options, for insurance please include links to Trupanion, Nationwide, and Pet First
+- DONE: 13. Please add a section to the Services Tab for “Hospice Care”
+- UNABLE TO COMPLETE: 14. Is there a way to incorporate Google Analytics to the website?
+- DONE: 15. Under More please add a section for Grief Resources.
+
+================================================================ 
+6
+11/30/2018
+chiropractormidtownnewyork.com
+https://na93.salesforce.com/5002I00001fSJoO
+https://my.chiromatrix.com/0024079/site/editor/cms
+11/30/2018
+
+- UNABLE TO COMPLETE: Instruction is vague (Areas we serve tab should have my office info, not info of balanced health medical.)
+- NOTE: Pages are already on website. (Please make pages for Manhattan, midtown, midtown east, midtown west, upper east side and Columbus circle.)
+- UNABLE TO COMPLETE: This is not located on home page of .www.vitalityhealthnewyork.com (See www.vitalityhealthnewyork.com please remove "serving the NYC 10017 neighborhood with 10 years experience." from the white box on the home page.)
+- PREVIEW: https://my.chiromatrix.com/0024079
+
+================================================================ 
+================================================================ 
+1
+12/3/2018
+plettfamilyoptometry.com
+https://na93.salesforce.com/5002I00001fTxy2
+https://my.imatrix.com/0030643/site/editor/cms
+12/3/2018
+
+- UNABLE TO COMPLETE: 
+
+================================================================ 
+
+
+
 
 
 
