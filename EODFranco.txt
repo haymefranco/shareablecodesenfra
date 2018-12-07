@@ -8523,7 +8523,6 @@ vetsanfrancisco.com
 oceanavevethosp.com
 thecitypethospital.com
 https://na43.salesforce.com/5000G00001dOHkW
-
 10/23/2018
 
 - DONE: Website Edits
@@ -10734,7 +10733,432 @@ https://na93.salesforce.com/5002I00001fTxy2
 https://my.imatrix.com/0030643/site/editor/cms
 12/3/2018
 
-- UNABLE TO COMPLETE: 
+- DONE: Updated Website Forms under Online Forms
+- PREVIEW: https://my.imatrix.com/0030643
+
+================================================================ 
+2
+12/3/2018
+riverrunpets.com
+https://na93.salesforce.com/5002I00001fTnlH
+http://my.vetmatrix.com/0030361/site/editor/cms
+12/3/2018
+
+- DONE: 1. Add the appointment link: ( https://riverrun.use1.ezyvet.com/external/portal/main/login )
+- DONE: a. to the "Appointment Request" page under "Contact Us" 
+- DONE: b. to the Featured Services Links, "Make an Appointment" on the Home page.
+- DONE: 2. Add "December 17th" on the First Banner slideshow of the boy with the cat.
+- NOTE: December 17th was added as December 17, 2018.
+
+================================================================ 
+3
+12/3/2018
+drdavidrudnick.com
+https://na93.salesforce.com/5002I00001fUHjq
+https://my.chiromatrix.com/0028895/site/editor/cms
+12/3/2018
+
+- DONE: added the attached document to the website
+
+================================================================ 
+4
+12/3/2018
+drdavidrudnick.com
+https://na93.salesforce.com/5002I00001fUfQ6
+https://my.chiromatrix.com/0028895/site/editor/cms
+12/3/2018
+
+- DONE: Alignment of office name and "home tab" The words overlap, maybe 
+switch office name with the phone and email above.
+- DONE: Add Sports Med Chiro to name
+- DONE: Switch Sports medicine tab and massage tab to bottom of list on home 
+page
+- DONE: Swap K laser with shockwave on home page
+- NOTE: I Swapped it with The Miracle Wave for there is no Shockwave tab visible.
+- UNABLE TO COMPLETE: Instruction is vague (Nature of injury should be as follows: 1. Sports, 2. Auto, 3. Work and)
+- DONE: Take out "do you take vitamin supplements?" in patient forms 
+- DONE: Added  Specify tobacco with packs/day in patient forms
+- DONE: Take out spouses health status in patient forms
+- DONE: Payment options should say We participate with BCBS, Aetna and UHC. We are out of network with Medicare. Remove the sentence that states We also accept auto accident and workers compensation cases (which is stated twice in that section).
+- DONE: In Services tab take out K-laser and replace with attached shockwave information
+- DONE: Add Instrument assisted soft tissue mobilization to services with the attached paragraph.
+- DONE: In the office hours changed Saturday hours from 9am-1am to 8am-11am
+
+================================================================ 
+5
+12/3/2018
+advancedeyecarevs.com
+https://na93.salesforce.com/5002I00001fUNNS
+http://myimx.demandforced3.com/0028608/site/editor/cms
+12/3/2018
+
+- DONE: technology blurbs added to the technology tab on the website. It should replace what is already there
+- DONE: Resized to make it look bigger (I would like to have you look at the lipiview/Lipiflow piece and revamp it if possible)
+- PREVIEW: http://myimx.demandforced3.com/0028608/
+
+================================================================ 
+================================================================ 
+1
+12/4/2018
+oceanavevethosp.com
+https://na93.salesforce.com/5002I00001fVXmr
+https://my.vetmatrix.com/0027083/site/editor/cms
+12/4/2018
+
+- DONE: 1. Mobile site: wants logo to be smaller for mobile and not cover the photos completely.
+- DONE: 2. Mobile site staff page: would like the staff photos to show left aligned to the staff bios on the mobile site.
+
+================================================================ 
+2
+12/4/2018
+backinmotionchiropractic.ca
+https://na93.salesforce.com/5002I00001fVEDS
+https://my.chiromatrix.com/0030463/site/editor/cms
+12/4/2018
+
+- DONE: Here are the changes(in attached file highlighted in purple)
+- DONE: make sure that this is all together on one side or the other
+- DONE: pictures need to be added to the contact us, online forms, make an appt, services tab
+- DONE: also need to have all the description available no matter how they are displayed
+- DONE: Notes to the Doctor” needs to be changed in EVERY spot to say “Additional Notes”
+- DONE: Added About Kelly Casin RMT
+- DONE: Added Services
+- DONE: Added the office email
+- DONE: Added office address
+
+================================================================ 
+3
+12/4/2018
+eyecaregroup.net
+https://na93.salesforce.com/5002I00001fTrp5
+http://my.imatrix.com/0028787/site/editor/cms
+12/4/2018
+
+- DONE: move the logo down and to the right and the tag line down
+- DONE: Removed 2 doctors (Dr. Barrus and Dr. Schultz still appear on the doctors tab under the 'About us" (#2) )
+
+================================================================ 
+4
+12/4/2018
+thecitypethospital.com
+https://na93.salesforce.com/5002I00001fVXmr
+https://my.vetmatrix.com/0028952/site/editor/cms
+12/4/2018
+
+- DONE: 2. Still needs to be left aligned, here is a screencast https://www.screencast.com/t/FPFqR1Grpsx 
+
+================================================================ 
+5
+12/4/2018
+advancedeyecarevs.com
+https://na93.salesforce.com/5002I00001g0910
+http://myimx.demandforced3.com/0028608/site/editor/cms?ibc_version=1
+12/4/2018
+
+- DONE: Transfer images from the websites previous gallery
+- PREVIEW: http://myimx.demandforced3.com/0028608/
+
+================================================================ 
+6
+12/4/2018
+advancedeyecarevs.com
+https://na93.salesforce.com/5002I00001g0910
+http://myimx.demandforced3.com/0028608/site/editor/cms?ibc_version=1
+12/4/2018
+
+- DONE: I would also like to add something similar to the site below for lenses
+- DONE: We were supposed to have a frames tab added to the products. It should be very similar to what the prior website has
+- PREVIEW: http://myimx.demandforced3.com/0028608/
+
+================================================================ 
+================================================================ 
+1
+12/5/2018
+neighborhoodvets.com
+https://na93.salesforce.com/5002I00001fVOoK
+https://my.vetmatrix.com/0030306/site/editor/cms
+12/5/2018
+
+- DONE: Added new logo with background
+- DONE: I want the phone number 913-912-2319 to be active desktop/mobile 
+- DONE: I want Mobile Vet Clinic Serving Overland Park, Leawood, Prarie Village, Olathe, Lenexa, & Shawnee to say the following
+- FIXED: made it look better. and added close button.
+- DONE: c. I want the logo to be moved to the left so it does not cover up the van and I want you to use the attached logo with black background for emphasis. 
+- UNABLE TO COMPLETE: There is No Submit button for the testimonial. (In the draft the Testimonials form does not have a “send” or “Submit” button and no way the client can tell if it was sent or not…surely this will resolve with the “go live” version.)
+- NOTE: Added a Link to a new Page to redirect to a form upon submitting a testimonial > New Page is “Submit a Testimonial”
+- NOTE: Added a form to Submit a testimonial page.
+
+
+================================================================ 
+2
+12/5/2018
+neighborhoodvets.com
+https://na93.salesforce.com/5002I00001fzxsV
+https://my.vetmatrix.com/0030306/site/editor/cms
+12/5/2018
+
+- DONE: Removed it from being sticky.
+
+================================================================ 
+3
+12/5/2018
+advancedeye2020.com
+https://na93.salesforce.com/5002I00001g0Ehu
+http://my.imatrix.com/0029938/site/editor/cms
+12/5/2018
+
+- DONE: Updated Appointment Request Form (1. Replicate the appointment request form that is on the current site)
+- DONE: Added Patient Forms and removed Online Forms (2. Replicate the "Patient Forms" on the current site and remove the physical form from ours.)
+- DONE: 3. Bring over the "Insurance Plans" page from the current site and replace our insurance page.
+- DONE: 4. Add phone number under social media links in header of website
+- PREVIEW: https://my.imatrix.com/0029938
+
+================================================================ 
+4
+12/5/2018
+jamestownfamilychiropractic.com
+https://na93.salesforce.com/5002I00001g0EJA
+http://mychiro.demandforced3.com/0030209/site/editor/cms?ibc_version=1
+12/5/2018
+
+- FIXED: undisplayed image in home.
+- DONE: (Can you please add these to the scroll bar for meet the team. I have attached a word document..)
+- NOTE: Images added were made to fit the size of the image.
+- UNABLE TO COMPLETE: Document have no bios. just added Bio Coming Soon.
+
+================================================================ 
+5
+12/5/2018
+fvcfarmington.com
+https://na93.salesforce.com/5000G00001dNk3R
+http://myimx.demandforced3.com/0029451/site/editor/cms?ibc_version=1
+12/5/2018
+
+- DONE: Can we please convert over to the New port template with the couple of changes we requested on it. It seems to me that the more changes we have done to the Minneapolis the more "glitchy" it looks.
+- NOTE: Colors were not specified. I set it as close as their old theme which is brown.
+- NOTE: Changed Exclusive offer form to Contact Us as there were no Exclusive Offer on the old website.
+
+================================================================ 
+================================================================ 
+1
+12/6/2018
+backinmotionchiropractic.ca
+https://na93.salesforce.com/5002I00001fVEDS
+https://my.chiromatrix.com/0030463/site/editor/cms
+12/6/2018
+
+- DONE: Added Images to website.
+- UNABLE TO COMPLETE: there were no instructions where to add the images and rather I based it upon the file names of the pictures.
+- PREVIEW: https://my.chiromatrix.com/0030463
+
+================================================================ 
+2
+12/6/2018
+The Pet Hospital and The farm animal Hospital
+https://na93.salesforce.com/5002I00001g14Iu
+http://my.vetmatrix.com/0031646/site/editor/cms
+12/6/2018
+
+- DONE: client wants request appointment button at top right of the website under the phone number
+- DONE: client wants a button behind phone number to make it stand out
+- DONE: Added Custom Linear Gradient inside on to pages
+- NOTE: Linear Gradient was set to same color as theme
+- PREVIEW: https://my.vetmatrix.com/0031646
+
+================================================================ 
+3
+12/6/2018
+columbusvisiongroup.com
+https://na93.salesforce.com/5000G00001f6mmz
+http://my.imatrix.com/0030533/site/editor/cms
+12/6/2018
+
+- DONE: All 3 would be good replacements for the scrolling pictures on the home page
+- DONE: The picture of the 4 doctors would go well above the bios on the meet the doctors page
+- DONE: Also, could we remove the stock text above the doctor bios on that same page.
+- DONE: I have also attached the patient history form and other patient forms to 
+link in the new patient center under forms. 
+- DONE: made a custom darker background. (Were there changes made to help with contrast on the non-white background?)
+- DONE: One of the navy words is outlined and the other isn't. Can this be fixed?
+
+================================================================ 
+4
+12/6/2018
+montanaeyecare.com
+https://na93.salesforce.com/5002I00001g1kw6
+http://my.imatrix.com/0029685/site/editor/cms
+12/6/2018
+
+- DONE: We would like to add Rendia videos to our website.
+- NOTE: added new pages for each embed code
+- UNABLE TO COMPLETE: Embed Codes all have errors.
+- PREVIEW: https://my.imatrix.com/0029685
+
+================================================================ 
+5
+12/6/2018
+wholebodybalance.com
+https://na93.salesforce.com/5000G00001dshFB
+https://my.chiromatrix.com/0029581/site/editor/cms
+12/6/2018
+
+- DONE: Can you go through the Homepage and Services page and find out why any links that go to the staff page are broken?
+- NOTE: The Website Editor is experiencing some bugs when adding a Link through the editor. We have to do it manually on the HTML code for the links to function normally.
+- PREVIEW: https://my.chiromatrix.com/0029581/
+
+================================================================ 
+6
+12/6/2018
+crossvillefamilychiropractic.com
+https://na93.salesforce.com/5002I00001g1wFn
+http://mychiro.demandforced3.com/0030211/site/editor/cms?ibc_version=1
+12/6/2018
+
+- DONE: correct the images for Jessica Woody and Lauren Hall so they are not so big. make their images smaller.
+- NOTE: Also Fixed the first two doctors images seems they are also zoomed in.
+
+================================================================ 
+7
+12/6/2018
+noblesvillevetclinic.com
+https://na93.salesforce.com/5002I00001g1oe1
+https://my.vetmatrix.com/0029672/site/editor/cms
+12/6/2018
+
+- DONE: 4th image in banner > Remove from banner and move to Vaccines page under Services 
+- DONE: Dental page > Images need to be side-by-side. Only stack for mobile view.
+
+================================================================ 
+8
+12/6/2018
+lehianimalhospital.com
+https://na93.salesforce.com/5002I00001g1nn7
+https://my.vetmatrix.com/0031726/site/editor/cms
+12/6/2018
+
+- DONE: List of services for lehi animal hospital
+
+================================================================ 
+9
+12/6/2018
+lehianimalhospital.com
+https://na93.salesforce.com/5002I00001g21TJ
+https://my.vetmatrix.com/0031726/site/editor/cms
+12/6/2018
+
+- DONE: Louisville- Orange
+
+================================================================ 
+================================================================ 
+1
+12/7/2018
+wholebodybalance.com
+https://na93.salesforce.com/5002I00001g21TJ
+https://my.chiromatrix.com/0029581/site/editor/cms
+12/7/2018
+
+- DONE: David Harbin is no longer on our team.
+- DONE: 1. Alicia Kittredge needs to be placed above Ryu Kayahma on the practitioner page.
+- DONE: Appointment directed to https://clients.mindbodyonline.com/classic/ws?studioid=11624&stype=-9
+
+================================================================ 
+2
+12/7/2018
+lehianimalhospital.com
+https://na93.salesforce.com/5002I00001g2HTC
+https://my.vetmatrix.com/0031726/site/editor/cms
+12/7/2018
+
+- DONE: On the hospital tour age, is there any way we can make the photos slightly smaller?
+- DONE:  Also Please remove photos, 1,3 and 7 and replace them with the attached photos. 
+
+================================================================ 
+3
+12/7/2018
+arlingtonanimal.com
+https://na93.salesforce.com/5002I00001f9Edl
+https://my.vetmatrix.com/0031595/site/editor/cms
+12/7/2018
+
+- DONE: FORCED MIGRATION.
+
+================================================================ 
+4
+12/7/2018
+countryside-vets.com
+https://na93.salesforce.com/5000G00001dqoe2
+http://my.vetmatrix.com/0030014/site/editor/cms
+12/7/2018
+
+- DONE: FORCED MIGRATION.
+
+================================================================ 
+5
+12/7/2018
+hlanimalhospital.com
+https://na93.salesforce.com/5000G00001c03A2
+https://my.vetmatrix.com/0008285/site/editor/cms
+12/7/2018
+
+- DONE: In the New Patient Center > Online Forms section could you please add the following with the Included attachment.
+
+================================================================ 
+6
+12/7/2018
+hlanimalhospital.com
+https://na93.salesforce.com/5000G00001YysEU
+https://my.vetmatrix.com/0008285/site/editor/cms
+12/7/2018
+
+- DONE: Would you mind deleting the current hyperlink that is there and replacing with this button.
+- DONE: And then also please change the last sentance in the paragraph to the following: You can either apply at our hospital or apply yourself online by clicking the CareCredit button.
+
+================================================================ 
+7
+12/7/2018
+countyanimal.com
+https://na93.salesforce.com/5002I00001g2XPs
+http://my.vetmatrix.com/0030489/site/editor/cms
+12/7/2018
+
+- DONE: 1. Use photo from Photo Gallery of front of building for home page banner photo.
+- DONE: 2. On the internal page header add a button that says "Request Appointment" and link to appointment request page
+- DONE: 3. When a form is submitted please make the "Thank you" text white so it is visible
+- NOTE: Removed the other Request Appointment Function due to redundancy.
+- PREVIEW: https://my.vetmatrix.com/0030489
+
+================================================================ 
+8
+12/7/2018
+montanaeyecare.com
+https://na93.salesforce.com/5002I00001g1kpU
+http://my.imatrix.com/0029685/site/editor/cms
+12/7/2018
+
+- DONE: Change format of picture of building of home page.
+- DONE: he phone # in Eye Care Services is NOT our #. Please edit to (406)443-2121 in every section. (The # provided is for imatrix) 
+- DONE: Replace Anderson Family Optometry at bottom of home page to Montana Eyecare.
+- DONE: 1st sentence of description of Montana Eyecare Savings Plan needs edited to fit format.
+- DONE: Replaces % with $ on pricing of Eyecare Savings Plan
+- DONE: Center plan choices in grid and change color or bold to make more noticeable
+- DONE: Remove (+) from all plan choices
+- DONE: Directly under Eyecare Direct "Plus" Plans - Remove 40% savings 1st pair prescription glasses
+- DONE: Create 2 columns after "stay focused on the savings"- Bullet points should be level with contact lens savings grid
+- DONE: Remove the word savings from 1st bullet point of Stay focused on Savings 
+- DONE: 2nd bullet point should read "Unconditional 1 year glasses warranty (excluding loss) 
+- DONE: Above contact lens price grid should read - Great savings on all contact brands 
+- PREVIEW: https://my.imatrix.com/0029685/
+
+================================================================ 
+9
+12/7/2018
+lehianimalhospital.com
+https://na93.salesforce.com/5002I00001g2I1n
+https://my.vetmatrix.com/0031726/site/editor/cms
+12/7/2018
+
+- DONE: Can we add a Trupanion pet insurance tab at the top with the content that is on our old site for that tab. 
+- DONE: ANDI would like out petdesk app button to be put on the home page.. possibly under the orange box in the bottom right hand corner.here is the link 
 
 ================================================================ 
 
@@ -10756,7 +11180,34 @@ https://my.imatrix.com/0030643/site/editor/cms
 
 
 
-- PREVIEW: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
