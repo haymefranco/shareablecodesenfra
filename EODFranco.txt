@@ -11161,6 +11161,406 @@ https://my.vetmatrix.com/0031726/site/editor/cms
 - DONE: ANDI would like out petdesk app button to be put on the home page.. possibly under the orange box in the bottom right hand corner.here is the link 
 
 ================================================================ 
+================================================================ 
+1
+12/10/2018
+Montgomery Chiropractic Center, Inc.
+mccenterinc.com
+https://na93.salesforce.com/5002I00001g2iMW
+http://my.chiromatrix.com/0032009/site/editor/cms
+12/10/2018
+
+- DONE: Logo is already in place (Please find the office logo)
+- DONE: and Meet the staff verbiage. 
+
+================================================================ 
+2
+12/10/2018
+backinmotionchiropractic.ca
+https://na93.salesforce.com/5002I00001g32KS
+https://my.chiromatrix.com/0030463/site/editor/cms
+12/10/2018
+
+- DONE: 1. I would like in the HEADER AREA the address to line up with the whole address and be placed under the clinic phone #
+- DONE: 2. TESTIMONIALS: on the main page or wherever these are found please make sure that the patient names follows this format ex. Katie H., do not use their last name
+- DONE: 3. NEWSLETTERS- I see that there is an article about chiropractic and animals, although this is true, are we able to eliminate this from our site since we do not adjust animals at our clinic and I don't want patients to think that I do
+- NOTE: Adjusting one Featured article will eliminate the next feature upon another update. We may remove this feature completely. 
+- DONE: 4. COMMUNITY CONTENT- not sure why this is called this at the bottom of the page, it is rather confusing, can we call it "Newsletters" since that is what it leads us to
+- DONE: 5. for PATIENT CENTER, ABOUT US, SERVICES, PRODUCTS- I would like all of these to follow the same guideline. when you click on the general title to one of these I would like their subcategories to be listed with a picture)
+- DONE: a. PATIENT CENTER- have "what to expect", "payment options" etc. to be the title with a related picture to the subcategory, once you click on it, it will take you to the expanded version of the subcategory
+- DONE: b. ABOUT US- Dr. Amanda Everaert B.H.K. D.C, Chiropractor/Owner; John Jones B.H.K. RMT, Massage Therapist; Kelly Caslin RMT, Massage Therapist; to be the title with a related picture to the subcategory, once you click on it, it will take you to the expanded version of the subcategory 
+- DONE: * take out the write up currently in this area 
+- DONE: c. SERVICES- "chiropractic" "Footlevelers Custom made orthotics" and "massage therapy" to be the title with a related picture to the subcategory, once you click on it, it will take you to the expanded version of the subcategory 
+- DONE: d. PRODUCTS- "Footlevelers Custom made orthotics", "Biofreeze","RockTape", "Serola SI Belt" to be the title with a related picture to the subcategory, once you click on it, it will take you to the expanded version 
+of the subcategory 
+- DONE: 6. WRITE UP CURRENTLY IN ABOUT US AREA- *delete please
+- DONE: Unlike conventional medicine, which focuses on attempting to treat disease once it occurs, Back In Motion Chiropractic emphasizes improving your health in an effort to reduce the risk of pain and illness in the first place. Most people would rather be healthy and avoid illness, if they could. This is one of the main reasons for the big surge in the popularity of our wellness center.
+- DONE: Chiropractors, also known as doctors of chiropractic or chiropractic physicians in many jurisdictions, emphasize the conservative management of the neuromusculoskeletal system without the use of medicines or surgery, with special emphasis on the spine.
+
+================================================================ 
+3
+12/10/2018
+leboweye.com
+https://na93.salesforce.com/5002I00001gKQEu
+https://my.imatrix.com/0031725/site/editor/cms
+12/10/2018
+
+- DONE: Please center their logo like how it is on http://eyesitetexas.com/
+
+================================================================ 
+================================================================ 
+1
+12/11/2018
+leboweye.com
+https://na93.salesforce.com/5002I00001gKe9Q
+https://my.imatrix.com/0031725/site/editor/cms
+12/11/2018
+
+- DONE: added phone numbers to contact Us(1. Need to add both offices to the website Hopewell (804)-458-5819 Richmond (804) 272-2020 )
+- NOTE: Disabled and added a custom embed on 
+- DONE: 2. Add new logo being sent over wants logo centered like on eyesite texas	
+- DONE: 3. Video For Practice to be same size as eyesitetexas.com
+- DONE: 1. wants header of site and slider and video to look like yesitetexas.com 
+- PREVIEW: https://my.imatrix.com/0031725
+
+================================================================ 
+2
+12/11/2018
+neighborhoodvets.com
+https://na93.salesforce.com/5002I00001gL41D
+https://my.vetmatrix.com/0030306/site/editor/cms
+12/11/2018
+
+- DONE: Reverted back to the site where Euthanasia was not overwritten
+- DONE: Link is now reverted to In Home Euthanasia
+- PREVIEW: https://my.vetmatrix.com/0030306
+
+================================================================ 
+3
+12/11/2018
+accedx.org
+https://na93.salesforce.com/5002I00001gKc06
+https://my.chiromatrix.com/0029869/site/editor/cms
+12/11/2018
+
+- DONE: Please add the attached picture to the lineup of pics for speakers along with the descriptor underneath: Michael Pulley, MD, PhD 
+Anthony Inglese 
+
+================================================================ 
+4
+12/11/2018
+instant-sun.com
+https://na93.salesforce.com/5002I00001g2leT
+https://my.chiromatrix.com/0032072/site/editor/cms
+12/11/2018
+
+- Unable to complete: I have still not seen any email with a code in it.
+- DONE: Under location change it to "Sunless tanning for Eden Prairie and all 
+surrounding areas!"
+- DONE: Face - Brighten your face with some color! Perfect for work meetings, 
+family pictures, or just because! 
+- DONE: Partial - Maybe you want tan legs or just need your upper body tanned for the outfit you're wearing. Whatever you need, it's the perfect option for some quick color!
+- DONE: Full Body - Compliment yourself with a tan body! You'll feel healthy and look younger for ANY occasion.
+- DONE: Packages - Save money so you can tan as often as you'd like with these special packages! (Italic) Packages are for individual use and can't be shared.
+- DONE: Take out last sentence and add categories
+- DONE: Brides - Practice session and wedding session $50 - If you are a bride, you get to enjoy a special discount. We will perfect the glow you're looking for on your special day during your practice session. Then two to three days prior to your wedding date, we will apply the same glow so you look and feel beautiful on your special day! I provide special pricing for wedding parties, large groups, and teams! I provide special pricing for wedding parties, large groups, and teams! If you come with 4 - 7 people, it's $30 per tan, 8 - 10 people it's $25 per tan, and 11+ people it's $20 per tan. Bring your friends, family, and anyone you know to receive the discounted price!
+
+================================================================ 
+5
+12/11/2018
+brandywinevet.com
+https://na93.salesforce.com/5002I00001gKbuD
+https://my.vetmatrix.com/0029680/site/editor/cms
+12/11/2018
+
+- DONE: Hi... Attached is info to work on the Brandywine Vet website.
+- NOTE: Fixed Testimonial component
+- NOTE: Fixed Contact Us Component on full-width
+- PREVIEW: https://my.vetmatrix.com/0029680/
+
+================================================================ 
+6
+12/11/2018
+hilliardchiro.com
+https://na93.salesforce.com/5002I00001gL48d
+https://my.chiromatrix.com/0029703/site/editor/cms
+12/11/2018
+
+- DONE: *Below our logo would Examiner be able to be put on the same line with Dr. Edge's name? Thank you!*
+
+=================================================================
+7
+12/11/2018
+buccieyedoctor.com
+https://na93.salesforce.com/5002I00001gL0ju
+https://my.imatrix.com/0029934/site/editor/cms
+12/11/2018
+
+- DONE: Move the gallery on "Optical and Products" page to the "Frames" page. 
+- DONE: Fix logo on home page so that it sits in the correct location.
+- NOTE: Fixed Logo on home page
+- NOTE: Fixed Full-width Layout
+
+=================================================================
+8
+12/11/2018
+kevinbrowndc.com
+https://na93.salesforce.com/5002I00001fVDIY
+https://my.imatrix.com/0029934/site/editor/cms
+12/11/2018
+
+- DONE:  Made it into photoshop instead(Can we make the "logo" float instead of having a white background. it looks so cut and paste. 
+I used Arial font, underlined on the top, similar to this. Perhaps you can use text instead of image, I don't know, you're the pro. )
+
+=================================================================
+9
+12/11/2018
+kevinbrowndc.com
+https://na93.salesforce.com/5002I00001fVDIY
+https://my.chiromatrix.com/0031887/site/editor/cms
+12/11/2018
+
+- DONE:  Made it into photoshop instead(Can we make the "logo" float instead of having a white background. it looks so cut and paste. 
+I used Arial font, underlined on the top, similar to this. Perhaps you can use text instead of image, I don't know, you're the pro. )
+
+=================================================================
+10
+12/11/2018
+noblesvillevetclinic.com
+https://na93.salesforce.com/5002I00001gLLrY
+http://my.vetmatrix.com/0029672/site/editor/cms
+12/11/2018
+
+- DONE: page info for website
+
+=================================================================
+=================================================================
+1
+12/12/2018
+miamihomevet.com
+https://na93.salesforce.com/5002I00001gLHkE
+https://my.vetmatrix.com/0027920/site/editor/cms
+12/12/2018
+
+- DONE: A)) The phone number on top right of home page continues to overlap, can not be seen because Veterinary Topics button overlaps phone number.
+- DONE: B)) The text on the banner is correct, but is not well aligned;
+
+=================================================================
+2
+12/12/2018
+instant-sun.com
+https://na93.salesforce.com/5002I00001gLD7r
+https://my.chiromatrix.com/0032072/site/editor/cms
+12/12/2018
+
+- DONE: Case is already completed Yesterday.(https://na93.salesforce.com/5002I00001g2leT)
+
+=================================================================
+3
+12/12/2018
+LifeEnhancementWellness.com
+https://na93.salesforce.com/5002I00001gLE66
+https://my.chiromatrix.com/0030503/site/editor/cms
+12/12/2018
+
+- DONE: Added Online forms under New Patient Center and Linked PDF file to Download link
+
+=================================================================
+4
+12/12/2018
+kevinbrowndc.com
+https://na93.salesforce.com/5002I00001gLZak
+https://my.chiromatrix.com/0031887/site/editor/cms
+12/12/2018
+
+- DONE: one head shot down, several to go
+
+=================================================================
+5
+12/12/2018
+accedx.org
+https://na93.salesforce.com/5002I00001gLe1J
+https://my.chiromatrix.com/0029869/site/editor/cms
+12/12/2018
+
+- DONE: Please add the following PDF file attachments under each of the speakers pictures on the symposium page
+
+=================================================================
+6
+12/12/2018
+petwellatl.com
+https://na93.salesforce.com/5002I00001gLqo8
+https://my.vetmatrix.com/0027098/site/editor/cms
+12/12/2018
+
+- UNABLE TO COMPLETE: This is not located on website. (Request: On the rotating banner: Please capitalize the O in Otoscope)
+- UNABLE TO COMPLETE: There is no Cut Image of a dong on the slider (For this slide, please resize this image or find a different image as it is cutting off the dogs head and looks bad. )
+- UNABLE TO COMPLETE: there is no AAHA slide (For the AAHA slide, please resize the AAHA image or find a different image as it is also blurry)
+- DONE: Adjusted the image so that the word will be readable.(Below the contact us form, there is another AAHA image, can you slightly enlarge this image so you can read the text?)
+- DONE: On homepage please add this in large red letters
+- DONE: Please put the black and brown cat in the middle of the two dogs at the top.
+- DONE: Please remove the grey kitten from the side.
+
+=================================================================
+=================================================================
+1
+12/13/2018
+mitchellchiropracticsd.com
+https://na93.salesforce.com/5002I00001gLfKC
+http://my.chiromatrix.com/0030481/site/editor/cms
+12/13/2018
+
+- DONE: Throughout the website our name is “Mitchell Chiropractic and Acupuncture”- it needs to read Mitchell Chiropractic & Acupuncture Center. 
+- DONE: Change the sentence under the video to: Locally owned and operated since 1980.
+- DONE: Add to the bulleted list: Acupuncture, Massage Therapy
+- DONE: In the next sentence remove “with our Mitchell chiropractor”
+- DONE: In the first paragraph Brandon Cazer is not an acupuncturist. Please reword the sentence to show that.
+- DONE: The last sentence in the first paragraph: change “Mitchell chiropractor” to “us”
+- DONE: Remove Mitchell Chiropractor in bolded letters at bottom of page and add Center to our name
+- DONE: In the first paragraph remove “Mitchell Chiropractor” from the sentence. 
+- DONE: In the online form section please add our fax number, 605-996-3703.
+- DONE: The picture is good, but we want this page to match the other pages. Can you either make the picture larger or add text to the left of the photo.
+- DONE: the red text box under the photo can go away 
+- DONE: the bulleted section needs corrections as follows: Thompson drop table, Diversified technique, activator, Cranio-sacral therapy, remove “all age groups” from list.
+- DONE: We would also like to combine the physiotherapy page to the chiropractic page. We don’t want the physiotherapy to have its own page. 
+- DONE: Remove “expert advice” and the last sentence from the physiotherapy page when combining the two pages.
+- DONE: The picture is good, but we want this page to match the other pages. Can you either make the picture larger or add text to the left of the photo.
+- DONE: the red text box under the photo can go away
+- DONE: remove the “combining old techniques and new”
+- DONE: bulleted : Traditional acupuncture, electronic acupuncture, remove the rest.
+- DONE: The picture is good, but we want this page to match the other pages. Can you either make the picture larger or add text to the left of the photo. 
+- DONE: the red text box under the photo can go away 
+- DONE: the “magic hands” theme for the page needs to be removed.
+- DONE: In the second sentence remove “chiropractic” from the sentence
+- UNABLE TO COMPOLETE: change “the power of massage” to NOTE: Removed the power of massage.
+- DONE: remove muscle relief, pain relief, and toxin relief from the bulleted list and change “Relaxation” to “Swedish”
+- DONE: remove “centuries old techniques”
+- DONE: add that gift certificates are available for purchase 
+- DONE: remove “chiropractic” from the last sentence in the first paragraph and stop the last sentence after “offer”
+- DONE: add Brandon Cazer and Kim Juracek to the last sentence in the chiropractic care section.
+- UNABLE TO COMPLETE: remove “spinal and postural screenings section. Replace with an acupuncture section
+
+=================================================================
+2
+12/13/2018
+accedx.org
+https://na93.salesforce.com/5002I00001gLe1J
+https://my.chiromatrix.com/0029869/site/editor/cms
+12/13/2018
+
+- DONE: I wanted the link to the pdf file as a hyperlink on the word Bio under their picture.
+
+=================================================================
+3
+12/13/2018
+instant-sun.com
+https://na93.salesforce.com/5002I00001g2leT
+https://my.chiromatrix.com/0032072/site/editor/cms
+12/13/2018
+
+- DONE: The italicized font should be a little bigger, it's pretty tiny on my computer screen.
+- DONE: The sentences under Packages should be under the word packages and the numbers/prices after that. Also, make both lines same font and italic.
+- DONE: Remove Categories and add a Bride section and Group section.
+
+=================================================================
+4
+12/13/2018
+mccenterinc.com
+https://na93.salesforce.com/5002I00001gLt8o
+http://my.chiromatrix.com/0032009/site/editor/cms
+12/13/2018
+
+- DONE: case is already done. (https://na93.salesforce.com/5002I00001g2iMW)
+
+=================================================================
+5
+12/13/2018
+backinmotionchiropractic.ca
+https://na93.salesforce.com/5002I00001gMYw0
+https://my.chiromatrix.com/0030463/site/editor/cms
+12/13/2018
+
+- DONE: 1.delete the Time and Date 
+- DONE: are we able to add a drop box to have "Chiropractic Initial Visit" "Chiropractic Subsequent Visit" "Massage Therapy Appointment" "Orthotic Exam"
+- DONE: Added "Appointment Type as the label on the Dropdown
+
+=================================================================
+6
+12/13/2018
+micheyecare.com
+https://na93.salesforce.com/5000G00001ea3bh
+http://my.imatrix.com/0029796/site/editor/cms
+12/13/2018
+
+- DONE: On the homepage, it looks like a section got moved. Under the "welcome to Michigan eyecare institute" section, that first paragraph about cataracts should be moved higher under "providing custom cataract surgery" 
+- DONE: Updated (Offering low-cost premium Symfony Intraocular Lens (IOL), designed to reduce your need for eyeglasses for both distance and near vision. These lenses give you clear vision at several distances and can be used for patients that require astigmatism correction.)
+
+=================================================================
+=================================================================
+1
+12/14/2018
+advancedeye2020.com
+https://na93.salesforce.com/5002I00001gMnKV
+http://my.imatrix.com/0029938/site/editor/cms
+12/14/2018
+
+- DONE: Would much prefer the way our current website is...
+- NOTE: added it all on the above content. the basic content is just below.
+- PREVIEW: https://my.imatrix.com/0029938/
+
+=================================================================
+2
+12/14/2018
+montanaeyecare.com
+https://na93.salesforce.com/5002I00001gMtaA
+http://my.imatrix.com/0029685/site/editor/cms
+12/14/2018
+
+- DONE: 1. On Tablet view, add more padding between FB icon and phone number in top right. It displays nicely in the Editor but not the website preview link.
+- DONE: Also fixed Logo on tablet view
+- DONE: 2. Currently, the Patient Education page says coming soon. Can you replace that with a centered list of links to all the subpages? You don't have to put all the videos on one page, just links to them.
+- PREVIEW: https://my.imatrix.com/0029685
+
+=================================================================
+3
+12/14/2018
+advancedeye2020.com
+https://na93.salesforce.com/5002I00001gMn6O
+http://my.imatrix.com/0029938/site/editor/cms
+12/14/2018
+
+- DONE: Combine the pages w/ hours & locations. We want it to be presented that we are one office with 2 locations, not separate entities.
+- NOTE: Only Removed the two subpages under Hours&Locations.
+- NOTE: Also, to make it not separately presented, I added "Advanced Eyecare Center" before the office name
+
+=================================================================
+4
+12/14/2018
+advancedeye2020.com
+https://na93.salesforce.com/5002I00001gMmhY
+http://my.imatrix.com/0029938/site/editor/cms
+12/14/2018
+
+- UNABLE TO COMPLETE: "Red should be changed / removed: "
+
+=================================================================
+=================================================================
+1
+12/17/2018
+countyanimal.com
+https://na93.salesforce.com/5002I00001gNOQT
+http://my.vetmatrix.com/0030489/site/editor/cms
+12/17/2018
+
+- DONE: 1. Under the Tab "New Patient Center" Please change to Client Information. Under FORMS, add the Anesthesia & Surgical consent form and replace the new owner Pet Registration form you posted with the one I attach here. Please remove the Resources link and place that under a new tab "RESOURCES" that's where you can include the articles you post for us from your newsletter.
+- UNABLE TO COMPLETE: Removed the Featured Articles, but rather leave the testimonials and Location since these are not default anymore on their website. (2. At the bottom of each page, you have links to "Our Location", "Featured Articles", and "Testimonials". Those are NOT our reviews/testimonials! They are about a Dr. Anderson and the Anderson Vet Clinic in California. Please remove them.)
+- DONE: 3. Remove the tab for "Information Center" and everything under that tab. These are topics that Dr. Weiner writes about in his blogs
+- DONE: 4. "Blog" and place Dr. Weiner's blogs under that tab
+- DONE: 5. "Reviews" or "Testimonials" (whichever word you prefer). Those listed under Testimonials on this page under this tab ARE OURS. In line 1 of the first, please capitalize Animal Hospital, since our name is County Animal Hospital
+- DONE: 6. I want to check with Dr. Weiner about including a client survey on our Website
+
+
+=================================================================
 
 
 
@@ -11183,6 +11583,20 @@ https://my.vetmatrix.com/0031726/site/editor/cms
 
 
 
+
+
+
+
+
+
+
+Sort Popularity by
+- LIKES via overall
+- STAR COUNT REVIEWS via overall
+
+Sort Popularity by location through
+- LIKES via Area
+- STAR COUNT Reviews via Area
 
 
 
