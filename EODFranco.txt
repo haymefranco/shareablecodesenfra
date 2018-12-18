@@ -11556,27 +11556,144 @@ http://my.vetmatrix.com/0030489/site/editor/cms
 - UNABLE TO COMPLETE: Removed the Featured Articles, but rather leave the testimonials and Location since these are not default anymore on their website. (2. At the bottom of each page, you have links to "Our Location", "Featured Articles", and "Testimonials". Those are NOT our reviews/testimonials! They are about a Dr. Anderson and the Anderson Vet Clinic in California. Please remove them.)
 - DONE: 3. Remove the tab for "Information Center" and everything under that tab. These are topics that Dr. Weiner writes about in his blogs
 - DONE: 4. "Blog" and place Dr. Weiner's blogs under that tab
-- DONE: 5. "Reviews" or "Testimonials" (whichever word you prefer). Those listed under Testimonials on this page under this tab ARE OURS. In line 1 of the first, please capitalize Animal Hospital, since our name is County Animal Hospital
-- DONE: 6. I want to check with Dr. Weiner about including a client survey on our Website
-
+- DONE: 5. All sliding testimonials are added on to page ("Reviews" or "Testimonials" (whichever word you prefer). Those listed under Testimonials on this page under this tab ARE OURS. In line 1 of the first, please capitalize Animal Hospital, since our name is County Animal Hospital)
+- UNABLE TO COMPLETE: Instruction is vague (6. I want to check with Dr. Weiner about including a client survey on our Website)
+- UNABLE TO COMPLETE: Photos doesn't have a label "2008" (7. I like the pix under "virtual tour" but they are all labeled from 2008 and that was 10 years ago. Not much has changed, except the reception area! Any way to retouch the photos and remove the year?! If not, we will take new pictures and add them at a later time. then they can all go under 'Photo Gallery")
+- DONE: 8. Remove Veterinary Topics and instead that will be the RESOURCES tab. However, Dr. Weiner will need to review each of those articles/categories to see if he wants them
 
 =================================================================
+2
+12/17/2018
+enhancedlivingchiro.com
+https://na93.salesforce.com/5002I00001gNbjI
+http://mychiro.demandforced3.com/0031946/site/editor/cms
+12/17/2018
 
+- UNABLE TO COMPLETE: File attached is broken, or unable to be opened. (Blake’s bio)
 
+=================================================================
+3
+12/17/2018
+leboweye.com
+https://na93.salesforce.com/5002I00001gKe9Q
+https://my.imatrix.com/0031725/site/editor/cms
+12/17/2018
 
+- DONE: 1. on contact forms.   Change Notes to Doctor, to Notes to Staff
+- DONE: 2.create ability to have mobile friendly map that will drirect to office if somebody is in car and lost.
+- NOTE: Added Hopewell Location Directions Link to Google Map Directions.
+Richmond: (https://www.google.com/maps/dir//37.4936645,-77.5557035/@37.4937438,-77.5564002,18.75z)
+Hopewell: (https://www.google.com/maps/dir//37.3046952,-77.2860805/@37.3045472,-77.287991,17.17z)
+- DONE: Added Addresses to both locations. (Google links to address, not to office name.)
+- DONE: When the site goes mobile there is a Facebook link at bottom of page that shows up.  need to remove it.
+- DONE: 3. remove the google Lebow Eye listing on the map botton on top menu area.  Ellipse
+- UNABLE TO COMPLETE: Instruction is vague, (4. Request Appointment day and time.   People get confused and think they are making appointment.  Note to Staff.) NOTE: Changed to "Note to Staff"
+- DONE: 5. Home page paragraphes below video. Second paragraph change to..
+- DONE: 6. Insurance and Payments tab
+- DONE: 7.  About US
+- DONE: 8. Change Meet the Staff to "Meet the Doctors"
+- DONE: Dr.  Adam Herold
+- UNABLE TO COMPLETE: LAFAYETTE Script is not loading (9. Frames.   page is not loading images)
+- DONE: 10. Contact lenses
+- DONE: 11. Eyecare Services
+- DONE: 12. Contact Lens Exams
+- DONE: 13. Eye and Vision Exams
+- DONE: 14. At Lebow Eye Associates PC...
+- DONE: 15. Computer Vision Treatment
+- DONE: 16. Sunglasses
+- PREVIEW: https://my.imatrix.com/0031725
 
+=================================================================
+4
+12/17/2018
+sunriseah.com
+https://na93.salesforce.com/5002I00001gOCq7
+http://myvet.demandforced3.com/0030024/site/editor/cms
+12/17/2018
 
+- UNABLE TO COMPLETE: Forms are attached as one PDF file, PDF is uploaded but i suggest these should be separate PDFs. (Please add these forms to the website Thanks so much)
+- NOTE: Added as All Forms
 
+=================================================================
+5
+12/17/2018
+LifeEnhancementWellness.com
+https://na93.salesforce.com/5002I00001gniUl
+https://my.chiromatrix.com/0030503/site/editor/cms
+12/17/2018
 
+- DONE: Life Enhancement Family Chiropractic and Wellness
+- UNABLE TO COMPLETE: (Forms: Remove last page)
+- DONE: Coverpage
 
+=================================================================
+=================================================================
+1
+12/18/2018
+kineticvet.com
+https://na93.salesforce.com/5002I00001gnjE2
+http://my.vetmatrix.com/0030594/site/editor/cms
+12/18/2018
 
+- DONE: Background reduced shadow transparency (We need to lighten the background of the site so we can really see the Kinetic Vet logo, is this possible.)
+- DONE: Added Staff Bio and images
+- PREVIEW: https://my.vetmatrix.com/0030594/
 
+=================================================================
+2
+12/18/2018
+homanchiropractic.com
+https://na93.salesforce.com/5002I00001gLKwY
+https://my.chiromatrix.com/0021122/site/editor/cms
+12/18/2018
 
+- DONE: Put this in the new patient what to expect section
+- PREVIEW: https://my.chiromatrix.com/0021122
 
+=================================================================
+3
+12/18/2018
+lakejacksonvision.com 
+https://na93.salesforce.com/5002I00001gnxQq
+https://my.imatrix.com/0015642/site/editor/cms
+12/18/2018
 
+- DONE: Hello, Can you update the doctor biographies on the lakejacksonvision.com website?
+- DONE: Also please update my Bio to this 
 
+=================================================================
+4
+12/18/2018
+lakejacksonvision.com 
+https://na93.salesforce.com/5002I00001gnxgt
+https://my.imatrix.com/0015642/site/editor/cms
+12/18/2018
 
+- DONE: Hello, Can you update the doctor biographies on the lakejacksonvision.com website?
+- DONE: Also please update my Bio to this 
 
+=================================================================
+5
+12/18/2018
+cushingsquarevet.com
+https://na93.salesforce.com/5002I00001go30J
+https://my.vetmatrix.com/0028990/site/editor/cms
+12/18/2018
+
+- DONE: Hello, Can you update the doctor biographies on the lakejacksonvision.com website?
+- DONE: Also please update my Bio to this 
+
+=================================================================
+6
+12/18/2018
+cushingsquarevet.com
+https://na93.salesforce.com/5002I00001go39G
+https://my.vetmatrix.com/0028990/site/editor/cms
+12/18/2018
+
+- DONE: please crop and puttheon the home screen rotating image instead of the cut off pic of the husky and the golden 
+
+=================================================================
 
 
 
