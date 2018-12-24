@@ -12028,15 +12028,31 @@ https://my.chiromatrix.com/0032625/site/editor/cms
 =================================================================
 =================================================================
 1
-12/20/2018
-supportthecaregiver.com
-https://na93.salesforce.com/5002I00001gpyAa
-https://my.chiromatrix.com/0032790/site/editor/cms
-12/20/2018
+12/24/2018
+strasburg family eyecare
+7176878141.com 
+https://na93.salesforce.com/5002I00001gqy4e
+http://my.imatrix.com/0032666/site/editor/cms
+12/24/2018
 
-- Clocks to Middle Stage Gallery Image Adding.
+- DONE: On the "Conditions" page, can we please bring the sidebar up? 
+- PREVIEW: https://my.imatrix.com/0032666
 
 =================================================================
+2
+12/24/2018
+rfamilychiropractic.com
+https://na93.salesforce.com/5002I00001gpkSa
+https://my.chiromatrix.com/0032625/site/editor/cms
+12/24/2018
+
+- DONE: Homepage photo scroll up in a parallax change (photo of the Dr. on a beach) Note: they want the photo to move up as you move down on the page.
+- UNABLE TO COMPLETE: This cannot be edited. (Featured Articles: only would like articles about chiropractic adjustments.)
+- PREVIEW: https://my.chiromatrix.com/0032625
+
+note: parallax src(https://alligator.io/css/pure-css-parallax/)
+=================================================================
+
 
 
 
