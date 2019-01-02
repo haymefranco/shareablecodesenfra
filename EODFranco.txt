@@ -12437,6 +12437,17 @@ http://my.chiromatrix.com/0033315/site/editor/cms
 1/02/2019
 
 - DONE: Westchester Menu Link Issue: https://www.screencast.com/t/E0ezEE4eTRIb 
+- NOTE: Added the overlaying navigations on to More navigation bar.
+
+=================================================================
+7
+1/02/2019
+coastlinetherapycenter.com
+https://na93.salesforce.com/5002I00001hGM21
+http://my.chiromatrix.com/0033315/site/editor/cms
+1/02/2019
+
+- UNABLE TO COMPLETE: DOMAIN TRANSFER - coastlinetherapycenter.com
 
 =================================================================
 
@@ -12852,6 +12863,12 @@ PW: Modo1298!
 
 
 
+Registrar:: Godaddy 
+UN:: 56884229 
+PW:: Ilike20birds
+drescobar@coastlinetherapycenter.com 
+FORWARD TO: 
+--> Coastline_chiropractic@yohoo.com
 
 
 
