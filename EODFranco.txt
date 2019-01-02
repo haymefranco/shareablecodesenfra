@@ -12051,6 +12051,393 @@ https://my.chiromatrix.com/0032625/site/editor/cms
 - PREVIEW: https://my.chiromatrix.com/0032625
 
 note: parallax src(https://alligator.io/css/pure-css-parallax/)
+
+=================================================================
+3
+12/24/2018
+cushingsquarevet.com
+https://na93.salesforce.com/5002I00001gp2mM
+https://my.vetmatrix.com/0028990/site/editor/cms
+12/24/2018
+
+- DONE: Fixed. Backgrounds 1 and 2 were not completed. 
+- DONE: Replace Background(3)
+- PREVIEW: https://my.vetmatrix.com/0028990
+
+=================================================================
+4
+12/24/2018
+supportthecaregiver.com
+https://na93.salesforce.com/5002I00001gpyAa
+http://my.chiromatrix.com/0032790/site/editor/cms
+12/24/2018
+
+- DONE: Added all the Store pages.
+- PREVIEW: https://my.chiromatrix.com/0032790/
+
+=================================================================
+=================================================================
+1
+12/26/2018
+hilltopeyecarecenter.com
+https://na93.salesforce.com/5002I00001gpxuw
+http://myimx.demandforced3.com/0032639/site/editor/cms
+12/26/2018
+
+- DONE: Scripts and Links are already added.
+- PREVIEW: http://myimx.demandforced3.com/0032639/
+
+=================================================================
+2
+12/24/2018
+supportthecaregiver.com
+https://na93.salesforce.com/5002I00001gpyAa
+http://my.chiromatrix.com/0032790/site/editor/cms
+12/24/2018
+
+- DONE: Added all the Store pages.
+- PREVIEW: https://my.chiromatrix.com/0032790/
+
+=================================================================
+3
+12/26/2018
+rossellofamilychiro.net
+https://na93.salesforce.com/5002I00001gpte6
+http://my.chiromatrix.com/0028934/site/editor/cms
+12/26/2018
+
+- UNABLE TO COMPLETE: 1) Just confirming that we are going with rossellofamilychiro.us until the end of January pending completion of my PatientPop contract, at which time our Imatrix site will be rossellofamilychiro.com.
+- DONE: 2) Website template chosen: DAVIS, with the following changes to be made:
+- DONE: 1. Please match the colors on the website to my logo color. Attachment below. This will be the "request appointment" button, line that moves under top horizontal banner, ''featured services'' icons (in those icons can we make the light grey circle around each icon the same color as the logo, with the hover turning it to a lighter hue), and the dropdown color in the top horizontal banner should match the logo color
+- DONE: 2. Logo hex numbers can be found in the style guide file attachment to this email.
+- DONE: 3. On "newsletter signup" on Home page, change gold background to lighter hue of the above logo color; something that will not clash!
+- DONE: 4. Please remove the "exclusive offer" on Home page. 
+- DONE: 3) Please put our link to the New Patient Forms on our new site: https://intake.mychirotouch.com/?clinic=RFCP0003 Is this the *embed code* you asked for, or do I need to send you something else?
+- DONE: 3) Please change the map to the current map on our site at 
+rossellofamilychiro.com. SEE PHOTO BELOW. 
+-DONE: 4) Move over all the testimonials from our old site
+
+- PREVIEW: http://my.chiromatrix.com/0028934
+
+=================================================================
+4
+12/26/2018
+mccenterinc.com
+https://na93.salesforce.com/5002I00001gq3Bb
+http://my.chiromatrix.com/0032009/site/editor/cms
+12/26/2018
+
+- DONE: Added Sheryl Liggett
+- PREVIEW: http://my.chiromatrix.com/0032009
+
+=================================================================
+5
+12/26/2018
+mymseyecare.com
+https://na93.salesforce.com/5000G00001bV4ad
+http://my.imatrix.com/0024417/site/editor/cms
+12/26/2018
+
+- UNABLE TO COMPLETE: Please specify which Title Texts to be removed.(Remove title text from Locations interior pages )
+- NOTE: Just only removed the second one in the context.
+
+=================================================================
+6
+12/26/2018
+drsnipesmobilevet.com
+https://na93.salesforce.com/5000G00001bV111
+http://my.vetmatrix.com/0026647/site/editor/cms
+12/26/2018
+
+- DONE: Slide show - when on tablet view the slide show should focus more on the photo
+- NOTE: Made it size to fit screen for it to focus the whole image.
+
+=================================================================
+7
+12/26/2018
+embrychiropracticcenter.com
+https://na93.salesforce.com/5000G00001cUJT2
+https://my.chiromatrix.com/0027671/site/editor/cms
+12/26/2018
+
+- DONE: Here is my logo
+
+=================================================================
+8
+12/26/2018
+ottawaveterinaryhospital.net
+https://na93.salesforce.com/5000G00001c1nV4
+http://my.vetmatrix.com/0027080/site/editor/cms
+12/26/2018
+
+- DONE: 1. Replace New Patient Registration form with attached form. Please make sure it is updated in to PDF first. 
+
+=================================================================
+9
+12/26/2018
+broadwayvetclinicmi.com
+https://na93.salesforce.com/5002I00001gqPhj
+https://my.vetmatrix.com/0007133/site/editor/cms
+12/26/2018
+
+- DONE: Please remove the Christmas Raffle from our website home page for broadwayvetmi.comThanks,Miki Morris
+
+=================================================================
+10
+12/26/2018
+minoruchiropractic.com
+https://na93.salesforce.com/5000G00001eZof3
+http://my.chiromatrix.com/0014311/site/editor/cms
+12/26/2018
+
+- DONE: Hi my mobile app rears ce of the web page is distorted can you please have this fixed.
+
+=================================================================
+11
+12/26/2018
+fixmyback.com
+https://na93.salesforce.com/5000G00001eZvFC
+https://my.chiromatrix.com/0011725/site/editor/cms
+12/26/2018
+
+- DONE: 1. We need a box for newsletter sign ups on the home page. :NOTE: This is already on home page
+- UNABLE TO COMPLETE: The message box is already visible. (2. Reformat the "For a Free Consultation Section Contact" . the message box isn't visible.)
+- DONE: 3. Can the tabs at the top of the page be centered?
+- DONE: 4. Three of the six dropdown tabs at the top have arrows over the ends of the words: New Patients, About Us and Community Content . please delete the arrows.
+- DONE: 5. We tried to delete the play/pause button over the "Staff/Dog" photo at the top of the homepage but now there's a weird grey dot instead.
+- DONE: 6. Willie's head (the big blood hound in the bottom center's head is cut off and looks funny in the team photo.
+- UNABLE TO COMPLETE: The image is already Cropped. (Can the pic be resized so we can see the whole picture? )
+- DONE: 7. About Us tab, that picture of me (Dr. Lawson is 20 years old. Please use the one attached. Entitled DrDHeadShot2017(3)
+- NOTE: Resized the image for size compression.
+- DONE: * Success Stories Page: Those are all very old testimonials. They can stay but I'd like to delete the questionnaire.
+- DONE: Also please delete this one: Clyde Cregar - Chiropractic Helped My Parkinson's Disease
+- DONE: And could we someone put a link to YELP testimonials here and invite people to yelp us or something like that?
+- NOTE: This is true. (I assume this last link will become a 
+link back to the homepage of the new site once we've transitioned over???)
+- NOTE: This page is already on website and Instruction is vague(9. Why isn't this page (low back pain) on the new site? https://my.chiromatrix.com/0011725/low-back-lumbar-pain-sciatica )
+- NOTE: This page is already on website (10. Where is the Auto Injury Page on the new site? )
+
+- PREVIEW: https://my.chiromatrix.com/0011725/
+
+=================================================================
+=================================================================
+1
+12/27/2018
+metropolitanoptical.com
+https://na93.salesforce.com/5002I00001gooCP
+https://my.imatrix.com/0028264/site/editor/cms
+12/27/2018
+
+-UNABLE TO COMPLETE: Some of the Context in their Pages are not found on their original website. i.e "New Patient Center Page" (First, the doctor wants the content portion to match EXACTLY what is on her current site. A lot of the things that are on the new site are not things she offers in her clinic so that was troubling to her. Could you work on changing all of the content to match exactly word for word what is on her current site? Her current site is https://www.metropolitanoptical.com/.)
+- NOTE: Did not delete the original iMatrix Default content, rather commented it.
+- DONE: First, the doctor wants the content portion to match EXACTLY what is on her current site. A lot of the things that are on the new site are not things she offers in her clinic so that was troubling to her. Could you work on changing all of the content to match exactly word for word what is on her current site? Her current site is https://www.metropolitanoptical.com/. 
+- DONE: I included some of her other changes too below. She will want to update the template again so I'm not sure if that will hinder any of these changes from being made. I should have the new template decision on Friday. 
+- DONE: Increase font size for phone numbers
+- DONE: Increase button size for 'Make an Appointment' (she really wants it to say make an appointment not request an appointment)
+- DONE: Remove/update all content to match that of current website
+- DONE: Remove content for orthok, sports vision, contact lenses, etc. 
+- UNABLE TO COMPLETE: There is no Link from Google Reviews provided. (Include up to 10 reviews from Google (only 4/5 star ones) )
+
+- PREVIEW: https://my.imatrix.com/0028264
+
+=================================================================
+2
+12/27/2018
+thepetdentist.com
+https://na93.salesforce.com/5002I00001gqW0w
+https://my.vetmatrix.com/0030721/site/editor/cms
+12/27/2018
+
+- DONE: Added the Online form.
+- NOTE: Email is Required.
+
+=================================================================
+=================================================================
+1
+12/28/2018
+chiropractorwellnesscenter.com
+https://na93.salesforce.com/5002I00001gqZxG
+https://my.chiromatrix.com/0031748/site/editor/cms
+12/28/2018
+
+- DONE: 1. Auto Accidents page brought over and car accident vido on home page of website
+- DONE: 2. Wants the address put under the phone number
+- DONE: 3. ADDED > Auto Accident - tab
+- DONE: 4. move all services tabs over to the new website
+- NOTE: Eczema, Estrogen Metabolism is in another page
+
+- PREVIEW: https://my.chiromatrix.com/0031748
+
+=================================================================
+2
+12/28/2018
+njeyeinstitute.com
+https://na93.salesforce.com/5002I00001grShQ
+https://my.imatrix.com/0031930/site/editor/cms
+12/28/2018
+
+- DONE: Updated Patient forms page
+
+- PREVIEW: https://my.imatrix.com/0031930
+
+=================================================================
+3
+12/28/2018
+rossellofamilychiro.net
+https://na93.salesforce.com/5002I00001gpte6
+http://my.chiromatrix.com/0028934/site/editor/cms
+12/28/2018
+
+- DONE: Please make the circle the same dark color as the center icon
+- DONE: hover turning it to a lighter hue.* ''featured services'' icons
+- DONE: We have a NEW LOGO*.
+- UNABLE TO COMPLETE: Please Speciy Which specific Hue to be used. Note: just made it lighter (lighter hue of the above logo color; something that will not clash!)
+
+=================================================================
+=================================================================
+1
+12/31/2018
+safarivet.com
+https://na93.salesforce.com/5000G00001eBWfy
+http://my.vetmatrix.com/0029776/site/editor/cms
+12/31/2018
+
+- DONE: Behavior Conditions Page added to More
+- FIXED Buttons
+
+-PREVIEW: https://my.vetmatrix.com/0029776
+
+=================================================================
+2
+12/31/2018
+countyanimal.com
+https://na93.salesforce.com/5000G00001eDN8B
+http://my.vetmatrix.com/0030489/site/editor/cms
+12/31/2018
+
+- DONE: 1. Change to bio: Dr. Weiner add
+- DONE: 2. “Jodi Sherman
+- DONE: 3. I detest the abbreviation of "vet" for veterinarian or veterinary
+medicine or veterinary hospital. Please use the full words.
+- UNABLE TO COMPLETE: Instruction is Vague.(4. In one place it states that County Animal Hospital is a member of the New York Veterinary Medication Association.)
+
+-PREVIEW: https://my.vetmatrix.com/0030489
+
+=================================================================
+3
+12/31/2018
+rossellofamilychiro.net
+https://na93.salesforce.com/5002I00001gpte6
+http://my.chiromatrix.com/0028934/site/editor/cms
+12/31/2018
+
+- DONE: 1) Can you make the logo in the heading larger, please?
+- DONE: just under the phone number? And larger. Thanks!!
+
+=================================================================
+4
+12/31/2018
+8142962222.com
+https://na93.salesforce.com/5002I00001hEGNv
+http://mychiro.demandforced3.com/0031523/site/editor/cms
+12/31/2018
+
+- UNABLE TO COMPLETE: Logo is appropriately sized. Instruction is vague. (Logo... can it be sized appropriately where it is utilized?)
+- DONE: Added Staff
+
+=================================================================
+5
+12/31/2018
+8142962222.com
+https://na93.salesforce.com/5002I00001hEZ9U
+http://mychiro.demandforced3.com/0031523/site/editor/cms
+12/31/2018
+
+- DONE: Updated Services Page
+- DONE: Added Images snipped from
+
+- PREVIEW: http://mychiro.demandforced3.com/0031523
+
+=================================================================
+6
+12/31/2018
+plannedpethoodinternational.org
+https://na93.salesforce.com/5002I00001fUCVt
+https://my.vetmatrix.com/0031715/site/editor/cms
+12/31/2018
+
+- DONE: 1. All the fonts on About Us > Staff are consistent.
+- DONE: 2. Fix the table under Services so that client can add deposit fees.
+
+-PREVIEW: https://my.vetmatrix.com/0031715/
+
+=================================================================
+=================================================================
+1
+1/02/2019
+allertonequine.com
+https://na93.salesforce.com/5002I00001gLqE5
+https://my.vetmatrix.com/0032477/site/editor/cms
+1/02/2019
+
+- DONE:  At the top, please move the Pay Your Bill button (and Authorize logo) to the left
+- DONE: Move the social media icons to the right below or above the phone number
+- DONE: In addition, increase the font size of "Allerton Equine, LLC For the care of your horse." so that it's more visible
+
+=================================================================
+2
+1/02/2019
+mccenterinc.com
+https://na93.salesforce.com/5002I00001gq3Bb
+http://my.chiromatrix.com/0032009/site/editor/cms
+1/02/2019
+
+- DONE: Please link my CV to the Dr. Montgomery's Curriculum Vitae section on Meet the Doctor page. Thanks
+
+=================================================================
+3
+1/02/2019
+njeyeinstitute.com
+https://na93.salesforce.com/5002I00001hDArw
+https://my.imatrix.com/0031930/site/editor/cms
+1/02/2019
+
+- DONE: Attached is updated home page.
+- PREVIEW: https://my.imatrix.com/0031930/
+
+=================================================================
+4
+1/02/2019
+rossellofamilychiro.net
+https://na93.salesforce.com/5002I00001gpte6
+https://my.chiromatrix.com/0028934/site/editor/cms
+1/02/2019
+
+- DONE: Client wants the top header to look more like the footer | I think she just likes the look of the logo on a darker background. | What I think client wants: https://www.screencast.com/t/H2T4CgkKYl6 
+
+=================================================================
+5
+1/02/2019
+rfamilychiropractic.com
+https://na93.salesforce.com/5002I00001hFrK2
+https://my.chiromatrix.com/0032625/site/editor/cms
+1/02/2019
+
+- DONE: Header Text is not responsive. Not scaling properly.
+- NOTE: Please note to wait for the Script for it to reload the Style scripts on to mobile preview. 
+
+- PREVIEW: https://my.chiromatrix.com/0032625
+
+=================================================================
+6
+1/02/2019
+coastlinetherapycenter.com
+https://na93.salesforce.com/5002I00001hGKAm
+http://my.chiromatrix.com/0033315/site/editor/cms
+1/02/2019
+
+- DONE: Westchester Menu Link Issue: https://www.screencast.com/t/E0ezEE4eTRIb 
+
 =================================================================
 
 
@@ -12083,10 +12470,7 @@ note: parallax src(https://alligator.io/css/pure-css-parallax/)
 
 
 
-
-
-
-
+Out: 5:16 (Reason: 
 
 Sort Popularity by
 - LIKES via overall
@@ -12095,13 +12479,6 @@ Sort Popularity by
 Sort Popularity by location through
 - LIKES via Area
 - STAR COUNT Reviews via Area
-
-
-
-
-
-
-
 
 
 
