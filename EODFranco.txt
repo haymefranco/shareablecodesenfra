@@ -49,7 +49,7 @@ Skin Change: Skin_24A
 
 ================================================================
 10-13-17
-
+ww
 ADS | 00387091 | paulghayterod.com
 https://na43.salesforce.com/5000G00001I9pz3
 https://portal.imatrixbase.com/site/maskPortalClient/51939
@@ -12440,20 +12440,402 @@ http://my.chiromatrix.com/0033315/site/editor/cms
 - NOTE: Added the overlaying navigations on to More navigation bar.
 
 =================================================================
-7
-1/02/2019
+=================================================================
+1
+1/03/2019
 coastlinetherapycenter.com
 https://na93.salesforce.com/5002I00001hGM21
 http://my.chiromatrix.com/0033315/site/editor/cms
-1/02/2019
+1/03/2019
 
 - UNABLE TO COMPLETE: DOMAIN TRANSFER - coastlinetherapycenter.com
 
 =================================================================
+2
+1/03/2019
+pellanimalclinic.com
+https://na93.salesforce.com/5002I00001f9ErB?srPos=3&srKp=500
+http://my.vetmatrix.com/0033027/site/editor/cms
+1/03/2019
 
+- DONE: Forced Migration
 
+=================================================================
+3
+1/03/2019
+berlinanimalhospital.com
+https://na93.salesforce.com/5002I00001f9ErE?srPos=0&srKp=500
+http://my.vetmatrix.com/0033029/site/editor/cms
+1/03/2019
 
+- DONE: Forced Migration
 
+=================================================================
+4
+1/03/2019
+natural-healthandwellnesscenter.com
+https://na93.salesforce.com/5002I00001hYNDG
+https://my.chiromatrix.com/0028826/site/editor/cms#
+1/03/2019
+
+- DONE: Needs to add spine simulator back to the menu bar with a spine simulator page
+
+- PREVIEW: https://my.chiromatrix.com/0028826/
+
+=================================================================
+5
+1/03/2019
+healinghandsvetcenter.com
+https://na93.salesforce.com/5002I00001f9ErF?srPos=0&srKp=500
+https://my.vetmatrix.com/0033030/site/editor/cms
+1/03/2019
+
+- DONE: Forced Migration
+
+=================================================================
+=================================================================
+1
+1/04/2019
+drstephengrosse.com
+https://na93.salesforce.com/5002I00001hYXKn
+http://my.chiromatrix.com/0031953/site/editor/cms
+1/04/2019
+
+- DONE: Change to theme (laugna, Blue )
+- DONE: Remove exclusive offer
+- DONE: (three pictures accorss the top below)
+- DONE: pictures on the top left 3g, stock photo (make an appointment) 
+- DONE: middle picutre - current theme current girl holding her neck picture (from manhatten theme ) (contact us)
+- DONE: Third picture 3u stock photo (online forms)
+- DONE: wants font highlighted and to stand out in main paragraph but wants to make it look nicer
+
+=================================================================
+2
+1/04/2019
+homanchiropractic.com
+https://na93.salesforce.com/5002I00001hYNRN
+https://my.chiromatrix.com/0021122/site/editor/cms
+1/04/2019
+
+- DONE: Hi Onboarding, please see the forms attached for homanchiro.com
+- NOTE: (.doc files were converted to PDFs)Updated Online Forms
+- NOTE: Since there were no instructions, I just updated the files that are similar to the forms attached.
+
+=================================================================
+3
+1/04/2019
+homanchiropractic.com
+https://na93.salesforce.com/5002I00001hYNRN
+https://my.chiromatrix.com/0021122/site/editor/cms
+1/04/2019
+
+- UNABLE TO COMPLETE: Instruction is vague (Can you do something with the conditions we treat page. It looks bad. )
+- UNABLE TO COMPLETE: "OnlineChiro Website stuff" could not be found on his site.
+- NOTE: Upon looking up on the web it looks like OnlineChiro links to (https://www.onlinechiro.com/)
+
+=================================================================
+3
+1/04/2019
+njeyeinstitute.com
+https://na93.salesforce.com/5002I00001hYVZQ
+https://my.imatrix.com/0031930/site/editor/cms
+1/04/2019
+
+- NOTE: All are already on $55.00. 
+(Consent for Dilation - Please change the refraction charge from $50 to $55.)
+(Financial Policy - Please change the refraction charge from $50 to $55.)
+
+=================================================================
+4
+1/04/2019
+rossellofamilychiro.net
+https://na93.salesforce.com/5002I00001hZ9ER
+https://my.chiromatrix.com/0028934/site/editor/cms
+1/04/2019
+
+- DONE: Client wants the navigation bar to be the same grey as the header
+- DONE: and wants the letters on the navigation bar to be white. and bold. with the seperation thin white line
+
+=================================================================
+5
+1/04/2019
+rossellofamilychiro.net
+https://na93.salesforce.com/5002I00001hZ9ER
+https://my.chiromatrix.com/0028934/site/editor/cms
+1/04/2019
+
+- DONE: 1) Please make the navigation bar match the footer. Entire background of the bar in dark color.
+- DONE: We pictured the navigation bar in all white font, like the footer bar image below; replacing the white "copyright" and other words with the banner words, "Home" "New Patient Center" etc.
+- DONE: 3) Let's see how the navigation bar font looks if it is slightly larger.
+
+=================================================================
+=================================================================
+1
+1/07/2019
+metropolitanoptical.com
+https://na93.salesforce.com/5002I00001hYcXT
+https://my.imatrix.com/0028264/site/editor/cms
+1/07/2019
+
+- DONE: First, they would like to change the template to "Westchester".
+- DONE: They'd like the overall coloring to be blue that matches their logo (color # 384768) and the headers of the different pages to be the green of their logo (color #: A0A262).
+- DONE: All other page text can stay white! 
+
+=================================================================
+2
+1/07/2019
+enhancedlivingchiro.com
+https://na93.salesforce.com/5002I00001hZJ2X
+http://mychiro.demandforced3.com/0031946/site/editor/cms
+1/07/2019
+
+- DONE: Can we add a pop up on the side for our upcoming Dog Food Drive? 
+- DONE: you don't have to include the attachment I am sending, but you may use it for reference, etc.
+
+=================================================================
+3
+1/07/2019
+starbuckchiro.com
+https://na93.salesforce.com/5002I00001hG0EB
+https://my.chiromatrix.com/0033624/site/editor/cms
+1/07/2019
+
+- DONE: Our choices for the stock photos are 1u, 2a, 2n, 3u, 3z, 4i, 4s, 4y
+- DONE: Please upload their logo as well.
+- NOTE: On the footer, I made the Logo White to contrast the dark background
+
+=================================================================
+4
+1/07/2019
+healingphx.com
+https://na93.salesforce.com/5002I00001fTHNu
+https://my.chiromatrix.com/0031541/site/editor/cms
+1/07/2019
+
+- DONE: **NOTE: On Tuesdays they are not open until 2:00 pm PST
+- DONE: New Patient center – initial page office hours incorrect for thusday from 3-7pm
+- DONE: our attached new patient forms
+
+- PREVIEW: https://my.chiromatrix.com/0031541
+
+=================================================================
+=================================================================
+1
+1/08/2019
+rfamilychiropractic.com
+https://na93.salesforce.com/5002I00001haIjD
+https://my.chiromatrix.com/0032625/site/editor/cms
+1/08/2019
+
+- DONE: Client wants the background for body to be white instead of light grey 
+- DONE: Client wants the picutre in the middle of the home page attached below to be paralayx like the slider picture upond entering the site 
+
+- PREVIEW: https://my.chiromatrix.com/0032625
+
+=================================================================
+=================================================================
+1
+1/09/2019
+portorangechiropractors.com
+https://na93.salesforce.com/5002I00001hb8Ry
+https://my.chiromatrix.com/0026276/site/editor/cms
+1/09/2019
+
+- DONE: Email 3 M&M chiro
+- NOTE: All images were added to clinic tour
+
+=================================================================
+2
+1/09/2019
+portorangechiropractors.com
+https://na93.salesforce.com/5002I00001hb8Ry
+https://my.chiromatrix.com/0026276/site/editor/cms
+1/09/2019
+
+- DONE: Here are pics of office for website
+- NOTE: All images were added to clinic tour
+
+=================================================================
+3
+1/09/2019
+rfamilychiropractic.com
+https://na93.salesforce.com/5002I00001haIjD
+https://my.chiromatrix.com/0032625/site/editor/cms
+1/09/2019
+
+- DONE: Adjusted all text shadows to (0 0 2 black)
+
+=================================================================
+4
+1/09/2019
+portorangechiropractors.com
+https://na93.salesforce.com/5002I00001hbeKw
+https://my.chiromatrix.com/0026276/site/editor/cms
+1/09/2019
+
+- DONE: Attached Images are added to Chiropractic Team Page
+- NOTE: These are Duplicate Images; Chose the best ones.
+
+=================================================================
+5
+1/09/2019
+portorangechiropractors.com
+https://na93.salesforce.com/5002I00001hbeO0
+https://my.chiromatrix.com/0026276/site/editor/cms
+1/09/2019
+
+- DONE: Added Images to Clinic Tour Page
+- NOTE: There are a lot of Duplicated Images with different angles, advice to remove duplicate images as these will cause heavy load on page due to data redundancy.
+
+=================================================================
+6
+1/09/2019
+portorangechiropractors.com
+https://na93.salesforce.com/5002I00001hb8YB
+https://my.chiromatrix.com/0026276/site/editor/cms
+1/09/2019
+
+- DONE: Added Images to Clinic Tour Page
+- NOTE: Fixed the order of the images.
+
+=================================================================
+=================================================================
+1
+1/10/2019
+paulhamusveterinary.com
+https://na93.salesforce.com/5000G00001dMl6F
+https://my.vetmatrix.com/0029051/site/editor/cms
+1/10/2019
+
+- UNABLE TO COMPLETE: This is no longer Located on the Home Page(On the home page, please remove the city scape of Seattle.)
+- UNABLE TO COMPLETE: Instruction is vague. Please specify which image to remove (Please remove the picture of the dog with the light blue background. It is not mine.)
+- DONE: Updated Location on Contact Us Page
+
+- PREVIEW: https://my.vetmatrix.com/0029051
+
+=================================================================
+2
+1/10/2019
+paulhamusveterinary.com
+https://na93.salesforce.com/5002I00001hbcwx
+http://my.vetmatrix.com/0031996/site/editor/cms
+1/10/2019
+
+- DONE: Remove any links to a location or map.
+- DONE: Change “24/7 Large Animal Emergency Service” to “24/7 Veterinary Service.”
+- NOTE: Image will be updated if there is a replacement for this. This is only removed(The grey horse banner photo needs replaced.)
+- DONE: Remove “Request Appointment,” as we do not schedule online appointments.
+- DONE: This is already done(There is no “Contact Us” page. Any reference thereto should navigate to the “Ask the Vet” page. )
+- DONE: This is already done (Remove “Featured Links.” These links are the same as those on the top of the homepage. )
+- DONE: Remove “Welcome to Paulhamus Veterinary…” This information is redundant, and the layout is terrible. 
+- UNABLE TO COMPLETE: Instruction is needed for this statement ("and the layout is terrible.")
+- DONE: Remove “Meet Our Doctor.” That information is available in the “About Us” page. 
+- DONE: Add business hours at the bottom left of the homepage and “Ask the Vet” fields on the right of that page. 
+- DONE: Remove “Access Your Coggins Online.”
+- DONE:  This link should be included in the Patient Center > “Links” page. 
+- DONE: Remove the Paulhamus Veterinary Associates logo at the bottom of the homepage. The website should be copyrighted. 
+- DONE: Change “New Patient Center” to “Patient Center.”
+- DONE: The subpages should include “Forms,” “Links,” “Pay Online,” and “Joint Our Mailing List.” 
+- NOTE: I believe this is mispelled, "Joint Our Mailing List." and now fixed.
+- DONE: The forms available online should be “New Patient Registration Form” (remove “Required”), “Credit Card Authorization Form,” and “Payment Plan Application.” I will send the forms as attachments in a separate message.
+- DONE: Remove the information to download AbodeReader. The link is available beneath the red line.
+- DONE: “Hours” and “Contact Us” should be in a red box similar to the layout on the homepage. 
+- NOTE: Added Red Box and made text white to compensate a contrast.
+- DONE: Remove “Access Your Coggins Online.” 
+- DONE: Remove the Paulhamus Veterinary Associates logo at the bottom of the homepage. The website should be copyrighted. 
+- DONE: Remove the Paulhamus Veterinary Associates logo at the bottom of the homepage. The website should be copyrighted.
+- DONE: Change heading to “Resources” on the left alignment.
+- DONE: Change “Hours” and “Contact Us” to match the homepage. 
+- DONE: Remove “Access Your Coggins Online.” 
+- DONE: Remove the Paulhamus Veterinary Associates logo at the bottom of the homepage. The website should be copyrighted.
+- DONE: Change “Payment Options” to “Pay Your Bill Online.”
+- DONE: Delete all of the other information, as it’s not correct or relevant.
+- DONE: Transfer Dr. Paulhamus’ biography from the current website.
+- DONE: Leave a placeholder for a new photo of Dr. Paulhamus (when iMatrix is on site for a photo shoot this spring). 
+- DONE: Remove “Access Your Coggins Online.” 
+- DONE: Remove the Paulhamus Veterinary Associates logo at the bottom of the homepage. The website should be copyrighted. 
+- DONE: Align the “Services” heading to the left. 
+- DONE: The text and the photos should be in better alignment — text on the left, photos on the right.
+- DONE: Remove “We’re pleased to offer the following services…”
+- DIONE: The information below the red line at the bottom of the page should be deleted. This information is not accurate. 
+- DONE: Remove “Access Your Coggins Online.” 
+- DONE: Remove the Paulhamus Veterinary Associates logo at the bottom of the homepage. The website should be copyrighted. 
+- DONE: Remove the address.
+- DONE: Add “Hours of Operation” in red font.
+- DONE: Remove the “Hours” block. 
+- DONE: Remove “Access Your Coggins Online.”
+- DONE: Remove the Paulhamus Veterinary Associates logo at the bottom of the homepage. The website should be copyrighted.
+=================================================================
+=================================================================
+1
+1/11/2019
+homanchiro.com
+https://na93.salesforce.com/5002I00001htcnC
+https://my.chiromatrix.com/0021122/site/editor/cms
+1/11/2019
+
+- Make Logo Text Black, bigger (along the size of the Logo for his brother's site: https://www.homanchiroky.com/) 
+- DONE: Increase font size for both numbers: 
+- DONE: 2nd Location Phone Number (Cold Spring) is NOT showing up on Mobile 
+- DONE: ADD 2nd appt request module on Appointment Request Page: 
+- DONE:  Move both Phone Numbers onto Menu Bar
+- DONE: Put the phone numbers on their own lines
+- DONE: ADD 2nd appt request module on Appointment Request Page: Make Preferred Time Required
+- DONE: Edit Preferred Times for each office.
+- DONE: Click to Dial.
+- DONE: Add Cold Spring Location name and Phone# at end of Content Body, with same formatting and Right-Aligned 
+- DONE: Said that Aries sent an email for Online Chiro to get the content transferred over from their old site.
+- UNABLE TO COMPLETE: Unable to pull-out "OLD Site> Online Chiro" from Archive.org (Said that Aries sent an email for Online Chiro to get the content transferred over from their old site. )
+- UNABLE TO COMPLETE: We do not have Stock content for Conditions Page, but rather only a Services & Techniques Page.(If we can't pull the content from their old website, he requested we use our Stock wording for this conditions/ services that match as closely as possible. )
+
+=================================================================
+2
+1/11/2019
+charlottepetvet.com
+https://na93.salesforce.com/5002I00001hu1P2
+https://my.vetmatrix.com/0004083/site/editor/cms#
+1/11/2019
+
+- DONE: 
+WAITING FOR FIX ON THE COMPONENT ERROR
+
+=================================================================
+3
+1/11/2019
+hansfordcountyvet.com
+https://na93.salesforce.com/5002I00001htWrs
+https://my.vetmatrix.com/0031995/site/editor/cms
+1/11/2019
+
+- UNABLE TO COMPLETE: Instruction is Vague (1. Our appointment book is not computerized)
+- DONE: 2. We have emergency personnel on duty 7 days a week
+- DONE: 3. Pets we work on: not reptiles
+- UNABLE TO COMPLETE: Instruction is Vague (3a. Pets we work on: please add- horses, cattle and small ruminants)
+- UNABLE TO COMPLETE: The Instruction is vague (Can this be spot where we add the Hansford Vet supply service that I discussed in the previous email I sent you this morning?)
+
+=================================================================
+4
+1/11/2019
+hansfordcountyvet.com
+https://na93.salesforce.com/5002I00001htXXA
+https://my.vetmatrix.com/0031995/site/editor/cms
+1/11/2019
+
+- UNABLE TO COMPLETE: This information is vague (I would like to change out some of the generic photos on our page to some more personal to our clinic pics, would that be ok?)
+- NOTE: Image is Added to Media Manager only
+
+=================================================================
+5
+1/11/2019
+supportthecaregiver.com
+https://na93.salesforce.com/5002I00001htgbF
+http://my.chiromatrix.com/0032790/site/editor/cms
+1/11/2019
+
+- UNABLE TO COMPLETE: This information is vague (I would like to change out some of the generic photos on our page to some more personal to our clinic pics, would that be ok?)
+- NOTE: Image is Added to Media Manager only
+
+=================================================================
 
 
 
