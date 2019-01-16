@@ -1,3 +1,43 @@
+10/10/2017	Franclin James Lim		Factual Report	1:16 AM	1:59 AM	0:43:00	Updated Factual Data	In-Complete	Factual Report
+================================================================
+10/10/2017	Franclin James Lim			12:00 AM	12:15 AM	0:15:00	Break	Misc	Lunch Break
+================================================================
+10/10/2017	Franclin James Lim		Factual Report	10:00 PM	11:59 PM	1:59:00	Updated Factual Data	In-Complete	Factual Report
+================================================================
+10/11/2017	Franclin James Lim		Factual Report	5:16 AM	7:00 AM	1:44:00	Updated Factual Data	COMPLETE	Factual Report
+================================================================
+10/11/2017	Franclin James Lim			5:00 AM	5:15 AM	0:15:00	Break	Misc	Lunch Break
+================================================================
+10/11/2017	Franclin James Lim		Factual Report	3:00 AM	4:59 AM	1:59:00	Updated Factual Data	In-Complete	Factual Report
+================================================================
+10/11/2017	Franclin James Lim			2:00 AM	2:59 AM	0:59:00	Lunch Break	Misc	Lunch Break
+================================================================
+10/11/2017	Franclin James Lim		Factual Report	1:16 AM	1:59 AM	0:43:00	Updated Factual Data	In-Complete	Factual Report
+================================================================
+10/11/2017	Franclin James Lim			12:00 AM	12:15 AM	0:15:00	Break	Misc	Lunch Break
+================================================================
+10/11/2017	Franclin James Lim		Factual Report	10:00 PM	11:59 PM	1:59:00	Updated Factual Data	In-Complete	Factual Report
+================================================================
+10/12/2017	Franclin James Lim	00387493 	downtownedmondschiro.com	5:15 PM	7:00 PM	1:45:00	Skin Change	COMPLETE	CS
+================================================================
+10/12/2017	Franclin James Lim			5:02 PM	5:15 PM	0:13:00	Break	Misc	Lunch Break
+================================================================
+10/12/2017	Franclin James Lim	00387493 	downtownedmondschiro.com	4:46 PM	5:02 PM	0:16:00	Skin Change	In-Complete	CS
+================================================================
+10/12/2017	Franclin James Lim	00386307 	lakelandveterinaryservices.com	3:00 PM	4:45 PM	1:45:00	Correcting some Errors on Skin Change	COMPLETE	CS
+================================================================
+10/12/2017	Franclin James Lim			2:01 PM	3:00 PM	0:59:00	Lunch Break	Misc	Lunch Break
+================================================================
+10/12/2017	Franclin James Lim	00386307 	lakelandveterinaryservices.com	12:15 PM	2:00 PM	1:45:00	Correcting some Errors on Skin Change	In-Complete	
+================================================================
+10/12/2017	Franclin James Lim			12:01 PM	12:14 PM	0:13:00	Break	Misc	Lunch Break
+================================================================
+10/12/2017	Franclin James Lim	00386307 	lakelandveterinaryservices.com	11:38 AM	12:00 PM	0:22:00	Skin Change	In-Complete	
+================================================================
+10/12/2017	Franclin James Lim			11:36 AM	11:37 AM	0:01:00	Checked for further information to Miss V	Misc	Other tasks (as noted on details)
+================================================================
+10/12/2017	Franclin James Lim		Factual Report	10:00 AM	11:35 AM	1:35:00	Updated Factual Data	COMPLETE	Factual Report
+================================================================
 Gma1l!p@ss#4682
 
  	 		
@@ -12765,6 +12805,7 @@ http://my.vetmatrix.com/0031996/site/editor/cms
 - DONE: Remove the “Hours” block. 
 - DONE: Remove “Access Your Coggins Online.”
 - DONE: Remove the Paulhamus Veterinary Associates logo at the bottom of the homepage. The website should be copyrighted.
+
 =================================================================
 =================================================================
 1
@@ -12825,30 +12866,259 @@ https://my.vetmatrix.com/0031995/site/editor/cms
 - NOTE: Image is Added to Media Manager only
 
 =================================================================
-5
-1/11/2019
+=================================================================
+1
+1/14/2019
 supportthecaregiver.com
 https://na93.salesforce.com/5002I00001htgbF
 http://my.chiromatrix.com/0032790/site/editor/cms
-1/11/2019
+1/14/2019
 
-- UNABLE TO COMPLETE: This information is vague (I would like to change out some of the generic photos on our page to some more personal to our clinic pics, would that be ok?)
-- NOTE: Image is Added to Media Manager only
+- DONE: Copy formatting from her Old website - Font Size and spacing for All pages
+- DONE: Logo - Move to Middle, Make Bigger 
+- DONE: Slider Image - wants us to "Zoom Out" she's re-sending the 
+- DONE: Remove the wavy background 
+- DONE: Slider - Hide image slider control buttons 
+- DONE: Said she bought the images on the homepage - Plant coming through cracks and Hand made of people - from shuttersotck, so she can use them on her site. 
+- DONE: Remove Contact Us, Services and Store icons
+- DONE: Services we offer page - make the services stand out more ( Larger Text, Boxes around each service, slightly purple background inside each box (like her previous website which is still up now) 
+- DONE: Center-Align Logo in the footer of her site.
+
+- PREVIEW: http://my.chiromatrix.com/0032790
 
 =================================================================
+2
+1/14/2019
+paulhamusveterinary.com
+https://na93.salesforce.com/5002I00001hv3hD
+http://my.vetmatrix.com/0031996/site/editor/cms
+1/14/2019
 
+- NOTE: This case is already complete. Please see this link (https://na93.salesforce.com/5002I00001hbcwx)
 
+=================================================================
+1
+1/15/2019
+advancedeye2020.com
+https://na93.salesforce.com/5000G00001eD8JF
+http://my.imatrix.com/0029938/site/editor/cms
+1/15/2019
 
+==HOME==
+- DONE: Copied Document on Home Page.
+- NOTE: Home Page on Original Website is also copied due to Client's Instruction ("so please migrate our entire site to the new site asac.")
+- UNABLE TO COMPLETE: Learn More Link on Comprehensive Eye Care: Client wants to Ling to "Our Practice" on Home Page is not located on the original Website. Link is Redirected to About Us page.
+- DONE: Link to eye care page
+- UNABLE TO COMPLETE: Learn More Link on Eyeglasses and Contacts on Home Page: Client wants to link to "glasses and contacts" page but it is not located on the original website. Link is redirected to Frames Page.
+- DONE: Link to ortho-k
+- UNABLE TO COMPLETE: Our Providers "Link to providers page" there is no providers page. Instead Recreated a new Page for Our Provider's Page
 
+==ABOUT==
+- UNABLE TO COMPLETE: "Our Vision Center" Learn More > About > Our Vision Center: "Our Practice" page cannot be located, Redirected to New Patients page,
+- NOTE: Fixed New Patients page. (giving 404 Error)
+- UNABLE TO COMPLETE: Our Providers "Link to providers page" there is no providers page, Instead Recreated a new Page for Our Provider's Page
+- DONE: Our Team Linked to Meet the Staff's page
 
+==OUR VISION CENTER==
+- UNABLE TO COMPLETE: OUR VISION CENTER, there is no such page.
+- NOTE: Instead, added new page for  this. Added to Navigation to be viewed at New Patients Tab
+- DONE: Link to Eye Care
+- UNABLE TO COMPLETE: Learn More Link on Eyeglasses and Contacts on Home Page: Client wants to link to "glasses and contacts" page but it is not located on the original website. Link is redirected to Frames Page.
+- DONE: Link to Ortho K
+- DONE: Link to Memberships & Professional Organizations
 
+==OUR PROVIDERS==
+- UNABLE TO COMPLETE: OUR PROVIDERS page is not located,
+- NOTE: Our Providers content is somewhat the same with Our Eye Doctors Page but lacks information, Thus I have to re-create A new Page for Our Provider's Page and Added it on below About Us Navigation.
 
+==OUR TEAM==
+- NOTE: FIXED DUPLICATED CONTENT
+- DONE: ADDED LACKING TEAM CONTENT and Component Added
+	- ADDED: Kristy Barr, Optical Manager
+	- NO CHANGES: Sandria Snyder, Licensed Dispensing Optician
+	- NO CHANGES: Chasidy Lyngaas, Optician
+	- ADDED: Brittany Macias, Optician
+- NOTE: Jamie Tucker no changes
 
+==SERVICES==
+- DONE: Updated Content
+- DONE: Added Links
 
+==EYE CARE==
+- DONE: Added Content
 
+==EYEGLASSES & CONTACT LENSES==
+- DONE: Added Content to Frames Page, Renamed it as well.
 
+==ORTHO K==
+- DONE: ORTHO K content added
 
+==LOCATIONS==
+- DONE: Added Context to existing context
 
+==PERRY==
+- DONE: Content Updated
+
+==WARNER ROBINS==
+- DONE: Content Updated
+
+==SCHEDULE APPOINTMENT==
+- DONE: Content Updated
+- DONE: Added New Form
+- DONE: Added Privacy Policy Page for the Privacy Policy Link
+
+==About Advanced Eyecare Center==
+- DONE: updated content
+
+==Our Services==
+- DONE: Updated Content
+
+==RESOURCES==
+- DONE: Added new Page "Resources"
+- DONE: Added Links
+- UNABLE TO COMPLETE: Insurance Information Page is not located on website. Added New Page Insurance Information.
+- UNABLE TO COMPLETE: Videos Page is not located on website. Added New Page named Videos.
+- UNABLE TO COMPLETE: News Page is not located on website. Added News page on website. 
+- NOTE this new pages have no content on it. Thus leaving it with a default "Coming Soon." context.
+
+==INSURANCE INFORMATION==
+- DONE: Updated Content
+- DONE: Added Logos.
+
+==CONTACT==
+- DONE: Updated Content
+
+- PREVIEW: https://my.imatrix.com/002993812:32 AM 1/16/2019
+
+=================================================================
+2
+1/15/2019
+alanconraddc.com
+https://na93.salesforce.com/5002I00001hvQsc
+http://my.chiromatrix.com/0033935/site/editor/cms
+1/15/2019
+
+- DONE: Added "We Aim To Do It All" on slider Home page
+- DONE: Fixed Bottom Social Media
+- DONE: move it down to between the Chiropractic & HFS signs but perhaps make it larger.
+
+- PREVIEW: https://my.chiromatrix.com/0033935
+
+=================================================================
+3
+1/15/2019
+alanconraddc.com
+https://na93.salesforce.com/5002I00001hvPoz
+http://my.chiromatrix.com/0033935/site/editor/cms
+1/15/2019
+
+- DONE: Facebook Link is already added
+- UNABLE TO COMPLETE: Please refer to this case: https://na93.salesforce.com/5002I00001hvQsc Instructions were different. (Perhaps on lower right corner of the picture below the Health Food Store sign)
+- DONE: Fixed, Make it to be balanced with the 2 signs to be right in line with the button.
+
+- PREVIEW: https://my.chiromatrix.com/0033935
+
+=================================================================
+4
+1/15/2019
+alanconraddc.com
+https://na93.salesforce.com/5002I00001huXfE
+http://my.chiromatrix.com/0033935/site/editor/cms
+1/15/2019
+
+- DONE: Top left area: remove the Spine circle logo
+- DONE: change the name to Dr. Alan Conrad(one line & large font) 
+- DONE:  just below the crest of the roof
+- DONE: Lower the Appointment button to block only the hedge, & remove the catchy phrase "supporting Spinal Health & you've only got...
+
+- PREVIEW: https://my.chiromatrix.com/0033935
+
+=================================================================
+5
+1/15/2019
+alanconraddc.com
+https://na93.salesforce.com/5002I00001huXfE
+http://my.chiromatrix.com/0033935/site/editor/cms
+1/15/2019
+
+- DONE: 1. Lower the logo name and move a little to the left 
+- DONE: 2. Zoom in a bit on picture in rotating banner - don't cut out the blue sign on the left that says "Chiropractors Adjust Sub..." - cut out the right side if anything (the truck) - client just wants the scraggly-looking trees to be cut out of the picture 
+- DONE: 3. Move appointment button down to the lower left corner so it doesn't block anything on the banner image
+- DONE: 4. Move FB link and Google link down to lower right hand side (towards the bottom of the banner) - also they're showing up on every page. they should only be on the home page
+- DONE: 5. Make the map the same size as the office hours boxes, have the map and office hours boxes layout from left to right in a row (side by side - map, then dr's treatment hours box, then health food store hours box)
+
+- PREVIEW: https://my.chiromatrix.com/0033935
+
+=================================================================
+6
+1/15/2019
+supportthecaregiver.com
+https://na93.salesforce.com/5002I00001hwY4N
+http://my.chiromatrix.com/0032790/site/editor/cms
+1/15/2019
+
+- DONE: Text formatting the way it was before
+- DONE:  just wants the text bigger.
+- DONE: Also requested that the button to buy her book be right-aligned in the header. 
+
+- PREVIEW: https://my.chiromatrix.com/0032790
+
+=================================================================
+=================================================================
+1
+1/16/2019
+abetterbalancechiro.com
+https://na93.salesforce.com/5002I00001fAcEW
+http://mychiro.demandforced3.com/0031523/site/editor/cms
+1/16/2019
+
+- DONE: Added Dr. Crystal Stephens to all pages with Doctor names.
+
+- PREVIEW: http://mychiro.demandforced3.com/0031523
+
+=================================================================
+2
+1/16/2019
+https://na93.salesforce.com/5002I00001iIXct
+
+1/16/2019
+
+- DONE: Please replace the welcome letter on my homepage of the website with this updated bio/statement (attached to this email) as soon as possible.
+
+=================================================================
+3
+1/16/2019
+alanconraddc.com
+https://na93.salesforce.com/5002I00001iIWrd
+http://my.chiromatrix.com/0033935/site/editor/cms
+1/16/2019
+
+- DONE: Please replace the welcome letter on my homepage of the website with this updated bio/statement (attached to this email) as soon as possible.
+- DONE: "Bold type sections & underlined words" were intentional. Could that be
+included
+- NOTE: General Questions are unable to be complete.
+
+=================================================================
+4
+1/16/2019
+alanconraddc.com
+https://na93.salesforce.com/5002I00001iIWrd
+http://my.chiromatrix.com/0033935/site/editor/cms
+1/16/2019
+
+- DONE: Please replace the current picture of the Erchonia Cold Laser (under "Services & Techniques" section) with this updated picture as soon as possible.
+
+=================================================================
+5
+1/16/2019
+bennettsvilleanimalhospital.com
+https://na93.salesforce.com/5002I00001f9EyP?srPos=1&srKp=500
+http://my.vetmatrix.com/0033373/site/editor/cms
+1/16/2019
+
+- DONE: Forced Migration
+
+=================================================================
 
 
 
