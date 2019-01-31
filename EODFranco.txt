@@ -12897,6 +12897,7 @@ http://my.vetmatrix.com/0031996/site/editor/cms
 - NOTE: This case is already complete. Please see this link (https://na93.salesforce.com/5002I00001hbcwx)
 
 =================================================================
+=================================================================
 1
 1/15/2019
 advancedeye2020.com
@@ -13079,8 +13080,9 @@ http://mychiro.demandforced3.com/0031523/site/editor/cms
 =================================================================
 2
 1/16/2019
+alanconraddc.com
 https://na93.salesforce.com/5002I00001iIXct
-
+http://my.chiromatrix.com/0033935/site/editor/cms
 1/16/2019
 
 - DONE: Please replace the welcome letter on my homepage of the website with this updated bio/statement (attached to this email) as soon as possible.
@@ -13119,11 +13121,616 @@ http://my.vetmatrix.com/0033373/site/editor/cms
 - DONE: Forced Migration
 
 =================================================================
+=================================================================
+1
+1/17/2019
+sweetfamilychiropractic.com
+https://na93.salesforce.com/5002I00001iIiWT
+http://my.vetmatrix.com/0033373/site/editor/cms
+1/17/2019
+
+- DONE: The Instruction is vague thus leaving it unedited (1. In the "New Patient Center" the phone number runs onto a second line )
+- DONE: 2. In the testimonials section: 3 of them make reference to "Connie"... she is no longer with us... could you remove her name? 
+- NOTE: Some Connie Names is renamed to "they are" instead of connie
+- DONE: 3. "Payment Options" section - Take off Family Plan at this point
+- DONE: 4. "Payment Options" section I'd like the Insurance section to read:  
+- UNABLE TO COMPLETE: The Instruction is vague, and there are no attached of the said "Insurance List" (The "HERE" should link to the "Insurance List" attachment.)
+- DONE: 5. On the Home page: Where there are the 3 columns ("contact us" "Online forms" and "Make an appointment") Please remove the "Make an appointment one" and Replace it with "Monthly Specials". We will change this monthly. At this point please put on this link "February specials" and the following text:
+- NOTE: Renamed Schedule now link to "Learn More"
+- NOTE: February Specials Link is not found. I have Created one page named "Monthly Specials and added in "February Specials" on the first paragraph.
+- DONE: 6. On the "about us" page Could you please put a link to our hours.
+- NOTE: Added Hours Link to the bottom of the page.
+
+=================================================================
+2
+1/17/2019
+lakeshorefamilychiropractic.com
+https://na93.salesforce.com/5002I00001ht6By
+http://my.chiromatrix.com/0033892/site/editor/cms
+1/17/2019
+
+- DONE: For ENFRA: Please add staff members, client sent multiple emails 1/17 please see all of them
+- DONE: I have attached the team picture that you can put on first then Kim as the Practice Representative Director along with my bio from before and then put Erin under that.
+- DONE: Erin LaDuke
+- DONE: I forgot the other two therapists
+- DONE: You are missing Dr. Jacqueline Prins on the Meet the Doctors page.
+- DONE: Danielle VanderWege
+
+=================================================================
+3
+1/17/2019
+advancedeye2020.com
+https://na93.salesforce.com/5002I00001iJ2RB
+http://my.imatrix.com/0029938/site/editor/cms
+1/17/2019
+
+- DONE: 1. About Us page - "Our Vision Center" Link Learn More to "Our vision Center" page. 
+- DONE: 2. Move "Our Vision Center" page from under "New Patients" to "About Us" at the top. 
+- DONE: 3. Services page - replace current content with the content on the Word document. Learn More links are correct and does not need to be updated.
+- DONE: 4. Add "Eye Care" page under Services page at the top in the menu.
+- DONE: 5. Eyeglasses & Contact Lenses page - a. update the list of frames with the ones listed in the in the word document (attached images of logos)
+- DONE: b. link "Order contact lenses online" to Store page on website 
+- DONE: 6. Create Page called "Locations" left of "Contact us" on menu. Add content from word document. 
+- DONE: a. create a subpage called "Perry" under "Locations" page. Add content from Word document. 
+- DONE: b. create a subpage called "Warner Robins" under "Locations" page. Add content from Word document.
+- DONE: 7. Patient Information Form (can be seen in "Appointment Request" page at the bottom)
+- DONE: f. Under Primary Insurance 
+- DONE: g. Under Primary Insurance (secondary)
+- DONE: 8. New Patients page - delete "Insurance Plans" page from menu
+- DONE: 9. Insurance Information page - update logos with one attached
+
+=================================================================
+4
+1/17/2019
+alanconraddc.com
+https://na93.salesforce.com/5002I00001iJXzo
+http://my.chiromatrix.com/0033935/site/editor/cms
+1/17/2019
+
+- DONE: Please include this text in the Functional Neurology and Exercise
+- DONE:  Also please connect this YouTube video
+
+=================================================================
+5
+1/17/2019
+alanconraddc.com
+https://na93.salesforce.com/5002I00001iJY03
+http://my.chiromatrix.com/0033935/site/editor/cms
+1/17/2019
+
+- DONE: Please include this text in the Functional Neurology and Exercise
+- DONE:  Also please connect this YouTube video
+- NOTE: I believe this is a duplicate case with: https://na93.salesforce.com/5002I00001iJXzo
+
+- PREVIEW: https://my.chiromatrix.com/0033935
+
+=================================================================
+6
+1/17/2019
+thehealthconnection-tacoma.com
+https://na93.salesforce.com/5002I00001iJJfY
+http://my.chiromatrix.com/0027843/site/editor/cms
+1/17/2019
+
+- DONE: PLease have list items from Anxiety - Incontinence in the left column and Indigestion - Vomiting in the right column
+
+=================================================================
+7
+1/17/2019
+supportthecaregiver.com
+https://na93.salesforce.com/5002I00001iJPVW
+http://my.chiromatrix.com/0032790/site/editor/cms
+1/17/2019
+
+- DONE: TO BE ADDED TO AMAZON REVIEWS, thank you!
+
+=================================================================
+=================================================================
+1
+1/18/2019
+lakeshorefamilychiropractic.com
+https://na93.salesforce.com/5002I00001ht6By
+http://my.chiromatrix.com/0033892/site/editor/cms
+1/18/2019
+
+- DONE: Also with Danelle, she is our Lead Therapist if you could please put that
+- DONE: Move Kim and Erin to the PR tab and I sent Erin's pic in the last email again.
+- DONE: Please add this picture under meet the staff big photo on the meet the
+staff tab. > Front Desk CA's
+
+=================================================================
+2
+1/18/2019
+myrichmondvet.com
+https://na93.salesforce.com/5002I00001f9F0H?srPos=3&srKp=500
+https://my.vetmatrix.com/0033567/site/editor/cms
+1/18/2019
+
+- DONE: Forced vet migration
+
+=================================================================
+=================================================================
+1
+1/21/2019
+drshoshany.com
+https://na93.salesforce.com/5002I00001iKGFd
+http://my.chiromatrix.com/0026734/site/editor/cms
+1/21/2019
+
+- DONE: First Contentful Pain on Google PageSpeed Insight is now 1.4s (review load page speed. Wants it from 2.5-3 secs)
+- DONE: Make sure all subpages of current site are brought over and added to new site 
+DONE- Remove featured links replace with services spinal decompression, FX635 Laser, Sports Injury, Graston Technique 
+Note: need to be relinked to interior pages 
+- DONE: On home page in main body of text, client wants to have contact us form right under header text. 
+- UNABLE TO COMPLETE: Vague (For header, add "Verify Your )
+- DONE: Move map and hours above "where is your pain" section and use Google Map listing
+- DONE: add active relaese and as seen on doctor oz logos to home page 
+- UNABLE TO COMPLETE: This is conflicting with the previous instruction to remove the featured links (check and see if we can add 5th featured links box )
+- DONE: Images are seen make sure photos in home page banner are able to be seen on mobile 
+- DONE: make sure all alt tags for photos are brought over
+
+=================================================================
+=================================================================
+1
+1/22/2019
+ClearwaterAnimalClinic.com
+https://na93.salesforce.com/5002I00001iKGFd
+http://my.chiromatrix.com/0026734/site/editor/cms
+1/22/2019
+
+- DONE: Here is the link to add to our website for online pharmacy.
+- NOTE: Since one image is already added below, I added an additional Button at the corner top right hand side of the site.
+
+=================================================================
+2
+1/22/2019
+dejesusfamilychiro.com
+https://na93.salesforce.com/5002I00001hvfJM
+https://my.chiromatrix.com/0034024/site/editor/cms
+1/22/2019
+
+- DONE: Above are the files to add to the website.
+- NOTE: Added to homepage
+- DONE: As discussed, the hours for the Allentown office should be posted "By appointment only, Please call 570-708-2228" as it will only be selected days of the month.
+
+=================================================================
+3
+1/22/2019
+myrichmondvet.com
+https://na93.salesforce.com/5002I00001f9F0H
+https://my.vetmatrix.com/0033567/site/editor/cms
+1/22/2019
+
+- DONE: Above are the files to add to the website.
+- NOTE: Added to homepage
+- DONE: As discussed, the hours for the Allentown office should be posted "By appointment only, Please call 570-708-2228" as it will only be selected days of the month.
+
+=================================================================
+4
+1/22/2019
+alanconraddc.com
+https://na93.salesforce.com/5002I00001iJypX
+http://my.chiromatrix.com/0033935/site/editor/cms
+1/22/2019
+
+- DONE: The Contact Us section requires that the Health Food Store phone #( 334) 774-7474 should appear connected to the Store listing at or above the hours & (Dr.'s # above Dr.'s hours).
+- DONE: Perhaps you could just shift the Contact Us section to reflect the fact that there are 2 distinct businesses & phone numbers at this same address. 
+
+=================================================================
+5:41 AM 1/23/2019 - Fetched Case
+LOG
+5:52 AM 1/23/2019 - ERROR 522 10min have past.
+6:04 AM 1/23/2019 - ERROR still
+6:04 AM 1/23/2019 - Published still no response to live site
+7:06 AM 1/23/2019 - Site cannot be seen live
+7:11 AM 1/23/2019 - Case trans to OBSupQ with UTC status.
+
+5
+1/22/2019
+murrietafamilypethospital.com
+https://na93.salesforce.com/5002I00001iLtM4
+https://my.vetmatrix.com/0033796/site/editor/cms
+1/22/2019
+
+- NOTE: Added New Page named "Bi-annual exams"
+- DONE: Added HTML on page
+- UNABLE TO COMPLETE: site is saying error 522 I cannot see my edits on the live site.
+
+- PREVIEW: https://my.vetmatrix.com/0033796/
+
+=================================================================
+=================================================================
+LOG
+11:18 PM 1/23/2019 - setting lives
+12:34 AM 1/24/2019 - Fetched Case on OBQ
+12:36 AM 1/24/2019 - SEC
+2:12 AM 1/24/2019 - Case sent back to OBSupQ
+
+1
+1/23/2019
+erinfolk.com
+https://na93.salesforce.com/5002I00001ih7sE
+https://my.vetmatrix.com/0033825/site/editor/cms
+1/23/2019
+
+- DONE: reduce size of logo on mobile view only. Will be a media query so it just reduces on mobile view
+- NOTE: Added 20vw to the 720px viewport.
+
+=================================================================
+3
+1/23/2019
+Lakeshore Family Chiropractic2
+https://na93.salesforce.com/5002I00001ht6By
+https://my.chiromatrix.com/0033892/site/editor/cms
+1/23/2019
+
+- DONE: Forced Migration
+
+=================================================================
+=================================================================
+1
+1/24/2019
+erinfolk.com
+https://na93.salesforce.com/5002I00001ih7sE
+https://my.vetmatrix.com/0033825/site/editor/cms
+1/24/2019
+
+- DONE: Remade the Header layout
+- NOTE: Added 2 Location Header component to compensate the view on mobile.
+
+=================================================================
+2
+1/24/2019
+lakeshorefamilychiropractic.com
+https://na93.salesforce.com/5002I00001ht6By
+http://my.chiromatrix.com/0033892/site/editor/cms
+1/24/2019
+
+- DONE: Added Take a tour Iframe to Home.htm at the bottom
+- NOTE: VIDEO LINK: https://my.matterport.com/show/?m=oEEqLuSYZaz
+
+=================================================================
+=================================================================
+1
+1/25/2019
+websterlakevet.com
+https://na93.salesforce.com/5002I00001ij8lR
+http://my.chiromatrix.com/0033892/site/editor/cms
+1/25/2019
+
+- DONE: phone number larger at top
+- DONE: put number under call today
+- DONE: Client would like the menu bar to display like the desktop when in tablet mode, all across the top and not the menu button.
+
+- PREVIEW: http://myvet.demandforced3.com/0030655
+
+=================================================================
+2
+1/25/2019
+westerntrailsvet.com
+https://na93.salesforce.com/5002I00001ijY9F
+https://my.vetmatrix.com/0028153/site/editor/cms
+1/25/2019
+
+- DONE: Attached is the new welcome form
+
+=================================================================
+1
+1/28/2019
+seattlelabradoodles.com
+https://na93.salesforce.com/5002I00001ikA2y
+http://my.vetmatrix.com/0029051/site/editor/cms
+1/28/2019
+
+- DONE: Replace Leaflet map with the attached map named Washington_001.png.
+
+- PREVIEW: https://my.vetmatrix.com/0029051
+
+=================================================================
+2
+1/28/2019
+alanconraddc.com
+https://na93.salesforce.com/5002I00001iJypX
+http://my.chiromatrix.com/0033935/site/editor/cms
+1/28/2019
+
+- DONE: phone is (334)774-7576 above Dr.'s hours
+
+- PREVIEW: https://my.chiromatrix.com/0033935
+
+=================================================================
+=================================================================
+1
+1/29/2019
+charlottepetvet.com
+https://na93.salesforce.com/5002I00001iju11
+http://myvet.demandforced3.com/0004083/site/editor/cms
+1/29/2019
+
+- DONE: Dr. Panuska’s bio:
+- DONE: Bio for Amanda:
+- DONE: Bio for Amber:
+- DONE: Bio for Audrey:
+- DONE: Bio for Emily:
+- DONE: Bio for Heather:
+- RE-MADE THE STAFF BIOS
+- DONE: 1) On the Homepage and under “Meet Our Skilled Team”, when you click on “Read More” under each individual staff member it doesn’t go to the rest of that person’s bio.  It instead goes to an old “Meet Our Team” from the first time was with iMatrix.
+- DONE: 2) Under “About Us” “Our Veterinarians” and when you click on “Read More”, it goes to an old “Meet Our Team” page.  Is it possible to just have the bio extended down the page when someone clicks on “Read More” instead of jumping to another page?
+- DONE: 3) Under “About Us” “Our CareTeam”, is it possible to change that tab from “Our CareTeam” to just “Our Team”?
+- DONE: 4) Under “About Us” “Our CareTeam” and when you click on “Read More”, it jumps to an old page of “Meet Our Team” page.  Is it possible to just have the bio extended down the current page when someone clicks on “Read More” instead of jumping to another page?
+- UNABLE TO COMPLETE: Scripts on original theme is out of scope. I can not further edit on this one. 5) On the Homepage and when you click on “Veterinary Topics”, the screen goes to a black background before switching back to white and a list of articles.  It does the same thing every time you click on one of the categories or click on “Read More” under “Feature Articles” on the Homepage.
+- DONE: 6) Under “Resources”, is it possible to add another tab there “Veterinary Articles” to contain all the articles you have under “Veterinary Topics” on the Homepage and at the bottom of the Homepage. I don’t want to get rid of what is on the Homepage but just for those that don’t like scrolling down, this way they could find the articles from the Menu Bar.
+- DONE: 7) On the Homepage, you added the clinic video under right-hand side of “Welcome to Friendship Animal Hospital”. Is it also possible to add a button there for emergency care similar to what is near the bottom of my current webpage (also similar to this)?
+- DONE: 8) Under “Pet Services” and when you click on any of the drop-down menu, you go to that page (nice). But when you click on the links to learn more about that service (whether it is “Puppy Wellness”, “”Medical Examination”, “Pain Control”, or anything else), I get this error message:
+- UNABLE TO COMPLETE: Content could not be found on site. 9) You mentioned in an earlier email that you could not move over certain pages from the current website to this new website due to copyright issues. Those pages were: Nutrition & Weight Management, Allergies & Dermatology, Dentistry, Surgery, Laser Therapy, Critical Care and Boarding. Most of the information on “Laser Therapy” I got from the makers of our laser therapy machine and rewrote it so I was hoping that would transfer. Also, is there a way your web-savvy writers could write new appealing and engine-search-wording information for those pages?
+- DONE: 10) Under “Pet Services”, is it possible to do something similar to:
+- DONE: 11) I need you to remove ePetHealth from the list on the “Link” page.
+- DONE: 12) Is it possible to highlight/change font color or something to the links under “New Patient Center
+- DONE: Same thing with “Check out what some of the other pet parents are saying
+- DONE: “New Client Special Offer”, is it possible to make “Reserve Your…($49 Value)” one line instead two lines as it appears now?
+
+- PREVIEW: http://myvet.demandforced3.com/0004083
+
+=================================================================
+2
+1/29/2019
+seventyfirstanhosp.com
+https://na93.salesforce.com/5002I00001il3nO
+http://myvet.demandforced3.com/0004083/site/editor/cms
+1/29/2019
+
+- DONE: Here are some bios for the OUR TEAM page. I put the pictures on the word document
+
+=================================================================
+3
+1/29/2019
+animalmedical.us
+https://na93.salesforce.com/5002I00001ikNF9
+http://my.vetmatrix.com/0031709/site/editor/cms
+1/29/2019
+
+- DONE: Remove form leads from the home page under where it says call us by the slide show banner, make Schedule an Appointment button bigger and move it to where the form was
+
+=================================================================
+=================================================================
+1
+1/30/2019
+winnipegvet.ca
+https://na93.salesforce.com/5002I00001il7jj
+https://my.vetmatrix.com/0033859/site/editor/cms
+1/30/2019
+
+- DONE: Update the Services page with the following.
+- UNABLE TO COMPLETE: this link is copyrighted <https://winnipegvet.ca/veterinarian-services/wellness-vaccinations/> u Wellness Care
+- UNABLE TO COMPLETE: this link is the same with Wellness care <https://winnipegvet.ca/veterinarian-services/wellness-vaccinations/> a Vaccinations 
+- UNABLE TO COMPLETE: this link is copyrighted as well <https://winnipegvet.ca/veterinarian-services/allergies-dermatology/> g Allergies & Dermatology 
+- UNABLE TO COMPLETE: this link is copyrighted <https://winnipegvet.ca/veterinarian-services/nutrition-weight-management/> o Nutrition & Weight Management
+- UNABLE TO COMPLETE: this link is copyrighted <https://winnipegvet.ca/veterinarian-services/behavioral-counseling/> d Behavioral Counseling  n Microchipping
+- DONE: <https://winnipegvet.ca/veterinarian-services/reproductive-services/> ( Reproductive Services i Euthanasia
+- UNABLE TO COMPLETE: this link is copyrighted <https://winnipegvet.ca/veterinarian-services/diagnostics/> l Laboratory
+- UNABLE TO COMPLETE: this link is copyrighted <https://winnipegvet.ca/veterinarian-services/diagnostics/> s Digital Radiology
+- UNABLE TO COMPLETE: this link is copyrighted 
+* <https://winnipegvet.ca/veterinarian-services/surgery/> j General 
+Surgery 
+* <https://winnipegvet.ca/veterinarian-services/surgery/> j 
+Orthopedic Surgery 
+* <https://winnipegvet.ca/veterinarian-services/surgery/> j 
+Ophthalmic Surgery 
+- UNABLE TO COMPLETE: this link is copyrighted <https://winnipegvet.ca/veterinarian-services/dentistry/> h Dentistry
+- DONE: <https://winnipegvet.ca/veterinarian-services/oncology/> u 
+Chemotherapy & Cancer Treatments
+* d Critical Care
+
+- PREVIEW: https://my.vetmatrix.com/0033859/services
+
+=================================================================
+2
+1/30/2019
+winnipegvet.ca
+https://na93.salesforce.com/5002I00001il7jj
+https://my.vetmatrix.com/0033859/site/editor/cms
+1/30/2019
+
+- DONE: #1... Please incorporate the Dental month info below onto our website.
+- DONE: #2... Under Surgical Information Packet... please replace the form with the new form below...
+- UNABLE TO COMPLETE: There are no forms attached
+- DONE: #3... Under office hours; BRANDYWINE VETERINARY HOSPITAL SHOULD HAVE CHADDS FORD OFFICE AFTER IT ... 
+Could we also have BRANDYWINE VETERINARY HOSPITAL - GREENVILLE included... the hours there are Monday 9-3, Tuesday 9-5, and Thursday 9-5 
+
+=================================================================
+3
+1/30/2019
+eastof75chiropractic.com
+https://na93.salesforce.com/5002I00001jAmB0
+https://my.chiromatrix.com/0034268/site/cms
+1/30/2019
+
+- DONE: First page. I have a certification from the National Board of 
+Chiropractic Examiners in Physiotherapy........I am not a Physical 
+Therapist we do PT because it's within our license structure. I can not 
+claim to be one 
+- DONE: I have a 4-year degree in nutrition. I am not a licensed Nutritionist 
+- UNABLE TO COMPLETE: Instruction is lacking. (Is there a section that we can make online forms more visible. Also, They could be e-mailed not faxed to our office. No fax number. )
+- NOTE: The Online Form Navigation is removed under New Patient center and moved beside it to be "MORE VISIBLE".
+- DONE: UNDER Services, We are not offering Physical Therapy. We will do 
+rehabilitation. We Offer Nutritional counseling
+- UNABLE TO COMPLETE - Instruction is vague (I thought we were using my middle name or initial so people did not pull up the old bad press? )
+- DONE: Last tonight is phone number.......It must be bigger and stand out not 
+hidden in top right corner 
+
+- PREVIEW: https://my.chiromatrix.com/0034268
+
+=================================================================
+4
+1/30/2019
+eastof75chiropractic.com
+https://na93.salesforce.com/5002I00001jAmB0
+https://my.chiromatrix.com/0034268/site/cms
+1/30/2019
+
+- DONE: With the picture of me in red, can you please move the wording off of my face.
+- DONE: The preservation of health is easier than the cure disease. BJ Palmer 
+
+- PREVIEW: https://my.chiromatrix.com/0034268
+
+=================================================================
+5
+1/30/2019
+eastof75chiropractic.com
+https://na93.salesforce.com/5002I00001iLGPr
+https://my.chiromatrix.com/0034268/site/cms
+1/30/2019
+
+- UNABLE TO COMPLETE: this Navigation is too long to enter in the Navigation Module. It only Requires 50 Characters. (Take out Physical therapy and replace with this sentence please. A major factor in the path back to health and pain free living.)
+
+- PREVIEW: https://my.chiromatrix.com/0034268
+
+=================================================================
+6
+1/30/2019
+alanconraddc.com
+https://na93.salesforce.com/5002I00001jAdej
+http://my.chiromatrix.com/0033935/site/editor/cms
+1/30/2019
+
+- DONE: Could you please upload these updated forms, under the online form section of the website? 
+
+=================================================================
+7
+1/30/2019
+affectionatelypets.com
+https://na93.salesforce.com/5002I00001jAjgC
+https://my.vetmatrix.com/0032637/site/editor/cms
+1/30/2019
+
+- DONE: I am certified to deliver chiropractic to animals by the American Veterinary Chiropractic Association"
+- UNABLE TO COMPLETE: Location for this information is not found on the website. (I would like to change all the abbreviations of memberships to their actual names; Academy of Veterinary Homeopathy, American Holistic Veterinary Association . Get rid of the abbreviations.)
+
+=================================================================
+=================================================================
+1
+1/31/2019
+drshoshany.com
+https://na93.salesforce.com/5002I00001jBRVi
+http://my.chiromatrix.com/0026734/site/editor/cms
+1/31/2019
+
+- DONE: 1. Move the map/hours between About Dr. Shoshany and Public Transit.
+- DONE: 2. Add a featured blocks component above the map/hours
+- NOTE: This will become redundant as of the top's Featured Block
+- DONE: 3. Swap out the leaflet map for a google map. 
+- DONE: 4. Add another featured blocks component between Welcome to NYC Chiropractic and About Dr. Shoshany
+- NOTE: This will also become redundant as for the top's Featured Block
+- DONE: 5. The background of "Call Us at 212-654-8151" needs to be changed to match the same teal/blue background color as under the slideshow (#3F8291) See this screenshot for the section that I am referring to: https://www.screencast.com/t/nVsnl7wiGoy 
+- NOTE: Background color was colored transparent. Adjusted Opacity and color to match the background of #3F8291 as it is too dark for the same color when reduced opacity.
+- NOTE: Transferred all the HTML codes from Home Page as it is not advisable to edit from Home Page itself. All edits must come from having the custom layout(custom-home) for future optimal use of the theme. The reason behind is that all edits that came from Home page will be deleted whenever a theme change will be made.
+
+=================================================================
+2
+1/31/2019
+ecfchiro.com
+https://na93.salesforce.com/5002I00001jAmAl
+https://my.chiromatrix.com/0034280/site/editor/cms
+1/31/2019
+
+- DONE: 1 Template Update
+- DONE: 2 Form Added To Website (attached)
+- DONE: 3  - Chiropractic Care / Nutritional Counseling (text soon too be edited) 
+- NOTE: I suppose "Chiropractic Care and Nutritional Counseling" are pages thus I created pages for the two right under Services Tab.
+- DONE: 4 - Staff Info (too be updated)>>>>
+- DONE: 5 - Can we embed youtube videos from DrKrautsack's Youtube Channel? 
+- NOTE: Added to Testimonials Page ( or to the testimonials page where we embed the below code... )
+
+=================================================================
+3
+1/31/2019
+9046862779.com
+https://na93.salesforce.com/5002I00001jBv8l
+https://my.chiromatrix.com/0034280/site/editor/cms
+1/31/2019
+
+- DONE: Can you please remove the clickable "View our Specials and Coupons" image on the home page.
+- DONE: Can you create a button, similar to the "Leave us a Review on Google" button on the homepage of equineclinic.com site. 
+- NOTE: Remade the button blue.
+- NOTE: I noticed that the header Logo is slightly low quality. So I went over to their original website and downloaded the same exact image for a higher resolution
+- DONE: -Can you place it under the social media buttons, make it blue and have it link to Specials page under Resources tab 
+- DONE: Can you remove the image of the outside of the clinic towards the bottom of the home page. 
+
+- PREVIEW: https://my.vetmatrix.com/0034474/
+
+=================================================================
+4
+1/31/2019
+eaglesportandfamilychiropractic.com
+https://na93.salesforce.com/5002I00001jBSVN
+http://my.chiromatrix.com/0034087/site/editor/cms
+1/31/2019
+
+- DONE: BELOW IS ATTACHED THE NRT NEW PATIENT FORMS. Thank you! 
+
+=================================================================
+5
+1/31/2019
+eaglesportandfamilychiropractic.com
+https://na93.salesforce.com/5002I00001jBSQx
+http://my.chiromatrix.com/0034087/site/editor/cms
+1/31/2019
+
+- DONE: BELOW IS ATTACHED THE NRT NEW PATIENT FORMS. Thank you! 
+
+=================================================================
+6
+1/31/2019
+eaglesportandfamilychiropractic.com
+https://na93.salesforce.com/5002I00001jBSQx
+http://my.chiromatrix.com/0034087/site/editor/cms
+1/31/2019
+
+- DONE: BELOW IS ATTACHED THE NRT NEW PATIENT FORMS. Thank you! 
+
+=================================================================
+7
+1/31/2019
+eaglesportandfamilychiropractic.com
+https://na93.salesforce.com/5002I00001jBGj4
+http://my.chiromatrix.com/0034087/site/editor/cms
+1/31/2019
+
+- DONE: Office hours
+- UNABLE TO COMPLETE: Information is Vague. (Lunch for tues weds thurs )
+- NOTE: is this Lunch Break Schedule to be added along with the office hour schedules?
+
+- PREVIEW: https://my.chiromatrix.com/0034087/
+
+=================================================================
+8
+1/31/2019
+ynergyvip.com
+https://na93.salesforce.com/5002I00001jBMaC
+http://my.vetmatrix.com/0029292/site/editor/cms
+1/31/2019
+
+- UNABLE TO COMPLETE: Twitter icon is added but there are no twitter Link provided (*Please add a Twitter icon as we also have a Twitter account)
+- 
+
+- PREVIEW: https://my.chiromatrix.com/0034087/
+
+=================================================================
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+http://my.imatrix.com/0034446/site/editor/cms
 
 
 
