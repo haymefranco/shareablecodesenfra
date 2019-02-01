@@ -13711,7 +13711,14 @@ http://my.vetmatrix.com/0029292/site/editor/cms
 1/31/2019
 
 - UNABLE TO COMPLETE: Twitter icon is added but there are no twitter Link provided (*Please add a Twitter icon as we also have a Twitter account)
-- 
+- DONE: Homepage brighter
+- DONE: Can we add this portion right underneath “Easy Case Submission?”
+- DONE: Is there a way to fade the edges of this photo so that it doesn’t look so rigid?
+- DONE: *Please delete this portion of the homepage completely and everything after. 
+- DONE: *Please delete these sections out of our homepage.
+- DONE: Can you add more spacing between the heading and the photo/content of this page?
+- DONE: Is there a way to have the edges of this photo a little faded and not so rigid?
+- DONE: Can you make it so that the detailed 	information under each question is a drop down menu?
 
 - PREVIEW: https://my.chiromatrix.com/0034087/
 
@@ -13719,9 +13726,7 @@ http://my.vetmatrix.com/0029292/site/editor/cms
 
 
 
-
-
-
+box-shadow: 0 0 8px 8px white inset;
 
 
 
