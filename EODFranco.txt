@@ -13476,7 +13476,7 @@ http://myvet.demandforced3.com/0004083/site/editor/cms
 1/29/2019
 seventyfirstanhosp.com
 https://na93.salesforce.com/5002I00001il3nO
-http://myvet.demandforced3.com/0004083/site/editor/cms
+https://my.vetmatrix.com/0033444/site/editor/cms
 1/29/2019
 
 - DONE: Here are some bios for the OUR TEAM page. I put the pictures on the word document
@@ -13703,12 +13703,13 @@ http://my.chiromatrix.com/0034087/site/editor/cms
 - PREVIEW: https://my.chiromatrix.com/0034087/
 
 =================================================================
-8
-1/31/2019
-ynergyvip.com
+=================================================================
+1
+2/01/2019
+synergyvip.com
 https://na93.salesforce.com/5002I00001jBMaC
 http://my.vetmatrix.com/0029292/site/editor/cms
-1/31/2019
+2/01/2019
 
 - UNABLE TO COMPLETE: Twitter icon is added but there are no twitter Link provided (*Please add a Twitter icon as we also have a Twitter account)
 - DONE: Homepage brighter
@@ -13718,15 +13719,514 @@ http://my.vetmatrix.com/0029292/site/editor/cms
 - DONE: *Please delete these sections out of our homepage.
 - DONE: Can you add more spacing between the heading and the photo/content of this page?
 - DONE: Is there a way to have the edges of this photo a little faded and not so rigid?
-- DONE: Can you make it so that the detailed 	information under each question is a drop down menu?
+- DONE: Can you make it so that the detailed information under each question is a drop down menu?
+- DONE: *Can you make it so that the detailed information under each question is a drop down menu?
+- DONE:  *Can you make this page look more like our current page? Sample image below:
+- DONE: *Place change the color of the word “SERVICES” to white (or whatever color “HIGH QUALITY VETERINARY” is.
+- DONE: *Please add a space between “at” and (410).
+- DONE: *Please delete “We look forward….”
+- DONE: *Please shift our entire logo up so that it’s about a ½ in below the social media icons and phone number. There’s too much space in between.
+- DONE: *Please shift this entire menu up as well so that there isn’t so much space between the tool bar and this feature on the home page.
+- DONE: *Minimize the gap and space between the two.
+- DONE: *Please have it so that when a user clicks on this box that it takes them to the “Connect With Us” section of the website. Right now it’s going to “About Us.”
+ - DONE: *Can we add a General Inquiry Form on the “Connect With Us” page?
+- DONE: *Please delete this logo and add the following logo in a very small size to the left hand corner so that it’s not taking about 1/3 of the page
+- DONE: *Then move the tool bar up so that the current gray space doesn’t take up so much of the page and users can get right to the content of the link they selected. Something like the above set-up image. 
 
-- PREVIEW: https://my.chiromatrix.com/0034087/
+- PREVIEW: https://my.vetmatrix.com/0029292/
 
+=================================================================
+2
+2/01/2019
+synergyvip.com
+https://na93.salesforce.com/5002I00001jBUlh
+http://my.vetmatrix.com/0029292/site/editor/cms
+2/01/2019
+
+- DONE: *Please put more space between the title of the page and the sentence “We’re please to offer…” maybe an inch or so? It’s too close together. 
+- DONE: *Please unitalicized this heading and move it all the way to the left so that it’s in line “Emergency & Urgent Care” and “Types of Pets Seen.”
+- DONE: *Please delete this page.
+- NOTE: Page Title is left as-is under the name of the current page "New Teleradiology Account Request"
+- DONE: *Can we have “+” sign type of bullet points. Like our current website? See image below:
+
+- PREVIEW: https://my.vetmatrix.com/0029292/
+
+=================================================================
+3
+2/01/2019
+countyanimal.com
+https://na93.salesforce.com/5002I00001il9iM
+http://my.vetmatrix.com/0030489/site/editor/cms
+2/01/2019
+
+- DONE: 1. Anyway to change the "Accessibilty" link to something more "noticeable"? I had to look all over for it! 
+- NOTE: Colored the accessibility button for it to be seen better on a gray backdrop, also added the theme design to it.
+
+=================================================================
+=================================================================
+1
+2/04/2019
+drshoshany.com
+https://na93.salesforce.com/5002I00001jCDDk
+http://my.chiromatrix.com/0026734/site/editor/cms
+2/04/2019
+
+- DONE: 1. Move "Call us at 212-645-8151" section above location and hours
+- DONE: 2. Navigation: He doesn't like how under Treatments, when you click on the plus sign next to Spinal Decompression, the menu opens down. He was wondering if it was possible that it opens to the side instead?
+- DONE: 3. About Us - Is it possible to create a sidebar like the current website: https://www.drshoshany.com/about-us/
+
+- PREVIEW: https://my.chiromatrix.com/0026734/
+
+=================================================================
+2
+2/04/2019
+drshoshany.com
+https://na93.salesforce.com/5002I00001iI9Mm
+http://my.chiromatrix.com/0026734/site/editor/cms
+2/04/2019
+
+- DONE: Can we get this in the map listing/ view in the module on the site, instead of the one thats in there now? https://goo.gl/maps/NyuZDWPMSED2 
+
+- PREVIEW: https://my.chiromatrix.com/0026734/
+
+=================================================================
+3
+2/04/2019
+whittingtonvetclinic.com
+https://na93.salesforce.com/5002I00001jBkZC
+http://my.vetmatrix.com/0020748/site/editor/cms
+2/04/2019
+
+- DONE: Please add her to staff
+- NOTE: There is no staff image attached.
+
+=================================================================
+4
+2/04/2019
+ichiropractic.net
+https://na93.salesforce.com/5002I00001jBs4K
+https://my.chiromatrix.com/0032340/site/editor/cms#
+2/04/2019
+
+- DONE: ichiropractic.net - theme change Client wants his theme changed from Westchester to San Jose
+- NOTE: Since there is no Exclusive Offer, Added A page for Exclusive offer form.
+- NOTE: Doctor's image is too small for the Layout. Must need a Higher Resolution Image
+- NOTE: Please provide High Resolution image for Slider Photo.
+
+- PREVIEW: https://my.chiromatrix.com/0032340/
+
+=================================================================
+5
+2/04/2019
+eaglesportandfamilychiropractic.com
+https://na93.salesforce.com/5002I00001jBGj4
+https://my.chiromatrix.com/0034087/site/editor/cms
+2/04/2019
+
+- DONE: For Tue, Wed, Thu add another time slot and split the day: 9am - 12pm 1pm - EOD (end of business day for that day)
+
+-PREVIEW: https://my.chiromatrix.com/0034087/
+
+=================================================================
+=================================================================
+1
+2/05/2019
+eastspringfieldveterinaryhospital.com
+https://na93.salesforce.com/5002I00001jCEfo
+http://my.vetmatrix.com/0034626/site/editor/cms
+2/05/2019
+
+- DONE: Theme change San Diego
+- NOTE: LOGO was set the same transparent logo with Wilbraham Animal Hospital
+- NOTE: Removed Lower Gradient for better clarity of the slider images
+- NOTE: Slider Images are not the same appropriate sizes for the slider thus added style to contain all the image texts inside
+- NOTE: Added White background to 3 links on footer (vetsource, trupanion, epethealth)
+- DONE: 2. Customize the colors of the website so it matches the color of the logo. 
+- DONE: primary color: dark blue (on logo) 
+- DONE: secondary color: green (on logo) 
+- UNABLE TO COMPLETE: "Our History" page enlisted on Menu of wilbrahamanimalhospital.com is not located on this website.( 3. make sure the menu are arranged the same way. The wilbrahamanimalhospital.com website menu is already setup so eastspringfieldveterinaryhospital.com should match that. )
+- DONE: 4. For the Banner images use the ones from their respective website. 
+- DONE: 5. for the Gallery on the Home page, remove the Pet Gallery title and add images from their respective website. 
+- DONE: 6. Add and extra gallery above the Social Icons at the footer. The gallery should have 3 images and links. Layout should be Grid - square (same size); Ratio - rectangle, center. Logos are attached.
+
+- PREVIEW: http://my.vetmatrix.com/0034626
+
+=================================================================
+2
+2/05/2019
+wilbrahamanimalhospital.com
+https://na93.salesforce.com/5002I00001jCEfy
+http://my.vetmatrix.com/0034626/site/editor/cms
+2/05/2019
+
+- DONE: Theme change San Diego
+- NOTE: Removed Lower Gradient for better clarity of the slider images
+- NOTE: Slider Images are not the same appropriate sizes for the slider thus added style to contain all the image texts inside
+- NOTE: Added White background to 3 links on footer (vetsource, trupanion, epethealth)
+- UNABLE TO COMPLETE: exclusive offer component has different form titles with the eastspringfieldveterinaryhospital.com. This is left as it is.
+- NOTE: Staff Home component slider is left as is. Slow  transitions were not changed.
+- NOTE: testimonials have Paragraph HTML Tags on it, fixed.
+- DONE: 2. Customize the colors of the website so it matches the color of the logo. 
+- DONE: primary color: dark blue (on logo) 
+- DONE: secondary color: green (on logo) 
+- DONE: 3. make sure the menu are arranged the same way. The wilbrahamanimalhospital.com website menu is already setup so eastspringfieldveterinaryhospital.com should match that. 
+- DONE: 4. For the Banner images use the ones from their respective website. 
+- DONE: 5. for the Gallery on the Home page, remove the Pet Gallery title and add images from their respective website. 
+- DONE: 6. Add and extra gallery above the Social Icons at the footer. The gallery should have 3 images and links. Layout should be Grid - square (same size); Ratio - rectangle, center. Logos are attached.
+
+- PREVIEW: http://my.vetmatrix.com/0034626
+
+=================================================================
+3
+2/05/2019
+murrietafamilypethospital.com
+https://na93.salesforce.com/5002I00001jCLfx
+https://my.vetmatrix.com/0033796/site/editor/cms
+2/05/2019
+
+- DONE: Gary and Gianna thank you
+- NOTE: Gary was showed to Care Team since he is hidden as of the moment.
+- NOTE: Images of "Gianna" and "Gary" overflow the allocated divs, these are cropped but this can be edited through css.
+- NOTE: fixed Gary's Description to "Bio Coming soon"
+- NOTE: fixed Gary's image not oriented properly upon uploading.
+
+=================================================================
+4
+2/05/2019
+murrietafamilypethospital.com
+https://na93.salesforce.com/5002I00001jCLX6
+https://my.vetmatrix.com/0033796/site/editor/cms
+2/05/2019
+
+- DONE: Dr. Samantha Rose DVM, CVA, AVCA - No image attached
+- DONE: Gary Veterinary Assistant - BIO coming soon
+- DONE: Denessa Veterinary Assistant - BIO and picture coming soon
+- DONE: Kelli Client Service Representative - BIO and picture coming soon
+- DONE: Nikki Veterinary Assistant - BIO and picture coming soon
+- DONE: Shay Veterinary Technician - BIO and picture coming soon
+- DONE: can we put on the 15.00 off for new clients that it does not apply to Integrative exams.
+- NOTE: "content: $15.00 off for new clients this does not apply to Integrative exams."
+- DONE: Take off Sarah and Taryn under the team
+- DONE: Can you add under Giannas bio her cats name Meow and Harley at the very end 
+- DONE: and change her start date to 2016
+- DONE: can you change the opening time to 8:30am for everyday except Saturday
+- DONE: Can we change our address to suite 105, 
+
+=================================================================
+5
+2/05/2019
+sfurbanpethospital.com
+https://na93.salesforce.com/5002I00001jBu6V
+http://my.vetmatrix.com/0025074/site/editor/cms
+2/05/2019
+
+- DONE: Can you please change the new client registration form on our website to the attached form. 
+- NOTE: This was saved as PDF and also attached the original docx file for future use.
+
+=================================================================
+6
+2/05/2019
+7036442222.com
+https://na93.salesforce.com/5002I00001jVmey
+https://my.chiromatrix.com/0034799/site/editor/cms
+2/05/2019
+
+- DONE: Bold the font for address in the top right 
+- DONE: Spine Arts Center one line 
+- DONE: Atlas Orthogonal Chiropractic one line on logo
+- DONE: and second line designed clinical nutrition (how they want logo to display)
+
+- PREVIEW: https://my.chiromatrix.com/0034799
+
+=================================================================
+=================================================================
+1
+2/06/2019
+zarrabianchiropractic.com
+https://na93.salesforce.com/5002I00001jVwSZ
+https://my.chiromatrix.com/0034859/site/editor/cms
+- BACKUP: (408) 998-2225
+2/06/2019
+
+- DONE: Theme change - san jose
+- DONE: Wants number added for texting make sure number says that - (408) 605-1532
+- DONE: wants promtion changed to auto injury patients recieve a free consultation
+- DONE: Wants slider to say zero out of pocket expense for auto accident patients
+- DONE: l next slide to say (Liens are accepted) 
+- DONE: another slide to say gladly work with your attorny on auto accident injury cases 
+- DONE: https://www.zarrabianautoinjury.com/ (wants all his content pulled from this site)
+- NOTE: All of the content was transferred including Sliders and Home Page.
+- NOTE: Staff Picture is too small for the layout
+- DONE: Wants all car accident photos added through out the site and content.
+
+- PREVIEW: https://my.chiromatrix.com/0034859
+
+=================================================================
+2
+2/06/2019
+pinecreekkennels.com
+https://na93.salesforce.com/5002I00001jD47B
+https://my.vetmatrix.com/0030337/site/editor/cms
+2/06/2019
+
+- DONE: does not want the text to show up on the slider
+- DONE: Add section for "Comments" to this form
+- NOTE: Fixed P tags on Testimonials.
+- NOTE: Fixed image sizes and Layout of Home Featured Blocks
+- UNABLE TO COMPLETE: I already added anchors on the questions, but this instruction is vague, Where will I link these anchors to? FAQs page: Put anchors for the question at the top linking to the questions lower on the page.
+- NOTE: first question was linked to Bring Along Part at the bottom of the page but I am not quite sure if where exactly to add the link to.
+
+- PREVIEW: https://my.vetmatrix.com/0030337/
+
+=================================================================
+3
+2/06/2019
+adkinschiropracticseattle.com
+https://na93.salesforce.com/5002I00001jD47B
+https://my.chiromatrix.com/0034824/site/editor/cms
+2/06/2019
+
+- DONE: Please transfer blog posts from https://www.adkinschiropracticseattle.com/blog?page=1 
+- NOTE: Links were not transfered within these blogs
+
+- PREVIEW: https://my.chiromatrix.com/0034824/
+
+=================================================================
+4
+2/06/2019
+drleap.com
+https://na93.salesforce.com/5002I00001jDI2U
+https://my.chiromatrix.com/0034824/site/editor/cms
+2/06/2019
+
+- DONE: change the starting hours on Monday Wednesday and friday to 8:30am.
+- DONE: I would also like for you to create a separate page where all the scientific slides rotate.
+- NOTE: Powerpoint cannot be uploaded, Powerpoint slides were converted to images. and made it to Gallery slides on the page.
+- DONE: Please use the following slides: 1, 4, 7, 8, 10, 12, 14, 15, 20
+- DONE: I would like you to make the slides estetical pleasing so the colors are similar to the ones we already have on the website.
+
+=================================================================
+5
+2/06/2019
+lakeshorefamilychiropractic.com
+https://na93.salesforce.com/5002I00001jWssv
+https://my.chiromatrix.com/0033892/site/editor/cms
+2/06/2019
+
+- DONE: Under Massage Therapists/ Danielle:
+
+=================================================================
+6
+2/06/2019
+atlasspineartscenter.com
+https://na93.salesforce.com/5002I00001jWjKE
+https://my.chiromatrix.com/0034799/site/editor/cms
+2/06/2019
+
+- DONE: On the homepage please add the attached logo.
+- DONE: Please make Spine Arts Center show all on one line.
+- DONE: Please change what is currently there to read;
+Atlas Orthogonal Chiropractic. 
+Designed Clinical Nutrition. 
+Acupuncture. 
+- DONE: Could we look at how the website might appear with a green color scheme?
+- DONE: Please change the first banner to read; "Live your life in balance" Upper Cervical Chiropractic care for you and your family. 
+- DONE: In the white space next to the spine simulator please write; 
+- DONE: Please add the moving image you have currently placed on the "Service and Techniques" page.
+- DONE: On the image which leads to the Spine Simulator, please write; See how your Atlas vertebrae affects your whole body - click on C1 of the Nerve chart!
+
+- PREVIEW: https://my.chiromatrix.com/0034799/
+
+=================================================================
+7
+2/06/2019
+eaglesportandfamilychiropractic.com
+https://na93.salesforce.com/5002I00001jWMXL
+http://my.chiromatrix.com/0034087/site/editor/cms
+2/06/2019
+
+- UNABLE TO COMPLETE: Form is attached to the Nutritional Response Testing Information as Instruction was vague on where to attach (attached are the scans to put on our website in our NRT Nutrtional response testing section as discussed.)
+
+- PREVIEW: https://my.chiromatrix.com/0034087
+
+=================================================================
+8
+2/06/2019
+dominioneyecenter.com
+https://na93.salesforce.com/5002I00001jWTQt
+http://my.imatrix.com/0034697/site/editor/cms
+2/06/2019
+
+- DONE: I have attached our letterhead and CVs for 3 of our doctors. I will get you information on the other 4 as soon as I can. 
+- NOTE: I just only added this as CV PDF Links instead of copy pasting the entire documents to respective names.
+
+- PREVIEW: https://my.imatrix.com/0034697
+
+=================================================================
+=================================================================
+1
+2/07/2019
+atlasspineartscenter.com
+https://na93.salesforce.com/5002I00001jX99Y
+https://my.chiromatrix.com/0034799/site/editor/cms
+2/07/2019
+
+- DONE: Please would you also add this image to our home page?
+
+- PREVIEW: https://my.chiromatrix.com/0034799/
+
+=================================================================
+2
+2/07/2019
+lepperchiropractic.com
+https://na93.salesforce.com/5002I00001jWXrz
+http://my.chiromatrix.com/0034704/site/editor/cms
+2/07/2019
+
+- DONE: I guess for now please use these (from your stock library) for banners until I can find some that better represent my office. 4y, 5b and 3r
+
+- PREVIEW: https://my.chiromatrix.com/0034704
+
+=================================================================
+3
+2/07/2019
+valleyvetclinic.net
+https://na93.salesforce.com/5002I00001iiLoI
+http://my.vetmatrix.com/0013965/site/editor/cms
+2/07/2019
+
+- DONE: Staff would like the testimonials back, similar to how our current website has them... sorry I got overruled.
+- DONE: Green Bone link should say: Get our App!
+- NOTE: I just renamed the green featured block button (green bone) to Get Our App!, there were no links provided.
+- DONE: Please remove Meet the Team and Our Staff and just leave OUR TEAM
+- DONE: Is there a way to make the Mission Statement stand out? A Dk Green frame? Maybe slightly larger font?
+- DONE: Please leave READ OUR REVIEWS and remove Google Reviews.
+- DONE: The fonts on Payment Plans page are different sizes
+- NOTE: All the fonts on this were adjusted to 16px, Font weight were not changed.
+- DONE: Veterinary Resources: Please put first paragraph in bold so it stands out from the body of links.
+
+- PREVIEW: http://my.vetmatrix.com/0013965
+- NOTE: I suppose this is for preview first thus the edits were not published yet.
+
+=================================================================
+4
+2/07/2019
+goldcanyoneyecenter.com
+https://na93.salesforce.com/5002I00001jXXZF
+http://my.imatrix.com/0034731/site/editor/cms
+2/07/2019
+
+- DONE: Payment Options: Add CareCredit with logo 
+- DONE: Services: Scleral Lenses: needs link to https://sclerallens.org/ on the page
+- DONE: Client also wants their video from their current site put onto their Scleral lense
+
+- PREVIEW: https://my.imatrix.com/0034731
+
+=================================================================
+5
+2/07/2019
+visionsource-seelife.com
+https://na93.salesforce.com/5002I00001jCt47
+https://my.imatrix.com/0029399/site/editor/cms
+2/07/2019
+
+- DONE: We would like 3x from your stock gallery for the home screen page. I will let you know of any other changes. How long will it take to make this change?
+
+- PREVIEW: https://my.imatrix.com/0029399/
+
+=================================================================
+6
+2/07/2019
+synergyvip.com
+https://na93.salesforce.com/5002I00001jXUkH
+http://my.vetmatrix.com/0029292/site/editor/cms
+2/07/2019
+
+- UNABLE TO COMPLETE: No access to link. Advised to return back to the queue(Here's shared google link to more headshots of our Doctors and support staff. Please use the one that works best on the website. Meaning that is the least blurry when uploaded--while keep the current format of it being black and white and without the circle. We like how this looks on the test website!)
+
+- PREVIEW: https://my.vetmatrix.com/0029292
+
+=================================================================
+7
+2/07/2019
+supportthecaregiver.com
+https://na93.salesforce.com/5002I00001jXP2h
+http://my.chiromatrix.com/0032790/site/editor/cms
+2/07/2019
+
+- DONE: Please add to BLOGS on website
+
+=================================================================
+8
+2/07/2019
+pinecreekkennels.com
+https://na93.salesforce.com/5002I00001jD47B
+https://my.vetmatrix.com/0030337/site/editor/cms
+2/07/2019
+
+- DONE: Copy and Paste all questions in order to the top of the page. Then add add anchors for the questions at the top linking to the questions lower on the page. 
+- NOTE: Also Added padding for it to be visible on clicking these specific links
+- NOTE: Added Smooth scrolling as well.
+
+- PREVIEW: https://my.vetmatrix.com/0030337/faqs
+
+=================================================================
+9
+2/07/2019
+mccurdyfamilyeyecare.com
+https://na93.salesforce.com/5002I00001jWXJy
+http://myimx.demandforced3.com/0034726/site/editor/cms
+2/07/2019
+
+- UNABLE TO COMPLETE: no Patient Intake form attached. ( Online Forms Page: needs patient intake form added )
+- DONE: Appointment Request: Needs DemandForce appointment scheduler added 
+- DONE: Community Content: needs page corrected: currently not showing the content
+
+=================================================================
+10
+2/07/2019
+ellentonah.com
+https://na93.salesforce.com/5002I00001jY9i3
+https://my.vetmatrix.com/0035032/site/editor/cms
+2/07/2019
+
+- DONE: Transferred Home Page
+- DONE: Transferred HOURS & INFO
+- NOTE: added Facebook Page plugin to the right side of home content
+- DONE: About Us Content
+- NOTE: About Us image was not transferred; copyright.
+- NOTE: Renamed meet our staff. Nav bars was not remade; left as it is.
+- DONE: Meet Our Doctors & Staff
+- DONE: (Do not bring over group photo.) 
+- DONE: Transferred Services Page
+- NOTE: Services image was not transferred; copyright.
+- DONE: Transferred News Page and all contents
+- NOTE: Some News Images were not transferred; copyright.
+- DONE: transferred Contact us content.
+- DONE: 3. Bring over 5 star reviews from Facebook page 
+- NOTE: Added new testimonial component to separate facebook reviews from normal reviews.
+- DONE: 4. Update map to have correct location
+
+- PREVIEW: https://my.vetmatrix.com/0035032
+
+=================================================================
+11
+2/07/2019
+cpwwellness.com
+https://na93.salesforce.com/5002I00001jXMJD
+https://my.chiromatrix.com/0032348/site/editor/cms
+2/07/2019
+
+- DONE: Dr. Gilbert’s bio page should only read as follows: website 2019 Dr. Gilbert's Bio Page.docx
+- DONE: Jonathan Creswick Website 2019 Bio update.docx
+- DONE: and the What to Expect Upon Visitn Our Office replaces “What To Expect” in the drop down menu of the “New Patient” tab on the home page.
+- DONE: lso add these photos below the text on the What To Expect section.
+
+=================================================================
 =================================================================
 
 
 
-box-shadow: 0 0 8px 8px white inset;
 
 
 
@@ -13735,7 +14235,13 @@ box-shadow: 0 0 8px 8px white inset;
 
 
 
-http://my.imatrix.com/0034446/site/editor/cms
+
+
+
+
+
+
+
 
 
 

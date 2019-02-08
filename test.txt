@@ -1,5 +1,188 @@
-SONY
-SONY
+
+<p>SONY
+    <br />SONY</p>
+<p>MIRRORLESS
+    <br />(3yrs Sony Philippines Warranty)
+    <br />Sony A5100 16-50kit &ndash; P34,999 (FREE 16gb and Sony Case) / P27,899 UNWRAP THE SEASON CASH PROMO
+    <br />Sony A6000 16-50kit &ndash; P39,999 (FREE 16gb and Sony Case) / P32,399 UNWRAP THE SEASON CASH PROMO
+    <br />Sony A6300 Body &ndash; P52,999 (FREE 16gb and Sony Case) / P43,199 UNWRAP THE SEASON CASH PROMO
+    <br />Sony A6300 16-50Kit &ndash; P60,999 (FREE 16gb and Sony Case) / P50,399 UNWRAP THE SEASON CASH PROMO
+    <br />Sony A6500 Body &ndash; P72,999 (FREE 64gb) / P61,199 UNWRAP THE SEASON CASH PROMO
+    <br />Sony A6500 16-50Kit &ndash; P94,999 (FREE 64gb) / P85,499 UNWRAP THE SEASON CASH PROMO
+    <br />Sony A7 II Body &ndash; P85,999 (FREE 64gb and NP-FW50) / P66,599 UNWRAP THE SEASON CASH PROMO
+    <br />Sony A7 II 28-70kit &ndash; P99,999 (FREE 64gb and NP-FW50) / P79,199 UNWRAP THE SEASON CASH PROMO
+    <br />Sony A7s II Body &ndash; P164,999 (FREE 64gb and NP-FW50) / P133,199 UNWRAP THE SEASON CASH PROMO
+    <br />Sony A7r II Body &ndash; P130,999 (FREE 64gb and NP-FW50) / P108,899 UNWRAP THE SEASON CASH PROMO
+    <br />Sony A7r III Body &ndash; P179,999 (FREE 64gb) / P167,999 UNWRAP THE SEASON CASH PROMO
+    <br />Sony A9 Body &ndash; P239,999 (FREE 64gb) / P224,999 UNWRAP THE SEASON CASH PROMO
+    <br />Sony A7 III Body &ndash; P115,999 (FREE 32gb)
+    <br />Sony A7 III 28-70kit &ndash; P129,999 (FREE 32gb)
+    <br />LENSES
+    <br />(1yr Sony Warranty)
+    <br />Sony E 10-18mm f/4 OSS &ndash; P44,000 / P36,660 UNWRAP THE SEASON CASH PROMO
+    <br />Sony FE 12-24mm F4 G &ndash; P94,900 / P84,506 UNWRAP THE SEASON CASH PROMO
+    <br />Sony E 16-35mm FE F4 ZA OSS &ndash; P67,000 / 55,930 UNWRAP THE SEASON CASH PROMO
+    <br />Sony E 16-35mm FE F2.8 GM &ndash;P129,900 / 122,106 CASH PROMO
+    <br />Sony E 16-50mm f/3.5-5.6 OSS &ndash; P15,998 CASH PROMO
+    <br />Sony E 16-70mm f/4 ZA OSS &ndash; P52,000 / P44,180 UNWRAP THE SEASON CASH PROMO
+    <br />Sony E 18-105mm f/4 G OSS &ndash; P33,000 / P24,910 CASH PROMO
+    <br />Sony E 18-110mm f/4 G OSS Lens &ndash; P185,998 CASH PROMO
+    <br />Sony E 18-135mm f/3.5-5.6 G OSS &ndash; P36,998 CASH PROMO
+    <br />Sony E 18-200mm f3.5-6.3 OSS- P46,000 / P38,540 UNWRAP THE SEASON CASH PROMO
+    <br />Sony E 18-55mm F3.5-5.6 OSS &ndash; P16,000 / P15,040 CASH PROMO
+    <br />Sony E 24-70mm f/4 ZA OSS &ndash; P60,000 / 49,350 UNWRAP THE SEASON CASH PROMO
+    <br />Sony E 24-70mm f/2.8 GM &ndash; P128,000 / 120,320 CASH PROMO
+    <br />Sony E 28-70mm f/3.5-5.6 OSS &ndash; P25,000 / P23,500 CASH PROMO
+    <br />Sony E 28-135mm f/4 G OSS &ndash; P130,000 / P122,200 CASH PROMO
+    <br />Sony E 24-105mm f/4 G OSS &ndash; P82,990 / 78,011 CASH PROMO
+    <br />Sony E 24-240mm f/3.5-6.3 OSS &ndash; P50,000 / P42,300 UNWRAP THE SEASON CASH PROMO
+    <br />Sony E 55-210mm F4.5-6.3 OSS &ndash; P19,000 / P17,860 CASH PROMO
+    <br />Sony E 70-200mm f/4.0 OSS &ndash; P75,000 / P63,450 SONY UNWRAP THE SEASON CASH PROMO
+    <br />Sony E 70-200mm f/2.8 OSS GM &ndash; P169,000 / p158,860 CASH PROMO
+    <br />Sony E 70-300mm f/4.5-5.6 OSS &ndash; P76,500 / P67,210 UNWRAP THE SEASON CASH PROMO
+    <br />Sony E 100-400mm f/4.5-.6 GM OSS &ndash; P179,000 / P168,260 CASH PROMO
+    <br />Sony E 16mm f/2.8 &ndash; P16,000 / P15,040 CASH PROMO
+    <br />Sony E 20mm f/2.8 &ndash; P18,000 / P16,920 CASH PROMO
+    <br />Sony E 24mm f/1.4 GM &ndash; P94,000 CASH PROMO
+    <br />Sony E 24mm f/1.8 ZA &ndash; P59,000 / P55,460 CASH PROMO
+    <br />Sony E 28mm f/2.0 &ndash; P23,000 / P21,620 CASH PROMO
+    <br />Sony E 30mm f/3.5 Macro &ndash; P16,000 / P15,040 CASH PROMO
+    <br />Sony E 35mm f/1.8 OSS &ndash; P23,000 / P21,620 CASH PROMO
+    <br />Sony E 35mm f/2.8 ZA Lens &ndash; P40,000 / P30,550 UNWRAP THE SEASON CASH PROMO
+    <br />Sony E 35mm f/1.4 ZA Lens &ndash; P83,000 / P78,020 CASH PROMO
+    <br />Sony E 50mm f/2.8 Macro &ndash; P33,000 / P31,020 CASH PROMO
+    <br />Sony E 50mm f/1.8 &ndash; P17,500 / 16,450 CASH PROMO
+    <br />Sony E 50mm f/1.4 ZA Lens &ndash; P98,000 / P92,120 CASH PROMO
+    <br />Sony E 55mm f/1.8 ZA Lens &ndash; P50,000 / P39,950 UNWRAP THE SEASON CASH PROMO
+    <br />Sony E 85mm f/1.4 GM Lens &ndash; P102,500 / P96,350 CASH PROMO
+    <br />Sony E 85mm f/1.8 &ndash; P37,500 / P35,250 CASH PROMO
+    <br />Sony E 90mm f/2.8 Macro &ndash; P53,000 / P49,820 CASH PROMO
+    <br />Sony E 100mm f/2.8 STF GM OSS &ndash; P115,000 / 108,100 CASH PROMO
+    <br />Sony E 400mm f2.8 GM OSS &ndash; P800,000 CASH Discounting still applicable
+    <br />Sony FE 1.4x Teleconverter Lens &ndash; P36,000 / P33,840 CASH PROMO
+    <br />Sony FE 2.0x Teleconverter Lens &ndash; P36,000 / P33,840 CASH PROMO
+    <br />Sony Fisheye Converter SEL057FEC &ndash; P14,500 / P13,630 CASH PROMO
+    <br />Sony Ultra Wide Converter SEL075UWC &ndash; P12,500 / P11,750 CASH PROMO
+    <br />SPEEDLITE/FLASH</p>
+<p>Sony HVL-F20M External Flash &ndash; P7,198
+    <br />Sony HVL-F45RM External Flash &ndash; P20,498
+    <br />Sony HVL-F60RM Wireless Radio Flash &ndash; P30,998
+    <br />POINT AND SHOOT</p>
+<p>Sony DSC-H300 &ndash; P10,998 (3yrs Sony Phils Warranty) FREE 8gb
+    <br />Sony DSC-H400 &ndash; P15,299 (3yrs Sony Phils Warranty) FREE 16gb and Carrying Case
+    <br />Sony W800 &ndash; P4,398 (3yrs Sony Phils Warranty) FREE 8gb
+    <br />Sony W830 &ndash; P6,298 (3yrs Sony Phils Warranty) FREE 8gb
+    <br />Sony HX90V &ndash; P20,699 (3yrs Sony Phils Warranty) FREE 16gb
+    <br />Sony WX500 &ndash; P15,299 (3yrs Sony Phils Warranty) FREE 16gb
+    <br />Sony Rx1R &ndash; P109,998 (3yrs Sony Phils Warranty) FREE 8gb
+    <br />Sony Rx1R 2 &ndash; P154,998 (3yrs Sony Phils Warranty)
+    <br />Sony RX100 III- P34,198 (3yrsSony Phils Warranty FREE 16gb) / P31,499 UNWRAP THE SEASON CASH PROMO
+    <br />Sony RX100 V- P42,299 CASH PROMO (3yrsSony Phils Warranty FREE 64gb)
+    <br />Sony RX100 Va- P56,999 (3yrsSony Phils Warranty FREE 64gb)
+    <br />Sony RX100 VI &ndash; P69,999 (3yrs Sony Phils Warranty FREE 64gb) / P64,999 UNWRAP THE SEASON CASH PROMO
+    <br />Sony RX10 III &ndash; P62,999 (3yrs Sony Phils Warranty)
+    <br />Sony RX10 IV &ndash; P89,999 (3yrs Sony Phils Warranty)
+    <br />ACTION CAMERA</p>
+<p>Sony Rx0 1.0&rdquo; Type Sensor Ultra-Compact Action Waterproof/Shockproof Camera &ndash; P34998 (FREE 32gb, Sony Phils Warranty) &ndash; P34998 only
+    <br />Sony HDR-AS50R Action Cam with Live-View Remote &ndash; P15298 (FREE Transcend Ultimate MicroSD 600X 16gb) (Sony Phils Warranty)
+    <br />PROFESSIONAL CAMCORDER</p>
+<p>Sony HXR-MC2500 &ndash; P65,998 (Sony Warranty)
+    <br />Sony HXR-NX80 &ndash; P124,998 (Sony Warranty)
+    <br />Sony HXR-NX100 &ndash; P94,998 (Sony Warranty)
+    <br />Sony PXW-X70 &ndash; P106,990 (Sony Warranty)
+    <br />Sony PXW-Z90V P145,990 (Sony Warranty)
+    <br />Sony PXW-Z150 P159,990 (Sony Warranty)
+    <br />Sony PXW-FS5 P244,990 (Sony Warranty)
+    <br />Sony PXW-FS5K P270,990 (Sony Warranty)
+    <br />Sony PXW-FS7 P362,990 (Sony Warranty)
+    <br />Sony PXW-FS7K P477,990 (Sony Warranty)
+    <br />Sony FDR-AX700 P99,999 (Sony Phils Warranty) Pre-Orders now accepted
+    <br />Sony HDR-CX405 HD Handycam P12500 (Store Warranty)
+    <br />Sony HDRPJ410 HD Handycam with Built-In Projector P17500 (Store Warranty)
+    <br />AUDIO ACCESSORIES</p>
+<p>Sony UWP-D11 Integrated Digital Wireless Bodypack Lavalier Microphone System &ndash; P30290 (Sony Warranty)
+    <br />Sony ECM-VG1 Condenser Shotgun Microphone &ndash; P11490 (Sony Warranty)
+    <br />Sony ICD-PX240 &ndash; P3290
+    <br />Sony ICD-PX333 &ndash; P3540
+    <br />Sony ICD-PX440 &ndash; P3640
+    <br />Sony ICD-UX533 &ndash; P5240
+    <br />SWITCHES</p>
+<p>Sony MCX-500 4-Input Global Production Streaming/Recording Switcher &ndash; P120,998 (Sony Warranty)</p>
+<p>BATTERY GRIP</p>
+<p>VG-C1EM Vertical Battery Grip (for A7, A7R Body) &ndash; P10,500
+    <br />VG-C2EM Vertical Battery Grip (for A7II, A7S II, A7R II) &ndash; P18,990
+    <br />Oem battery Grip For Sony A6000/A6300 &ndash; P3,700
+    <br />Sony NP-FW50- P3990
+    <br />Sony ACC-TRW Kit &ndash; P6190
+    <br />Sony NP-FZ100 &ndash; P4990
+    <br />Sony NP-F970 &ndash; P5990
+    <br />Sony NP-BX1 &ndash; P2200
+    <br />Memory Card</p>
+<p>Sony 32GB SF-G Series UHS-II SDXC Memory Card &ndash; P4450
+    <br />Sony 64GB SF-G Series UHS-II SDXC Memory Card &ndash; P8900
+    <br />Sony 32GB XQD G Series Memory Card &ndash; P5990
+    <br />Sony 64GB XQD G Series Memory Card &ndash; P8590
+    <br />Sony 128GB XQD G Series Memory Card &ndash; P12990
+    <br />Sony 256GB XQD G Series Memory Card &ndash; P25990
+    <br />Sony XQD/SD Card Reader &ndash; P4590
+    <br />Other Accessories
+    <br />Sony LCS-BBF Carrying Case &ndash; P1499
+    <br />Macys Camera Shop &ndash; Banilad Branch
+    <br />A.S. Fortuna St., Banilad, Mandaue City, Cebu, Philippines
+    <br />(in between Volvo Cebu and Hyundai Cebu)
+    <br />Tel: (032) 418-1008 / 0922-85-MACYS / 0922-85-62297
+    <br />Business hours: 10am-8pm (Monday &ndash; Saturday)
+    <br />MACYS Photo-Video Store APM Mall Branch
+    <br />APM Mall (Across SM City Cebu; Beside LBC),
+    <br />A. Soriano Avenue, Cebu Port Centre,
+    <br />Cebu North Reclamation Area Cebu City, Philippines
+    <br />Tel: (032) 266-7725 / 0922-491-7429 / 0906-547-3449
+    <br />Business hours: 10am-8pm (Monday-Sunday)
+    <br />Web: www.macyscamerashop.com
+    <br />eMail: inquiry@macyscamerashop.com
+    <br />FB: macyscebu
+    <br />Skype: sales.macyscamerashop
+    <br />Instagram: macyscamerashop
+    <br />Hashtag: #macyscamerashop</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<p>Please don't see just a boy caught up in dreams and fantasies
+    <br />Please see me reaching out for someone I can't see
+    <br />Take my hand let's see where we wake up tomorrow
+    <br />Best laid plans sometimes are just a one night stand
+    <br />I'd be damned Cupid's demanding back his arrow
+    <br />So let's get drunk on our tears and
+    <br />God, tell us the reason youth is wasted on the young
+    <br />It's hunting season and the lambs are on the run
+    <br />Searching for meaning
+    <br />But are we all lost stars, trying to light up the dark?
+    <br />Who are we? Just a speck of dust within the galaxy?
+    <br />Woe is me, if we're not careful turns into reality
+    <br />Don't you dare let our best memories bring you sorrow
+    <br />Yesterday I saw a lion kiss a deer
+    <br />Turn the page maybe we'll find a brand new ending
+    <br />Where we're dancing in our tears and
+    <br />God, tell us the reason youth is wasted on the young
+    <br />It's hunting season and the lambs are on the run
+    <br />Searching for meaning
+    <br />But are we all lost stars, trying to light up the dark?
+    <br />I thought I saw you out there crying
+    <br />I thought I heard you call my name
+    <br />I thought I heard you out there crying
+    <br />Just the same
+    <br />God, give us the reason youth is wasted on the young
+    <br />It's hunting season and this lamb is on the run
+    <br />Searching for meaning
+    <br />But are we all lost stars, trying to light up the dark?
+    <br />I thought I saw you out there crying
+    <br />I thought I heard you call my name
+    <br />I thought I heard you out there crying
+    <br />But are we all lost stars, trying to light up the dark?
+    <br />But are we all lost stars, trying to light up the dark?</p>
+
+
 
 MIRRORLESS
 (3yrs Sony Philippines Warranty)
@@ -154,11 +337,42 @@ Skype: sales.macyscamerashop
 Instagram: macyscamerashop
 Hashtag: #macyscamerashop
 
-Sent from my iPhone
-
-On 28 Nov 2018, at 1:18 AM, Franclin James Lim <pangkingjames@live.com> wrote:
 
 
-<image1.jpeg>
-Sent <image3.jpeg><image2.jpeg>
-3 Attachments
+
+
+
+
+Please don't see just a boy caught up in dreams and fantasies
+Please see me reaching out for someone I can't see
+Take my hand let's see where we wake up tomorrow
+Best laid plans sometimes are just a one night stand
+I'd be damned Cupid's demanding back his arrow
+So let's get drunk on our tears and
+God, tell us the reason youth is wasted on the young
+It's hunting season and the lambs are on the run
+Searching for meaning
+But are we all lost stars, trying to light up the dark?
+Who are we? Just a speck of dust within the galaxy?
+Woe is me, if we're not careful turns into reality
+Don't you dare let our best memories bring you sorrow
+Yesterday I saw a lion kiss a deer
+Turn the page maybe we'll find a brand new ending
+Where we're dancing in our tears and
+God, tell us the reason youth is wasted on the young
+It's hunting season and the lambs are on the run
+Searching for meaning
+But are we all lost stars, trying to light up the dark?
+I thought I saw you out there crying
+I thought I heard you call my name
+I thought I heard you out there crying
+Just the same
+God, give us the reason youth is wasted on the young
+It's hunting season and this lamb is on the run
+Searching for meaning
+But are we all lost stars, trying to light up the dark?
+I thought I saw you out there crying
+I thought I heard you call my name
+I thought I heard you out there crying
+But are we all lost stars, trying to light up the dark?
+But are we all lost stars, trying to light up the dark?

@@ -1,0 +1,12 @@
+@media(min-width:1200px){
+    .dvd{
+        vertical-align:top;
+        display:inline-block;
+    }
+    .dvd1{
+        width:69.5%;
+    }
+    .dvd2{
+        width:29.5%;
+    }
+}
