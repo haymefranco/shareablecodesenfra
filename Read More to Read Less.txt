@@ -1,0 +1,11 @@
+$('.staff-member__link').each(function(){
+    $(this).click(function(){
+        var txt = $(this).text();
+        if(txt == 'Read More'){
+            $(this).text('Read Less');
+        }
+        else{
+            $(this).text('Read More');
+        }
+    });
+});

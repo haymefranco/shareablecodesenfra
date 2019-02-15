@@ -13395,7 +13395,7 @@ http://my.chiromatrix.com/0033892/site/editor/cms
 1/25/2019
 websterlakevet.com
 https://na93.salesforce.com/5002I00001ij8lR
-http://my.chiromatrix.com/0033892/site/editor/cms
+http://myvet.demandforced3.com/0030655/site/editor/cms?ibc_version=1
 1/25/2019
 
 - DONE: phone number larger at top
@@ -13856,7 +13856,7 @@ http://my.vetmatrix.com/0034626/site/editor/cms
 2/05/2019
 wilbrahamanimalhospital.com
 https://na93.salesforce.com/5002I00001jCEfy
-http://my.vetmatrix.com/0034626/site/editor/cms
+https://my.vetmatrix.com/0034625/site/editor/cms
 2/05/2019
 
 - DONE: Theme change San Diego
@@ -13874,7 +13874,7 @@ http://my.vetmatrix.com/0034626/site/editor/cms
 - DONE: 5. for the Gallery on the Home page, remove the Pet Gallery title and add images from their respective website. 
 - DONE: 6. Add and extra gallery above the Social Icons at the footer. The gallery should have 3 images and links. Layout should be Grid - square (same size); Ratio - rectangle, center. Logos are attached.
 
-- PREVIEW: http://my.vetmatrix.com/0034626
+- PREVIEW: https://my.vetmatrix.com/0034625/
 
 =================================================================
 3
@@ -14224,6 +14224,362 @@ https://my.chiromatrix.com/0032348/site/editor/cms
 
 =================================================================
 =================================================================
+1
+2/08/2019
+dvvc.ca
+https://na93.salesforce.com/5002I00001jYbOd
+https://my.imatrix.com/0034950/site/editor/cms
+2/08/2019
+
+- DONE: 1. On main logo text, increase size to 35 px
+- NOTE: font size is suited to be mobile responsive to fit the viewport.
+- DONE: change to Google font Noto Serif SC,
+- DONE: and adjust to text to be all on one line. 
+- DONE: Google Font is set to default Noto Serif SC
+- DONE: 2. For logo tag line text, change to Google font Noto Serif SC and adjust to be on one line. 
+- DONE: 3. On home page where Exclusive Offer is replace this with an image gallery option and have the Title Text of the gallery to say "Brands We Offer". Add brand logos of Ray Ban, Coach, Oakley, Nike, Calvin Klein, and Nautica. Please make sure they are all uniform in size and not pixelated. 
+- DONE: 4. On home page under Testimonials module please add a photo gallery and add stock photos 3w, 3u
+- DONE: and attached photos gallery-photo and gallery-photo2(please crop). - DONE: Please make sure photos are uniform. Make title of gallery "Photo Gallery"
+- DONE: 5. Under phone number in header add the fax number. In front of phone number add P: and in front of the fax number add F:
+- NOTE: Fetched the Fax Number [(877) 533-2106] on the settings.
+
+- PREVIEW: https://my.imatrix.com/0034950
+
+=================================================================
+2
+2/08/2019
+synergyvip.com
+https://na93.salesforce.com/5002I00001jXTxK
+https://my.vetmatrix.com/0029292/site/editor/cms#
+2/08/2019
+
+- DONE: 1. Website Edits Part 7 -Please delete Anna. She does not work for SynergyVIP anymore.
+- DONE: 2. Radiologists Bios Edited---these are bios that are currently on the test website. I edited all the content. Please upload these.
+- DONE: 3. NEW Radiologist Bios--there are new Doctors that have joined us and their bios need to uploaded under "Radiologists."
+- DONE: 4. Support Staff Bios--some of the bios are on the test website but need to updated with the information that is on this document. Some of the bios are new. Please add them to the "Support Staff' section.
+
+- PREVIEW: https://my.vetmatrix.com/0029292
+
+=================================================================
+3
+2/08/2019
+synergyvip.com
+https://na93.salesforce.com/5002I00001jY7KU
+https://my.vetmatrix.com/0029292/site/editor/cms#
+2/08/2019
+
+- DONE: 1. Make homepage background white
+- NOTE: Background to white thus font colors would have to be dark colors.
+- DONE: 2. Make the logo and all of the toolbar (menu) options that are gray and red specifically this gray (7286a5) and this red (be1e2d)
+- DONE: 3. On the Ultrasound Services page, in the FAQ section, add a “+” sign or a bullet point next to each FAQ. Similar to current website
+- DONE: 4. Decrease the size of the navigation bar/banner 
+- NOTE: added to More Option to reduce the whole navbar
+- DONE: 5. On the Request an Appointment form, please put the sentence "If you prefer to make your appointment over the phone, feel free to call us at (410) 630-484 and one of our team members will happily assist you!" after/below the Submit button
+- DONE: 6. Change all content font colors to a dark gray rather than black
+
+- PREVIEW: https://my.vetmatrix.com/0029292
+
+=================================================================
+4
+2/08/2019
+synergyvip.com
+https://na93.salesforce.com/5002I00001jXUkH
+https://my.vetmatrix.com/0029292/site/editor/cms#
+2/08/2019
+
+- DONE: The photos in the doc are now in the media manager so you do not need to use the google drive link 
+- UNABLE TO COMPLETE: Doctors without images on media manager: 
+- DR. MATTHEW JONES
+- DR. STACY WINKELMAN
+- UNABLE TO COMPLETE: Staffs without images on media manager:
+- KATE SHIN
+
+=================================================================
+=================================================================
+1
+2/11/2019
+charlottepetvet.com
+https://na93.salesforce.com/5002I00001jYito
+http://myvet.demandforced3.com/0004083/site/editor/cms?ibc_version=1
+2/11/2019
+
+- DONE: 1. Move "Care" logo that is at the very bottom/footer of the homepage (embedcode_carelogo) to be underneath video on homepage that is next to body of text (embodecode_form_home)
+- DONE: 2. Veterinary Articles page flashes black before bringing up the fully loaded page. Every article you click on does this as well. Client would like this to be fixed so that it doesn't flash black 
+- DONE: 3. On Meet the staff pages, client wants the "Read More" button to expand the rest of the text but then move down (the button itself) to be below the expanded content. He then wants the button to read "Read Less" to indicate that you can click the button to hide the expanded content
+
+- preview: http://myvet.demandforced3.com/0004083/
+
+=================================================================
+2
+2/11/2019
+wilbrahamanimalhospital.com
+https://na93.salesforce.com/5002I00001jZ64u
+https://my.vetmatrix.com/0034625/site/editor/cms
+eastspringfieldveterinaryhospital.com
+http://my.vetmatrix.com/0034626/site/editor/cms
+2/11/2019
+
+- DONE: 1. Please update the color scheme to match the logo for both wilbrahamanimalhospital.com and eastspringfieldveterinaryhospital.com. She wants both of websites to coordinate but not be exact, so clients know when they have left one site for the other. Maybe use green for one and blue for the other. 
+- DONE: 2. Please make sure the navigation structure of both websites match Structures of Navigation bars were same as the original website.
+- UNABLE TO COMPLETE: Navbar Component Error. (https://my.vetmatrix.com/0034626/)
+- DONE: 3. Add FB widgets to each respective website.
+- NOTE: Added under Home Content.
+
+- PREVIEW: https://my.vetmatrix.com/0034625 - wilbrahamanimalhospital.com
+- PREVIEW: https://my.vetmatrix.com/0034626 - eastspringfieldveterinaryhospital.com
+
+=================================================================
+3
+2/11/2019
+atlasspineartscenter.com
+https://na93.salesforce.com/5002I00001jYTJ8
+https://my.chiromatrix.com/0034799/site/editor/cms
+2/11/2019
+
+- DONE: Move the current logo to the bottom left corner of the homepage,
+- DONE: and remove the "Spine Arts Center" text.
+- NOTE: Hid the Logo on top and transferred the logo to 
+- DONE: Please correct the spelling of "Acupuncture" at the top of the home page.
+- NOTE: Acupuncture on Navbar is accurately spelled already.
+- DONE: Replace it with the one attached (perhaps this would be the logo)
+- DONE: Ensure all pages show our office hours as per those on the home page
+- DONE: Please add this You tube video to our home page and Next to it please place the following text in a box
+- DONE: Please add Dr Christine Lim and Dr Garry Krakos to the top of the 
+Testimonials page, where the patient is invited to fill in the form.
+- DONE: Please remove all generic text from the Payment Options page as we are out of Network.
+- DONE: Please also add the above You Tube video next to the first picture on the Services and Techniques page.
+- DONE: Please remove the sentence referring to us being out of network which is above that picture.
+- UNABLE TO COMPLETE: this is a vague question. Is it possible to add a one-click link to the C1 demonstration on the Organs and Nerves section of the Spine Simulator.
+- UNABLE TO COMPLETE: this is a vague question. Is it possible to have an image showing that page of the spine simulator with the Organs and Nerves attached to C1 highlighted as they are on the Spine Simulator?
+- DONE: Under the heading on the testimonials page please paste all the testimonials sent yesterday from our facebook page, and the ones from our website -in full.
+
+- PREVIEW: https://my.chiromatrix.com/0034799
+
+=================================================================
+=================================================================
+1
+2/12/2019
+pinecreekkennels.com
+https://na93.salesforce.com/5002I00001jZ8TS
+https://my.vetmatrix.com/0030337/site/editor/cms
+2/12/2019
+
+- UNABLE TO COMPLETE: Navigation Bar Error. If you could please update the title bar as follows
+- DONE: Attached is out text content for the Vacc Page 
+
+- PREVIEW: https://my.vetmatrix.com/0030337/
+
+=================================================================
+2
+2/12/2019
+riverwalkchiro.com
+https://na93.salesforce.com/5002I00001ikOP2
+http://my.chiromatrix.com/0034635/site/editor/cms
+2/12/2019
+
+- DONE: The theme we decided on was Buffalo in blue. 
+- DONE: That is the closest one to our business colors.
+- DONE: Dr. Andria Goff’s name needs to be corrected to Dr. Andria Goff.
+- DONE: We need to also correct Christie’s name. It is Dr. Christie Collier.
+- DONE: Also, under who would you like to see, we need to add Shelia Ivarsen, LMP to the list when patients are making an appointment. Thank you for your time.
+
+- PREVIEW: https://my.chiromatrix.com/0034635
+
+=================================================================
+=================================================================
+1
+2/13/2019
+cpwwellness.com
+https://na93.salesforce.com/5002I00001jZKIk
+https://my.chiromatrix.com/0032348/site/editor/cms
+2/13/2019
+
+- UNABLE TO COMPLETE: There were no images attached. (On my very productive call this past week with (?), who was SO majorly helpful, we discussed that my photos that scrolled on the home page from my previous site hosted by Patient Pop were going to be found and replace the guy in the black shorts and the woman in the white top photos. This still has to be done please. ’d been told that there might have been a copyright issue, but these photos were purchased by me for that domain that’d been sent over to you for this site.)
+- DONE: Also, one of the scrolling photos frames reads “Wellness Awaits You.” Please change this to “Your Best Health Awaits You.”
+- UNABLE TO COMPLETE: There is no instruction. this is only a stock video. (FYI, there is an error in the ChiroMatrix video you posted on my home page, …the Central Nervous System is not the Brain and the Spinal Column, …it’s the brain and the spinal cord!  (Anyone viewing this, with any anatomy knowledge will cringe.) )
+- NOTE: Hid the video.
+- DONE: This photo and bio are to go on the Dr. Sarah Roseberry bio page under the Meet the Doctors tab  AND on the scrolling Meet Our Team section on our home page. Please note that this scrolling  Meet the Team section 
+- DONE: should also be displayed above the video you’ve mounted.
+- DONE: Tab on top line scrolling photos that currently reads “Call or Click Here to Request and Appointment,” should be changed to “Call 212 877-3981 or Click for Appointment.”
+- DONE: Please place the following three there:
+- DONE: Your New York Chiropractor
+- DONE: On the Contact Us page, we can delete “Email: frank@cpwwellness.com”
+- DONE: “Contact Us,” “Online New Patient Forms,” and “Make an Appointment” can be displayed elsewhere on the Home Page, but not please under Featured Services.  I leave this to you.
+- DONE: Added 3 featured blocks under testimonials
+- DONE: The scrolling “Testimonials, reviews by our satisfied patients,” on the home page should read instead:“Reviews From Our Patients”
+- DONE: Under the “New Patient Center” tab, everything that is now there, except for On Line Forms, should be deleted and the following should be inserted under the “What To Expect” tab:
+
+=================================================================
+2
+2/13/2019
+thebacclinic.com
+https://na93.salesforce.com/5002I00001jzfVp
+https://my.chiromatrix.com/0034224/site/editor/cms
+2/13/2019
+
+- DONE: the template I'd like to see in shades of blue, no orange if possible
+- DONE: the "Exclusive Offer" box I'd like to omit altogether
+- NOTE: made home page 100%
+- DONE: the photo at the top of the page with the blonde in the pink scrub top no longer works here, that should be omitted, we'd be happy with a stock photo
+- DONE: our old forms {Case History, Intake Form, & Auto Accident forms} all need omitted
+- DONE: I wouldn't mind tinkering with the intake form that you have put on there, it's far too lengthy, but if we could just include patient name, contact information, and address I would like to leave that on there. If it cannot be altered, this section of online forms could be omitted altogether.
+- DONE: OMIT Family Plans & Health on a Budget sections
+- DONE: Under "OUR 3 Part Approach" section, please omit the photo with the green screen
+- DONE: Under the "Active Rehabilitation of Injuries" please omit the two photos in that section, one showing the MedEx Machine, and the second with the green screen
+- DONE: omit this entire section
+- DONE: omit the photo of the treatment room, keep the photo of the laser treatment please
+
+=================================================================
+3
+2/13/2019
+wolftever.com
+https://na93.salesforce.com/5002I00001k0NsK
+https://my.vetmatrix.com/0031712/site/editor/cms
+2/13/2019
+
+- DONE: We would like the following text to show up once as the welcome message clients will see after the click on the Wolftever Pet Hospital option on the landing page.
+
+- DONE: Please make a services tab under the hospital drop down and have to services information there.
+
+- PREVIEW: https://my.vetmatrix.com/0031712
+
+=================================================================
+4
+2/13/2019
+wolftever.com
+https://na93.salesforce.com/5002I00001k0NTF
+https://my.vetmatrix.com/0031712/site/editor/cms
+2/13/2019
+
+- DONE: Please put this picture to the right of the picture of the hospital on the 
+landing page. 
+- NOTE: Vague Instruction. Perhaps this is the one from CASE: https://na93.salesforce.com/5002I00001k0NsK
+
+- PREVIEW: https://my.vetmatrix.com/0031712
+
+=================================================================
+5
+2/13/2019
+countyanimal.com
+https://na93.salesforce.com/5002I00001jzxru
+http://my.vetmatrix.com/0030489/site/editor/cms
+2/13/2019
+
+- DONE: 1. regarding the way the Accessibility link appeared on our website and on our mobile site. It is small, hard to read, and difficult to find - especially if you are visually impaired! It is blurry - small and unreadable.
+- NOTE: made background to blue;
+- UNABLE TO COMPLETE: Out of scope( I'd like to have a blue icon of the wheelchair in the top right corner, and if possible, have the link work the way it does on this site: www.Catskillvetservices.com<http://www.Catskillvetservices.com> , with font size to adjust, underlining links as an option, etc. Is this possible? )
+- UNABLE TO COMPLETE: Out of scope (2. When I search on the computer for County Animal Hospital or on my phone, try to add the site to my favorites, I am getting our name with YOUR logo/icon (the square with the corners in blue and blank in between each of the corners). I want this to be OUR logo (as it appears on our site - bird in a cat in a dog). I was told this was re-set, but it is not. )
+
+=================================================================
+=================================================================
+1
+2/14/2019
+acsindianola.com
+https://na93.salesforce.com/5002I00001k0jxx
+https://my.vetmatrix.com/0034397/site/editor/cms
+2/14/2019
+
+- DONE: Dr. Camille Telleen DVM - Owner
+- DONE: Dr. Angelic Alcorn DVM- Associate Veterinarian
+- DONE: Lisa Ashby- Veterinary Technician
+- DONE: Lexie Dollison- Veterinary Technician
+- DONE: Shannon Hager- Veterinary Technician
+- DONE: Lacey Seidenkranz- Veterinary Technician
+- DONE: Heather Reed- Veterinary Assistant
+- DONE: Lauren Cunningham- Receptionist
+- DONE: Libby Jensen- Receptionist
+
+- PREVIEW: https://my.vetmatrix.com/0034397/
+
+=================================================================
+2
+2/14/2019
+acsindianola.com
+https://na93.salesforce.com/5002I00001k0jxx
+https://my.vetmatrix.com/0034397/site/editor/cms
+2/14/2019
+
+- DONE: Here are some forms we would like available on our site as well. We are working on a new Welcome sheet for new clients which I will send when it's completed.
+
+- PREVIEW: https://my.vetmatrix.com/0034397/online-forms
+
+=================================================================
+3
+2/14/2019
+cpwwellness.com
+https://na93.salesforce.com/5002I00001k0tOC
+https://my.chiromatrix.com/0032348/site/editor/cms
+2/14/2019
+
+- DONE: *Home Page: Under “Your Upper West Side Chiropractor” the photo should just be the double one of both Dr. Sarah and me, you may omit the single of just her.
+- DONE: *Under the photos, let’s change:
+- DONE: *When one clicks on the Dr. Gilbert, Jonathan Creswick, or Dr. Roseberry’s Meet the Team photo scroll, why does it then read “coming soon!” above each of their  photos?  Please remove this.
+- NOTE: These coming soon text are no longer seen on pages specified above.
+- DONE: *Please insert the following area that I’ve highlighted below into Dr. Gilbert’s bio so it reads accordingly, (highlighting should not be in your final edit)
+- DONE: * Also on the Home Page, it currently reads, …please delete the repetitious phrase highlighted in yellow below.
+- DONE: *Plesae remove the word “Today” from the phrase below wherever it appears on the website:
+- DONE: *In New Patient Center/Payment Options, please change to highlighted edits below:
+- DONE: *On the About Us tab, the drop down should read “Meet the Doctors” (with an “s.”)
+- DONE: On the Meet the Doctors Page:
+- DONE: *Under Methods of Care/Therapeutic Massage, please change to read as follows:
+- DONE: *Under Symptoms: Neck Pain, …first paragraph should now read:
+- DONE: *Under Symptoms/Back Pain: Please delete the highlighted text below:
+- DONE: *Under Symptoms/Sciatica: The following highlighted sentence should be deleted:
+- DONE: *Under Symptoms/Scoliosis: The following highlighted sentence should be deleted and the rest of the edited text should changed to read as written below:
+- DONE: *Under Symptoms/Fatigue: The first paragraph should read as follows and with the highlighted text deleted please:
+- DONE: *Under Symptoms/Headaches and Migraines: The first paragraph should read as such:
+- DONE: *Under Symptoms/Other Services: Other Services should be deleted and Posture should be listed as an additional symptom, and the first paragraph should read as follows:
+- DONE: *Under Symptoms/Other Services: Other Services should be deleted and Herniated And Bulging Discs should be listed as an additional symptom in this drop down list, and should read as follows:
+
+- PREVIEW: https://my.chiromatrix.com/0032348/
+
+=================================================================
+=================================================================
+1
+2/15/2019
+homegrownchiropractic.com
+https://na93.salesforce.com/5002I00001k2BYk
+http://my.chiromatrix.com/0035102/site/editor/cms
+2/15/2019
+
+- DONE: Pediatric photo
+- NOTE: Perhaps this is from Services & Techniques? Added it to Pediatric.
+- DONE: Can you take the fake people off the team page? Haha
+
+=================================================================
+2
+2/15/2019
+websterlakevet.com
+https://na93.salesforce.com/5002I00001k1leh
+http://myvet.demandforced3.com/0030655/site/editor/cms?ibc_version=1
+2/15/2019
+
+- DONE: dog neuters
+- DONE: dog spays
+- DONE: cat neuters
+- DONE: cat declaw
+- DONE: not post dentistry changed to just dentistry
+- DONE: file in google drive that says - what happens when my pet has a dental needs to be added to website
+- DONE: new photos need to be addeded from zip file
+- DONE: photos with people moved up higher on the pages on the website
+- DONE:  ones with out people lower on the website
+- DONE: hospital tour photos - the picture with blue door removed, (photo: Hospitaltour2.jpg - REMOVED)
+- DONE: last row picture of front door removed (photo: tour5.jpg - REMOVED)
+- DONE: about us our team (google drive) - added lindsey vet assistant put her picture up (wants her under katilen)
+- DONE: Move deb above Jen - and Jen is just a receptionsit not a head receptiionsit
+
+=================================================================
+3
+2/15/2019
+acsindianola.com
+https://na93.salesforce.com/5002I00001k0jxx
+https://my.vetmatrix.com/0034397/site/editor/cms
+2/15/2019
+
+- DONE: Dr. Camille Telleen DVM
+
+=================================================================
+
 
 
 
@@ -14294,7 +14650,7 @@ Sort Popularity by location through
 
 hahahahaha :laughing:
 three studios: https://goo.gl/wdvTdo
-
+http://bit.ly/EnfraUSA
 
 
 
@@ -14378,8 +14734,6 @@ TULSA GREEN
 QUEUES:
 
 
-
-Faith:
 
 
 TIER 2 CASES:
