@@ -1,0 +1,79 @@
+<div id="wrp-rsh">
+</div>
+<script>
+$('#wrp-rsh').load('rate-us-header #rsh', function(){
+$('#wrp-rsh #stars li').on('mouseover', function(){
+        var onCurrentStar = parseInt($(this).data('value'), 10); // The star currently mouse on
+           
+            // Now highlight all the stars that's not after the current hovered star
+            $(this).parent().children('li.star').each(function(e){
+                if (e < onCurrentStar) {
+                $(this).addClass('hover');
+                } else {
+                $(this).removeClass('hover');
+                
+                }
+            });
+        }).on('mouseout', function(){
+            $(this).parent().children('li.star').each(function(e){
+              $(this).removeClass('hover');
+            });
+        });
+$('#stars li').on('click', function(){
+        var onCurrentClickedStar = parseInt( $(this).data('value'), 10 );
+        var atStars = $(this).parent().children('.star');
+        
+        for (i = 0; i < atStars.length; i++) {
+            $(atStars[i]).removeClass('selected');
+        }
+        for (i = 0; i < onCurrentClickedStar; i++) {
+            $(atStars[i]).addClass('selected');
+        }
+var pageLink = $(this).attr('data-title');
+if( pageLink != "excellent-rate" && pageLink != "perfect-rate" ){
+    window.location.href = ""+ pageLink +"";
+} else {
+    window.open('http://bit.ly/writereviewEZOptical', '_blank');
+}
+    });
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*-- Rate Us header --*/
+.icon-star:before {
+    font-size: 20px;
+    color: #93d8ff;
+    transition: all, 0.3s;
+}
+#rsh .star {
+    display: inline-block;
+    margin: 0 3px;
+}
+#wrp-rsh {
+    padding: 5px 0;
+}
+.hover .icon-star:before {
+    color: #FFCC36 !important;
+    transition: all, 0.3s;
+}
+.selected .icon-star:before {
+    color: #FF912C !important;
+}
+#rsh {
+    display: inline-flex;
+}

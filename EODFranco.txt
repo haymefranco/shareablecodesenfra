@@ -14569,14 +14569,336 @@ http://myvet.demandforced3.com/0030655/site/editor/cms?ibc_version=1
 - DONE: Move deb above Jen - and Jen is just a receptionsit not a head receptiionsit
 
 =================================================================
-3
-2/15/2019
+=================================================================
+1
+2/18/2019
 acsindianola.com
 https://na93.salesforce.com/5002I00001k0jxx
 https://my.vetmatrix.com/0034397/site/editor/cms
-2/15/2019
+2/18/2019
 
-- DONE: Dr. Camille Telleen DVM
+- DONE: Is there a way to make it a little more bold and a little larger? 
+- NOTE: logo's are different. Added and adjusted the full-width's logo as well.
+
+- PREVIEW: https://my.vetmatrix.com/0034397
+
+=================================================================
+2
+2/18/2019
+wisconsinvalleyvet.net
+https://na93.salesforce.com/5002I00001jBkwB
+https://my.vetmatrix.com/0034812/site/editor/cms
+2/18/2019
+
+- DONE: If you could change the wording on the slider to have our phone number on it instead of request an appt
+- NOTE: Also added the Link to open an app when clicking/tapping on the phone number on the slider.
+
+- PREVIEW: https://my.vetmatrix.com/0034812/
+
+=================================================================
+3
+2/18/2019
+sobolvethospital.com
+https://na93.salesforce.com/5002I00001k2Avo
+https://my.vetmatrix.com/0035113/site/editor/cms
+2/18/2019
+
+- DONE: Sam would like the purple navigation to follow when scrolling down on the page. (stickynav)
+
+- PREVIEW: https://my.vetmatrix.com/0035113
+
+=================================================================
+=================================================================
+1
+2/19/2019
+homegrownchiropractic.com
+https://na93.salesforce.com/5002I00001jywn7
+https://my.chiromatrix.com/0035102/site/editor/cms
+2/19/2019
+
+- DONE: Forms are transferred to digital Form (I would like patients to be able to fill out a form onlinethat would be emailed to me. Therefore, no printing involved...Can you make this feature to have similar questions to my health form history form??)
+- UNABLE TO COMPLETE:  this part is unable to be transferred (By using the key below, indicate on the body diagram where you are experiencing the following symptoms)
+- NOTE: Image and description were the things only transferred on this.
+- NOTE: the documentation were also added.
+- NOTE: CSS styling were added on to the page itself. The styling were put on Comment for the custom.css file for backup to the Customized Form on the new patient Form page. 
+
+- PREVIEW: https://my.chiromatrix.com/0035102/new-patient-form
+
+=================================================================
+2
+2/19/2019
+cashuaveterinarycare.com 
+https://na93.salesforce.com/00T2I00005AQHO8
+http://my.vetmatrix.com/0008507/site/editor/cms
+2/19/2019
+
+- DONE: LANDING PAGES
+
+=================================================================
+=================================================================
+1
+2/20/2019
+dominioneyecenter.com
+https://na93.salesforce.com/5002I00001kEBAJ
+http://my.imatrix.com/0034697/site/editor/cms
+2/20/2019
+
+- DONE: 1. The following (found on the Contact Us form) needs to be bigger and in a color that stands out (possibly red): Please do not submit any Protected Health Information (PHI).
+- DONE: Also please make sure to add "PHI includes your personal information that should not be shared with the public such as social security number, address, health diagnosis, or anything else you deem personal"
+- DONE: 2. I previously sent over a copy of our letterhead so that the font for Dominion Eye Center could be changed and our logo can be added (excellence in eyecare). 
+- NOTE: Practicename was not removed.
+
+- PREVIEW: https://my.imatrix.com/0034697/
+
+=================================================================
+2
+2/20/2019
+dominioneyecenter.com
+https://na93.salesforce.com/5002I00001kEAO5
+http://myimx.demandforced3.com/0017074/site/editor/cms?ibc_version=1
+2/20/2019
+
+- DONE: Please add picture and bio under About Us: 
+- NOTE: Since the staff page is not on a staff component I left it as it is, I only added the staff underneath. 
+
+=================================================================
+3
+2/20/2019
+luxevisioncare.com
+https://na93.salesforce.com/5002I00001kEAxZ
+http://myimx.demandforced3.com/0017074/site/editor/cms?ibc_version=1
+2/20/2019
+
+- DONE: Please add photo to "About Us" 
+- NOTE: Since the staff page is not on a staff component I left it as it is, I only added the staff underneath. 
+
+=================================================================
+4
+2/20/2019
+spinalhealingarts.com
+https://na93.salesforce.com/5002I00001kEGO8
+http://mychiro.demandforced3.com/0035180/site/editor/cms?ibc_version=1
+2/20/2019
+
+- DONE: 1. Please put "Phone:" and "Fax:" before the numbers at the top of the website like so
+- DONE: 2. Please put the following bullet pointed text (found within the main body of text on the homepage) into columns: 
+- NOTE: Also fixed Phone number into ellipsis when mobile view.
+
+- PREVIEW: http://mychiro.demandforced3.com/0035180/
+
+=================================================================
+5
+2/20/2019
+acsindianola.com
+https://na93.salesforce.com/5002I00001k0jxx
+https://my.vetmatrix.com/0034397/site/editor/cms
+2/20/2019
+
+- DONE: I have attached our business card and I was hoping you might be able to match the font a little closer to match the name of the business to that.
+- NOTE: Font-Family was set to none for there is no font name on the instruction. The Font is Close to the said Font in the PDF.
+- DONE: Also instead of just saying All Creatures Small at the top we would like to add Animal Hospital below it as well.
+- NOTE: Fixed green banner at top for more spacing.
+
+- PREVIEW: https://my.vetmatrix.com/0034397
+
+=================================================================
+=================================================================
+1
+2/21/2019
+acsindianola.com
+https://na93.salesforce.com/5002I00001kEWc8
+https://my.vetmatrix.com/0034397/site/editor/cms
+2/21/2019
+
+- DONE: Please add a nutrition page under the services tab
+- DONE: Please include the attached logos. Can we link the website to the logos? 
+
+- PREVIEW: https://my.vetmatrix.com/0034397
+
+=================================================================
+2
+2/21/2019
+websterlakevet.com
+https://na93.salesforce.com/5002I00001kDR1w
+http://myvet.demandforced3.com/0030655/site/editor/cms
+2/21/2019
+
+- DONE: what to expect page wants links at bottom page centered 
+- DONE: (remove post anesthesia)
+- DONE: Under dentistry -(wants page name to be Dentals instead of Dental Needs)
+- DONE: does not want address and phone numbers there or address wants page to just start with pictures
+- DONE: cat declaw - page content pulled over from google drive (attached in previous case)
+- DONE: Under services page - Where Laser Therapy - does not want K laser logo - wants dog picture with googles picture
+- NOTE: Only Removed KLaser Logo
+- DONE: Under about us / our team - wants Deb moved above Jen for the receptionist section.
+
+- PREVIEW: http://myvet.demandforced3.com/0030655
+
+=================================================================
+3
+2/21/2019
+wolftever.com
+https://na93.salesforce.com/5002I00001kEZPh
+https://my.vetmatrix.com/0031712/site/editor/cms
+2/21/2019
+
+- DONE: Please link this hospital on the emergency page with their logo like the other hospitals.https://vcsgvets.com/
+- DONE: Also on the Emergency tab please change the text to the following
+- DONE: Under the text please list the icons in the following order across the page so the client can select the one they wish
+- NOTE: VCA RIVER Veterinary Emergencies is not visible on the page Added it right after VC Specialty group
+
+- PREVIEW: https://my.vetmatrix.com/0031712
+
+=================================================================
+4
+2/21/2019
+wolftever.com
+https://na93.salesforce.com/5002I00001kEboK
+https://my.vetmatrix.com/0031712/site/editor/cms
+2/21/2019
+
+- DONE: please make the attached forms printable under the online forms tab 
+- NOTE: on this surgery form was already added to Surgical Information Packet.
+- NOTE: All the form titles were set to the Form name.
+
+- PREVIEW: https://my.vetmatrix.com/0031712
+
+=================================================================
+5
+2/21/2019
+ichiropractic.net
+https://na93.salesforce.com/5002I00001kFAOg
+https://my.chiromatrix.com/0032340/site/editor/cms
+2/21/2019
+
+- DONE: 1. Please make logo span the whole header.
+- NOTE: image could not be further scaled up for it may result to a pixelated image due to Image resolution size. 
+- DONE: This is already in correct Order: (2. Top right of the home page - please make the Naples office first and Weston second)
+- NOTE: Fixed Bottom margin on location name since it is too tall.
+- DONE: 3. Please make the map/locations side by side, and put the map left of the office hours
+- NOTE: Also fixed Mobile View for these components.
+
+- PREVIEW: https://my.chiromatrix.com/0032340
+
+=================================================================
+6
+2/21/2019
+valleyvetclinic.net
+https://na93.salesforce.com/5002I00001iiLoI
+http://my.vetmatrix.com/0013965/site/editor/cms
+2/21/2019
+
+- DONE: 1. Please change font in Mission Statement back to Black with no italics.
+- DONE: I have another question: Is there a way to have an online new client form that the client completes online and then submits back to us?
+- NOTE: Started the form awaiting for client to email back the customized forms
+- DONE: This is already not added. 3. We have decided to go with VitusVet, so will you remove AllyDVM?
+- DONE: 5. Please make our Mission Statement Black or match the Dark Green
+heading, no italics. 
+- DONE: 7. Will you please make the links to our online forms Dark Green? New
+Patients and New Clients and the AdobeReader link.
+- DONE: 8. Payment Options page still looks a little wonky. Fonts not the same
+size and formatting looks off.
+- NOTE: All Font-size on this page is currently set to 16. font-family are exactly the same.
+- UNABLE TO COMPLETE: There is no link for Online Store (9. Staff would also like to have a button that says Online Store on the front page. Can we have more than 4 buttons where the RX requests, App,)
+
+- PREVIEW: https://my.vetmatrix.com/0013965
+
+=================================================================
+=================================================================
+1
+2/22/2019
+seattlelabradoodles.com
+https://na93.salesforce.com/5002I00001jYQiy
+http://my.vetmatrix.com/0029051/site/editor/cms
+2/22/2019
+
+- DONE: Added the video on homepage.
+- NOTE: Video was compressed down to 9mb
+
+- PREVIEW: https://my.vetmatrix.com/0029051
+
+=================================================================
+2
+2/22/2019
+doc-cohen.com
+https://na93.salesforce.com/5000G00001bzjJk
+https://my.chiromatrix.com/0013246/site/editor/cms
+2/22/2019
+
+- DONE: This is already added to the site. 1. Research tab and all interior pages
+- NOTE: some images were not transferred due to copyright.
+- NOTE: Added 2 pages that were not on the interior pages of Research navigation
+- NOTE: Added veterinary chiropractic content
+- DONE: 3. Home Page - bring over.
+- NOTE: The conent was added at the bottom of the home content
+
+- PREVIEW: https://my.chiromatrix.com/0013246
+
+=================================================================
+3
+2/22/2019
+ladsonvh.com
+https://na93.salesforce.com/5002I00001kF5FT
+https://my.vetmatrix.com/0035378/site/editor/cms#
+2/22/2019
+
+- DONE: This bio below and photo attached is for our new Ladson Veterinary Hospital Website which we are currently onboarding for. Thanks! 
+- NOTE: other stock staffs were hidden from sight.
+
+- PREVIEW: https://my.vetmatrix.com/0035378
+
+=================================================================
+4
+2/22/2019
+ezopticals.com
+https://na93.salesforce.com/5002I00001kFTs9
+https://my.imatrix.com/0035351/site/editor/cms#
+2/22/2019
+
+- DONE: 1. The map marker is incorrectly positioned. The practice is on the north side of high way
+- NOTE: These coordinates were in their old website.
+- DONE: 2. On the Brands page, please put box around Tiffany 
+- NOTE: Re-uploaded Tiffany & Co. Logo with the Box.
+- DONE: Make "Est. 1993" on the homepage (next to logo) cursive, possibly bold to make it stand out
+- NOTE: Used font-family: 'Dancing Script', cursive!important;
+
+- PREVIEW: https://my.imatrix.com/0035351
+
+=================================================================
+5
+2/22/2019
+luxevisioncare.com
+https://na93.salesforce.com/5002I00001jsohJ
+http://myimx.demandforced3.com/0017074/site/editor/cms?ibc_version=1
+2/22/2019
+
+- DONE: Please change Jennifer Vara’s picture to this one. 
+
+=================================================================
+6
+2/22/2019
+luxevisioncare.com
+https://na93.salesforce.com/5002I00001jspWb
+http://myimx.demandforced3.com/0017074/site/editor/cms?ibc_version=1
+2/22/2019
+
+- DONE: Please replace the photo of Austin with this one, it a better angle.
+- DONE: In his bio the word "all" is missing an "l"
+- DONE: Can you please make the order as follows: me (Dr. Angela Blanchard), make title "Luxe Vision Care + Optical" with Austin, Cynthia, Gigi then title "Luxe Vision Care" with Jennifer and then Alexis Shaw (will send pic and bio soon)
+- DONE: For Cynthia, please add Bio:
+- DONE: For Jennifer Vara, please add bio 
+
+=================================================================
+7
+2/22/2019
+retinaassociatesofwny.com
+https://na93.salesforce.com/5002I00001jsr0m
+https://my.imatrix.com/0034943/site/editor/cms
+2/22/2019
+
+- DONE: 1.) Switch from Manhattan to Aurora
+- DONE: 2.) Headers: Home - For Patients - For Doctors - Clinical Trials - Make An Appointment
+- NOTE: the instruction is somehow vague. I added "For Doctors" Navigation right beside For Patients and also moved along the Clinical Trials and Make Appointment with it.
 
 =================================================================
 
@@ -14601,6 +14923,21 @@ https://my.vetmatrix.com/0034397/site/editor/cms
 
 
 
+
+
+
+
+
+OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
+OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
+OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
+OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
+breaks left: 
+OVERBREAKS: 
+OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
+OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
+OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
+OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
 
 
 
@@ -14710,51 +15047,6 @@ Call or send us an email today! Our staff will respond as soon as possible.
 
 
 
-<p>If you have not been to a chiropractor before and want to find out more, please <a href="">contact us</a> or call {PHONE} to receive the answers to your questions from our experienced team. We also welcome referrals, so we invite you to share our chiropractic and wellness information with your friends and loved ones.</p>
-
-
-TULSA GREEN
-7CBA3D
-43A140
-008238
-
-
-
-
-
-
-
-
-
-
-
-
-
-================================================================
-QUEUES:
-
-
-
-
-TIER 2 CASES:
-
-
-SETLIVE CASES:
-COMPLETED
-whois.domaintools.com
-98.158.194.41
-
-LIVES
-
-rsiphysmed.com  - NEEDS A RECORD
-
-degreenefamilychiropractic.com  - NEEDS A RECORD
-
-alwfamilychiro.com - NEEDS A RECORD
-
-
-
-
 
 NOTLIVES
 
@@ -14763,141 +15055,6 @@ NOTLIVES
 
 TO BE LIVES
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-================================================================
-
-
-
-
-
-<style>
-    .wrap__page-content img{
-        height:unset!important;
-        padding:unset!important;
-    }
-</style>
-
-<style>ul#staff__list{list-style-type:none!important;}</style>
-<style>img{height:auto!important;width:auto!important;}</style>
-<style>ul{list-style-type:none!important;}.staff{background:white;}</style>
-<style>
-img{width:auto!important;}
-</style>
-
-
-<div style="clear:both;"></div>
-<p><a href="">Read More</a></p>
-<p style="display:none;">.</p>
-
-
-<span style="clear:both;"></span>
-
-
-
-
-
-
-
-
-
-================================================================ 
-
-HOME
-
-
-<div class="wrap__page-content">
-    <div class="wrap__page-content--inner">
-        {% component 'editable' file='homehtml.htm' %}
-    </div>
-</div>
-
-================================================================ 
-
-ADD DOCTOR COMPONENT
-
-
-<div class="wrap__page-content">
-    <div class="wrap__page-content--inner">
-        {% component 'staffdoc1' %}
-    </div>
-</div>
-
-================================================================ 
-
-ADD STAFF COMPONENT
-
-<div class="wrap__page-content">
-    <div class="wrap__page-content--inner">
-        {% component 'staffaboutus' %}
-    </div>
-</div>
-
-================================================================ 
-
-ADD GALLERY COMPONENT
-
-
-<div class="wrap__page-content">
-    <div class="wrap__page-content--inner">
-        <center>{% component 'galleryvof' %}</center>
-    </div>
-</div>
-
-
-================================================================ 
-
-ADD TESTIMONIAL COMPONENT
-
-
-<div class="wrap__page-content">
-    <div class="wrap__page-content--inner">
-        {% component 'testimonialscustom' %}
-    </div>
-</div>
-
-================================================================ 
-
-
-LINKS DESIGNS
-
-
-
-div#content_sublinks ul li {
-    border-bottom: 1px solid #D7D7D7;
-    list-style: none;
-    margin: 10px 0;
-    width: 60%;
-}
-div#content_sublinks ul li a {
-    display: block;
-    padding: 10px;
-    text-decoration: none;
-    transition: all .25s linear;
-    color: #333333;
-    font-size: 1.25em;
-}
-div#content_sublinks ul li a:hover {
-    color: #fff;
-    background: #FF9142;
-}
-
-
-================================================================ 
 
 
 
