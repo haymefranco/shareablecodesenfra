@@ -15670,16 +15670,6 @@ https://my.vetmatrix.com/0019288/site/editor/cms
 =================================================================
 20
 2/27/2019
-mtrainierequine.com
-https://na93.salesforce.com/5002I00001juOJl
-https://my.vetmatrix.com/0019288/site/editor/cms
-2/27/2019
-
-- DONE: Please add the attached picture to the section: Services< Lameness
-
-=================================================================
-21
-2/27/2019
 chirotexas.org
 https://na93.salesforce.com/5002I00001l0mLK
 http://my.chiromatrix.com/0004620/site/editor/cms
@@ -15687,6 +15677,59 @@ http://my.chiromatrix.com/0004620/site/editor/cms
 
 - DONE: 1. On "Midwinter" page there is a red star that reads "REGISTER NOW". Make sure this links to the "Midwiner Registration" page.
 - DONE: 2. On home page there is a gallery above the testimonials. See if you are able to able to edit this and just add some test logos. If not let me know so I can push it up to the Dev team
+- NOTE: There's a workaround to this but yes we can push it to the dev team. The workaround is I moved the component up above just right below the twig {% page %} and worked fine. this is due to a Portal CSS styling which I could not get the hands on tweaking that hinders it to be edited when on the target spot. After adding a test logo (Client's Logo), I then moved it back to the desired Place
+
+=================================================================
+21
+2/27/2019
+retinaassociatesofwny.com
+https://na93.salesforce.com/5002I00001jsr0m
+https://my.imatrix.com/0034943/site/editor/cms
+2/27/2019
+
+- DONE: 1. Browser Tag Line - Can we confirm that no where in the search are we labeled as optometry. We are a sub-specialty of ophthalmology
+- NOTE: Their Site title is now : {PRACTICENAME} - Opthalmology in {CITY}, {STATE}
+- DONE: 2. Insert the logo at the bottom of the page like in the Aurora template
+- DONE: 3. Home Page: change the verbiage "Purchase Vitamins for "Dry" Age-Related Macular Degeneration
+- DONE: 4. Home: Testimonials - can we hide until we have some with authorization to add?
+- DONE: 5. Home: Meet the Staff: change the word staff to physicians 
+- DONE: 6. Home: Change verbiage to Interested instead of Interest in Participating in a Clinical Trail
+- DONE: 7. Home: Featured Links: Can we enlarge the size of the icons (see Colton) and use a calendar for make an appointment and Gears for Portal
+- UNABLE TO COMPLETE: This is already the same on the page. ( 8. Home: Welcome letter keeps reverting to a place holder for our business name )
+- DONE: 9. Please replace the Welcome Letter with the following content: *Welcome to Retina Associates of Western NY *
+*Serving this community for over 35 years* 
+
+=================================================================
+22
+2/27/2019
+cottonwoodvetclinic.com
+https://na93.salesforce.com/5002I00001juRO0
+http://my.vetmatrix.com/0032427/site/editor/cms
+2/27/2019
+
+- DONE: Can you replace our RVT Shelley’s picture with this one?
+
+=================================================================
+23
+2/27/2019
+cromshawchiro.com
+https://na93.salesforce.com/5002I00001jtErM
+https://my.chiromatrix.com/0035081/site/editor/cms
+2/27/2019
+
+- DONE: Gilbert Cromshaw has shared Cromshaw Chiropractic new logo (1).pdf
+- NOTE: Logo Converted to PNG File.
+- PREVIEW: http://my.chiromatrix.com/0035081/
+
+=================================================================
+24
+2/27/2019
+principledlivingmn.com
+https://na93.salesforce.com/5002I00001l0NGW
+https://my.chiromatrix.com/0035249/site/editor/cms
+2/27/2019
+
+- DONE: transfer content (every tab) underneath (and including) Techniques (which is under the About Us tab) on principledlivingmn.com 
 
 =================================================================
 
@@ -15718,30 +15761,6 @@ http://my.chiromatrix.com/0004620/site/editor/cms
 
 
 
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
-OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
-OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
-OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
-breaks left: 
-OVERBREAKS: 
-OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
-OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
-OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
-OVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKSOVERBREAKS
 
 
 
