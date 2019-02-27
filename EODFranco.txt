@@ -1,4 +1,4 @@
-10/10/2017	Franclin James Lim		Factual Report	1:16 AM	1:59 AM	0:43:00	Updated Factual Data	In-Complete	Factual Report
+	10/10/2017	Franclin James Lim		Factual Report	1:16 AM	1:59 AM	0:43:00	Updated Factual Data	In-Complete	Factual Report
 ================================================================
 10/10/2017	Franclin James Lim			12:00 AM	12:15 AM	0:15:00	Break	Misc	Lunch Break
 ================================================================
@@ -14889,16 +14889,804 @@ http://myimx.demandforced3.com/0017074/site/editor/cms?ibc_version=1
 - DONE: For Jennifer Vara, please add bio 
 
 =================================================================
-7
-2/22/2019
+1
+2/25/2019
 retinaassociatesofwny.com
 https://na93.salesforce.com/5002I00001jsr0m
 https://my.imatrix.com/0034943/site/editor/cms
-2/22/2019
+2/25/2019
 
 - DONE: 1.) Switch from Manhattan to Aurora
 - DONE: 2.) Headers: Home - For Patients - For Doctors - Clinical Trials - Make An Appointment
 - NOTE: the instruction is somehow vague. I added "For Doctors" Navigation right beside For Patients and also moved along the Clinical Trials and Make Appointment with it.
+- DONE: Headers: Home - For Patients - For Doctors - Clinical Trials - Make An Appointment 
+- DONE: Physicians (move from "about us" header, currently named "Providers") 
+- NOTE: Renamed to Physicians 
+- DONE: New Patients: new patients should include Information, forms, FAQ, English As A 2nd Language
+- DONE: Established Patients: should include Information, Forms, FAQ, English As A 2nd Language, Patient Portal
+- NOTE: Patients > Informations were the only different pages.
+- DONE: Financial Policy should include Injection Expense Assistance, Privacy Policy
+- DONE: Education: should Include Conditions Treated, Resources 
+- DONE: Services: should include "In-Office Treatment", Imaging, Clinical Trials (currently under "For Doctors"), Laser, Injections, Office Visits, as well as Brighton Surgery Center (with a link to their site: http://www.brightonsurgery.com/). 
+- DONE: Refer A Patient: Access, Policy 
+- DONE: Added Goudy Bookletter > First, we would like to change the font to something more easily read by the elderly (Possibilities Roberto Condensed, Laila, Marmelad, Overlock, or Goudy Bookletter 1911).
+- DONE: We would like to remove the banner super imposed on the picture (Home) and make this a slow auto advancing through our pictures selected.
+- DONE: Can we change the links under the banner to icons perhaps (See Colton theme) or something similar that is the action only rather than the verbiage? 
+- UNABLE TO COMPLETE: which image to be removed? (We would like to remove the banner super imposed on the picture (Home) and make this a slow auto advancing through our pictures selected.)
+- NOTE: Added Slow transition
+- DONE: (The featured links should be: Services - Make An Appointment - Portal - Clinical Trials.)
+- NOTE: The sequence is now in place but added portal to New patient portal
+- DONE: Where it says "Click here to access the MEDENT patient portal", replace with a form that says "Interest In Participating in a Clinical Trial." 
+- DONE: Meet the Staff, I would like to change to meet the physicians with a very slow auto roll through all four MDs.
+- DONE: Testimonials, I would like to change the background to the mountain scene rather than the rocks. 
+- UNABLE TO COMPLETE: Featured Articles, can we also add our "retina specific" articles that would change monthly and be peppered between the community provided content?
+-  DONE: Newsletter Sign up can we change the background to mountains rather than the leaves?
+- NOTE: This specific component was hidden from previous theme. Reverted it back due to this instruction.
+- DONE: The content should be request to Purchase Vitamins for Age Related Macular Degeneration (USR AREDS II) this would be a Contact us type form.
+- DONE: Remove the hours since we are a 24X7 emergency practice and replace with a Google Maps/Directions function. 
+- DONE: Lastly, can you add one of my partners as an administrator?
+- NOTE: added Email as Administrator. mwitmer@retinaassociatesofwny.com
+Password is: Password1!
+Recovery email: mwitmer@retinawny.com
+
+- PREVIEW: https://my.imatrix.com/0034943
+
+=================================================================
+=================================================================
+1
+2/26/2019
+homegrownchiropractic.com
+https://na93.salesforce.com/5002I00001jssF5
+https://my.chiromatrix.com/0035102/site/editor/cms
+2/26/2019
+
+- DONE: Logo is already added. (Can we use my full logo that includes my business name and slogan instead??)
+- DONE: 2. Can we add a tab in the menu dedicated to HG Laser Therapy?
+- NOTE: This one is already added on the navbar. I moved it up next to Services & Techniques to make it more visible on the navbar.
+- DONE: Since there is no specified image from the website, (3. Can we have a “pop-up” on the page… “See if HG Laser Therapy is right for you!” with a picture of laser…we are allowed to use photos from k-laser website)
+- NOTE: I used the image from site.
+- DONE: 4. Under About Us tab: Can you add “Medical Doctor Referral Plan”
+- DONE: 5. Please display this quote on the site, this is what we are all about
+- NOTE: Since there is no specific location, I added it on to the home page content
+- DONE: 6. Please link my facebook and Instagram to the website
+- NOTE: a. There are some on my facebook page
+- DONE: b. “Went in due to chronic low back pain and found out I had degenerative discs and began treatment immediately. Dr Evans (Crute) was great. She was able to read my needs day to day on where I needed adjustments.”
+- DONE: 7. Testimonials
+- DONE: 8. Biography:
+- DONE: 9. About Us: - Use Family photo here
+- DONE: 10. Services
+- NOTE: Services > a. ( this has no instruction where to add, I added this onto first paragraph of services page )
+
+=================================================================
+2
+2/26/2019
+valleyvetclinic.net
+https://na93.salesforce.com/5002I00001iiLoI
+http://my.vetmatrix.com/0013965/site/editor/cms
+2/26/2019
+
+- DONE: Added Links to corresponding pages >  The icons for RX Refills and Get our App don't link to anything. 
+- DONE: REMOVED AllyDVM > AllyDVM is still showing on the About Us>Download our App. 
+- DONE: Would it be possible for the Payment Options to have a $ sign?
+- DONE: New Clients: Care Credit link opens to a new page, which is good. Scratch Pay does not and I would like it to do that.
+
+=================================================================
+3
+2/26/2019
+gcvetclinic.com
+https://na93.salesforce.com/5002I00001jtY1n
+http://my.vetmatrix.com/0018003/site/editor/cms
+2/26/2019
+
+- DONE: Please add the new doctor bio to the Ladson Veterinary Hospital Site: 
+
+=================================================================
+4
+2/26/2019
+seattlelabradoodles.com
+https://na93.salesforce.com/5002I00001kFTy2
+http://my.vetmatrix.com/0029051/site/editor/cms
+2/26/2019
+
+- DONE: Please remove these links from Care and Training page on Resources page: Goldendoodles.com <http://goldendoodles.com/> 
+Uncle Matty’s Dog Training 
+Therapy Dogs International 
+Doodle Discussion Forum 
+Labradoodle Open Forum 
+Commercial Pet Foods: Some of the Better Brands 
+International Doodle Owners Group 
+- DONE: Please Add: Australian Labradoodle Association
+- NOTE: Australian Labradoodle Association does not have any further instructions with links and Context along with it.
+- DONE: Please remove the Blog page. In it’s place put photos and videos page
+- NOTE: Photos and Videos page was created, this does not have any content.
+- UNABLE TO COMPLETE: Home page: Please lift the video on the home page, top right, of my current live site and put it on the top of my new site home page.
+- NOTE: This was already added. And was advised to have the client upload their video on youtube instead. Please note that this video is so large it could not fit the portal's media manager for the reason that the media manager requires only 10mb.
+- DONE: Please lift the font on Shedless in Seattle Labradoodles from the current live site and use it on the new site.
+- NOTE: The font was added to custom.css ( "Lucida Grande", "Trebuchet MS", Helvetica, Arial, sans-serif)
+
+- PREVIEW: https://my.vetmatrix.com/0029051
+
+=================================================================
+5
+2/26/2019
+seattlelabradoodles.com
+https://na93.salesforce.com/5002I00001jtL13
+http://my.vetmatrix.com/0029051/site/editor/cms
+2/26/2019
+
+- NOTE: This is a duplicate case: https://na93.salesforce.com/5002I00001kFTy2
+
+- DONE: Please remove these links from Care and Training page on Resources page: Goldendoodles.com <http://goldendoodles.com/> 
+Uncle Matty’s Dog Training 
+Therapy Dogs International 
+Doodle Discussion Forum 
+Labradoodle Open Forum 
+Commercial Pet Foods: Some of the Better Brands 
+International Doodle Owners Group 
+- DONE: Please Add: Australian Labradoodle Association
+- NOTE: Australian Labradoodle Association does not have any further instructions with links and Context along with it.
+- DONE: Please remove the Blog page. In it’s place put photos and videos page
+- NOTE: Photos and Videos page was created, this does not have any content.
+- UNABLE TO COMPLETE: Home page: Please lift the video on the home page, top right, of my current live site and put it on the top of my new site home page.
+- NOTE: This was already added. And was advised to have the client upload their video on youtube instead. Please note that this video is so large it could not fit the portal's media manager for the reason that the media manager requires only 10mb.
+- DONE: Please lift the font on Shedless in Seattle Labradoodles from the current live site and use it on the new site.
+- NOTE: The font was added to custom.css ( "Lucida Grande", "Trebuchet MS", Helvetica, Arial, sans-serif)
+
+- PREVIEW: https://my.vetmatrix.com/0029051
+
+=================================================================
+6
+2/26/2019
+seattlelabradoodles.com
+https://na93.salesforce.com/5002I00001jtLL3
+http://my.vetmatrix.com/0029051/site/editor/cms
+2/26/2019
+
+- DONE: Please use the header on each page for continuity from current site to new site. Thank you.
+
+=================================================================
+7
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtWxy
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+8
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXRC
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+9
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXR7
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+10
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXRW
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+11
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXQi
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+12
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXQs
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+13
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXRR
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+14
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXQx
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+15
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXRH
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+16
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXR2
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+17
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXQO
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+18
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXRb
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+19
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXRl
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+20
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXQ9
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+21
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXPz
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+22
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXPk
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+23
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXRg
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+24
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXPQ
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+25
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXPL
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+26
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXRq
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+27
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXRq
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+28
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXP6
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+29
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXOh
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+30
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXRv
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+31
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXOc
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+32
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXS0
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+33
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXOS
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+34
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXOI
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+35
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXSA
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+36
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXOD
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+37
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXO8
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+38
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXSF
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+39
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXNt
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+40
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXNo
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+41
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXSK
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+42
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXSP
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+43
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXSZ
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+44
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXSU
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+45
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXND
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+46
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXN8
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+47
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXN3
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+48
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXSj
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+49
+2/26/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXMt
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/26/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+=================================================================
+1
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXSK
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+2
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXSt
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+3
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXMo
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+4
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXKJ
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- UNABLE TO COMPLETE: No instructions. (I’ll send a little bio to connect the pictures. We started North Orange last July after we lost our home and every possession in one of the California wildfires on December 2017....bio to follow. It connects the pictures of preparing the building by painting, etc. Thanks! )
+
+=================================================================
+5
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXK4
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+6
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXJz
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+7
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXJu
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+8
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXJk
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+9
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXSy
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+10
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXJf
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+11
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXJa
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+12
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXTD
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+13
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXJV
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+14
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXJQ
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+15
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXJL
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+16
+2/27/2019
+northorangeveterinaryclinic.com
+https://na93.salesforce.com/5002I00001jtXJG
+http://my.vetmatrix.com/0035140/site/editor/cms
+2/27/2019
+
+- DONE: Added photo to media manager _clientphotos
+
+=================================================================
+17
+2/27/2019
+www.spinalcarechicago.com
+https://na93.salesforce.com/5002I00001ju8w9
+https://my.chiromatrix.com/0019155/site/editor/cms
+2/27/2019
+
+- DONE: 1. In the locations_header component, next to the phone number, please replace the phone in the circle icon with a mobile phone or iPhone icon if possible
+- DONE: 2. On the map, the marker is incorrectly positioned. Please change marker to be on the right side of the corner of the building it is currently on
+
+=================================================================
+18
+2/27/2019
+mtrainierequine.com
+https://na93.salesforce.com/5002I00001juLY3
+https://my.vetmatrix.com/0019288/site/editor/cms
+2/27/2019
+
+- DONE: Attached is a change to our site for the home page.
+- NOTE: h1 and mission statement font-family "Papyrus" was also copied. I believe the bottom part was basic font, rendered unchanged.
+
+=================================================================
+19
+2/27/2019
+mtrainierequine.com
+https://na93.salesforce.com/5002I00001juOJl
+https://my.vetmatrix.com/0019288/site/editor/cms
+2/27/2019
+
+- DONE: Please add the attached picture to the section: Services< Lameness 
+
+=================================================================
+20
+2/27/2019
+mtrainierequine.com
+https://na93.salesforce.com/5002I00001juOJl
+https://my.vetmatrix.com/0019288/site/editor/cms
+2/27/2019
+
+- DONE: Please add the attached picture to the section: Services< Lameness
+
+=================================================================
+21
+2/27/2019
+chirotexas.org
+https://na93.salesforce.com/5002I00001l0mLK
+http://my.chiromatrix.com/0004620/site/editor/cms
+2/27/2019
+
+- DONE: 1. On "Midwinter" page there is a red star that reads "REGISTER NOW". Make sure this links to the "Midwiner Registration" page.
+- DONE: 2. On home page there is a gallery above the testimonials. See if you are able to able to edit this and just add some test logos. If not let me know so I can push it up to the Dev team
 
 =================================================================
 
@@ -14919,6 +15707,22 @@ https://my.imatrix.com/0034943/site/editor/cms
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
