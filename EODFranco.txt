@@ -15722,18 +15722,58 @@ https://my.chiromatrix.com/0035081/site/editor/cms
 - PREVIEW: http://my.chiromatrix.com/0035081/
 
 =================================================================
-24
-2/27/2019
+=================================================================
+1
+woodlanduniversity.com
+https://na93.salesforce.com/5002I00001l19wH
+http://my.vetmatrix.com/0035438/site/editor/cms
+
+- DONE: This client is a Dog Training School, remove any reference to veterinary or grooming. 
+- DONE: Also on the current website it looks like they created 2 pages for Board & Train, Hound High School, K-9 College, Puppy Pre-K. Create only one page of each and combine them if necessary.
+- DONE: Place all the Training pages under Training.
+- DONE: Place Meet Our Trainers under About Us.
+- DONE: Once the pages have been created, Add the link to appropriate pages for the images on the Home Page.
+
+=================================================================
+2
+2/28/2019
 principledlivingmn.com
 https://na93.salesforce.com/5002I00001l0NGW
 https://my.chiromatrix.com/0035249/site/editor/cms
-2/27/2019
+2/28/2019
 
-- DONE: transfer content (every tab) underneath (and including) Techniques (which is under the About Us tab) on principledlivingmn.com 
+- DONE: transfer content (every tab) underneath (and including) Techniques (which is under the About Us tab) on principledlivingmn.com.
+- DONE: add office hours (component) to bottom of every page 
+- DONE: change map marker to correct address - use google maps (the marker is correctly placed on goog maps) 
 
 =================================================================
+3
+2/28/2019
+doghousestudiocity.com
+https://na93.salesforce.com/5002I00001l0KzW
+https://my.vetmatrix.com/0035439/site/editor/cms
+2/28/2019
 
+- UNABLE TO COMPLETE: No Instructions attached
 
+=================================================================
+=================================================================
+1
+1/01/2019
+iamishoresanimalclinic.com
+https://na93.salesforce.com/5002I00001l1gzg
+http://my.vetmatrix.com/0035219/site/editor/cms
+1/01/2019
+
+- DONE: Move ezyVet and VetSource icons/widgets at the top right to be to the right of the phone number where the menu banner is and make the icons smaller
+- PREVIEW: https://my.vetmatrix.com/0035219
+
+=================================================================
+=================================================================
+GOOD BYE ENFRA <3 
+:)
+=================================================================
+=================================================================
 
 
 
